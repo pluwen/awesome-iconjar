@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="46px" height="48px" viewBox="0 0 46 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>opera-black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-502.000000, -1043.000000)" fill="#000000">
+            <path d="M525.007162,1043 C511.930014,1043 502,1052.09483 502,1066.77107 C502,1079.45146 511.198483,1091 524.999338,1091 C538.803322,1091 548,1079.45146 548,1066.77107 C547.99988,1052.11173 538.084552,1043 525.007162,1043 L525.007162,1043 Z M525.006561,1047.24019 C532.410464,1047.24019 533.91626,1057.23899 533.91626,1066.3181 C533.91626,1074.72835 533.078436,1085.98773 525.097445,1085.98773 C517.116454,1085.98773 516.084463,1074.61814 516.084463,1066.20858 C516.084463,1057.13017 517.601934,1047.24019 525.006561,1047.24019 L525.006561,1047.24019 Z" id="opera"></path>
+        </g>
+    </g>
+</svg>

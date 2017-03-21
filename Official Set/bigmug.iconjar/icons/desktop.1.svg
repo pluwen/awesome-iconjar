@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="31px" height="32px" viewBox="0 0 31 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>desktop</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-570.000000, -465.000000)" fill="#000000">
+            <path d="M597,465 L574,465 C571.791,465 570,466.791 570,469 L570,483 L601,483 L601,469 C601,466.791 599.209,465 597,465 L597,465 Z M570,487 C570,489.209 571.791,491 574,491 L597,491 C599.209,491 601,489.209 601,487 L601,485 L570,485 L570,487 L570,487 Z M592,495 L590,495 L590,493 L582,493 L582,495 L580,495 C579.447,495 579,495.448 579,496 C579,496.553 579.447,497 580,497 L592,497 C592.553,497 593,496.553 593,496 C593,495.448 592.553,495 592,495 L592,495 Z" id="desktop" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

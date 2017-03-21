@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="32px" viewBox="0 0 28 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>receipt</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-416.000000, -777.000000)" fill="#000000">
+            <path d="M437,785 L423,785 C422.447,785 422,784.553 422,784 C422,783.448 422.447,783 423,783 L437,783 C437.553,783 438,783.448 438,784 C438,784.553 437.553,785 437,785 L437,785 Z M437,790.978 L423,790.978 C422.447,790.978 422,790.529 422,789.978 C422,789.425 422.447,788.978 423,788.978 L437,788.978 C437.553,788.978 438,789.425 438,789.978 C438,790.529 437.553,790.978 437,790.978 L437,790.978 Z M437,797 L423,797 C422.447,797 422,796.553 422,796 C422,795.447 422.447,795 423,795 L437,795 C437.553,795 438,795.447 438,796 C438,796.553 437.553,797 437,797 L437,797 Z M440,777 L420,777 C417.791,777 416,778.791 416,781 L416,809 L417.867,809 L422,806 L426,809 L430,806 L434,809 L438,806 L442.134,809 L444,809 L444,781 C444,778.791 442.209,777 440,777 L440,777 Z" id="receipt" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

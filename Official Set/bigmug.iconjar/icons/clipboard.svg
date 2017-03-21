@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="32px" viewBox="0 0 28 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>clipboard</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-468.000000, -101.000000)" fill="#000000">
+            <path d="M489,117 L475,117 C474.447,117 474,116.553 474,116 C474,115.448 474.447,115 475,115 L489,115 C489.553,115 490,115.448 490,116 C490,116.553 489.553,117 489,117 L489,117 Z M489,122 L475,122 C474.447,122 474,121.553 474,121 C474,120.448 474.447,120 475,120 L489,120 C489.553,120 490,120.448 490,121 C490,121.553 489.553,122 489,122 L489,122 Z M489,127 L475,127 C474.447,127 474,126.553 474,126 C474,125.448 474.447,125 475,125 L489,125 C489.553,125 490,125.448 490,126 C490,126.553 489.553,127 489,127 L489,127 Z M477,105 L479.223,105 C479.223,103.896 480.466,103 482,103 C483.534,103 484.777,103.896 484.777,105 L487,105 L487,109 L477,109 L477,105 L477,105 Z M492,105 L489,105 L489,103 L486.307,103 C485.44,101.81 483.846,101 482,101 C480.154,101 478.56,101.81 477.693,103 L475,103 L475,105 L472,105 C469.791,105 468,106.791 468,109 L468,129 C468,131.209 469.791,133 472,133 L492,133 C494.209,133 496,131.209 496,129 L496,109 C496,106.791 494.209,105 492,105 L492,105 Z" id="clipboard" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

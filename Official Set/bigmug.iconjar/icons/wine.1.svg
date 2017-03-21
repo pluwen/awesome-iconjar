@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="32px" viewBox="0 0 12 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>wine</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-578.000000, -411.000000)" fill="#000000">
+            <path d="M588,441 L580,441 L580,427 C580,425.896 580.896,425 582,425 L586,425 C587.104,425 588,425.896 588,427 L588,441 L588,441 Z M583,417 L585,417 L585,423 L583,423 L583,417 Z M583,413 L585,413 L585,415 L583,415 L583,413 Z M587.014,423 L587,423 L587,412 C587,411.448 586.553,411 586,411 L582,411 C581.447,411 581,411.448 581,412 L581,423 L580.987,423 C578.969,423 578,424.791 578,427 L578,443 L590,443 L590,427 C590,424.791 588.98,423 587.014,423 L587.014,423 Z" id="wine" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

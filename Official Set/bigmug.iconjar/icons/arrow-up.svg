@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="28px" viewBox="0 0 20 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-up</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-472.000000, -937.000000)" fill="#000000">
+            <path d="M481,964 C481,964.553 481.447,965 482,965 C482.552,965 483,964.553 483,964 L483,957 L481,957 L481,964 L481,964 Z M490,937 L474,937 C472.896,937 472,937.896 472,939 L472,955 C472,956.104 472.896,957 474,957 L481,957 L481,942.414 L475.757,947.657 C475.367,948.047 474.733,948.047 474.343,947.657 C473.952,947.267 473.952,946.633 474.343,946.242 L481.242,939.343 C481.451,939.135 481.728,939.046 482,939.06 C482.272,939.046 482.549,939.135 482.757,939.343 L489.657,946.242 C490.047,946.633 490.047,947.267 489.657,947.657 C489.267,948.047 488.633,948.047 488.242,947.657 L483,942.414 L483,957 L490,957 C491.104,957 492,956.104 492,955 L492,939 C492,937.896 491.104,937 490,937 L490,937 Z" id="arrow-up" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Safari-black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-700.000000, -1043.000000)">
+            <g id="Safari" transform="translate(700.000000, 1043.000000)">
+                <circle id="Oval" fill="#000000" cx="24" cy="24" r="24"></circle>
+                <polygon id="Combined-Shape" fill="#FFFFFF" transform="translate(24.350000, 24.100000) rotate(-45.000000) translate(-24.350000, -24.100000) " points="45.7 24.1 24.35 27.2 3 24.1 24.35 21 24.35 21.4156542 24.35 21 45.7 24.1"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

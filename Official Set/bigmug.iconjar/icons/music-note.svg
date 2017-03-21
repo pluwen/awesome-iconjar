@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="32px" viewBox="0 0 23 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>music-note</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-468.000000, -618.000000)" fill="#000000">
+            <path d="M478.58,646.833 C475.631,648.674 472.015,648.581 470.586,646.463 C469.156,644.346 470.455,641.005 473.404,639.163 C476.354,637.322 480.068,637.514 481.498,639.631 C482.928,641.749 481.53,644.991 478.58,646.833 L478.58,646.833 Z M490.293,625.364 L483.636,618.707 C483.245,618.316 482.634,618.339 482.222,618.707 C481.925,618.973 482,619.453 482,620 L482,637.327 C479.781,635.683 476.119,635.68 472.876,637.553 C468.844,639.88 466.991,644.219 468.736,647.243 C470.482,650.267 475.166,650.831 479.198,648.503 C482.33,646.695 484.162,643.676 484,641 L484,621.971 L488.879,626.778 C489.27,627.169 489.902,627.169 490.293,626.778 C490.684,626.388 490.684,625.755 490.293,625.364 L490.293,625.364 Z" id="music-note" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

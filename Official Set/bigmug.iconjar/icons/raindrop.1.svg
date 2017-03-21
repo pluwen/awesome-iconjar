@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="32px" viewBox="0 0 20 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>raindrop</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-316.000000, -829.000000)" fill="#000000">
+            <path d="M326,829 C322.917,832.731 316,845.478 316,851 C316,856.523 320.478,861 326,861 C331.522,861 336,856.523 336,851 C336,845.478 329.012,832.66 326,829" id="raindrop" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

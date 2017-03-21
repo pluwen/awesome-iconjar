@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="26px" viewBox="0 0 30 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>download</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-101.000000, -726.000000)" fill="#000000">
+            <path d="M130,726 L102,726 C101.448,726 101,726.448 101,727 L101,735 C101,735.553 101.448,736 102,736 C102.552,736 103,735.553 103,735 L103,728 L129,728 L129,735 C129,735.553 129.448,736 130,736 C130.552,736 131,735.553 131,735 L131,727 C131,726.447 130.552,726 130,726 L130,726 Z M120.267,744.3 L117,748.26 L117,734.002 C117,733.449 116.552,733 116,733 C115.448,733 115,733.449 115,734.002 L115,748.298 L111.702,744.3 C111.31,743.905 110.674,743.905 110.282,744.3 C109.89,744.693 109.89,745.332 110.282,745.726 L115.224,751.717 C115.433,751.927 115.71,752.017 115.984,752.002 C116.258,752.017 116.536,751.927 116.745,751.717 L121.687,745.726 C122.079,745.332 122.079,744.693 121.687,744.3 C121.295,743.905 120.659,743.905 120.267,744.3 L120.267,744.3 Z" id="download" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

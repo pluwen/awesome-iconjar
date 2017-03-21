@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-left-circle</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-568.000000, -1035.000000)" fill="#000000">
+            <path d="M584,1065 C576.268,1065 570,1058.73 570,1051 C570,1043.27 576.268,1037 584,1037 C591.732,1037 598,1043.27 598,1051 C598,1058.73 591.732,1065 584,1065 L584,1065 Z M584,1035 C575.163,1035 568,1042.16 568,1051 C568,1059.84 575.163,1067 584,1067 C592.837,1067 600,1059.84 600,1051 C600,1042.16 592.837,1035 584,1035 L584,1035 Z M588.535,1042.46 C588.145,1042.07 587.512,1042.07 587.121,1042.46 L579.465,1050.12 C579.225,1050.36 579.15,1050.69 579.205,1051 C579.15,1051.31 579.225,1051.64 579.465,1051.88 L587.121,1059.54 C587.512,1059.93 588.145,1059.93 588.535,1059.54 C588.926,1059.14 588.926,1058.51 588.535,1058.12 L581.414,1051 L588.535,1043.88 C588.926,1043.49 588.926,1042.86 588.535,1042.46 L588.535,1042.46 Z" id="chevron-left-circle" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

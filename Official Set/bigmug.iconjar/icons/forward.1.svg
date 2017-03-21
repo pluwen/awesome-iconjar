@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="28px" viewBox="0 0 32 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>forward</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-568.000000, -569.000000)" fill="#000000">
+            <path d="M582.014,594.2 L582.014,585.8 L570.002,594.2 L570.002,571.8 L582.014,580.2 L582.014,571.8 L598.029,583 L582.014,594.2 L582.014,594.2 Z M599.415,581.561 L582.429,569.372 C581.303,568.768 580.013,568.625 580.012,570.951 L580.012,576.256 L570.417,569.372 C569.291,568.768 567.969,568.75 568,571.014 L568,594.955 C568.032,597 569.385,597.296 570.417,596.628 L580.012,589.744 L580.012,594.986 C580.013,596.969 581.396,597.296 582.429,596.628 L599.415,584.44 C600.127,583.928 600.162,582.072 599.415,581.561 L599.415,581.561 Z" id="forward" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

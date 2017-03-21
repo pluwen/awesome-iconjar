@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>envelope</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-466.000000, -261.000000)" fill="#000000">
+            <path d="M491,267 L489,267 C488.447,267 488,267.448 488,268 L488,270 C488,270.553 488.447,271 489,271 L491,271 C491.553,271 492,270.553 492,270 L492,268 C492,267.448 491.553,267 491,267 L491,267 Z M494,271 C494,272.104 493.104,273 492,273 L488,273 C486.896,273 486,272.104 486,271 L486,267 C486,265.896 486.896,265 488,265 L492,265 C493.104,265 494,265.896 494,267 L494,271 L494,271 Z M483,277 L471,277 C470.447,277 470,276.553 470,276 C470,275.448 470.447,275 471,275 L483,275 C483.553,275 484,275.448 484,276 C484,276.553 483.553,277 483,277 L483,277 Z M483,281 L471,281 C470.447,281 470,280.553 470,280 C470,279.447 470.447,279 471,279 L483,279 C483.553,279 484,279.447 484,280 C484,280.553 483.553,281 483,281 L483,281 Z M494,261 L470,261 C467.791,261 466,262.791 466,265 L466,281 C466,283.209 467.791,285 470,285 L494,285 C496.209,285 498,283.209 498,281 L498,265 C498,262.791 496.209,261 494,261 L494,261 Z" id="envelope" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="32px" viewBox="0 0 20 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>mouse</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-108.000000, -517.000000)" fill="#000000">
+            <path d="M119,530 C119,530.553 118.552,531 118,531 C117.448,531 117,530.553 117,530 L117,526 C117,525.447 117.448,525 118,525 C118.552,525 119,525.447 119,526 L119,530 L119,530 Z M124,521 L119,521 L119,517 L115,517 C114.448,517 114,517.448 114,518 C114,518.553 114.448,519 115,519 L117,519 L117,521 L112,521 C109.791,521 108,522.791 108,525 L108,545 C108,547.209 109.791,549 112,549 L124,549 C126.209,549 128,547.209 128,545 L128,525 C128,522.791 126.209,521 124,521 L124,521 Z" id="mouse" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

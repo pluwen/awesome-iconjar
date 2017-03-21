@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="32px" viewBox="0 0 22 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>hourglass</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-575.000000, -361.000000)" fill="#000000">
+            <path d="M596,391 L594,391 L594,384 C594,380.134 590.866,377 587,377 C590.866,377 594,373.866 594,370 L594,363 L596,363 C596.553,363 597,362.553 597,362 C597,361.448 596.553,361 596,361 L576,361 C575.447,361 575,361.448 575,362 C575,362.553 575.447,363 576,363 L578,363 L578,370 C578,373.866 581.134,377 585,377 C581.134,377 578,380.134 578,384 L578,391 L576,391 C575.447,391 575,391.448 575,392 C575,392.553 575.447,393 576,393 L596,393 C596.553,393 597,392.553 597,392 C597,391.448 596.553,391 596,391" id="hourglass" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

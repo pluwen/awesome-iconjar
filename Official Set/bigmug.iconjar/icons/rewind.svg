@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="28px" viewBox="0 0 32 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>rewind</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-100.000000, -621.000000)" fill="#000000">
+            <path d="M129.998,646.2 L117.986,637.8 L117.986,646.2 L101.971,635 L117.986,623.8 L117.986,632.2 L129.998,623.8 L129.998,646.2 L129.998,646.2 Z M129.583,621.372 L119.988,628.257 L119.988,622.951 C119.988,620.625 118.698,620.768 117.572,621.372 L100.584,633.561 C99.803,634.355 99.803,635.645 100.584,636.44 L117.572,648.628 C118.604,649.296 119.988,648.969 119.988,646.986 L119.988,641.744 L129.583,648.628 C130.615,649.296 131.968,649 132,646.955 L132,623.014 C132.031,620.75 130.709,620.768 129.583,621.372 L129.583,621.372 Z" id="rewind" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

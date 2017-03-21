@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="32px" viewBox="0 0 30 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>align-top</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-415.000000, -673.000000)" fill="#000000">
+            <path d="M441,673 L419,673 C416.791,673 415,674.791 415,677 L415,679 L445,679 L445,677 C445,674.791 443.209,673 441,673 L441,673 Z M424.282,690.294 L429.224,684.313 C429.434,684.104 429.711,684.015 429.984,684.029 C430.258,684.015 430.535,684.104 430.745,684.313 L435.687,690.294 C436.079,690.688 436.079,691.324 435.687,691.718 C435.295,692.11 434.659,692.11 434.268,691.718 L431,687.765 L431,700 C431,700.552 430.553,701 430,701 C429.447,701 429,700.552 429,700 L429,687.727 L425.701,691.718 C425.31,692.11 424.674,692.11 424.282,691.718 C423.89,691.324 423.89,690.688 424.282,690.294 L424.282,690.294 Z M415,701 C415,703.209 416.791,705 419,705 L441,705 C443.209,705 445,703.209 445,701 L445,681 L415,681 L415,701 L415,701 Z" id="align-top" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

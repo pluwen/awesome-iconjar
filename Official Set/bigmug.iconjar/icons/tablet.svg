@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="32px" viewBox="0 0 23 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>tablet</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-522.000000, -465.000000)" fill="#000000">
+            <path d="M541,465 L526,465 C523.791,465 522,466.791 522,469 L522,470 L545,470 L545,469 C545,466.791 543.209,465 541,465 L541,465 Z M522,488 L545,488 L545,472 L522,472 L522,488 Z M533.5,491 C534.328,491 535,491.672 535,492.5 C535,493.328 534.328,494 533.5,494 C532.672,494 532,493.328 532,492.5 C532,491.672 532.672,491 533.5,491 L533.5,491 Z M522,493 C522,495.209 523.791,497 526,497 L541,497 C543.209,497 545,495.209 545,493 L545,490 L522,490 L522,493 L522,493 Z" id="tablet" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

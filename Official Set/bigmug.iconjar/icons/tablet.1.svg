@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="32px" viewBox="0 0 23 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>tablet</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-520.000000, -463.000000)" fill="#000000">
+            <path d="M531.5,492 C532.328,492 533,491.328 533,490.5 C533,489.672 532.328,489 531.5,489 C530.672,489 530,489.672 530,490.5 C530,491.328 530.672,492 531.5,492 L531.5,492 Z M541,468 L522,468 L522,467 C522,465.896 522.896,465 524,465 L539,465 C540.104,465 541,465.896 541,467 L541,468 L541,468 Z M522,470 L541,470 L541,486 L522,486 L522,470 Z M541,491 C541,492.104 540.104,493 539,493 L524,493 C522.896,493 522,492.104 522,491 L522,488 L541,488 L541,491 L541,491 Z M539,463 L524,463 C521.791,463 520,464.791 520,467 L520,491 C520,493.209 521.791,495 524,495 L539,495 C541.209,495 543,493.209 543,491 L543,467 C543,464.791 541.209,463 539,463 L539,463 Z" id="tablet" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

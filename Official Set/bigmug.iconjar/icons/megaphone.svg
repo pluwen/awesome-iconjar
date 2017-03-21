@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="30px" viewBox="0 0 32 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>megaphone</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-204.000000, -308.000000)" fill="#000000">
+            <path d="M234,332 L227,327 L227,315 L234,310 L234,332 L234,332 Z M225,326 L222,326 L222,316 L225,316 L225,326 L225,326 Z M220,326 L212,326 C210.012,326 206,325.418 206,321 C206,316.582 209.946,315.935 212,316 L220,316 L220,326 L220,326 Z M215,335 C215,335.553 214.552,336 214,336 L213,336 C212.448,336 212,335.553 212,335 L212,328 L215,328 L215,335 L215,335 Z M234,308 L225,314 L212,314 C207.582,314 204,316.582 204,321 C204,324.733 206.542,327.339 210,328 C210.045,328.27 210,336 210,336 C210,337.104 210.896,338 212,338 L215,338 C216.104,338 217,337.104 217,336 L217,328 L225,328 L234,334 C235.104,334 236,333.104 236,332 L236,310 C236,308.896 235.104,308 234,308 L234,308 Z" id="megaphone" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

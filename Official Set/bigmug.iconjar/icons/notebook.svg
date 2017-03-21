@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="32px" viewBox="0 0 22 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>notebook</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-263.000000, -101.000000)" fill="#000000">
+            <path d="M280,113 L268,113 C267.448,113 267,112.553 267,112 C267,111.448 267.448,111 268,111 L280,111 C280.552,111 281,111.448 281,112 C281,112.553 280.552,113 280,113 L280,113 Z M280,119 L268,119 C267.448,119 267,118.553 267,118 C267,117.448 267.448,117 268,117 L280,117 C280.552,117 281,117.448 281,118 C281,118.553 280.552,119 280,119 L280,119 Z M280,125 L268,125 C267.448,125 267,124.553 267,124 C267,123.447 267.448,123 268,123 L280,123 C280.552,123 281,123.447 281,124 C281,124.553 280.552,125 280,125 L280,125 Z M281,103 L281,101 L279,101 L279,103 L275,103 L275,101 L273,101 L273,103 L269,103 L269,101 L267,101 L267,103 C264.791,103 263,104.791 263,107 L263,129 C263,131.209 264.791,133 267,133 L281,133 C283.209,133 285,131.209 285,129 L285,107 C285,104.791 283.209,103 281,103 L281,103 Z" id="notebook" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

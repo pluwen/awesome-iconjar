@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="32px" viewBox="0 0 26 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>water</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-363.000000, -411.000000)" fill="#000000">
+            <path d="M376,436 C373.245,436 371.012,433.636 371.012,430.719 C371.012,427.802 374.094,425.516 375.967,423.505 C377.914,425.567 380.988,427.802 380.988,430.719 C380.988,433.636 378.755,436 376,436 L376,436 Z M376,421 C373.372,423.629 369,427.279 369,431.094 C369,434.908 372.134,438 376,438 C379.866,438 383,434.908 383,431.094 C383,427.279 378.733,423.697 376,421 L376,421 Z M376,441 C369.925,441 365,436.089 365,430.031 C365,423.974 371.871,418.176 376,414 C380.296,418.283 387,423.974 387,430.031 C387,436.089 382.075,441 376,441 L376,441 Z M376,411 C371.12,415.949 363,422.82 363,430 C363,437.18 368.82,443 376,443 C383.18,443 389,437.18 389,430 C389,422.82 381.077,416.077 376,411 L376,411 Z" id="water" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

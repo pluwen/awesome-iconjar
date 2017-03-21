@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="27px" height="23px" viewBox="0 0 27 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>shuffle</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-362.000000, -623.000000)" fill="#000000">
+            <path d="M384.528,638.166 C384.23,637.871 383.299,637.948 383,638.244 L383,641 L379,641 L375.465,636.161 L374.207,637.792 L378,642.909 L383,642.909 L383,645.781 C383.299,646.076 384.23,645.945 384.528,645.649 L388.771,642.442 C389.069,642.147 389.069,641.669 388.771,641.373 L384.528,638.166 L384.528,638.166 Z M383,628 L383,630.688 C383.299,630.982 384.23,631.105 384.528,630.811 L388.771,627.604 C389.069,627.308 389.069,626.829 388.771,626.534 L384.528,623.326 C384.23,623.031 383.299,622.861 383,623.156 L383,626 L378,626 L367,641 L363,641 C362.447,641 362,641.373 362,641.92 C362,642.466 362.447,643 363,643 L368,643 L379,628 L383,628 L383,628 Z M363,628 L367,628 L370.508,632.803 L371.766,631.172 C371.766,631.172 368.254,626.323 368,626 L363,626 C362.447,626 362,626.534 362,627.08 C362,627.627 362.447,628 363,628 L363,628 Z" id="shuffle" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

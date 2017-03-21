@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>headphone</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-466.000000, -517.000000)" fill="#000000">
+            <path d="M495.938,531.521 C495.966,531.183 496,530.846 496,530.5 C496,523.044 489.732,517 482,517 C474.268,517 468,523.044 468,530.5 C468,530.846 468.034,531.183 468.063,531.521 C466.838,532.205 466,533.498 466,535 L466,541 C466,543.209 467.791,545 470,545 L474,545 C476.125,544.905 478,543.148 478,541 L478,535 C478,532.791 476.209,531 474,531 L470,531 C470,524.01 475.373,519 482,519 C488.628,519 494.043,523.967 494,531 C493.999,531.17 490,531 490,531 C487.791,531 486,532.791 486,535 L486,541 C486,543.148 487.875,544.905 490,545 L492,545 L492,548 C492,548.553 492.447,549 493,549 C493.553,549 494,548.553 494,548 L494,545 C496.209,545 498,543.209 498,541 L498,535 C498,533.498 497.162,532.205 495.938,531.521" id="headphone" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

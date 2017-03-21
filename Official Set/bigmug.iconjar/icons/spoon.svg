@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="32px" viewBox="0 0 14 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>spoon</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-214.000000, -465.000000)" fill="#000000">
+            <path d="M221,465 C217.134,465 214,468.582 214,473 C214,476.629 216.105,479.75 219,480.742 L219,495 C219,496.104 219.895,496.999 220.999,497 L221.001,497 C222.105,496.999 223,496.104 223,495 L223,480.742 C225.895,479.75 228,476.629 228,473 C228,468.582 224.866,465 221,465 L221,465 Z" id="spoon" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

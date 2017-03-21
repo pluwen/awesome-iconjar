@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="32px" viewBox="0 0 30 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>folder</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-309.000000, -151.000000)" fill="#000000">
+            <path d="M337,179 C337,180.104 336.104,181 335,181 L313,181 C311.896,181 311,180.104 311,179 L311,155.222 L315,159 L333,159 L337,155.222 L337,179 L337,179 Z M313,153 L335,153 C335.398,153 335.768,153.12 336.079,153.32 L332,157 L316,157 L311.921,153.32 C312.233,153.12 312.602,153 313,153 L313,153 Z M335,151 L313,151 C310.791,151 309,152.791 309,155 L309,179 C309,181.209 310.791,183 313,183 L335,183 C337.209,183 339,181.209 339,179 L339,155 C339,152.791 337.209,151 335,151 L335,151 Z" id="folder" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>wind-flag</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-465.000000, -776.000000)" fill="#000000">
+            <path d="M493,786.066 C493,786.877 492.935,787 492,787 L489,787.3 L489,779.7 L492,780 C492.935,780 493,780.123 493,780.934 L493,786.066 L493,786.066 Z M487,787.5 L481,788.1 L481,778.9 L487,779.5 L487,787.5 L487,787.5 Z M479,788.3 L472,789 C471.065,789 471,788.811 471,788 L471,779 C471,778.19 471.065,778 472,778 L479,778.7 L479,788.3 L479,788.3 Z M493,778 L471,776 C469.896,776 469,776.896 469,778 L469,789 C469,790.104 469.896,791 471,791 L493,789 C494.104,789 495,788.104 495,787 L495,780 C495,778.896 494.104,778 493,778 L493,778 Z M466,776 C465.447,776 465,776.448 465,777 L465,805 C465,805.553 465.447,806 466,806 C466.553,806 467,805.553 467,805 L467,777 C467,776.448 466.553,776 466,776 L466,776 Z" id="wind-flag" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

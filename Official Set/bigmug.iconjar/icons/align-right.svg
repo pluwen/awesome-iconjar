@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="30px" viewBox="0 0 32 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>align-right</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-466.000000, -674.000000)" fill="#000000">
+            <path d="M471,688 L483.273,688 L479.282,684.701 C478.89,684.31 478.89,683.674 479.282,683.282 C479.676,682.89 480.313,682.89 480.706,683.282 L486.687,688.224 C486.896,688.434 486.985,688.711 486.971,688.984 C486.985,689.258 486.896,689.535 486.687,689.745 L480.706,694.687 C480.313,695.079 479.676,695.079 479.282,694.687 C478.89,694.295 478.89,693.659 479.282,693.268 L483.235,690 L471,690 C470.448,690 470,689.553 470,689 C470,688.447 470.448,688 471,688 L471,688 Z M466,678 L466,700 C466,702.209 467.791,704 470,704 L490,704 L490,674 L470,674 C467.791,674 466,675.791 466,678 L466,678 Z M494,674 L492,674 L492,704 L494,704 C496.209,704 498,702.209 498,700 L498,678 C498,675.791 496.209,674 494,674 L494,674 Z" id="align-right" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

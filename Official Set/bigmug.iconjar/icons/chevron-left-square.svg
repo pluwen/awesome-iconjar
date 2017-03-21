@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-left-square</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-204.000000, -983.000000)" fill="#000000">
+            <path d="M234,1011 C234,1012.1 233.104,1013 232,1013 L208,1013 C206.896,1013 206,1012.1 206,1011 L206,987 C206,985.896 206.896,985 208,985 L232,985 C233.104,985 234,985.896 234,987 L234,1011 L234,1011 Z M232,983 L208,983 C205.791,983 204,984.791 204,987 L204,1011 C204,1013.21 205.791,1015 208,1015 L232,1015 C234.209,1015 236,1013.21 236,1011 L236,987 C236,984.791 234.209,983 232,983 L232,983 Z M225.685,989.313 C225.29,988.921 224.65,988.921 224.256,989.313 L215.284,998.254 C215.073,998.464 214.983,998.741 214.998,999.016 C214.983,999.29 215.073,999.568 215.284,999.777 L224.256,1008.72 C224.65,1009.11 225.29,1009.11 225.685,1008.72 C226.08,1008.33 226.08,1007.69 225.685,1007.29 L217.376,999.016 L225.685,990.736 C226.08,990.344 226.08,989.707 225.685,989.313 L225.685,989.313 Z" id="chevron-left-square" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

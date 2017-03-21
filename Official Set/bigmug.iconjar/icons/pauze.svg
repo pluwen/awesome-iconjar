@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="28px" viewBox="0 0 20 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>pauze</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-470.000000, -569.000000)" fill="#000000">
+            <path d="M476,594 C476,594.553 475.553,595 475,595 L473,595 C472.447,595 472,594.553 472,594 L472,572 C472,571.448 472.447,571 473,571 L475,571 C475.553,571 476,571.448 476,572 L476,594 L476,594 Z M476,569 L472,569 C470.896,569 470,569.896 470,571 L470,595 C470,596.104 470.896,597 472,597 L476,597 C477.104,597 478,596.104 478,595 L478,571 C478,569.896 477.104,569 476,569 L476,569 Z M488,594 C488,594.553 487.553,595 487,595 L485,595 C484.447,595 484,594.553 484,594 L484,572 C484,571.448 484.447,571 485,571 L487,571 C487.553,571 488,571.448 488,572 L488,594 L488,594 Z M488,569 L484,569 C482.896,569 482,569.896 482,571 L482,595 C482,596.104 482.896,597 484,597 L488,597 C489.104,597 490,596.104 490,595 L490,571 C490,569.896 489.104,569 488,569 L488,569 Z" id="pauze" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>crop</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-310.000000, -881.000000)" fill="#000000">
+            <path d="M340,905 L338,905 L338,890 L334,894 L334,905 L320,905 L339.213,884.201 L337.799,882.787 L318,904 L318,889 L328,889 L331.861,885 L318,885 L318,883 C318,881.896 317.104,881 316,881 C314.896,881 314,881.896 314,883 L314,885 L312,885 C310.896,885 310,885.896 310,887 C310,888.104 310.896,889 312,889 L314,889 L314,909 L334,909 L334,911 C334,912.104 334.896,913 336,913 C337.104,913 338,912.104 338,911 L338,909 L340,909 C341.104,909 342,908.104 342,907 C342,905.896 341.104,905 340,905" id="crop" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

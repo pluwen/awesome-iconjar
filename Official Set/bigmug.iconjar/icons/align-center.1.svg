@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>align-center</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-364.000000, -208.000000)" fill="#000000">
+            <path d="M386,232 L370,232 C368.896,232 368,232.896 368,234 C368,235.104 368.896,236 370,236 L386,236 C387.104,236 388,235.104 388,234 C388,232.896 387.104,232 386,232 L386,232 Z M390,224 L366,224 C364.896,224 364,224.896 364,226 C364,227.104 364.896,228 366,228 L390,228 C391.104,228 392,227.104 392,226 C392,224.896 391.104,224 390,224 L390,224 Z M370,216 C368.896,216 368,216.896 368,218 C368,219.104 368.896,220 370,220 L386,220 C387.104,220 388,219.104 388,218 C388,216.896 387.104,216 386,216 L370,216 L370,216 Z M366,212 L390,212 C391.104,212 392,211.104 392,210 C392,208.896 391.104,208 390,208 L366,208 C364.896,208 364,208.896 364,210 C364,211.104 364.896,212 366,212 L366,212 Z" id="align-center" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

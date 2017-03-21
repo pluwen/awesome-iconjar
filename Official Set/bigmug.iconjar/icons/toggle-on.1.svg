@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="20px" viewBox="0 0 32 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>toggle-on</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-206.000000, -367.000000)" fill="#000000">
+            <path d="M216,383 C212.687,383 210,380.313 210,377 C210,373.687 212.687,371 216,371 C219.314,371 222,373.687 222,377 C222,380.313 219.314,383 216,383 L216,383 Z M228,367 L216,367 C210.477,367 206,371.478 206,377 C206,382.522 210.477,387 216,387 L228,387 C233.523,387 238,382.522 238,377 C238,371.478 233.523,367 228,367 L228,367 Z M216,373 C213.791,373 212,374.791 212,377 C212,379.209 213.791,381 216,381 C218.209,381 220,379.209 220,377 C220,374.791 218.209,373 216,373 L216,373 Z" id="toggle-on" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

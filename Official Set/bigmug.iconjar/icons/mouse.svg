@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="32px" viewBox="0 0 20 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>mouse</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-106.000000, -515.000000)" fill="#000000">
+            <path d="M124,543 C124,544.104 123.104,545 122,545 L110,545 C108.896,545 108,544.104 108,543 L108,523 C108,521.896 108.896,521 110,521 L122,521 C123.104,521 124,521.896 124,523 L124,543 L124,543 Z M122,519 L117,519 L117,515 L113,515 C112.448,515 112,515.448 112,516 C112,516.553 112.448,517 113,517 L115,517 L115,519 L110,519 C107.791,519 106,520.791 106,523 L106,543 C106,545.209 107.791,547 110,547 L122,547 C124.209,547 126,545.209 126,543 L126,523 C126,520.791 124.209,519 122,519 L122,519 Z M116,523 C115.448,523 115,523.447 115,524 L115,528 C115,528.553 115.448,529 116,529 C116.552,529 117,528.553 117,528 L117,524 C117,523.447 116.552,523 116,523 L116,523 Z" id="mouse" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

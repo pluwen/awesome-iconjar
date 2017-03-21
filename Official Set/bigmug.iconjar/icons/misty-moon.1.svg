@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="30px" viewBox="0 0 32 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>misty-moon</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-518.000000, -830.000000)" fill="#000000">
+            <path d="M549,850 L534.434,850 C534.172,848.871 534,847.709 534,846.5 C534,839.622 538.483,833.8 544.685,831.772 C542.535,830.646 540.095,830 537.5,830 C528.939,830 522,836.939 522,845.5 C522,847.065 522.237,848.575 522.669,850 L519,850 C518.447,850 518,850.448 518,851 C518,851.553 518.447,852 519,852 L549,852 C549.553,852 550,851.553 550,851 C550,850.448 549.553,850 549,850 L549,850 Z M537,854 L523,854 C522.447,854 522,854.447 522,855 C522,855.553 522.447,856 523,856 L537,856 C537.553,856 538,855.553 538,855 C538,854.447 537.553,854 537,854 L537,854 Z M535,858 L525,858 C524.447,858 524,858.448 524,859 C524,859.553 524.447,860 525,860 L535,860 C535.553,860 536,859.553 536,859 C536,858.448 535.553,858 535,858 L535,858 Z" id="misty-moon" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

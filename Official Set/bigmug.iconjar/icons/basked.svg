@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="26px" viewBox="0 0 32 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>basked</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-414.000000, -728.000000)" fill="#000000">
+            <path d="M445,734 L438.474,734 L440.5,730 L443,730 C443.553,730 444,729.553 444,729 C444,728.447 443.553,728 443,728 L439,728 L435.916,734 L424.168,734 L421,728 L417,728 C416.447,728 416,728.447 416,729 C416,729.553 416.447,730 417,730 L419.5,730 L421.646,734 L415,734 C414.447,734 414,734.448 414,735 C414,735.553 414.447,736 415,736 L416,736 L416.286,740 L424,740 L424,736 L426,736 L426,740 L434,740 L434,736 L436,736 L436,740 L443.429,740 L444,736 L445,736 C445.553,736 446,735.553 446,735 C446,734.448 445.553,734 445,734 L445,734 Z M436,746 L442.571,746 L443.143,742 L436,742 L436,746 L436,746 Z M426,746 L434,746 L434,742 L426,742 L426,746 Z M424,742 L416.429,742 L416.714,746 L424,746 L424,742 L424,742 Z M436,752 L434,752 L434,748 L426,748 L426,752 L424,752 L424,748 L416.857,748 L417,750 C417,752.209 418.791,754 421,754 L438,754 C440.209,754 442,752.209 442,750 L442.286,748 L436,748 L436,752 L436,752 Z" id="basked" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

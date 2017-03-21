@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="22px" viewBox="0 0 32 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>backspace</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-568.000000, -1144.000000)" fill="#000000">
+            <path d="M598,1162 C598,1163.1 597.104,1164 596,1164 L578.487,1164 L570.346,1154.98 L578.459,1146 L596,1146 C597.104,1146 598,1146.9 598,1148 L598,1162 L598,1162 Z M596,1144 L578.072,1144 C577.792,1143.98 577.508,1144.07 577.293,1144.28 L568.316,1154.22 C568.104,1154.43 568.015,1154.71 568.029,1154.98 C568.015,1155.26 568.104,1155.54 568.316,1155.75 L577.293,1165.69 C577.488,1165.88 577.744,1165.98 578,1165.98 L578,1166 L596,1166 C598.209,1166 600,1164.21 600,1162 L600,1148 C600,1145.79 598.209,1144 596,1144 L596,1144 Z" id="backspace" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ProductHunt-color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-" transform="translate(-800.000000, -260.000000)" fill="#DE5425">
+            <path d="M827.1995,288.8 L827.1995,288.8 L820.4,288.8 L820.4,296 L815.6,296 L815.6,272 L827.1995,272 C831.839,272 835.5995,275.7605 835.5995,280.4 C835.5995,285.0395 831.839,288.8 827.1995,288.8 M824,260 C810.7445,260 800,270.7445 800,284 C800,297.2555 810.7445,308 824,308 C837.254,308 848,297.2555 848,284 C848,270.7445 837.254,260 824,260 M827.1995,276.8 L827.1995,276.8 L820.4,276.8 L820.4,284 L827.1995,284 C829.1885,284 830.7995,282.3875 830.7995,280.4 C830.7995,278.4125 829.1885,276.8 827.1995,276.8" id="ProductHunt"></path>
+        </g>
+    </g>
+</svg>

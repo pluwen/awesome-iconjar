@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="32px" viewBox="0 0 24 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>bag</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-574.000000, -725.000000)" fill="#000000">
+            <path d="M594,729 L592,729 L592,737 L590,737 L590,729 L582,729 L582,737 L580,737 L580,729 L578,729 C575.791,729 574,730.791 574,733 L574,749 L598,749 L598,733 C598,730.791 596.209,729 594,729 L594,729 Z M586,727 C588.209,727 590,727.619 590,729 L592,729 C592,726.791 589.313,725 586,725 C582.687,725 580,726.791 580,729 L582,729 C582,727.619 583.791,727 586,727 L586,727 Z M574,753 C574,755.209 575.791,757 578,757 L594,757 C596.209,757 598,755.209 598,753 L598,751 L574,751 L574,753 L574,753 Z" id="bag" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

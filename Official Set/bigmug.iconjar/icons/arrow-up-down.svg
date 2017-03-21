@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="32px" viewBox="0 0 14 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-up-down</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-211.000000, -1191.000000)" fill="#000000">
+            <path d="M223.263,1215.38 L218.991,1219.63 L218.991,1194.37 L223.263,1198.62 C223.656,1199.02 224.293,1199.02 224.687,1198.62 C225.08,1198.23 225.08,1197.6 224.687,1197.2 L218.747,1191.28 C218.537,1191.07 218.259,1190.98 217.984,1191 C217.71,1190.98 217.432,1191.07 217.222,1191.28 L211.283,1197.2 C210.89,1197.6 210.89,1198.23 211.283,1198.62 C211.676,1199.02 212.313,1199.02 212.707,1198.62 L216.978,1194.37 L216.978,1219.63 L212.707,1215.38 C212.313,1214.98 211.676,1214.98 211.283,1215.38 C210.89,1215.77 210.89,1216.4 211.283,1216.8 L217.222,1222.72 C217.432,1222.93 217.71,1223.02 217.984,1223 C218.259,1223.02 218.537,1222.93 218.747,1222.72 L224.687,1216.8 C225.08,1216.4 225.08,1215.77 224.687,1215.38 C224.293,1214.98 223.656,1214.98 223.263,1215.38" id="arrow-up-down" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

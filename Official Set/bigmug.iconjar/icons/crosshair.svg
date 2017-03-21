@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>crosshair</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-467.000000, -882.000000)" fill="#000000">
+            <path d="M490,897 C490,896.359 490.359,896 491,896 L497,896 C496.436,888.604 490.397,882.564 483,882 L483,888 C483,888.641 482.641,889 482,889 C481.359,889 481,888.641 481,888 L481,882 C473.603,882.564 467.564,888.604 467,896 L473,896 C473.641,896 474,896.359 474,897 C474,897.641 473.641,898 473,898 L467,898 C467.564,905.396 473.603,911.436 481,912 L481,906 C481,905.36 481.359,905 482,905 C482.641,905 483,905.36 483,906 L483,912 C490.397,911.436 496.436,905.396 497,898 L491,898 C490.359,898 490,897.641 490,897" id="crosshair" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

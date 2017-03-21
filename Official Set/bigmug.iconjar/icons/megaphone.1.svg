@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="30px" viewBox="0 0 32 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>megaphone</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-206.000000, -310.000000)" fill="#000000">
+            <path d="M224,330 L227,330 L227,316 L224,316 L224,330 Z M236,310 L229,314.667 L229,331.333 L236,336 C237.104,336 238,335.104 238,334 L238,312 C238,310.896 237.104,310 236,310 L236,310 Z M206,323 C206,326.733 208.561,329.148 212.019,329.81 L212,330 L212,338 C212,339.104 212.896,340 214,340 L217,340 C218.104,340 219,339.104 219,338 L219,330 L222,330 L222,316 L214,316 C209.582,316 206,318.582 206,323 L206,323 Z" id="megaphone" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

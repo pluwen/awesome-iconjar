@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Windowsphone-black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black" transform="translate(-400.000000, -560.000000)" fill="#000000">
+            <path d="M400,566.79594 L419.616154,564.132637 L419.624728,582.995574 L400.01826,583.106885 L400,566.79594 Z M419.606809,585.169154 L419.622035,604.048843 L400.01549,601.3615 L400.01439,585.042845 L419.606809,585.169154 Z M421.984711,563.784314 L447.993926,560 L447.993926,582.755916 L421.984711,582.961764 L421.984711,563.784314 Z M448,585.3466 L447.993899,608 L421.984683,604.340389 L421.94824,585.304384 L448,585.3466 Z" id="Windowsphone"></path>
+        </g>
+    </g>
+</svg>

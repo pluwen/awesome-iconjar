@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>map</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-204.000000, -411.000000)" fill="#000000">
+            <path d="M228,428 C228,428.553 228.448,429 229,429 C229.552,429 230,428.553 230,428 L230,420 C230,419.448 229.552,419 229,419 C228.448,419 228,419.448 228,420 L228,428 L228,428 Z M234,437.5 L228,433 L220,439 L212,436 L206,439.75 L206,419.75 L212,416 L220,419 L228,413 L234,417.5 L234,437.5 L234,437.5 Z M228,411 L220,417 L212,414 L204,419 L204,443 L212,438 L220,441 L228,435 L236,441 L236,417 L228,411 L228,411 Z M221,424 C220.448,424 220,424.448 220,425 L220,431 C220,431.553 220.448,432 221,432 C221.552,432 222,431.553 222,431 L222,425 C222,424.448 221.552,424 221,424 L221,424 Z M213,421 C212.448,421 212,421.448 212,422 L212,432 C212,432.553 212.448,433 213,433 C213.552,433 214,432.553 214,432 L214,422 C214,421.448 213.552,421 213,421 L213,421 Z" id="map" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

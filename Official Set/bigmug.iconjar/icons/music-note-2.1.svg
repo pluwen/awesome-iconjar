@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="30px" viewBox="0 0 16 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>music-note 2</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-525.000000, -622.000000)" fill="#000000">
+            <path d="M539.992,622 C539.031,622 538.984,623.002 538.984,623.002 L538.984,639.363 C536.748,637.715 533.058,637.713 529.788,639.589 C525.725,641.922 523.982,646.27 525.616,649.3 C527.279,652.384 532.097,652.896 536.16,650.563 C539.316,648.751 541.007,645.807 541,643 L541,623 C540.982,622.462 540.537,622 539.992,622" id="music-note-2" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

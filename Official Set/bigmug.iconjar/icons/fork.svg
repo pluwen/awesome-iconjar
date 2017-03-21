@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="32px" viewBox="0 0 10 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>fork</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-113.000000, -465.000000)" fill="#000000">
+            <path d="M122,465 C121.448,465 121,465.448 121,466 L121,472.765 C121,474.172 120.163,475.356 119,475.802 L119,466 C119,465.448 118.552,465 118,465 C117.448,465 117,465.448 117,466 L117,475.802 C115.837,475.356 115,474.172 115,472.765 L115,466 C115,465.448 114.552,465 114,465 C113.448,465 113,465.448 113,466 L113,473 C113,475.048 114.237,476.797 116,477.569 L116,495 C116,496.035 116.79,496.877 117.798,496.979 L118,497 L118.202,496.979 C119.21,496.877 120,496.035 120,495 L120,477.57 C121.763,476.797 123,475.048 123,473 L123,466 C123,465.448 122.552,465 122,465" id="fork" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

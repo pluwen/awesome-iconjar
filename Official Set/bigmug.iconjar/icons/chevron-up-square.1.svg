@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-up-square</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-308.000000, -983.000000)" fill="#000000">
+            <path d="M338,1011 C338,1012.1 337.104,1013 336,1013 L312,1013 C310.896,1013 310,1012.1 310,1011 L310,987 C310,985.896 310.896,985 312,985 L336,985 C337.104,985 338,985.896 338,987 L338,1011 L338,1011 Z M336,983 L312,983 C309.791,983 308,984.791 308,987 L308,1011 C308,1013.21 309.791,1015 312,1015 L336,1015 C338.209,1015 340,1013.21 340,1011 L340,987 C340,984.791 338.209,983 336,983 L336,983 Z M324.777,994.284 C324.568,994.073 324.29,993.983 324.016,993.998 C323.741,993.983 323.464,994.073 323.254,994.284 L314.313,1003.26 C313.921,1003.65 313.921,1004.29 314.313,1004.69 C314.707,1005.08 315.344,1005.08 315.736,1004.69 L324.016,996.376 L332.295,1004.69 C332.688,1005.08 333.325,1005.08 333.718,1004.69 C334.11,1004.29 334.11,1003.65 333.718,1003.26 L324.777,994.284 L324.777,994.284 Z" id="chevron-up-square" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="32px" viewBox="0 0 20 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>unlocked</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-470.000000, -307.000000)" fill="#000000">
+            <path d="M480,337 C475.582,337 472,333.418 472,329 C472,324.582 475.582,321 480,321 C484.418,321 488,324.582 488,329 C488,333.418 484.418,337 480,337 L480,337 Z M480,319 C477.746,319 475.673,319.755 474,321.014 L474,315 C474,311.687 476.687,309 480,309 C483.313,309 486,311.687 486,315 L488,315 C488,310.582 484.418,307 480,307 C475.582,307 472,310.582 472,315 L472,323.019 C470.75,324.688 470,326.754 470,329 C470,334.523 474.478,339 480,339 C485.522,339 490,334.523 490,329 C490,323.478 485.522,319 480,319 L480,319 Z M480,327 C479.447,327 479,327.448 479,328 L479,332 C479,332.553 479.447,333 480,333 C480.553,333 481,332.553 481,332 L481,328 C481,327.448 480.553,327 480,327 L480,327 Z" id="unlocked" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

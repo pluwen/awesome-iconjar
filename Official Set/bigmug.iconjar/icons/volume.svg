@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>volume</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-209.000000, -573.000000)" fill="#000000">
+            <path d="M228,578.101 L228,580.101 C230.282,580.564 232,582.581 232,585 C232,587.419 230.282,589.436 228,589.899 L228,591.899 C231.388,591.41 234,588.523 234,585 C234,581.477 231.388,578.59 228,578.101 L228,578.101 Z M209,581 L209,589 C209,590.104 209.896,591 211,591 L214,591 L214,579 L211,579 C209.896,579 209,579.896 209,581 L209,581 Z M223,573 L216,577.667 L216,592.333 L223,597 C224.104,597 225,596.104 225,595 L225,575 C225,573.896 224.104,573 223,573 L223,573 Z" id="volume" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

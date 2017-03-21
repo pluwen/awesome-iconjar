@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>keynote-presentation</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-466.000000, -153.000000)" fill="#000000">
+            <path d="M489,172 C489,172.553 488.553,173 488,173 C487.447,173 487,172.553 487,172 L487,163 C487,162.448 487.447,162 488,162 C488.553,162 489,162.448 489,163 L489,172 L489,172 Z M483,172 C483,172.553 482.553,173 482,173 C481.447,173 481,172.553 481,172 L481,160 C481,159.448 481.447,159 482,159 C482.553,159 483,159.448 483,160 L483,172 L483,172 Z M477,172 C477,172.553 476.553,173 476,173 C475.447,173 475,172.553 475,172 L475,168 C475,167.448 475.447,167 476,167 C476.553,167 477,167.448 477,168 L477,172 L477,172 Z M466,153 L466,155 L468,155 L468,174 C468,176.37 469.644,178 472,178 L478,178 L474,185 L477.012,184.987 L481,178 L483,178 L486.988,184.987 L490,185 L486,178 L492,178 C494.356,178 496,176.37 496,174 L496,155 L498,155 L498,153 L466,153 L466,153 Z" id="keynote-presentation" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

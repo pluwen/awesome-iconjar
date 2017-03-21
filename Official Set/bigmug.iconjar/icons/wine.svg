@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="32px" viewBox="0 0 12 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>wine</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-580.000000, -413.000000)" fill="#000000">
+            <path d="M589.014,425 L589,425 L589,419 L583,419 L583,425 L582.987,425 C580.969,425 580,426.791 580,429 L580,445 L592,445 L592,429 C592,426.791 590.98,425 589.014,425 L589.014,425 Z M589,414 C589,413.448 588.553,413 588,413 L584,413 C583.447,413 583,413.448 583,414 L583,417 L589,417 L589,414 L589,414 Z" id="wine" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

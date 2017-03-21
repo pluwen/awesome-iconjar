@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="30px" viewBox="0 0 26 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>playlist</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-158.000000, -674.000000)" fill="#000000">
+            <path d="M183,674 C182.448,674 182,674.447 182,675 L182,691.371 C179.784,689.708 176.131,689.673 172.876,691.553 C168.844,693.881 167.056,698.182 168.737,701.243 C170.482,704.423 175.167,704.831 179.198,702.503 C182.294,700.716 184.098,697.744 183.981,695.092 L184,695 L184,675 C184,674.447 183.552,674 183,674 L183,674 Z M159,689 L170,689 C170.552,689 171,688.553 171,688 C171,687.448 170.552,687 170,687 L159,687 C158.448,687 158,687.448 158,688 C158,688.553 158.448,689 159,689 L159,689 Z M165,693 L159,693 C158.448,693 158,693.447 158,694 C158,694.553 158.448,695 159,695 L165,695 C165.552,695 166,694.553 166,694 C166,693.447 165.552,693 165,693 L165,693 Z M159,683 L177,683 C177.552,683 178,682.553 178,682 C178,681.447 177.552,681 177,681 L159,681 C158.448,681 158,681.447 158,682 C158,682.553 158.448,683 159,683 L159,683 Z M159,677 L177,677 C177.552,677 178,676.553 178,676 C178,675.447 177.552,675 177,675 L159,675 C158.448,675 158,675.447 158,676 C158,676.553 158.448,677 159,677 L159,677 Z" id="playlist" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

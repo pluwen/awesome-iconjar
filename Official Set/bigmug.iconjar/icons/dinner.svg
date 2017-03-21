@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="26px" viewBox="0 0 32 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>dinner</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-466.000000, -416.000000)" fill="#000000">
+            <path d="M483,420 L483,418 L485,418 C485.553,418 486,417.553 486,417 C486,416.448 485.553,416 485,416 L479,416 C478.447,416 478,416.448 478,417 C478,417.553 478.447,418 479,418 L481,418 L481,420 C472.632,420.519 466,427.501 466,436 L466,437 C466,437.553 466.447,438 467,438 L497,438 C497.553,438 498,437.553 498,437 L498,436 C498,427.501 491.368,420.519 483,420 L483,420 Z M497,440 L467,440 C466.447,440 466,440.448 466,441 C466,441.553 466.447,442 467,442 L497,442 C497.553,442 498,441.553 498,441 C498,440.448 497.553,440 497,440 L497,440 Z" id="dinner" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

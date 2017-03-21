@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>decrease</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set-Filled" sketch:type="MSLayerGroup" transform="translate(-102.000000, -985.000000)" fill="#000000">
+            <path d="M129,1000 L120.028,1000 C119.749,1000 119.497,999.885 119.316,999.699 C119.123,999.535 119,999.296 119,999 L119,990 C119,989.447 119.448,989 120,989 C120.552,989 121,989.447 121,990 L120.969,996.575 L127.756,989.787 L129.17,991.201 L122.372,998 L129,998 C129.552,998 130,998.448 130,999 C130,999.553 129.552,1000 129,1000 L129,1000 Z M117,1012 C117,1012.55 116.552,1013 116,1013 C115.448,1013 115,1012.55 115,1012 L115.032,1005.43 L108.244,1012.21 L106.83,1010.8 L113.628,1004 L107,1004 C106.448,1004 106,1003.55 106,1003 C106,1002.45 106.448,1002 107,1002 L115.972,1002 C116.251,1002 116.502,1002.12 116.684,1002.3 C116.877,1002.46 117,1002.7 117,1003 L117,1012 L117,1012 Z M130,985 L106,985 C103.791,985 102,986.791 102,989 L102,1013 C102,1015.21 103.791,1017 106,1017 L130,1017 C132.209,1017 134,1015.21 134,1013 L134,989 C134,986.791 132.209,985 130,985 L130,985 Z" id="decrease" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>alarm</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icon-Set" sketch:type="MSLayerGroup" transform="translate(-360.000000, -359.000000)" fill="#000000">
+            <path d="M387,359 L385,359 L385,361 L387,361 C388.657,361 390,362.343 390,364 L390,366 L392,366 L392,364 C392,361.238 389.762,359 387,359 L387,359 Z M376,387 C369.373,387 364,381.628 364,375 C364,368.373 369.373,363 376,363 C382.627,363 388,368.373 388,375 C388,381.628 382.627,387 376,387 L376,387 Z M390,375 C390,367.269 383.732,361 376,361 C368.268,361 362,367.269 362,375 C362,380.303 364.949,384.915 369.296,387.291 L366,391 L369,391 L371.685,388.315 C373.045,388.756 374.493,389 376,389 C377.507,389 378.955,388.756 380.315,388.315 L383,391 L386,391 L382.705,387.291 C387.051,384.915 390,380.303 390,375 L390,375 Z M383,374 L377,374 L377,367 C377,366.447 376.553,366 376,366 C375.447,366 375,366.447 375,367 L375,375 C375,375.553 375.447,376 376,376 L383,376 C383.553,376 384,375.553 384,375 C384,374.448 383.553,374 383,374 L383,374 Z M362,364 C362,362.343 363.343,361 365,361 L367,361 L367,359 L365,359 C362.238,359 360,361.238 360,364 L360,366 L362,366 L362,364 L362,364 Z" id="alarm" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
