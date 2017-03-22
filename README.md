@@ -12,6 +12,7 @@ Collect free icon set for iconjar
 * Pe-icon-7-stroke
 * Typicons
 * Mutimedia Collection
+* Open Iconic
 
 ### Official IconSet
 * 70 Social Icons
