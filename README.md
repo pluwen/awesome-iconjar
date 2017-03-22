@@ -11,6 +11,7 @@ Collect free icon set for iconjar
 * MFGLabs iconset
 * Pe-icon-7-stroke
 * Typicons
+* Mutimedia Collection
 
 ### Official IconSet
 * 70 Social Icons
