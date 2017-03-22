@@ -13,6 +13,7 @@ Collect free icon set for iconjar
 * Typicons
 * Mutimedia Collection
 * Open Iconic
+* Linea
 
 ### Official IconSet
 * 70 Social Icons
