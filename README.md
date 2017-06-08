@@ -16,6 +16,7 @@ Collect free icon set for iconjar
 * [Open Iconic](https://github.com/iconic/open-iconic), 223 icons, v1.1.1
 * [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke/), 202 icons, v1.2
 * [Typicons](https://github.com/stephenhutchings/typicons.font), 336 icons, v2.0.8
+* [Feather](https://feathericons.com), 214 icons, v1.1
 
 ### Official IconSet
 * 70 Social Icons
