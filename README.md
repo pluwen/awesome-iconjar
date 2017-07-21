@@ -1,5 +1,5 @@
 # awesome-iconjar
-Collect free icon set for iconjar
+Free icon set collection for iconjar
 
 ## Iconset Included
 
@@ -35,4 +35,4 @@ Collect free icon set for iconjar
 * Click [Download](https://github.com/pluwen/awesome-iconjar/archive/master.zip) and unzip
 
 ## Contributors
-Author by [Pluwen](https://twitter.com/pluwen)
+* Author by [Pluwen](https://twitter.com/pluwen)
