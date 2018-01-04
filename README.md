@@ -9,6 +9,7 @@ Free icon set collection for iconjar
 * [Entypo](http://www.entypo.com/), 411 icons, v2.0
 * [Feather](https://feathericons.com), 263 icons, v4.5
 * [FontAwesome](https://github.com/FortAwesome/Font-Awesome), 675 icons, v4.7
+* [FontAwesome5](https://fontawesome.com), 904 icons, v5.0.2
 * [Ionicons](https://github.com/driftyco/ionicons), 733 icons, v2.0.1
 * [Linea](http://linea.io/), 715 icons, v1.0
 * [Material Design](https://github.com/google/material-design-icons), 1956 icons, v2.2
