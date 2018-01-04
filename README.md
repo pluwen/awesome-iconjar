@@ -7,7 +7,7 @@ Free icon set collection for iconjar
 * [Bicon](http://bicon.lab.themebucket.net), 250 icons
 * [Eleganticons](https://github.com/josephnle/elegant-icons), 360 icons
 * [Entypo](http://www.entypo.com/), 411 icons, v2.0
-* [Feather](https://feathericons.com), 214 icons, v1.1
+* [Feather](https://feathericons.com), 263 icons, v4.5
 * [FontAwesome](https://github.com/FortAwesome/Font-Awesome), 675 icons, v4.7
 * [Ionicons](https://github.com/driftyco/ionicons), 733 icons, v2.0.1
 * [Linea](http://linea.io/), 715 icons, v1.0
