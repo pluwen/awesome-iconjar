@@ -19,6 +19,7 @@ Free icon set collection for iconjar
 * [Mutimedia Collection](), 50 icons
 * [Open Iconic](https://github.com/iconic/open-iconic), 223 icons, v1.1.1
 * [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke/), 202 icons, v1.2
+* [Simple Icons](https://simpleicons.org/), 398 icons
 * [Typicons](https://github.com/stephenhutchings/typicons.font), 336 icons, v2.0.8
 
 ### Official IconSet
