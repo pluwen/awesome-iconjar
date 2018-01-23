@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="505" height="984" bottomLeftOrigin="true" x="0" y="-120"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<g>
+		<g>
+			<g>
+				<path stroke="#2D2D2D" stroke-width="2" stroke-miterlimit="10" d="M13,7"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path d="M20,8h-6c-0.6,0-1-0.4-1-1V1h2v5h5V8z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path d="M17,24H4c-0.6,0-1-0.4-1-1V1c0-0.6,0.4-1,1-1h10c0.3,0,0.5,0.1,0.7,0.3l6,6C20.9,6.5,21,6.7,21,7v5h-2V7.4L13.6,2H5v20
+					h12V24z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path d="M20,18h-6c-0.6,0-1-0.4-1-1s0.4-1,1-1h6c0.6,0,1,0.4,1,1S20.6,18,20,18z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path d="M17,21c-0.6,0-1-0.4-1-1v-6c0-0.6,0.4-1,1-1s1,0.4,1,1v6C18,20.6,17.6,21,17,21z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path d="M17,24c-3.9,0-7-3.1-7-7s3.1-7,7-7s7,3.1,7,7S20.9,24,17,24z M17,12c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S19.8,12,17,12
+				z"/>
+		</g>
+	</g>
+</g>
+</svg>

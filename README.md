@@ -16,7 +16,8 @@ Free icon set collection for iconjar
 * [Linea](http://linea.io/), 715 icons, v1.0
 * [Material Design](https://github.com/google/material-design-icons), 1956 icons, v2.2
 * [Metrize Icons](http://www.alessioatzeni.com/metrize-icons/), 300 icons, v1.0
-* [MFGLabs iconset](), 190 icons
+* [MFGLabs iconset](https://github.com/MfgLabs/mfglabs-iconset), 190 icons
+* [Micons](https://dribbble.com/shots/2071168-231-Icon-Set), 231 icons
 * [Mutimedia Collection](), 50 icons
 * [Open Iconic](https://github.com/iconic/open-iconic), 223 icons, v1.1.1
 * [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke/), 202 icons, v1.2
