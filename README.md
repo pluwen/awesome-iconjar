@@ -4,6 +4,7 @@ Free icon set collection for iconjar
 ## Iconset Included
 
 ### 3-Part IconSet
+* [Apple Icons](http://www.webalys.com/), 60 icons
 * [Bicon](http://bicon.lab.themebucket.net), 250 icons
 * [Eleganticons](https://github.com/josephnle/elegant-icons), 360 icons
 * [Entypo](http://www.entypo.com/), 411 icons, v2.0
