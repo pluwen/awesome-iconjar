@@ -1,5 +1,5 @@
 # awesome-iconjar
-Free icon set collection for iconjar
+Free icon set collection for [IconJar](https://geticonjar.com/).
 
 ## Iconset Included
 
