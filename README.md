@@ -26,7 +26,7 @@ Free icon set collection for [IconJar](https://geticonjar.com/).
 * [Typicons](https://github.com/stephenhutchings/typicons.font), 336 icons, v2.0.8
 
 ### Official IconSet
-* 70 Social Icons
+* 70 Social icons
 * 100 icons
 * Bigmug
 * Bubble icons
