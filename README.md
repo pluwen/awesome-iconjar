@@ -43,3 +43,7 @@ Free icon set collection for [IconJar](https://geticonjar.com/).
 
 ## Contributors
 * Author by [Pluwen](https://twitter.com/pluwen)
+
+## Donate
+
+![Donate image](https://github.com/pluwen/awesome-iconjar/raw/master/donate.jpg "Thank you for your support!")
