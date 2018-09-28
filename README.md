@@ -11,7 +11,7 @@ Free icon set collection for [IconJar](https://geticonjar.com/).
 * [Entypo](http://www.entypo.com/), 411 icons, v2.0
 * [Feather](https://feathericons.com), 263 icons, v4.5
 * [FontAwesome](https://github.com/FortAwesome/Font-Awesome), 675 icons, v4.7
-* [FontAwesome5](https://fontawesome.com), 904 icons, v5.0.2
+* [FontAwesome5](https://fontawesome.com), 1368 icons, v5.3.1
 * [heroicons](https://github.com/sschoger/heroicons-ui), 112 icons
 * [Ionicons](https://github.com/driftyco/ionicons), 733 icons, v2.0.1
 * [Linea](http://linea.io/), 715 icons, v1.0
