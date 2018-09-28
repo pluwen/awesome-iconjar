@@ -13,7 +13,7 @@ Free icon set collection for [IconJar](https://geticonjar.com/).
 * [FontAwesome](https://github.com/FortAwesome/Font-Awesome), 675 icons, v4.7
 * [FontAwesome5](https://fontawesome.com), 1368 icons, v5.3.1
 * [heroicons](https://github.com/sschoger/heroicons-ui), 112 icons
-* [Ionicons](https://github.com/driftyco/ionicons), 733 icons, v2.0.1
+* [Ionicons](https://github.com/driftyco/ionicons), 696 icons, v4
 * [Linea](http://linea.io/), 715 icons, v1.0
 * [Material Design](https://github.com/google/material-design-icons), 1956 icons, v2.2
 * [Metrize Icons](http://www.alessioatzeni.com/metrize-icons/), 300 icons, v1.0
