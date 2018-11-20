@@ -34,7 +34,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Open Iconic](https://github.com/iconic/open-iconic) | 223 | v1.1.1 |
 | [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke/) | 202 | v1.2 |
 | Picons basic sample | 70 |
-| [Simple Icons](https://simpleicons.org/) | 398 |
+| [Simple Icons](https://simpleicons.org/) | 501 |
 | [Those icons social media](https://thoseicons.com/freebies) | 128 |
 | [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 |
 
