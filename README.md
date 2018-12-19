@@ -19,6 +19,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Entypo](http://www.entypo.com/) | 411 | v2.0 |
 | Essential icons | 77 |
 | [Eva Icons](https://akveo.github.io/eva-icons/) | 488 | 1.1.0 |
+| [Evericons](http://www.evericons.com/) | 521 | 1.1 |
 | [Feather](https://feathericons.com) | 263 | v4.5 |
 | [FontAwesome](https://github.com/FortAwesome/Font-Awesome) | 675 | v4.7 |
 | [FontAwesome5](https://fontawesome.com) | 1368 | v5.3.1 |
