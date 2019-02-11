@@ -22,7 +22,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Evericons](http://www.evericons.com/) | 521 | 1.1 |
 | [Feather](https://feathericons.com) | 274 | v4.17.0 |
 | [FontAwesome](https://github.com/FortAwesome/Font-Awesome) | 675 | v4.7 |
-| [FontAwesome5](https://fontawesome.com) | 1368 | v5.3.1 |
+| [FontAwesome5](https://fontawesome.com) | 1503 | v5.7.1 |
 | [heroicons](https://github.com/sschoger/heroicons-ui) | 112 |
 | [Ionicons](https://github.com/driftyco/ionicons) | 696 | v4 |
 | [Linea](http://linea.io/) | 715 | v1.0 |
