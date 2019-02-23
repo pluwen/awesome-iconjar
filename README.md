@@ -36,6 +36,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke/) | 202 | v1.2 |
 | Picons basic sample | 70 |
 | [Simple Icons](https://simpleicons.org/) | 536 |
+| [Streamline free](https://streamlineicons.com) | 300 | v3.0 |
 | [Those icons social media](https://thoseicons.com/freebies) | 128 |
 | [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 |
 
