@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>stars</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-850.000000, -420.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-stars" transform="translate(748.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.99,2 C6.47,2 2,6.48 2,12 C2,17.52 6.47,22 11.99,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 11.99,2 Z M19.47,9.16 L14.46,8.73 L12.46,4.02 C15.67,4.21 18.37,6.29 19.47,9.16 Z M14.4,15.42 L12,13.98 L9.61,15.42 L10.24,12.7 L8.13,10.87 L10.91,10.63 L12,8.06 L13.09,10.62 L15.87,10.86 L13.76,12.69 L14.4,15.42 Z M11.54,4.02 L9.54,8.74 L4.52,9.17 C5.62,6.29 8.32,4.2 11.54,4.02 Z M4,12 C4,11.36 4.08,10.74 4.23,10.14 L8.02,13.42 L6.91,18.17 C5.13,16.7 4,14.48 4,12 Z M7.84,18.82 L12,16.31 L16.16,18.81 C14.94,19.56 13.52,20 11.99,20 C10.47,20 9.05,19.56 7.84,18.82 Z M17.09,18.17 L15.98,13.42 L19.77,10.14 C19.91,10.73 20,11.36 20,12 C20,14.48 18.86,16.7 17.09,18.17 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

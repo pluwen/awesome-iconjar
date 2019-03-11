@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>leak_remove</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-885.000000, -2902.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-leak_remove" transform="translate(782.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,3 L12,3 C12,4.35 11.69,5.63 11.16,6.77 L12.65,8.26 C13.51,6.7 14,4.91 14,3 Z M21,12 L21,10 C19.09,10 17.3,10.49 15.73,11.35 L17.22,12.84 C18.37,12.31 19.65,12 21,12 Z M21,16 L21,14 C20.21,14 19.46,14.13 18.76,14.37 L20.44,16.05 C20.63,16.04 20.81,16 21,16 Z M10,3 L8,3 C8,3.19 7.96,3.37 7.94,3.56 L9.62,5.24 C9.87,4.54 10,3.78 10,3 Z M4.41,2.86 L3,4.27 L5.84,7.11 C5.03,7.67 4.06,8 3,8 L3,10 C4.61,10 6.09,9.45 7.27,8.54 L8.7,9.97 C7.14,11.24 5.16,12 3,12 L3,14 C5.72,14 8.2,13.01 10.11,11.38 L12.62,13.89 C10.99,15.81 10,18.29 10,21 L12,21 C12,18.84 12.76,16.86 14.03,15.3 L15.46,16.73 C14.55,17.91 14,19.39 14,21 L16,21 C16,19.94 16.33,18.97 16.89,18.16 L19.73,21 L21.14,19.59 L4.41,2.86 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

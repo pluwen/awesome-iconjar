@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>star_rate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-888.000000, -423.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-star_rate" transform="translate(782.000000, 318.000000)">
+                    <g>
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        <polygon id="Path" points="3 3 21 3 21 21 3 21"></polygon>
+                        <polygon id="🔹-Icon-Color" fill="#1D1D1D" points="12 14.3 15.71 17 14.29 12.64 18 10 13.45 10 12 5.5 10.55 10 6 10 9.71 12.64 8.29 17"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

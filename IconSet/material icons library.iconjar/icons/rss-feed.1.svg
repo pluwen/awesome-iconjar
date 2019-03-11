@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>rss_feed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-104.000000, -1308.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Outlined-/-Communication-/-rss_feed" transform="translate(0.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6.18,20 C4.97601925,20 4,19.0239808 4,17.82 C4,16.6160192 4.97601925,15.64 6.18,15.64 C7.38398075,15.64 8.36,16.6160192 8.36,17.82 C8.36,19.0239808 7.38398075,20 6.18,20 Z M4,4.44 C12.59,4.44 19.56,11.41 19.56,20 L16.73,20 C16.73,12.97 11.03,7.27 4,7.27 L4,4.44 Z M4,10.1 C9.47,10.1 13.9,14.53 13.9,20 L11.07,20 C11.07,16.1 7.9,12.93 4,12.93 L4,10.1 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

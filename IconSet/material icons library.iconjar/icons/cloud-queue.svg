@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud_queue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-304.000000, -2284.000000)">
+            <g id="File" transform="translate(100.000000, 2226.000000)">
+                <g id="Two-Tone-/-File-/-cloud_queue" transform="translate(204.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19,12 L17.5,12 L17.5,11.5 C17.5,8.46 15.04,6 12,6 C9.48,6 7.37,7.69 6.71,10 L6,10 C3.79,10 2,11.79 2,14 C2,16.21 3.79,18 6,18 L19,18 C20.66,18 22,16.66 22,15 C22,13.34 20.66,12 19,12 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M19.35,10.04 C18.67,6.59 15.64,4 12,4 C9.11,4 6.6,5.64 5.35,8.04 C2.34,8.36 0,10.91 0,14 C0,17.31 2.69,20 6,20 L19,20 C21.76,20 24,17.76 24,15 C24,12.36 21.95,10.22 19.35,10.04 Z M19,18 L6,18 C3.79,18 2,16.21 2,14 C2,11.79 3.79,10 6,10 L6.71,10 C7.37,7.69 9.48,6 12,6 C15.04,6 17.5,8.46 17.5,11.5 L17.5,12 L19,12 C20.66,12 22,13.34 22,15 C22,16.66 20.66,18 19,18 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

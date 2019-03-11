@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>camera_enhance</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-816.000000, -201.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-camera_enhance" transform="translate(714.000000, 98.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,5 L16.83,5 L15.59,3.65 C15.22,3.24 14.68,3 14.12,3 L9.88,3 C9.32,3 8.78,3.24 8.4,3.65 L7.17,5 L4,5 C2.9,5 2,5.9 2,7 L2,19 C2,20.1 2.9,21 4,21 L20,21 C21.1,21 22,20.1 22,19 L22,7 C22,5.9 21.1,5 20,5 Z M12,18 C9.24,18 7,15.76 7,13 C7,10.24 9.24,8 12,8 C14.76,8 17,10.24 17,13 C17,15.76 14.76,18 12,18 Z M12,9 L10.75,11.75 L8,13 L10.75,14.25 L12,17 L13.25,14.25 L16,13 L13.25,11.75 L12,9 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

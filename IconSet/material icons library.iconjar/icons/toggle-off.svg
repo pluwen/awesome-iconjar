@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="10px" viewBox="0 0 20 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>toggle_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-170.000000, -4327.000000)">
+            <g id="Toggle" transform="translate(100.000000, 4266.000000)">
+                <g id="-Round-/-Toggle-/-toggle_off" transform="translate(68.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17,7 L7,7 C4.24,7 2,9.24 2,12 C2,14.76 4.24,17 7,17 L17,17 C19.76,17 22,14.76 22,12 C22,9.24 19.76,7 17,7 Z M7,15 C5.34,15 4,13.66 4,12 C4,10.34 5.34,9 7,9 C8.66,9 10,10.34 10,12 C10,13.66 8.66,15 7,15 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

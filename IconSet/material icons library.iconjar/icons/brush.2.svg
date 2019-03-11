@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>brush</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-238.000000, -2683.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-brush" transform="translate(136.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M8,17 C8,16.45 7.55,16 7,16 C6.45,16 6,16.45 6,17 C6,17.74 5.81,18.4 5.5,18.95 C5.67,18.98 5.83,19 6,19 C7.1,19 8,18.1 8,17 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M11.75,15 L20.71,6.04 C21.1,5.65 21.1,5.02 20.71,4.63 L19.37,3.29 C19.17,3.09 18.92,3 18.67,3 C18.42,3 18.16,3.1 17.96,3.29 L9,12.25 L11.75,15 Z M6,21 C8.21,21 10,19.21 10,17 C10,15.34 8.66,14 7,14 C5.34,14 4,15.34 4,17 C4,18.31 2.84,19 2,19 C2.92,20.22 4.49,21 6,21 Z M6,17 C6,16.45 6.45,16 7,16 C7.55,16 8,16.45 8,17 C8,18.1 7.1,19 6,19 C5.83,19 5.67,18.98 5.5,18.95 C5.81,18.4 6,17.74 6,17 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

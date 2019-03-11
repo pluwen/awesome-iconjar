@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_shapes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-407.000000, -2103.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-format_shapes" transform="translate(306.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M23,6 L23,2 C23,1.45 22.55,1 22,1 L18,1 C17.45,1 17,1.45 17,2 L17,3 L7,3 L7,2 C7,1.45 6.55,1 6,1 L2,1 C1.45,1 1,1.45 1,2 L1,6 C1,6.55 1.45,7 2,7 L3,7 L3,17 L2,17 C1.45,17 1,17.45 1,18 L1,22 C1,22.55 1.45,23 2,23 L6,23 C6.55,23 7,22.55 7,22 L7,21 L17,21 L17,22 C17,22.55 17.45,23 18,23 L22,23 C22.55,23 23,22.55 23,22 L23,18 C23,17.45 22.55,17 22,17 L21,17 L21,7 L22,7 C22.55,7 23,6.55 23,6 Z M3,3 L5,3 L5,5 L3,5 L3,3 Z M5,21 L3,21 L3,19 L5,19 L5,21 Z M17,19 L7,19 L7,18 C7,17.45 6.55,17 6,17 L5,17 L5,7 L6,7 C6.55,7 7,6.55 7,6 L7,5 L17,5 L17,6 C17,6.55 17.45,7 18,7 L19,7 L19,17 L18,17 C17.45,17 17,17.45 17,18 L17,19 Z M21,21 L19,21 L19,19 L21,19 L21,21 Z M19,5 L19,3 L21,3 L21,5 L19,5 Z M12.94,7.65 C12.79,7.26 12.41,7 11.99,7 C11.57,7 11.19,7.26 11.05,7.65 L8.28,14.98 C8.09,15.47 8.45,16 8.98,16 C9.3,16 9.58,15.8 9.69,15.5 L10.24,14 L13.73,14 L14.29,15.51 C14.4,15.8 14.68,16 15,16 L15.01,16 C15.54,16 15.9,15.47 15.72,14.98 L12.94,7.65 Z M10.69,12.74 L12,8.91 L13.3,12.74 L10.69,12.74 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

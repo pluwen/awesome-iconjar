@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-305.000000, -1749.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Outlined-/-Device-/-mobile_off" transform="translate(204.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17,5 L17,13.61 L19,15.61 L19,3 C19,1.9 18.1,1 17,1 L7,1 C6.29,1 5.67,1.37 5.32,1.93 L8.39,5 L17,5 Z M1.49,3.76 L5,7.27 L5,21 C5,22.1 5.9,23 7,23 L17,23 C18.02,23 18.85,22.23 18.98,21.25 L20.7,22.97 L22.11,21.56 L2.9,2.35 L1.49,3.76 Z M7,9.27 L16.73,19 L7,19 L7,9.27 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

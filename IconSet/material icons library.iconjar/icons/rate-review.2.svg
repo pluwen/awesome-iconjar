@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>rate_review</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-544.000000, -3212.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Outlined-/-Maps-/-rate_review" transform="translate(442.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,2 L4,2 C2.9,2 2.01,2.9 2.01,4 L2,22 L6,18 L20,18 C21.1,18 22,17.1 22,16 L22,4 C22,2.9 21.1,2 20,2 Z M20,16 L5.17,16 L4.58,16.59 L4,17.17 L4,4 L20,4 L20,16 Z M10.5,14 L18,14 L18,12 L12.5,12 L10.5,14 Z M14.36,8.13 C14.56,7.93 14.56,7.62 14.36,7.42 L12.59,5.65 C12.39,5.45 12.08,5.45 11.88,5.65 L6,11.53 L6,14 L8.47,14 L14.36,8.13 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

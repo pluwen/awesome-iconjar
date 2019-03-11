@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>border_right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-545.000000, -2017.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Two-Tone-/-Editor-/-border_right" transform="translate(442.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,3 L5,3 L5,5 L3,5 L3,3 Z M3,19 L5,19 L5,21 L3,21 L3,19 Z M15,3 L17,3 L17,5 L15,5 L15,3 Z M15,19 L17,19 L17,21 L15,21 L15,19 Z M15,11 L17,11 L17,13 L15,13 L15,11 Z M3,15 L5,15 L5,17 L3,17 L3,15 Z M3,11 L5,11 L5,13 L3,13 L3,11 Z M3,7 L5,7 L5,9 L3,9 L3,7 Z M11,15 L13,15 L13,17 L11,17 L11,15 Z M7,11 L9,11 L9,13 L7,13 L7,11 Z M7,3 L9,3 L9,5 L7,5 L7,3 Z M19,3 L21,3 L21,21 L19,21 L19,3 Z M7,19 L9,19 L9,21 L7,21 L7,19 Z M11,3 L13,3 L13,5 L11,5 L11,3 Z M11,7 L13,7 L13,9 L11,9 L11,7 Z M11,11 L13,11 L13,13 L11,13 L11,11 Z M11,19 L13,19 L13,21 L11,21 L11,19 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

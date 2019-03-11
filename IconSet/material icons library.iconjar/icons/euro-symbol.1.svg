@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>euro_symbol</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-647.000000, -245.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-euro_symbol" transform="translate(544.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15,18.5 C12.49,18.5 10.32,17.08 9.24,15 L15,15 L15,13 L8.58,13 C8.53,12.67 8.5,12.34 8.5,12 C8.5,11.66 8.53,11.33 8.58,11 L15,11 L15,9 L9.24,9 C10.32,6.92 12.5,5.5 15,5.5 C16.61,5.5 18.09,6.09 19.23,7.07 L21,5.3 C19.41,3.87 17.3,3 15,3 C11.08,3 7.76,5.51 6.52,9 L3,9 L3,11 L6.06,11 C6.02,11.33 6,11.66 6,12 C6,12.34 6.02,12.67 6.06,13 L3,13 L3,15 L6.52,15 C7.76,18.49 11.08,21 15,21 C17.31,21 19.41,20.13 21,18.7 L19.22,16.93 C18.09,17.91 16.62,18.5 15,18.5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>power_settings_new</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-307.000000, -377.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-power_settings_new" transform="translate(204.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,3 C11.45,3 11,3.45 11,4 L11,12 C11,12.55 11.45,13 12,13 C12.55,13 13,12.55 13,12 L13,4 C13,3.45 12.55,3 12,3 Z M17.14,5.86 C16.75,6.25 16.76,6.86 17.13,7.25 C18.26,8.45 18.96,10.05 19,11.82 C19.09,15.65 15.92,18.95 12.09,18.99 C8.18,19.05 5,15.9 5,12 C5,10.16 5.71,8.49 6.87,7.24 C7.24,6.85 7.24,6.24 6.86,5.86 C6.46,5.46 5.81,5.47 5.43,5.88 C3.98,7.42 3.07,9.47 3,11.74 C2.86,16.62 6.83,20.84 11.71,20.99 C16.81,21.15 21,17.06 21,11.99 C21,9.62 20.08,7.48 18.58,5.88 C18.2,5.47 17.54,5.46 17.14,5.86 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

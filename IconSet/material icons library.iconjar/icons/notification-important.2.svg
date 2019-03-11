@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>notification_important</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-205.000000, -729.000000)">
+            <g id="Alert" transform="translate(100.000000, 674.000000)">
+                <g id="Outlined-/-Alert-/-notification_important" transform="translate(102.000000, 54.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-3" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M10.01,21.01 C10.01,22.11 10.9,23 12,23 C13.1,23 13.99,22.11 13.99,21.01 L10.01,21.01 Z M12,6 C14.76,6 17,8.24 17,11 L17,18 L7,18 L7,11 C7,8.24 9.24,6 12,6 Z M12,1.5 C11.17,1.5 10.5,2.17 10.5,3 L10.5,4.17 C7.36,4.85 5,7.65 5,11 L5,17 L3,19 L3,20 L21,20 L21,19 L19,17 L19,11 C19,7.65 16.64,4.85 13.5,4.17 L13.5,3 C13.5,2.17 12.83,1.5 12,1.5 Z M11,8 L13,8 L13,12 L11,12 L11,8 Z M11,14 L13,14 L13,16 L11,16 L11,14 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

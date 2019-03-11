@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>straighten</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-713.000000, -2686.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-straighten" transform="translate(612.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21,6 L3,6 C1.9,6 1,6.9 1,8 L1,16 C1,17.1 1.9,18 3,18 L21,18 C22.1,18 23,17.1 23,16 L23,8 C23,6.9 22.1,6 21,6 Z M20,16 L4,16 C3.45,16 3,15.55 3,15 L3,9 C3,8.45 3.45,8 4,8 L5,8 L5,11 C5,11.55 5.45,12 6,12 C6.55,12 7,11.55 7,11 L7,8 L9,8 L9,11 C9,11.55 9.45,12 10,12 C10.55,12 11,11.55 11,11 L11,8 L13,8 L13,11 C13,11.55 13.45,12 14,12 C14.55,12 15,11.55 15,11 L15,8 L17,8 L17,11 C17,11.55 17.45,12 18,12 C18.55,12 19,11.55 19,11 L19,8 L20,8 C20.55,8 21,8.45 21,9 L21,15 C21,15.55 20.55,16 20,16 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

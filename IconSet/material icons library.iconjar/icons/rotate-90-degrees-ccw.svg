@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>rotate_90_degrees_ccw</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-134.000000, -2856.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-rotate_90_degrees_ccw" transform="translate(34.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7.34,6.41 L0.86,12.9 L7.35,19.38 L13.84,12.9 L7.34,6.41 Z M3.69,12.9 L7.35,9.24 L11,12.9 L7.34,16.56 L3.69,12.9 Z M19.36,6.64 C17.61,4.88 15.3,4 13,4 L13,0.76 L8.76,5 L13,9.24 L13,6 C14.79,6 16.58,6.68 17.95,8.05 C20.68,10.78 20.68,15.22 17.95,17.95 C16.58,19.32 14.79,20 13,20 C12.03,20 11.06,19.79 10.16,19.39 L8.67,20.88 C10.02,21.62 11.51,22 13,22 C15.3,22 17.61,21.12 19.36,19.36 C22.88,15.85 22.88,10.15 19.36,6.64 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

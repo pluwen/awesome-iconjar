@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="19px" viewBox="0 0 24 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>signal_wifi_4_bar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-100.000000, -1795.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Outlined-/-Device-/-signal_wifi_4_bar" transform="translate(0.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12.01,21.49 L23.64,7 C23.19,6.66 18.71,3 12,3 C5.28,3 0.81,6.66 0.36,7 L11.99,21.49 L12,21.5 L12.01,21.49 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

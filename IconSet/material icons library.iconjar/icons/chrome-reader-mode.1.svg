@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="17px" viewBox="0 0 22 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>chrome_reader_mode</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-441.000000, -202.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-chrome_reader_mode" transform="translate(340.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="3 6 11 6 11 19 3 19"></polygon>
+                        <path d="M21,4 L3,4 C1.9,4 1,4.9 1,6 L1,19 C1,20.1 1.9,21 3,21 L21,21 C22.1,21 23,20.1 23,19 L23,6 C23,4.9 22.1,4 21,4 Z M11,19 L3,19 L3,6 L11,6 L11,19 Z M21,19 L13,19 L13,6 L21,6 L21,19 Z M14,9.5 L20,9.5 L20,11 L14,11 L14,9.5 Z M14,12 L20,12 L20,13.5 L14,13.5 L14,12 Z M14,14.5 L20,14.5 L20,16 L14,16 L14,14.5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

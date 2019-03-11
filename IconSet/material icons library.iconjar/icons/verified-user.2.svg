@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>verified_user</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-579.000000, -507.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-verified_user" transform="translate(476.000000, 406.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,1 L3,5 L3,11 C3,16.55 6.84,21.74 12,23 C17.16,21.74 21,16.55 21,11 L21,5 L12,1 Z M19,11 C19,15.52 16.02,19.69 12,20.93 C7.98,19.69 5,15.52 5,11 L5,6.3 L12,3.19 L19,6.3 L19,11 Z M7.41,11.59 L6,13 L10,17 L18,9 L16.59,7.58 L10,14.17 L7.41,11.59 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                        <path d="M5,6.3 L5,11 C5,15.52 7.98,19.69 12,20.93 C16.02,19.7 19,15.52 19,11 L19,6.3 L12,3.19 L5,6.3 Z M18,9 L10,17 L6,13 L7.41,11.59 L10,14.17 L16.59,7.58 L18,9 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

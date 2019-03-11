@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_input_antenna</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-339.000000, -551.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-settings_input_antenna" transform="translate(238.000000, 450.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,5 C8.13,5 5,8.13 5,12 L7,12 C7,9.24 9.24,7 12,7 C14.76,7 17,9.24 17,12 L19,12 C19,8.13 15.87,5 12,5 Z M13,14.29 C13.88,13.9 14.5,13.03 14.5,12 C14.5,10.62 13.38,9.5 12,9.5 C10.62,9.5 9.5,10.62 9.5,12 C9.5,13.02 10.12,13.9 11,14.29 L11,17.59 L7.59,21 L9,22.41 L12,19.41 L15,22.41 L16.41,21 L13,17.59 L13,14.29 Z M12,1 C5.93,1 1,5.93 1,12 L3,12 C3,7.03 7.03,3 12,3 C16.97,3 21,7.03 21,12 L23,12 C23,5.93 18.07,1 12,1 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

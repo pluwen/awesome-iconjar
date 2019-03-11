@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="14px" viewBox="0 0 17 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>view_list</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-103.000000, -467.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-view_list" transform="translate(0.000000, 362.000000)">
+                    <g>
+                        <polygon id="Path" opacity="0.87" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M5,11 L7,11 L7,13 L5,13 L5,11 Z M5,15 L7,15 L7,17 L5,17 L5,15 Z M5,7 L7,7 L7,9 L5,9 L5,7 Z M9,7 L18,7 L18,9 L9,9 L9,7 Z M9,15 L18,15 L18,17 L9,17 L9,15 Z M9,11 L18,11 L18,13 L9,13 L9,11 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M3,5 L3,19 L20,19 L20,5 L3,5 Z M7,17 L5,17 L5,15 L7,15 L7,17 Z M7,13 L5,13 L5,11 L7,11 L7,13 Z M7,9 L5,9 L5,7 L7,7 L7,9 Z M18,17 L9,17 L9,15 L18,15 L18,17 Z M18,13 L9,13 L9,11 L18,11 L18,13 Z M18,9 L9,9 L9,7 L18,7 L18,9 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

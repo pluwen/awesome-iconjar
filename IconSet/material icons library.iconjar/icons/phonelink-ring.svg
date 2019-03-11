@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>phonelink_ring</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-646.000000, -1261.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-phonelink_ring" transform="translate(544.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,1 L4,1 C2.9,1 2,1.9 2,3 L2,21 C2,22.1 2.9,23 4,23 L14,23 C15.1,23 16,22.1 16,21 L16,3 C16,1.9 15.1,1 14,1 Z M14,20 L4,20 L4,4 L14,4 L14,20 Z M20.63,8.26 C20.37,7.94 19.89,7.9 19.59,8.2 L19.56,8.23 C19.31,8.48 19.3,8.88 19.51,9.16 C20.77,10.8 20.76,13.03 19.49,14.73 C19.28,15.01 19.3,15.4 19.54,15.65 L19.59,15.7 C19.88,15.99 20.35,15.96 20.62,15.65 C22.42,13.52 22.42,10.46 20.63,8.26 Z M17.42,10.37 L17.36,10.43 C17.16,10.63 17.1,10.93 17.21,11.19 C17.42,11.68 17.42,12.22 17.21,12.71 C17.1,12.97 17.16,13.27 17.36,13.47 L17.44,13.55 C17.76,13.87 18.31,13.8 18.53,13.4 C19.02,12.51 19.02,11.46 18.52,10.54 C18.3,10.12 17.75,10.04 17.42,10.37 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

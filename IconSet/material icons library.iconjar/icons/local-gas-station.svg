@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_gas_station</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-819.000000, -3125.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="-Round-/-Maps-/-local_gas_station" transform="translate(715.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.77,7.23 L19.78,7.22 L16.59,4.03 C16.3,3.74 15.82,3.74 15.53,4.03 C15.24,4.32 15.24,4.8 15.53,5.09 L17.11,6.67 C16.06,7.07 15.35,8.14 15.53,9.38 C15.69,10.48 16.63,11.37 17.73,11.49 C18.2,11.54 18.61,11.46 19,11.29 L19,18.5 C19,19.05 18.55,19.5 18,19.5 C17.45,19.5 17,19.05 17,18.5 L17,14 C17,12.9 16.1,12 15,12 L14,12 L14,5 C14,3.9 13.1,3 12,3 L6,3 C4.9,3 4,3.9 4,5 L4,20 C4,20.55 4.45,21 5,21 L13,21 C13.55,21 14,20.55 14,20 L14,13.5 L15.5,13.5 L15.5,18.36 C15.5,19.67 16.44,20.86 17.74,20.99 C19.24,21.14 20.5,19.97 20.5,18.5 L20.5,9 C20.5,8.31 20.22,7.68 19.77,7.23 Z M12,10 L6,10 L6,6 C6,5.45 6.45,5 7,5 L11,5 C11.55,5 12,5.45 12,6 L12,10 Z M18,10 C17.45,10 17,9.55 17,9 C17,8.45 17.45,8 18,8 C18.55,8 19,8.45 19,9 C19,9.55 18.55,10 18,10 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

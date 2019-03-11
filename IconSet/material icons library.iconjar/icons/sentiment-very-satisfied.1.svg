@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sentiment_very_satisfied</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-850.000000, -4100.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="-Round-/-Social-/-sentiment_very_satisfied" transform="translate(748.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M8.88,9.94 L9.41,10.47 C9.7,10.76 10.18,10.76 10.47,10.47 C10.76,10.18 10.76,9.7 10.47,9.41 L9.59,8.53 C9.2,8.14 8.57,8.14 8.18,8.53 L7.29,9.41 C7,9.7 7,10.18 7.29,10.47 C7.58,10.76 8.06,10.76 8.35,10.47 L8.88,9.94 Z M12,17.5 C14.03,17.5 15.8,16.39 16.75,14.75 C16.94,14.42 16.7,14 16.31,14 L7.69,14 C7.31,14 7.06,14.42 7.25,14.75 C8.2,16.39 9.97,17.5 12,17.5 Z M13.53,10.47 C13.82,10.76 14.3,10.76 14.59,10.47 L15.12,9.94 L15.65,10.47 C15.94,10.76 16.42,10.76 16.71,10.47 C17,10.18 17,9.7 16.71,9.41 L15.83,8.53 C15.44,8.14 14.81,8.14 14.42,8.53 L13.54,9.41 C13.24,9.7 13.24,10.18 13.53,10.47 Z M11.99,2 C6.47,2 2,6.47 2,12 C2,17.53 6.47,22 11.99,22 C17.51,22 22,17.53 22,12 C22,6.47 17.52,2 11.99,2 Z M12,20 C7.58,20 4,16.42 4,12 C4,7.58 7.58,4 12,4 C16.42,4 20,7.58 20,12 C20,16.42 16.42,20 12,20 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="8px" viewBox="0 0 21 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>redo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-713.000000, -1534.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="-Round-/-Content-/-redo" transform="translate(612.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18.4,10.6 C16.55,8.99 14.15,8 11.5,8 C7.34,8 3.76,10.42 2.06,13.93 C1.74,14.6 2.1,15.4 2.81,15.64 C3.4,15.84 4.04,15.56 4.31,15 C5.61,12.34 8.34,10.5 11.5,10.5 C13.45,10.5 15.23,11.22 16.62,12.38 L14.71,14.29 C14.08,14.92 14.52,16 15.41,16 L21,16 C21.55,16 22,15.55 22,15 L22,9.41 C22,8.52 20.92,8.07 20.29,8.7 L18.4,10.6 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="21px" viewBox="0 0 17 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>touch_app</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-443.000000, -507.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-touch_app" transform="translate(340.000000, 406.000000)">
+                    <g>
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M18.12,12.44 L14.88,10.82 C16.17,9.82 17,8.26 17,6.5 C17,3.47 14.53,1 11.5,1 C8.47,1 6,3.47 6,6.5 C6,8.63 7.22,10.48 9,11.39 L9,14.65 L7.16,14.26 L7.06,14.24 C6.96,14.22 6.86,14.21 6.74,14.21 C6.21,14.21 5.71,14.42 5.33,14.8 L3.93,16.22 L9.02,21.31 C9.45,21.75 10.05,22 10.67,22 L16.97,22 C17.95,22 18.78,21.3 18.94,20.33 L19.74,15.62 C19.96,14.32 19.31,13.04 18.12,12.44 Z M17.77,15.29 L16.97,20 L10.67,20 C10.58,20 10.5,19.96 10.43,19.9 L6.75,16.22 L11,17.11 L11,6.5 C11,6.22 11.22,6 11.5,6 C11.78,6 12,6.22 12,6.5 L12,12.5 L13.76,12.5 L17.22,14.23 C17.62,14.43 17.84,14.86 17.77,15.29 Z M8,6.5 C8,4.57 9.57,3 11.5,3 C13.43,3 15,4.57 15,6.5 C15,7.45 14.62,8.31 14,8.94 L14,6.5 C14,5.12 12.88,4 11.5,4 C10.12,4 9,5.12 9,6.5 L9,8.94 C8.38,8.31 8,7.45 8,6.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

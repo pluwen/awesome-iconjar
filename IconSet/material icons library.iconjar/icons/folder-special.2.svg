@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>folder_special</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-340.000000, -3658.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Two-Tone-/-Notification-/-folder_special" transform="translate(238.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.17,8 L9.17,6 L4,6 L4,18 L20,18 L20,8 L11.17,8 Z M15,9 L16.19,11.79 L19.22,12.05 L16.92,14.04 L17.61,17 L15,15.47 L12.39,17 L13.08,14.04 L10.78,12.05 L13.81,11.79 L15,9 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M20,6 L12,6 L10,4 L4,4 C2.9,4 2,4.9 2,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,8 C22,6.9 21.1,6 20,6 Z M20,18 L4,18 L4,6 L9.17,6 L11.17,8 L20,8 L20,18 Z M13.08,14.04 L12.39,17 L15,15.47 L17.61,17 L16.92,14.04 L19.22,12.05 L16.19,11.79 L15,9 L13.81,11.79 L10.78,12.05 L13.08,14.04 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

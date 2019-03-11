@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud_done</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-406.000000, -2284.000000)">
+            <g id="File" transform="translate(100.000000, 2226.000000)">
+                <g id="-Round-/-File-/-cloud_done" transform="translate(306.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.35,10.04 C18.67,6.59 15.64,4 12,4 C9.11,4 6.6,5.64 5.35,8.04 C2.34,8.36 0,10.91 0,14 C0,17.31 2.69,20 6,20 L19,20 C21.76,20 24,17.76 24,15 C24,12.36 21.95,10.22 19.35,10.04 Z M10.71,16.29 C10.32,16.68 9.69,16.68 9.3,16.29 L7.2,14.2 C6.81,13.81 6.81,13.18 7.2,12.79 C7.59,12.4 8.22,12.4 8.61,12.79 L10,14.18 L14.48,9.7 C14.87,9.31 15.5,9.31 15.89,9.7 C16.28,10.09 16.28,10.72 15.89,11.11 L10.71,16.29 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

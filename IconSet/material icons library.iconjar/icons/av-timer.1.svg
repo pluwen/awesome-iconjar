@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>av_timer</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-749.000000, -909.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="Two-Tone-/-AV-/-av_timer" transform="translate(646.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,21 C7.02,21 3,16.97 3,12 C3,9.05 4.42,6.45 6.61,4.81 L6.61,4.79 L13.41,11.59 L12,13 L6.58,7.58 C5.59,8.78 5,10.32 5,12 C5,15.87 8.13,19 12,19 C15.87,19 19,15.87 19,12 C19,8.47 16.39,5.57 13,5.08 L13,7 L11,7 L11,3 L12,3 C16.97,3 21,7.03 21,12 C21,16.97 16.97,21 12,21 Z M12,18 C11.4477153,18 11,17.5522847 11,17 C11,16.4477153 11.4477153,16 12,16 C12.5522847,16 13,16.4477153 13,17 C13,17.5522847 12.5522847,18 12,18 Z M17,13 C16.4477153,13 16,12.5522847 16,12 C16,11.4477153 16.4477153,11 17,11 C17.5522847,11 18,11.4477153 18,12 C18,12.5522847 17.5522847,13 17,13 Z M7,13 C6.44771525,13 6,12.5522847 6,12 C6,11.4477153 6.44771525,11 7,11 C7.55228475,11 8,11.4477153 8,12 C8,12.5522847 7.55228475,13 7,13 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

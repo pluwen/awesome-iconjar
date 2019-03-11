@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="23px" viewBox="0 0 16 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_remote</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-818.000000, -418.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-settings_remote" transform="translate(714.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M10,21 L14,21 L14,11 L10,11 L10,21 Z M12,12 C12.55,12 13,12.45 13,13 C13,13.55 12.55,14 12,14 C11.45,14 11,13.55 11,13 C11,12.45 11.45,12 12,12 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M15,9 C15.55,9 16,9.45 16,10 L16,22 C16,22.55 15.55,23 15,23 L9,23 C8.45,23 8,22.55 8,22 L8,10 C8,9.45 8.45,9 9,9 L15,9 Z M14,21 L14,11 L10,11 L10,21 L14,21 Z M12,14 C11.4477153,14 11,13.5522847 11,13 C11,12.4477153 11.4477153,12 12,12 C12.5522847,12 13,12.4477153 13,13 C13,13.5522847 12.5522847,14 12,14 Z M7.05,6.05 C8.32,4.78 10.07,4 12,4 C13.93,4 15.68,4.78 16.95,6.05 L15.54,7.46 C14.63,6.56 13.38,6 12,6 C10.62,6 9.37,6.56 8.46,7.46 L7.05,6.05 Z M12,1.82076576e-14 C15.04,1.82076576e-14 17.79,1.23 19.77,3.23 L18.36,4.64 C16.74,3.01 14.49,2 12,2 C9.51,2 7.26,3.01 5.63,4.63 L4.22,3.22 C6.21,1.23 8.96,1.82076576e-14 12,1.82076576e-14 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

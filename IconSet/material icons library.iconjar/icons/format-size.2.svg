@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_size</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-375.000000, -2106.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-format_size" transform="translate(272.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M9,5.5 C9,6.33 9.67,7 10.5,7 L14,7 L14,17.5 C14,18.33 14.67,19 15.5,19 C16.33,19 17,18.33 17,17.5 L17,7 L20.5,7 C21.33,7 22,6.33 22,5.5 C22,4.67 21.33,4 20.5,4 L10.5,4 C9.67,4 9,4.67 9,5.5 Z M4.5,12 L6,12 L6,17.5 C6,18.33 6.67,19 7.5,19 C8.33,19 9,18.33 9,17.5 L9,12 L10.5,12 C11.33,12 12,11.33 12,10.5 C12,9.67 11.33,9 10.5,9 L4.5,9 C3.67,9 3,9.67 3,10.5 C3,11.33 3.67,12 4.5,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

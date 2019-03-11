@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>work_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-782.000000, -508.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-work_off" transform="translate(680.000000, 406.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4.11,2.54 C3.72,2.15 3.09,2.15 2.7,2.54 C2.31,2.93 2.31,3.56 2.7,3.95 L4.74,6 L4,6 C2.89,6 2.01,6.89 2.01,8 L2,19 C2,20.11 2.89,21 4,21 L19.74,21 L21.03,22.29 C21.42,22.68 22.05,22.68 22.44,22.29 C22.83,21.9 22.83,21.27 22.44,20.88 L4.11,2.54 Z M10,4 L14,4 L14,6 L10.4,6 L22,17.6 L22,8 C22,6.89 21.11,6 20,6 L16,6 L16,4 C16,2.89 15.11,2 14,2 L10,2 C9.01,2 8.2,2.7 8.04,3.64 L10,5.6 L10,4 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

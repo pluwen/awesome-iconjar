@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>text_rotate_up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-137.000000, -466.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-text_rotate_up" transform="translate(34.000000, 362.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M18.35,4.35 C18.15,4.15 17.84,4.15 17.64,4.35 L15.85,6.14 C15.54,6.46 15.76,7 16.21,7 L17,7 L17,19 C17,19.55 17.45,20 18,20 C18.55,20 19,19.55 19,19 L19,7 L19.79,7 C20.24,7 20.46,6.46 20.14,6.15 L18.35,4.35 Z M11.8,15.5 L11.8,10.5 L13.4,9.84 C13.76,9.7 14,9.35 14,8.96 C14,8.27 13.29,7.81 12.66,8.08 L3.69,11.96 C3.27,12.13 3,12.54 3,13 C3,13.46 3.27,13.87 3.69,14.05 L12.66,17.93 C13.29,18.2 14,17.73 14,17.04 C14,16.65 13.76,16.3 13.4,16.15 L11.8,15.5 Z M4.98,13 L10,11.13 L10,14.87 L4.98,13 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

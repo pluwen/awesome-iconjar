@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_input_antenna</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-747.000000, -419.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-settings_input_antenna" transform="translate(646.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,5 C8.52,5 5.63,7.54 5.09,10.87 C4.99,11.46 5.48,12 6.09,12 C6.58,12 6.99,11.64 7.07,11.15 C7.48,8.79 9.53,7 12,7 C14.47,7 16.52,8.79 16.93,11.15 C17.01,11.64 17.42,12 17.91,12 C18.52,12 19,11.46 18.9,10.87 C18.37,7.54 15.48,5 12,5 Z M13,14.29 C14.07,13.81 14.76,12.63 14.41,11.3 C14.19,10.49 13.54,9.83 12.73,9.6 C11.04,9.12 9.5,10.38 9.5,12 C9.5,13.02 10.12,13.9 11,14.29 L11,17.59 L8.29,20.29 C7.9,20.68 7.9,21.31 8.29,21.7 C8.68,22.09 9.31,22.09 9.7,21.7 L12,19.4 L14.3,21.7 C14.69,22.09 15.32,22.09 15.71,21.7 C16.1,21.31 16.1,20.68 15.71,20.29 L13,17.59 L13,14.29 Z M12,1 C6.3,1 1.61,5.34 1.05,10.9 C1,11.49 1.46,12 2.05,12 C2.56,12 2.99,11.62 3.04,11.12 C3.48,6.56 7.33,3 12,3 C16.67,3 20.52,6.56 20.96,11.12 C21.01,11.62 21.44,12 21.95,12 C22.54,12 23.01,11.49 22.95,10.9 C22.39,5.34 17.7,1 12,1 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

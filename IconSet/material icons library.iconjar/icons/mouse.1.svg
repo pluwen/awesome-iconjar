@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mouse</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-308.000000, -2503.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="-Round-/-Hardware-/-mouse" transform="translate(204.000000, 98.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-118" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M13,1.07 L13,9 L20,9 C20,4.92 16.95,1.56 13,1.07 Z M4,15 C4,19.42 7.58,23 12,23 C16.42,23 20,19.42 20,15 L20,11 L4,11 L4,15 Z M11,1.07 C7.05,1.56 4,4.92 4,9 L11,9 L11,1.07 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

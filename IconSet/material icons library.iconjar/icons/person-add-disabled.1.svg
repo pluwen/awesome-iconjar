@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>person_add_disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-440.000000, -1261.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Two-Tone-/-Communication-/-person_add_disabled" transform="translate(340.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M9,18 L14.87,18 L13,16.13 L11.9,16.43 C9.89,16.99 9.08,17.76 9,18 Z M17,8 C17,6.9 16.1,6 15,6 C14.01,6 13.19,6.72 13.03,7.67 L15.34,9.98 C16.27,9.82 17,8.99 17,8 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M14.48,11.95 C14.65,11.97 14.82,12 15,12 C17.21,12 19,10.21 19,8 C19,5.79 17.21,4 15,4 C12.79,4 11,5.79 11,8 C11,8.18 11.03,8.35 11.05,8.52 L14.48,11.95 Z M15,6 C16.1,6 17,6.9 17,8 C17,8.99 16.27,9.82 15.33,9.97 L13.02,7.66 C13.19,6.72 14.01,6 15,6 Z M16.69,14.16 L22.53,20 L23,20 L23,18 C23,15.86 19.44,14.5 16.69,14.16 Z M0,3.12 L4,7.12 L4,10 L1,10 L1,12 L4,12 L4,15 L6,15 L6,12 L8.88,12 L11.39,14.51 C9.19,15.11 7,16.3 7,18 L7,20 L16.88,20 L20.88,24 L22.29,22.59 L1.41,1.71 L0,3.12 Z M13.01,16.13 L14.88,18 L9,18 C9.08,17.76 9.88,16.99 11.91,16.43 L13.01,16.13 Z M6,9.12 L6.88,10 L6,10 L6,9.12 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

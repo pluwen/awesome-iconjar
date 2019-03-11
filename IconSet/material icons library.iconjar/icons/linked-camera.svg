@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>linked_camera</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-340.000000, -2902.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-linked_camera" transform="translate(238.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,17 C10.3431458,17 9,15.6568542 9,14 C9,12.3431458 10.3431458,11 12,11 C13.6568542,11 15,12.3431458 15,14 C15,15.6568542 13.6568542,17 12,17 Z M16.6,3.37 C16.26,3.33 16,3.05 16,2.71 C16,2.32 16.34,2 16.73,2.05 C19.45,2.38 21.62,4.55 21.95,7.27 C22,7.66 21.68,8 21.29,8 C20.95,8 20.67,7.74 20.63,7.4 C20.37,5.3 18.7,3.64 16.6,3.37 Z M19.23,7.19 C19.33,7.6 19.01,8 18.58,8 C18.28,8 18.01,7.81 17.94,7.52 C17.77,6.8 17.2,6.24 16.48,6.06 C16.19,5.99 16,5.71 16,5.42 C16,4.99 16.4,4.67 16.81,4.77 C18,5.07 18.93,6 19.23,7.19 Z M17,9 L20,9 C21.1,9 22,9.9 22,11 L22,20 C22,21.1 21.1,22 20,22 L4,22 C2.9,22 2,21.1 2,20 L2,8 C2,6.9 2.9,6 4,6 L7.17,6 L8.4,4.65 C8.78,4.24 9.32,4 9.88,4 L14,4 C14.55,4 15,4.45 15,5 L15,7 C16.1,7 17,7.9 17,9 Z M12,19 C14.76,19 17,16.76 17,14 C17,11.24 14.76,9 12,9 C9.24,9 7,11.24 7,14 C7,16.76 9.24,19 12,19 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

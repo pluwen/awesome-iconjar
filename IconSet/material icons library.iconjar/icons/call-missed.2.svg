@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>call_missed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-307.000000, -1223.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-call_missed" transform="translate(204.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)" id="Path">
+                        <polygon points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18.89,7.7 L12,14.59 L6.41,9 L10,9 C10.55,9 11,8.55 11,8 C11,7.45 10.55,7 10,7 L4,7 C3.45,7 3,7.45 3,8 L3,14 C3,14.55 3.45,15 4,15 C4.55,15 5,14.55 5,14 L5,10.41 L11.29,16.7 C11.68,17.09 12.31,17.09 12.7,16.7 L20.29,9.11 C20.68,8.72 20.68,8.09 20.29,7.7 C19.91,7.32 19.27,7.32 18.89,7.7 Z" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

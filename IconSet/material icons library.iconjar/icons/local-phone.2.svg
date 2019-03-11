@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_phone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-307.000000, -3169.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-local_phone" transform="translate(204.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19,17.47 C18.12,17.4 17.25,17.25 16.4,17.02 L15.21,18.21 C16.41,18.62 17.69,18.88 19.01,18.96 L19.01,17.47 L19,17.47 Z M6.99,7.59 C6.75,6.76 6.6,5.89 6.54,5 L5.04,5 C5.13,6.32 5.39,7.59 5.79,8.8 L6.99,7.59 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M3,4 C3,13.39 10.61,21 20,21 C20.55,21 21,20.55 21,20 L21,16.51 C21,15.96 20.55,15.51 20,15.51 C18.76,15.51 17.55,15.31 16.43,14.94 C16.33,14.9 16.22,14.89 16.12,14.89 C15.86,14.89 15.61,14.99 15.41,15.18 L13.21,17.38 C10.38,15.93 8.06,13.62 6.62,10.79 L8.82,8.59 C9.1,8.31 9.18,7.92 9.07,7.57 C8.7,6.45 8.5,5.25 8.5,4 C8.5,3.45 8.05,3 7.5,3 L4,3 C3.45,3 3,3.45 3,4 Z M16.4,17.02 C17.25,17.26 18.12,17.41 19,17.47 L19,18.96 C17.68,18.87 16.41,18.61 15.2,18.21 L16.4,17.02 Z M6.54,5 C6.6,5.89 6.75,6.76 6.99,7.59 L5.79,8.79 C5.38,7.59 5.12,6.32 5.03,5 L6.54,5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

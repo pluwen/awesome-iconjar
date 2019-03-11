@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>fiber_pin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-306.000000, -910.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="Two-Tone-/-AV-/-fiber_pin" transform="translate(204.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="4 6 20 6 20 18 4 18"></polygon>
+                        <path d="M5,14.62 L5,9.37 L8.06,9.37 C8.8,9.37 9.37,9.94 9.37,10.68 L9.37,11.56 C9.37,12.3 8.8,12.87 8.06,12.87 L6.31,12.87 L6.31,14.62 L5,14.62 Z M6.31,10.69 L6.31,11.57 L8.06,11.57 L8.06,10.69 L6.31,10.69 Z M11.34,9.38 L12.65,9.38 L12.65,14.63 L11.34,14.63 L11.34,9.38 Z M14.62,14.62 L14.62,9.38 L15.72,9.38 L17.91,12.44 L17.91,9.38 L19,9.38 L19,14.62 L17.95,14.62 L15.72,11.56 L15.72,14.62 L14.62,14.62 Z M20,4 C21.11,4 22,4.89 22,6 L22,18 C22,19.11 21.11,20 20,20 L4,20 C2.89,20 2,19.11 2,18 L2.01,6 C2.01,4.89 2.89,4 4,4 L20,4 Z M20,18 L20,6 L4,6 L4,18 L20,18 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

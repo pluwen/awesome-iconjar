@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>brightness_7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-169.000000, -2681.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-brightness_7" transform="translate(68.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,8.69 L20,5 C20,4.45 19.55,4 19,4 L15.31,4 L12.71,1.4 C12.32,1.01 11.69,1.01 11.3,1.4 L8.69,4 L5,4 C4.45,4 4,4.45 4,5 L4,8.69 L1.4,11.29 C1.01,11.68 1.01,12.31 1.4,12.7 L4,15.3 L4,19 C4,19.55 4.45,20 5,20 L8.69,20 L11.29,22.6 C11.68,22.99 12.31,22.99 12.7,22.6 L15.3,20 L19,20 C19.55,20 20,19.55 20,19 L20,15.31 L22.6,12.71 C22.99,12.32 22.99,11.69 22.6,11.3 L20,8.69 Z M12,18 C8.69,18 6,15.31 6,12 C6,8.69 8.69,6 12,6 C15.31,6 18,8.69 18,12 C18,15.31 15.31,18 12,18 Z M12,8 C9.79,8 8,9.79 8,12 C8,14.21 9.79,16 12,16 C14.21,16 16,14.21 16,12 C16,9.79 14.21,8 12,8 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

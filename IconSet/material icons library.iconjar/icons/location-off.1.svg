@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="20px" viewBox="0 0 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>location_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-680.000000, -1262.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Outlined-/-Communication-/-location_off" transform="translate(578.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,4 C14.76,4 17,6.24 17,9 C17,10.06 16.61,11.32 16,12.62 L17.49,14.11 C18.37,12.36 19,10.57 19,9 C19,5.13 15.87,2 12,2 C10.16,2 8.5,2.71 7.25,3.86 L8.68,5.29 C9.56,4.5 10.72,4 12,4 Z M12,6.5 C11.41,6.5 10.87,6.71 10.44,7.06 L13.94,10.56 C14.29,10.13 14.5,9.59 14.5,9 C14.5,7.62 13.38,6.5 12,6.5 Z M3.41,2.86 L2,4.27 L5.18,7.45 C5.07,7.95 5,8.47 5,9 C5,14.25 12,22 12,22 C12,22 13.67,20.15 15.38,17.65 L18.73,21 L20.14,19.59 L3.41,2.86 Z M12,18.88 C9.99,16.3 7.2,12.14 7.02,9.29 L13.94,16.21 C13.29,17.19 12.61,18.1 12,18.88 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

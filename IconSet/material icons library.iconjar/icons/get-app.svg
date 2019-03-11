@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="17px" viewBox="0 0 14 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>get_app</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-751.000000, -289.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-get_app" transform="translate(646.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16.59,9 L15,9 L15,4 C15,3.45 14.55,3 14,3 L10,3 C9.45,3 9,3.45 9,4 L9,9 L7.41,9 C6.52,9 6.07,10.08 6.7,10.71 L11.29,15.3 C11.68,15.69 12.31,15.69 12.7,15.3 L17.29,10.71 C17.92,10.08 17.48,9 16.59,9 Z M5,19 C5,19.55 5.45,20 6,20 L18,20 C18.55,20 19,19.55 19,19 C19,18.45 18.55,18 18,18 L6,18 C5.45,18 5,18.45 5,19 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

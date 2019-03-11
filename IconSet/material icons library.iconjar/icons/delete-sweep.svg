@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>delete_sweep</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-544.000000, -1486.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="Two-Tone-/-Content-/-delete_sweep" transform="translate(442.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="5 10 11 10 11 18 5 18"></polygon>
+                        <path d="M15,16 L19,16 L19,18 L15,18 L15,16 Z M15,8 L22,8 L22,10 L15,10 L15,8 Z M15,12 L21,12 L21,14 L15,14 L15,12 Z M3,18 C3,19.1 3.9,20 5,20 L11,20 C12.1,20 13,19.1 13,18 L13,8 L3,8 L3,18 Z M5,10 L11,10 L11,18 L5,18 L5,10 Z M10,4 L6,4 L5,5 L2,5 L2,7 L14,7 L14,5 L11,5 L10,4 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

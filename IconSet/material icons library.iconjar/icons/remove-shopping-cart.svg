@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>remove_shopping_cart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-644.000000, -375.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-remove_shopping_cart" transform="translate(544.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M1.41,1.13 L22.87,22.59 L21.46,24 L18.62,21.16 C18.26,21.67 17.67,22 17,22 C15.9,22 15.01,21.1 15.01,20 C15.01,19.33 15.34,18.74 15.84,18.38 L14.46,17 L7,17 C5.9,17 5,16.1 5,15 C5,14.65 5.09,14.32 5.25,14.04 L6.6,11.59 L4.39,6.93 L-5.5067062e-14,2.54 L1.41,1.13 Z M7,15 L12.46,15 L10.46,13 L8.1,13 L7,15 Z M20,4 C20.76,4 21.25,4.82 20.88,5.48 L17.3,11.97 C17.04,12.45 16.59,12.8 16.05,12.94 L14.11,11 L15.55,11 L18.31,6 L9.12,6 L7.12,4 L20,4 Z M7,18 C8.1,18 9,18.9 9,20 C9,21.1 8.1,22 7,22 C5.9,22 5.01,21.1 5.01,20 C5.01,18.9 5.9,18 7,18 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="18.31 6 9.12 6 14.11 11 15.55 11"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

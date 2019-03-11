@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>contacts</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-612.000000, -1216.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-contacts" transform="translate(510.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19,0 L5,0 C4.45,0 4,0.45 4,1 C4,1.55 4.45,2 5,2 L19,2 C19.55,2 20,1.55 20,1 C20,0.45 19.55,0 19,0 Z M5,24 L19,24 C19.55,24 20,23.55 20,23 C20,22.45 19.55,22 19,22 L5,22 C4.45,22 4,22.45 4,23 C4,23.55 4.45,24 5,24 Z M20,4 L4,4 C2.9,4 2,4.9 2,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,6 C22,4.9 21.1,4 20,4 Z M12,6.75 C13.24,6.75 14.25,7.76 14.25,9 C14.25,10.24 13.24,11.25 12,11.25 C10.76,11.25 9.75,10.24 9.75,9 C9.75,7.76 10.76,6.75 12,6.75 Z M17,17 L7,17 L7,15.5 C7,13.83 10.33,13 12,13 C13.67,13 17,13.83 17,15.5 L17,17 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

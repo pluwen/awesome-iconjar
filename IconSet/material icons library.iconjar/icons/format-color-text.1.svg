@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_color_text</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-134.000000, -2017.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Outlined-/-Editor-/-format_color_text" transform="translate(34.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="0 20 24 20 24 24 0 24"></polygon>
+                        <path d="M11,3 L5.5,17 L7.75,17 L8.87,14 L15.12,14 L16.24,17 L18.49,17 L13,3 L11,3 Z M9.62,12 L12,5.67 L14.38,12 L9.62,12 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

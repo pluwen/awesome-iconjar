@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>room_service</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-272.000000, -3925.000000)">
+            <g id="Places" transform="translate(100.000000, 3866.000000)">
+                <g id="Outlined-/-Places-/-room_service" transform="translate(170.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18.98,17 L2,17 L2,19 L22,19 L22,17 L18.98,17 Z M21,16 C20.73,11.93 17.75,8.6 13.84,7.79 C13.94,7.55 14,7.28 14,7 C14,5.9 13.1,5 12,5 C10.9,5 10,5.9 10,7 C10,7.28 10.06,7.55 10.16,7.79 C6.25,8.6 3.27,11.93 3,16 L21,16 Z M12,9.58 C14.95,9.58 17.47,11.41 18.5,13.99 L5.5,13.99 C6.53,11.41 9.05,9.58 12,9.58 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

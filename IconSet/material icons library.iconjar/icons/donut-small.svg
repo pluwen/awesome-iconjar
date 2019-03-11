@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>donut_small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-748.000000, -200.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-donut_small" transform="translate(646.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14.82,11 L21.95,11 C21.48,6.28 17.72,2.52 13,2.05 L13,9.18 C13.85,9.49 14.51,10.15 14.82,11 Z M15,4.58 C17,5.4 18.6,7 19.42,9 L15.99,9 C15.71,8.63 15.37,8.29 15,8.01 L15,4.58 Z M2,12 C2,17.19 5.95,21.45 11,21.95 L11,14.82 C9.84,14.4 9,13.3 9,12 C9,10.7 9.84,9.6 11,9.18 L11,2.05 C5.95,2.55 2,6.81 2,12 Z M9,4.58 L9,8.02 C7.77,8.94 7,10.41 7,12 C7,13.59 7.77,15.06 9,15.99 L9,19.43 C6.04,18.24 4,15.35 4,12 C4,8.65 6.04,5.76 9,4.58 Z M13,14.82 L13,21.95 C17.72,21.48 21.48,17.72 21.95,13 L14.82,13 C14.51,13.85 13.85,14.51 13,14.82 Z M15,15.99 C15.37,15.71 15.71,15.38 15.99,15 L19.42,15 C18.6,17 17,18.6 15,19.42 L15,15.99 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

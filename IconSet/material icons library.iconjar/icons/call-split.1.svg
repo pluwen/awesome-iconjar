@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>call_split</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-308.000000, -1308.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-call_split" transform="translate(204.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14.85,4.85 L16.29,6.29 L13.41,9.17 L14.83,10.59 L17.71,7.71 L19.15,9.15 C19.46,9.46 20,9.24 20,8.79 L20,4.5 C20,4.22 19.78,4 19.5,4 L15.21,4 C14.76,4 14.54,4.54 14.85,4.85 Z M8.79,4 L4.5,4 C4.22,4 4,4.22 4,4.5 L4,8.79 C4,9.24 4.54,9.46 4.85,9.14 L6.29,7.7 L11,12.4 L11,19 C11,19.55 11.45,20 12,20 C12.55,20 13,19.55 13,19 L13,12 C13,11.74 12.89,11.48 12.71,11.29 L7.71,6.28 L9.15,4.84 C9.46,4.54 9.24,4 8.79,4 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

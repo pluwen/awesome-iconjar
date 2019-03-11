@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>screen_lock_rotation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-168.000000, -1793.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Two-Tone-/-Device-/-screen_lock_rotation" transform="translate(68.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M22.3,13.77 L19.73,11.2 L18.32,12.61 L20.54,14.83 L14.88,20.49 L3.56,9.17 L9.22,3.51 L11.32,5.61 L12.73,4.2 L10.28,1.75 C9.69,1.16 8.74,1.16 8.16,1.75 L1.8,8.11 C1.21,8.7 1.21,9.65 1.8,10.23 L13.82,22.25 C14.41,22.84 15.36,22.84 15.94,22.25 L22.3,15.89 C22.89,15.3 22.89,14.35 22.3,13.77 Z M7.52,21.48 C4.25,19.94 1.91,16.76 1.55,13 L0.05,13 C0.56,19.16 5.71,24 12,24 L12.66,23.97 L8.85,20.15 L7.52,21.48 Z M15.05,10 L20.05,10 C20.6,10 21.05,9.55 21.05,9 L21.05,5 C21.05,4.45 20.6,4 20.05,4 L20.05,3.5 C20.05,2.12 18.93,1 17.55,1 C16.17,1 15.05,2.12 15.05,3.5 L15.05,4 C14.5,4 14.05,4.45 14.05,5 L14.05,9 C14.05,9.55 14.5,10 15.05,10 Z M15.85,3.5 C15.85,2.56 16.61,1.8 17.55,1.8 C18.49,1.8 19.25,2.56 19.25,3.5 L19.25,4 L15.85,4 L15.85,3.5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

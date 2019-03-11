@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>confirmation_number</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-510.000000, -3658.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-confirmation_number" transform="translate(408.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M22,8.54 L22,6 C22,4.9 21.1,4 20,4 L4,4 C2.9,4 2.01,4.89 2.01,6 L2.01,8.54 C2.01,9.23 2.34,9.91 2.95,10.23 C3.58,10.58 4,11.24 4,12 C4,12.76 3.57,13.43 2.94,13.76 C2.34,14.09 2,14.77 2,15.46 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,15.46 C22,14.77 21.66,14.09 21.06,13.76 C20.43,13.42 20,12.76 20,12 C20,11.24 20.43,10.58 21.06,10.24 C21.66,9.91 22,9.23 22,8.54 Z M13,17.5 L11,17.5 L11,15.5 L13,15.5 L13,17.5 Z M13,13 L11,13 L11,11 L13,11 L13,13 Z M13,8.5 L11,8.5 L11,6.5 L13,6.5 L13,8.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

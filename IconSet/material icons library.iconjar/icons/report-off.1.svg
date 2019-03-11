@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>report_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-509.000000, -1527.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="-Round-/-Content-/-report_off" transform="translate(408.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,7 C12.55,7 13,7.45 13,8 L13,9.33 L20.2,16.53 L20.71,16.02 C20.9,15.83 21,15.58 21,15.31 L21,8.68 C21,8.41 20.89,8.16 20.71,7.97 L16.03,3.29 C15.84,3.11 15.58,3 15.32,3 L8.68,3 C8.42,3 8.16,3.11 7.98,3.29 L7.47,3.8 L11.16,7.49 C11.33,7.2 11.64,7 12,7 Z M2.41,1.58 L1,2.99 L4.64,6.63 L3.29,7.98 C3.11,8.16 3,8.42 3,8.68 L3,15.31 C3,15.58 3.11,15.83 3.29,16.02 L7.97,20.7 C8.16,20.89 8.42,21 8.68,21 L15.31,21 C15.58,21 15.83,20.89 16.02,20.71 L17.37,19.36 L21.01,23 L22.42,21.59 L2.41,1.58 Z M12,17.3 C11.28,17.3 10.7,16.72 10.7,16 C10.7,15.28 11.28,14.7 12,14.7 C12.72,14.7 13.3,15.28 13.3,16 C13.3,16.72 12.72,17.3 12,17.3 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

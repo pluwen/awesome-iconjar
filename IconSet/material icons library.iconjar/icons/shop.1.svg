@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>shop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-781.000000, -464.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-shop" transform="translate(679.000000, 362.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16,6 L16,4 C16,2.9 15.1,2 14,2 L10,2 C8.9,2 8,2.9 8,4 L8,6 L4,6 C2.9,6 2,6.9 2,8 L2,19 C2,20.1 2.9,21 4,21 L20,21 C21.1,21 22,20.1 22,19 L22,8 C22,6.9 21.1,6 20,6 L16,6 Z M10,4 L14,4 L14,6 L10,6 L10,4 Z M9,17.07 L9,9.83 C9,9.45 9.4,9.21 9.74,9.39 L15.77,12.6 C16.1,12.78 16.13,13.25 15.81,13.46 L9.78,17.48 C9.45,17.7 9,17.47 9,17.07 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>alternate_email</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-102.000000, -1218.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-alternate_email" transform="translate(0.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12.72,2.03 C6.63,1.6 1.6,6.63 2.03,12.72 C2.39,18.01 7.01,22 12.31,22 L16,22 C16.55,22 17,21.55 17,21 C17,20.45 16.55,20 16,20 L12.33,20 C8.6,20 5.18,17.58 4.25,13.97 C2.76,8.17 8.16,2.76 13.96,4.26 C17.58,5.18 20,8.6 20,12.33 L20,13.43 C20,14.22 19.29,15 18.5,15 C17.71,15 17,14.22 17,13.43 L17,12.18 C17,9.67 15.22,7.41 12.74,7.06 C9.34,6.57 6.47,9.51 7.08,12.93 C7.42,14.84 8.91,16.42 10.8,16.87 C12.64,17.3 14.39,16.71 15.54,15.54 C16.43,16.76 18.21,17.4 19.84,16.75 C21.18,16.22 22,14.85 22,13.41 L22,12.32 C22,7.01 18.01,2.39 12.72,2.03 Z M12,15 C10.34,15 9,13.66 9,12 C9,10.34 10.34,9 12,9 C13.66,9 15,10.34 15,12 C15,13.66 13.66,15 12,15 Z" id="Shape" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

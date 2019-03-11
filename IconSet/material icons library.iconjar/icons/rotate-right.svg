@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="19px" viewBox="0 0 16 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>rotate_right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-784.000000, -2901.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-rotate_right" transform="translate(680.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.93,11 C19.76,9.61 19.21,8.27 18.31,7.11 L16.89,8.53 C17.43,9.28 17.77,10.13 17.91,11 L19.93,11 Z M11,1 L11,4.07 C7.06,4.56 4,7.92 4,12 C4,16.08 7.05,19.44 11,19.93 L11,17.91 C8.16,17.43 6,14.97 6,12 C6,9.03 8.16,6.57 11,6.09 L11,10 L15.55,5.55 L11,1 Z M15.46,16.87 C14.71,17.41 13.87,17.76 13,17.9 L13,19.92 C14.39,19.75 15.74,19.21 16.9,18.31 L15.46,16.87 Z M18.31,16.89 C19.21,15.73 19.76,14.39 19.93,13 L17.91,13 C17.77,13.87 17.43,14.72 16.89,15.48 L18.31,16.89 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

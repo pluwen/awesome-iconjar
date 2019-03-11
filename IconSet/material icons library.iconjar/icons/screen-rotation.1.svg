@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>screen_rotation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-916.000000, -1748.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Outlined-/-Device-/-screen_rotation" transform="translate(816.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16.48,2.52 C19.75,4.07 22.09,7.24 22.45,11 L23.95,11 C23.44,4.84 18.29,0 12,0 L11.34,0.03 L15.15,3.84 L16.48,2.52 Z M10.23,1.75 C9.64,1.16 8.69,1.16 8.11,1.75 L1.75,8.11 C1.16,8.7 1.16,9.65 1.75,10.23 L13.77,22.25 C14.36,22.84 15.31,22.84 15.89,22.25 L22.25,15.89 C22.84,15.3 22.84,14.35 22.25,13.77 L10.23,1.75 Z M14.83,21.19 L2.81,9.17 L9.17,2.81 L21.19,14.83 L14.83,21.19 Z M7.52,21.48 C4.25,19.94 1.91,16.76 1.55,13 L0.05,13 C0.56,19.16 5.71,24 12,24 L12.66,23.97 L8.85,20.16 L7.52,21.48 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

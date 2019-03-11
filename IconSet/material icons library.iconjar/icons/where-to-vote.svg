@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>where_to_vote</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-139.000000, -1528.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="-Round-/-Content-/-where_to_vote" transform="translate(34.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,2 C8.14,2 5,5.14 5,9 C5,13.17 9.42,18.92 11.23,21.11 C11.63,21.59 12.36,21.59 12.76,21.11 C14.58,18.92 19,13.17 19,9 C19,5.14 15.86,2 12,2 Z M16.31,8.16 L11.18,13.29 C10.79,13.68 10.16,13.68 9.77,13.29 L7.7,11.22 C7.31,10.83 7.31,10.19 7.7,9.8 C8.09,9.41 8.73,9.41 9.12,9.8 L10.48,11.16 L14.9,6.74 C15.29,6.35 15.93,6.35 16.32,6.74 C16.7,7.14 16.7,7.77 16.31,8.16 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

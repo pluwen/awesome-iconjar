@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>label_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-102.000000, -376.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-label_off" transform="translate(0.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16,7 L19.55,12 L17.92,14.29 L19.35,15.72 L22,12 L17.63,5.84 C17.27,5.33 16.67,5 16,5 L8.63,5.01 L10.63,7 L16,7 Z M2,4.03 L3.58,5.61 C3.22,5.96 3,6.46 3,7 L3,17 C3,18.1 3.9,18.99 5,18.99 L16,19 C16.28,19 16.55,18.93 16.79,18.82 L18.97,21 L20.38,19.59 L3.41,2.62 L2,4.03 Z M14.97,17 L5,17 L5,7.03 L14.97,17 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

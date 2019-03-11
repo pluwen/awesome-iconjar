@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>unfold_more</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-141.000000, -3479.000000)">
+            <g id="Navigation" transform="translate(100.000000, 3378.000000)">
+                <g id="Two-Tone-/-Navigation-/-unfold_more" transform="translate(34.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,5.83 L15.17,9 L16.58,7.59 L12,3 L7.41,7.59 L8.83,9 L12,5.83 Z M12,18.17 L8.83,15 L7.42,16.41 L12,21 L16.59,16.41 L15.17,15 L12,18.17 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

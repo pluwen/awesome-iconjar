@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>adb</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-102.000000, -3654.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-adb" transform="translate(0.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 12 0 12 12 0 12"></polygon>
+                        <path d="M2.5,8 C2.5,9.935 4.065,11.5 6,11.5 C7.935,11.5 9.5,9.935 9.5,8 L9.5,6 L2.5,6 L2.5,8 Z M8.06,2.185 L9.11,1.135 L8.7,0.72 L7.55,1.875 C7.08,1.64 6.56,1.5 6,1.5 C5.44,1.5 4.92,1.64 4.455,1.875 L3.3,0.72 L2.89,1.135 L3.94,2.185 C3.07,2.82 2.5,3.84 2.5,5 L2.5,5.5 L9.5,5.5 L9.5,5 C9.5,3.84 8.93,2.82 8.06,2.185 Z M4.5,4.5 C4.225,4.5 4,4.275 4,4 C4,3.725 4.225,3.5 4.5,3.5 C4.775,3.5 5,3.725 5,4 C5,4.275 4.775,4.5 4.5,4.5 Z M7.5,4.5 C7.225,4.5 7,4.275 7,4 C7,3.725 7.225,3.5 7.5,3.5 C7.775,3.5 8,3.725 8,4 C8,4.275 7.775,4.5 7.5,4.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

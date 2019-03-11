@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>flag</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-411.000000, -1486.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="Two-Tone-/-Content-/-flag" transform="translate(306.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="12.36 6 7 6 7 12 14.24 12 14.64 14 18 14 18 8 12.76 8"></polygon>
+                        <path d="M14.4,6 L14,4 L5,4 L5,21 L7,21 L7,14 L12.6,14 L13,16 L20,16 L20,6 L14.4,6 Z M18,14 L14.64,14 L14.24,12 L7,12 L7,6 L12.36,6 L12.76,8 L18,8 L18,14 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

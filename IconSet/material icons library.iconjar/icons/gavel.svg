@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>gavel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-713.000000, -287.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-gavel" transform="translate(612.000000, 186.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M2,21 L12,21 C12.55,21 13,21.45 13,22 C13,22.55 12.55,23 12,23 L2,23 C1.45,23 1,22.55 1,22 C1,21.45 1.45,21 2,21 Z M5.24,8.07 L8.07,5.24 L20.8,17.97 C21.58,18.75 21.58,20.02 20.8,20.8 C20.02,21.58 18.75,21.58 17.97,20.8 L5.24,8.07 Z M13.73,2.41 L16.56,5.24 C17.34,6.02 17.34,7.29 16.56,8.07 L15.14,9.49 L9.49,3.83 L10.9,2.42 C11.68,1.63 12.95,1.63 13.73,2.41 Z M3.83,9.48 L9.49,15.14 L8.08,16.55 C7.3,17.33 6.03,17.33 5.25,16.55 L2.42,13.72 C1.64,12.94 1.64,11.67 2.42,10.89 L3.83,9.48 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

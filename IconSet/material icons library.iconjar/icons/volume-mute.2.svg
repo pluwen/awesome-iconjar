@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>volume_mute</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-754.000000, -999.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-volume_mute" transform="translate(646.000000, 142.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-84" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M8,10 L8,14 C8,14.55 8.45,15 9,15 L12,15 L15.29,18.29 C15.92,18.92 17,18.47 17,17.58 L17,6.41 C17,5.52 15.92,5.07 15.29,5.7 L12,9 L9,9 C8.45,9 8,9.45 8,10 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

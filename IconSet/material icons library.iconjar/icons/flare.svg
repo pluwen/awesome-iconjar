@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>flare</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-135.000000, -2769.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-flare" transform="translate(34.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M5.644,7.05 L7.05,5.645 L9.173,7.767 L7.765,9.174 L5.644,7.05 Z M11,1 L13,1 L13,7 L11,7 L11,1 Z M16.242,14.834 L18.362,16.954 L16.956,18.362 L14.836,16.242 L16.242,14.834 Z M14.834,7.76 L16.954,5.637 L18.364,7.044 L16.241,9.166 L14.834,7.76 Z M9.166,16.242 L7.044,18.362 L5.637,16.956 L7.759,14.834 L9.166,16.242 Z M12,9 C10.34,9 9,10.34 9,12 C9,13.66 10.34,15 12,15 C13.66,15 15,13.66 15,12 C15,10.34 13.66,9 12,9 Z M11,17 L13,17 L13,23 L11,23 L11,17 Z M1,11 L7,11 L7,13 L1,13 L1,11 Z M17,11 L23,11 L23,13 L17,13 L17,11 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

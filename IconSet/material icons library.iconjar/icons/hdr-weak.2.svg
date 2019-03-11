@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>hdr_weak</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-543.000000, -2818.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-hdr_weak" transform="translate(442.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17,6 C20.31,6 23,8.69 23,12 C23,15.31 20.31,18 17,18 C13.69,18 11,15.31 11,12 C11,8.69 13.69,6 17,6 Z M17,16 C19.21,16 21,14.21 21,12 C21,9.79 19.21,8 17,8 C14.79,8 13,9.79 13,12 C13,14.21 14.79,16 17,16 Z M5,8 C7.21,8 9,9.79 9,12 C9,14.21 7.21,16 5,16 C2.79,16 1,14.21 1,12 C1,9.79 2.79,8 5,8 Z M5,14 C6.1,14 7,13.1 7,12 C7,10.9 6.1,10 5,10 C3.9,10 3,10.9 3,12 C3,13.1 3.9,14 5,14 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                        <circle id="🔹-Secondary-Color" fill="#D0D0D0" cx="5" cy="12" r="2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

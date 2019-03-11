@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="18px" viewBox="0 0 11 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>attach_money</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-650.000000, -2105.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Outlined-/-Editor-/-attach_money" transform="translate(544.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.8,10.9 C9.53,10.31 8.8,9.7 8.8,8.75 C8.8,7.66 9.81,6.9 11.5,6.9 C13.28,6.9 13.94,7.75 14,9 L16.21,9 C16.14,7.28 15.09,5.7 13,5.19 L13,3 L10,3 L10,5.16 C8.06,5.58 6.5,6.84 6.5,8.77 C6.5,11.08 8.41,12.23 11.2,12.9 C13.7,13.5 14.2,14.38 14.2,15.31 C14.2,16 13.71,17.1 11.5,17.1 C9.44,17.1 8.63,16.18 8.52,15 L6.32,15 C6.44,17.19 8.08,18.42 10,18.83 L10,21 L13,21 L13,18.85 C14.95,18.48 16.5,17.35 16.5,15.3 C16.5,12.46 14.07,11.49 11.8,10.9 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

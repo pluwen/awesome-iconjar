@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>panorama</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-441.000000, -2860.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-panorama" transform="translate(340.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,18 L21,18 L21,6 L3,6 L3,18 Z M8.5,12.5 L11,15.51 L14.5,11 L19,17 L5,17 L8.5,12.5 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M21,4 L3,4 C1.9,4 1,4.9 1,6 L1,18 C1,19.1 1.9,20 3,20 L21,20 C22.1,20 23,19.1 23,18 L23,6 C23,4.9 22.1,4 21,4 Z M21,18 L3,18 L3,6 L21,6 L21,18 Z M14.5,11 L11,15.51 L8.5,12.5 L5,17 L19,17 L14.5,11 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

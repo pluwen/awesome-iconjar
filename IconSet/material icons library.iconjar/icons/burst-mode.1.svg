@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="14px" viewBox="0 0 22 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>burst_mode</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-339.000000, -2773.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-burst_mode" transform="translate(238.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M2,5 C2.55,5 3,5.45 3,6 L3,18 C3,18.55 2.55,19 2,19 C1.45,19 1,18.55 1,18 L1,6 C1,5.45 1.45,5 2,5 Z M6,5 C6.55,5 7,5.45 7,6 L7,18 C7,18.55 6.55,19 6,19 C5.45,19 5,18.55 5,18 L5,6 C5,5.45 5.45,5 6,5 Z M22,5 L10,5 C9.45,5 9,5.45 9,6 L9,18 C9,18.55 9.45,19 10,19 L22,19 C22.55,19 23,18.55 23,18 L23,6 C23,5.45 22.55,5 22,5 Z M11.64,16.19 L13.11,14.33 C13.31,14.08 13.68,14.08 13.89,14.32 L15.29,16 L17.39,13.29 C17.59,13.03 17.98,13.03 18.18,13.29 L20.39,16.19 C20.64,16.52 20.41,16.99 19.99,16.99 L12.03,16.99 C11.62,17 11.38,16.52 11.64,16.19 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

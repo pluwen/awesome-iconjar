@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="23px" viewBox="0 0 16 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>person_pin_circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-614.000000, -3211.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-person_pin_circle" transform="translate(510.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6,9 C6,12.54 9.82,17.86 12,20.47 C13.75,18.36 18,12.84 18,9 C18,5.69 15.31,3 12,3 C8.69,3 6,5.69 6,9 Z M15,11.5 L15,11.62 C14.27,12.46 13.2,13 12,13 C10.8,13 9.73,12.46 9,11.62 L9,11.5 C9,10.5 11,10 12,10 C13,10 15,10.5 15,11.5 Z M13.5,7.5 C13.5,8.33 12.83,9 12,9 C11.17,9 10.5,8.33 10.5,7.5 C10.5,6.67 11.17,6 12,6 C12.83,6 13.5,6.67 13.5,7.5 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M4,9 C4,14.57 10.96,22.34 11.26,22.67 L12,23.49 L12.74,22.67 C13.04,22.34 20,14.57 20,9 C20,4.59 16.41,1 12,1 C7.59,1 4,4.59 4,9 Z M18,9 C18,12.83 13.75,18.36 12,20.47 C9.82,17.86 6,12.54 6,9 C6,5.69 8.69,3 12,3 C15.31,3 18,5.69 18,9 Z M10.5,7.5 C10.5,8.33 11.17,9 12,9 C12.83,9 13.5,8.33 13.5,7.5 C13.5,6.67 12.83,6 12,6 C11.17,6 10.5,6.67 10.5,7.5 Z M9,11.5 L9,11.62 C9.73,12.46 10.8,13 12,13 C13.2,13 14.27,12.46 15,11.62 L15,11.5 C15,10.5 13,10 12,10 C11,10 9,10.5 9,11.5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

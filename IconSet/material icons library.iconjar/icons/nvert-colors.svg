@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>nvert_colors</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-784.000000, -332.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-nvert_colors" transform="translate(680.000000, 230.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="24 0 0 0 0 24 24 24"></polygon>
+                        <path d="M6.34,7.93 C3.22,11.05 3.22,16.12 6.34,19.24 C7.9,20.8 9.95,21.58 12,21.58 C14.05,21.58 16.1,20.8 17.66,19.24 C20.78,16.12 20.78,11.05 17.66,7.93 L12.71,2.98 C12.32,2.59 11.69,2.59 11.3,2.98 L6.34,7.93 Z M12,19.59 C10.4,19.59 8.89,18.97 7.76,17.83 C6.62,16.69 6,15.19 6,13.59 C6,11.99 6.62,10.48 7.76,9.35 L12,5.1 L12,19.59 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

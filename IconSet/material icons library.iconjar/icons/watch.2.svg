@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="24px" viewBox="0 0 16 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>watch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-818.000000, -2502.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Two-Tone-/-Hardware-/-watch" transform="translate(714.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14.72,4.48 L14.31,2 L9.7,2 L9.29,4.47 C10.13,4.17 11.05,4 12,4 C12.96,4 13.87,4.17 14.72,4.48 Z M9.29,19.53 L9.7,22 L14.31,22 L14.72,19.52 C13.87,19.83 12.96,20 12,20 C11.05,20 10.13,19.83 9.29,19.53 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M16.96,5.73 L16,0 L8,0 L7.05,5.73 C5.19,7.19 4,9.45 4,12 C4,14.55 5.19,16.81 7.05,18.27 L8,24 L16,24 L16.96,18.27 C18.81,16.81 20,14.54 20,12 C20,9.46 18.81,7.19 16.96,5.73 Z M9.7,2 L14.31,2 L14.72,4.48 C13.87,4.17 12.96,4 12,4 C11.05,4 10.13,4.17 9.29,4.47 L9.7,2 Z M14.31,22 L9.7,22 L9.29,19.53 C10.13,19.83 11.05,20 12,20 C12.96,20 13.87,19.83 14.72,19.52 L14.31,22 Z M12,18 C8.69,18 6,15.31 6,12 C6,8.69 8.69,6 12,6 C15.31,6 18,8.69 18,12 C18,15.31 15.31,18 12,18 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

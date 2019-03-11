@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>hdr_weak</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-101.000000, -2862.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-hdr_weak" transform="translate(0.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M5,8 C2.79,8 1,9.79 1,12 C1,14.21 2.79,16 5,16 C7.21,16 9,14.21 9,12 C9,9.79 7.21,8 5,8 Z M17,6 C13.69,6 11,8.69 11,12 C11,15.31 13.69,18 17,18 C20.31,18 23,15.31 23,12 C23,8.69 20.31,6 17,6 Z M17,16 C14.79,16 13,14.21 13,12 C13,9.79 14.79,8 17,8 C19.21,8 21,9.79 21,12 C21,14.21 19.21,16 17,16 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

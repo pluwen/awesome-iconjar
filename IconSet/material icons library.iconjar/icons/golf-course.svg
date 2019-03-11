@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>golf_course</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-478.000000, -3922.000000)">
+            <g id="Places" transform="translate(100.000000, 3866.000000)">
+                <g id="-Round-/-Places-/-golf_course" transform="translate(374.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.5,21 C18.6715729,21 18,20.3284271 18,19.5 C18,18.6715729 18.6715729,18 19.5,18 C20.3284271,18 21,18.6715729 21,19.5 C21,20.3284271 20.3284271,21 19.5,21 Z M11,18.03 C13.84,18.19 16,19.01 16,20 C16,21.1 13.31,22 10,22 C6.69,22 4,21.1 4,20 C4,19.26 5.21,18.62 7,18.27 L7,19 C7,19.55 7.45,20 8,20 C8.55,20 9,19.55 9,19 L9,3.6 C9,2.86 9.78,2.38 10.45,2.71 L15.21,5.04 C15.95,5.4 15.95,6.46 15.22,6.83 L11,8.98 L11,18.03 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

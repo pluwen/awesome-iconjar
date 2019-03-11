@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bluetooth_disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-716.000000, -1794.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-bluetooth_disabled" transform="translate(612.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.29,17.89 L6.11,4.7 C5.72,4.31 5.09,4.31 4.7,4.7 C4.31,5.09 4.31,5.72 4.7,6.11 L10.59,12 L5.7,16.89 C5.31,17.28 5.31,17.91 5.7,18.3 C6.09,18.69 6.72,18.69 7.11,18.3 L11,14.41 L11,20.59 C11,21.48 12.08,21.93 12.71,21.3 L16.3,17.71 L17.89,19.3 C18.28,19.69 18.91,19.69 19.3,19.3 C19.68,18.91 19.68,18.27 19.29,17.89 Z M13,18.17 L13,14.41 L14.88,16.29 L13,18.17 Z M13,5.83 L14.88,7.71 L13.41,9.18 L14.82,10.59 L17,8.42 C17.39,8.03 17.39,7.4 17,7 L12.71,2.71 C12.08,2.08 11,2.52 11,3.41 L11,6.77 L13,8.77 L13,5.83 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

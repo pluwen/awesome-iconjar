@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="10px" viewBox="0 0 22 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>airline_seat_individual_suite</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-713.000000, -3661.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Two-Tone-/-Notification-/-airline_seat_individual_suite" transform="translate(612.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,12 C6.44771525,12 6,11.5522847 6,11 C6,10.4477153 6.44771525,10 7,10 C7.55228475,10 8,10.4477153 8,11 C8,11.5522847 7.55228475,12 7,12 Z M19,9 C20.1,9 21,9.9 21,11 L21,15 L13,15 L13,9 L19,9 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M7,14 C8.66,14 10,12.66 10,11 C10,9.34 8.66,8 7,8 C5.34,8 4,9.34 4,11 C4,12.66 5.34,14 7,14 Z M7,10 C7.55,10 8,10.45 8,11 C8,11.55 7.55,12 7,12 C6.45,12 6,11.55 6,11 C6,10.45 6.45,10 7,10 Z M19,7 L11,7 L11,15 L3,15 L3,7 L1,7 L1,17 L23,17 L23,11 C23,8.79 21.21,7 19,7 Z M21,15 L13,15 L13,9 L19,9 C20.1,9 21,9.9 21,11 L21,15 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

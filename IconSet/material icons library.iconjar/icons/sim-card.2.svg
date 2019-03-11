@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sim_card</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-274.000000, -2504.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Two-Tone-/-Hardware-/-sim_card" transform="translate(170.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6,8.83 L6,20 L18,20 L18,4 L10.83,4 L6,8.83 Z M9,19 L7,19 L7,17 L9,17 L9,19 Z M9,15 L7,15 L7,11 L9,11 L9,15 Z M15,11 L17,11 L17,15 L15,15 L15,11 Z M15,17 L17,17 L17,19 L15,19 L15,17 Z M11,11 L13,11 L13,13 L11,13 L11,11 Z M11,15 L13,15 L13,19 L11,19 L11,15 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M18,2 L10,2 L4,8 L4,20 C4,21.1 4.9,22 6,22 L18,22 C19.1,22 20,21.1 20,20 L20,4 C20,2.9 19.1,2 18,2 Z M18,4 L18,20 L6,20 L6,8.83 L10.83,4 L18,4 Z M7,17 L9,17 L9,19 L7,19 L7,17 Z M15,17 L17,17 L17,19 L15,19 L15,17 Z M7,11 L9,11 L9,15 L7,15 L7,11 Z M11,15 L13,15 L13,19 L11,19 L11,15 Z M11,11 L13,11 L13,13 L11,13 L11,11 Z M15,11 L17,11 L17,15 L15,15 L15,11 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

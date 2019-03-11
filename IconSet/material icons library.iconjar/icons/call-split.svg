@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>call_split</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-614.000000, -1220.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Outlined-/-Communication-/-call_split" transform="translate(510.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,4 L16.29,6.29 L13.41,9.17 L14.83,10.59 L17.71,7.71 L20,10 L20,4 L14,4 Z M10,4 L4,4 L4,10 L6.29,7.71 L11,12.41 L11,20 L13,20 L13,11.59 L7.71,6.29 L10,4 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

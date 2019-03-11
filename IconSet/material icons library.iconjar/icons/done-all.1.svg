@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="13px" viewBox="0 0 24 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>done_all</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-814.000000, -248.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-done_all" transform="translate(714.000000, 142.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17.3,6.3 C16.91,5.91 16.28,5.91 15.89,6.3 L10.25,11.94 L11.66,13.35 L17.3,7.7 C17.68,7.32 17.68,6.68 17.3,6.3 Z M21.54,6.29 L11.66,16.17 L8.18,12.7 C7.79,12.31 7.16,12.31 6.77,12.7 C6.38,13.09 6.38,13.72 6.77,14.11 L10.95,18.29 C11.34,18.68 11.97,18.68 12.36,18.29 L22.95,7.71 C23.34,7.32 23.34,6.69 22.95,6.3 L22.94,6.3 C22.56,5.9 21.93,5.9 21.54,6.29 Z M1.12,14.12 L5.3,18.3 C5.69,18.69 6.32,18.69 6.71,18.3 L7.41,17.6 L2.53,12.7 C2.14,12.31 1.51,12.31 1.12,12.7 C0.73,13.09 0.73,13.73 1.12,14.12 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

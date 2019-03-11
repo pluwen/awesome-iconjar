@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>airline_seat_legroom_reduced</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-647.000000, -3657.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-airline_seat_legroom_reduced" transform="translate(544.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.97,19.2 C20.15,20.16 19.42,21 18.5,21 L15.81,21 C14.51,21 13.55,19.78 13.87,18.51 L15,14 L9,14 C7.35,14 6,12.65 6,11 L6,3 L12,3 L12,9 L17,9 C18.1,9 19,9.9 19,11 L17,18 L18.44,18 C19.17,18 19.83,18.49 19.97,19.2 Z M5,12 L5,4 C5,3.45 4.55,3 4,3 C3.45,3 3,3.45 3,4 L3,12 C3,14.76 5.24,17 8,17 L11,17 C11.55,17 12,16.55 12,16 C12,15.45 11.55,15 11,15 L8,15 C6.34,15 5,13.66 5,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

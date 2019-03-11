@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tv_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-747.000000, -3699.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-tv_off" transform="translate(646.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21,8 L21,17.88 L22.85,19.73 C22.95,19.51 23,19.26 23,19 L23,7 C23,5.89 22.1,5 21,5 L13.41,5 L16.35,2.06 C16.55,1.86 16.55,1.55 16.35,1.35 C16.15,1.15 15.84,1.15 15.64,1.35 L12,4.99 L8.36,1.35 C8.16,1.15 7.85,1.15 7.65,1.35 C7.45,1.55 7.45,1.86 7.65,2.06 L10.59,5 L8.12,5 L10.12,7 L20,7 C20.55,7 21,7.45 21,8 Z M3.12,2.83 C2.73,2.44 2.1,2.44 1.71,2.83 C1.32,3.22 1.32,3.85 1.71,4.24 L2.53,5.06 C1.65,5.28 1,6.06 1,7 L1,19 C1,20.1 1.9,21 3,21 L18.46,21 L19.75,22.29 C20.14,22.68 20.77,22.68 21.16,22.29 C21.52,21.93 21.53,21.37 21.23,20.98 L21.26,20.98 L3.12,2.83 Z M3,18 L3,8 C3,7.45 3.45,7 4,7 L4.46,7 L16.46,19 L4,19 C3.45,19 3,18.55 3,18 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

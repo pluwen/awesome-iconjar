@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="14px" viewBox="0 0 24 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>vpn_key</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-134.000000, -1309.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Two-Tone-/-Communication-/-vpn_key" transform="translate(34.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.71,10.33 C11.01,8.34 9.11,7 7,7 C4.24,7 2,9.24 2,12 C2,14.76 4.24,17 7,17 C9.11,17 11.01,15.66 11.71,13.67 L11.94,13 L18,13 L18,17 L20,17 L20,13 L22,13 L22,11 L11.94,11 L11.71,10.33 Z M7,15 C5.35,15 4,13.65 4,12 C4,10.35 5.35,9 7,9 C8.65,9 10,10.35 10,12 C10,13.65 8.65,15 7,15 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M7,5 C3.14,5 0,8.14 0,12 C0,15.86 3.14,19 7,19 C9.72,19 12.17,17.42 13.32,15 L16,15 L16,19 L22,19 L22,15 L24,15 L24,9 L13.32,9 C12.17,6.58 9.72,5 7,5 Z M22,13 L20,13 L20,17 L18,17 L18,13 L11.94,13 L11.71,13.67 C11.01,15.66 9.11,17 7,17 C4.24,17 2,14.76 2,12 C2,9.24 4.24,7 7,7 C9.11,7 11.01,8.34 11.71,10.33 L11.94,11 L22,11 L22,13 Z M7,9 C5.35,9 4,10.35 4,12 C4,13.65 5.35,15 7,15 C8.65,15 10,13.65 10,12 C10,10.35 8.65,9 7,9 Z M7,13 C6.45,13 6,12.55 6,12 C6,11.45 6.45,11 7,11 C7.55,11 8,11.45 8,12 C8,12.55 7.55,13 7,13 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

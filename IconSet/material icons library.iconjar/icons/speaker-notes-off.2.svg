@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>speaker_notes_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-100.000000, -463.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-speaker_notes_off" transform="translate(0.000000, 362.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,4 L20,16 L18.66,16 L20.57,17.91 C21.39,17.66 22,16.9 22,16 L22,4 C22,2.9 21.1,2 20,2 L4.66,2 L6.66,4 L20,4 Z M6,12 L8,12 L8,14 L6,14 L6,12 Z M18,9 L11.66,9 L13.66,11 L18,11 L18,9 Z M18,6 L10,6 L10,7.34 L10.66,8 L18,8 L18,6 Z M1.41,1.59 L0,3 L2.01,5.01 L2,22 L6,18 L15,18 L20.73,23.73 L22.14,22.32 L1.41,1.59 Z M5.17,16 L4,17.17 L4,7 L6,9 L6,11 L8,11 L13,16 L5.17,16 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

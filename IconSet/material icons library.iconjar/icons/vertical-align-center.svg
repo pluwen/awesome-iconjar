@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>vertical_align_center</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-274.000000, -2103.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-vertical_align_center" transform="translate(170.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M9.21,19 L11,19 L11,22 C11,22.55 11.45,23 12,23 C12.55,23 13,22.55 13,22 L13,19 L14.79,19 C15.24,19 15.46,18.46 15.14,18.15 L12.35,15.36 C12.15,15.16 11.84,15.16 11.64,15.36 L8.85,18.15 C8.54,18.46 8.76,19 9.21,19 Z M14.79,5 L13,5 L13,2 C13,1.45 12.55,1 12,1 C11.45,1 11,1.45 11,2 L11,5 L9.21,5 C8.76,5 8.54,5.54 8.85,5.85 L11.64,8.64 C11.84,8.84 12.15,8.84 12.35,8.64 L15.14,5.85 C15.46,5.54 15.24,5 14.79,5 Z M4,12 C4,12.55 4.45,13 5,13 L19,13 C19.55,13 20,12.55 20,12 C20,11.45 19.55,11 19,11 L5,11 C4.45,11 4,11.45 4,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

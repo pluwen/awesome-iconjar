@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>enhanced_encryption</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-410.000000, -3655.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-enhanced_encryption" transform="translate(306.000000, 54.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M18,8 L17,8 L17,6 C17,3.24 14.76,1 12,1 C9.24,1 7,3.24 7,6 L7,8 L6,8 C4.9,8 4,8.9 4,10 L4,20 C4,21.1 4.9,22 6,22 L18,22 C19.1,22 20,21.1 20,20 L20,10 C20,8.9 19.1,8 18,8 Z M8.9,6 C8.9,4.29 10.29,2.9 12,2.9 C13.71,2.9 15.1,4.29 15.1,6 L15.1,8 L8.9,8 L8.9,6 Z M15,16 L13,16 L13,18 C13,18.55 12.55,19 12,19 C11.45,19 11,18.55 11,18 L11,16 L9,16 C8.45,16 8,15.55 8,15 C8,14.45 8.45,14 9,14 L11,14 L11,12 C11,11.45 11.45,11 12,11 C12.55,11 13,11.45 13,12 L13,14 L15,14 C15.55,14 16,14.45 16,15 C16,15.55 15.55,16 15,16 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

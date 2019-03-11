@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>autorenew</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-410.000000, -199.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-autorenew" transform="translate(306.000000, 98.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,6 L12,7.79 C12,8.24 12.54,8.46 12.85,8.14 L15.64,5.35 C15.84,5.15 15.84,4.84 15.64,4.64 L12.85,1.85 C12.54,1.54 12,1.76 12,2.21 L12,4 C7.58,4 4,7.58 4,12 C4,13.04 4.2,14.04 4.57,14.95 C4.84,15.62 5.7,15.8 6.21,15.29 C6.48,15.02 6.59,14.61 6.44,14.25 C6.15,13.56 6,12.79 6,12 C6,8.69 8.69,6 12,6 Z M17.79,8.71 C17.52,8.98 17.41,9.4 17.56,9.75 C17.84,10.45 18,11.21 18,12 C18,15.31 15.31,18 12,18 L12,16.21 C12,15.76 11.46,15.54 11.15,15.86 L8.36,18.65 C8.16,18.85 8.16,19.16 8.36,19.36 L11.15,22.15 C11.46,22.46 12,22.24 12,21.8 L12,20 C16.42,20 20,16.42 20,12 C20,10.96 19.8,9.96 19.43,9.05 C19.16,8.38 18.3,8.2 17.79,8.71 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

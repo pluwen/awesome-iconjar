@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>wifi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-577.000000, -3702.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-wifi" transform="translate(476.000000, 98.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M2.06,10.06 C2.57,10.57 3.38,10.62 3.93,10.16 C8.6,6.32 15.38,6.32 20.06,10.15 C20.62,10.61 21.44,10.57 21.95,10.06 C22.54,9.47 22.5,8.49 21.85,7.96 C16.14,3.29 7.88,3.29 2.16,7.96 C1.51,8.48 1.46,9.46 2.06,10.06 Z M9.82,17.82 L11.29,19.29 C11.68,19.68 12.31,19.68 12.7,19.29 L14.17,17.82 C14.64,17.35 14.54,16.54 13.94,16.23 C12.72,15.6 11.26,15.6 10.03,16.23 C9.46,16.54 9.35,17.35 9.82,17.82 Z M6.09,14.09 C6.58,14.58 7.35,14.63 7.92,14.22 C10.36,12.49 13.64,12.49 16.08,14.22 C16.65,14.62 17.42,14.58 17.91,14.09 L17.92,14.08 C18.52,13.48 18.48,12.46 17.79,11.97 C14.35,9.48 9.66,9.48 6.21,11.97 C5.52,12.47 5.48,13.48 6.09,14.09 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

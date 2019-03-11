@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>link_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-170.000000, -1484.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="Outlined-/-Content-/-link_off" transform="translate(68.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14.39,11 L16,12.61 L16,11 L14.39,11 Z M17,7 L13,7 L13,8.9 L17,8.9 C18.71,8.9 20.1,10.29 20.1,12 C20.1,13.27 19.33,14.37 18.23,14.84 L19.63,16.24 C21.05,15.36 22,13.79 22,12 C22,9.24 19.76,7 17,7 Z M2,4.27 L5.11,7.38 C3.29,8.12 2,9.91 2,12 C2,14.76 4.24,17 7,17 L11,17 L11,15.1 L7,15.1 C5.29,15.1 3.9,13.71 3.9,12 C3.9,10.41 5.11,9.1 6.66,8.93 L8.73,11 L8,11 L8,13 L10.73,13 L13,15.27 L13,17 L14.73,17 L18.74,21.01 L20.15,19.6 L3.41,2.86 L2,4.27 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

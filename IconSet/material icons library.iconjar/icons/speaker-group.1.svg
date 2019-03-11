@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>speaker_group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-376.000000, -2503.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Outlined-/-Hardware-/-speaker_group" transform="translate(272.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18.2,1 L9.8,1 C8.81,1 8,1.81 8,2.8 L8,17.2 C8,18.19 8.81,18.99 9.8,18.99 L18.2,19 C19.19,19 20,18.19 20,17.2 L20,2.8 C20,1.81 19.19,1 18.2,1 Z M18,17 L10,16.99 L10,3 L18,3 L18,17 Z M14,8 C15.1,8 16,7.11 16,6 C16,4.89 15.1,4 14,4 C12.9,4 12,4.89 12,6 C12,7.11 12.9,8 14,8 Z M14,16 C15.93,16 17.5,14.43 17.5,12.5 C17.5,10.57 15.93,9 14,9 C12.07,9 10.5,10.57 10.5,12.5 C10.5,14.43 12.07,16 14,16 Z M14,11 C14.83,11 15.5,11.67 15.5,12.5 C15.5,13.33 14.83,14 14,14 C13.17,14 12.5,13.33 12.5,12.5 C12.5,11.67 13.17,11 14,11 Z M6,5 L4,5 L4,21 C4,22.1 4.89,23 6,23 L16,23 L16,21 L6,21 L6,5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

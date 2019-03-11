@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>videogame_asset</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-917.000000, -2508.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="-Round-/-Hardware-/-videogame_asset" transform="translate(816.000000, 98.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-136" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M21,6 L3,6 C1.9,6 1,6.9 1,8 L1,16 C1,17.1 1.9,18 3,18 L21,18 C22.1,18 23,17.1 23,16 L23,8 C23,6.9 22.1,6 21,6 Z M10,13 L8,13 L8,15 C8,15.55 7.55,16 7,16 C6.45,16 6,15.55 6,15 L6,13 L4,13 C3.45,13 3,12.55 3,12 C3,11.45 3.45,11 4,11 L6,11 L6,9 C6,8.45 6.45,8 7,8 C7.55,8 8,8.45 8,9 L8,11 L10,11 C10.55,11 11,11.45 11,12 C11,12.55 10.55,13 10,13 Z M15.5,15 C14.67,15 14,14.33 14,13.5 C14,12.67 14.67,12 15.5,12 C16.33,12 17,12.67 17,13.5 C17,14.33 16.33,15 15.5,15 Z M19.5,12 C18.67,12 18,11.33 18,10.5 C18,9.67 18.67,9 19.5,9 C20.33,9 21,9.67 21,10.5 C21,11.33 20.33,12 19.5,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

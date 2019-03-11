@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_mall</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-477.000000, -3167.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-local_mall" transform="translate(374.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M5,8 L5,20 L19,20 L19,8 L5,8 Z M12,14 C9.24,14 7,11.76 7,9 L9,9 C9,10.66 10.34,12 12,12 C13.66,12 15,10.66 15,9 L17,9 C17,11.76 14.76,14 12,14 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M17,6 C17,3.24 14.76,1 12,1 C9.24,1 7,3.24 7,6 L5,6 C3.9,6 3,6.9 3,8 L3,20 C3,21.1 3.9,22 5,22 L19,22 C20.1,22 21,21.1 21,20 L21,8 C21,6.9 20.1,6 19,6 L17,6 Z M12,3 C13.66,3 15,4.34 15,6 L9,6 C9,4.34 10.34,3 12,3 Z M19,20 L5,20 L5,8 L19,8 L19,20 Z M12,12 C10.34,12 9,10.66 9,9 L7,9 C7,11.76 9.24,14 12,14 C14.76,14 17,11.76 17,9 L15,9 C15,10.66 13.66,12 12,12 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

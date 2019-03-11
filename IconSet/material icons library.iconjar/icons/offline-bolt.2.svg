@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>offline_bolt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-204.000000, -332.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-offline_bolt" transform="translate(102.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,2.02 C6.49,2.02 2.02,6.49 2.02,12 C2.02,17.51 6.49,21.98 12,21.98 C17.51,21.98 21.98,17.51 21.98,12 C21.98,6.49 17.51,2.02 12,2.02 Z M11.48,17.88 L11.48,13.74 L8.82,13.74 C8.45,13.74 8.2,13.34 8.38,13.01 L12.06,5.84 C12.29,5.37 13,5.54 13,6.07 L13,10.26 L15.54,10.26 C15.91,10.26 16.15,10.65 15.99,10.98 L12.43,18.1 C12.19,18.58 11.48,18.41 11.48,17.88 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>photo_library</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-918.000000, -2902.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-photo_library" transform="translate(816.000000, 274.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M22,16 L22,4 C22,2.9 21.1,2 20,2 L8,2 C6.9,2 6,2.9 6,4 L6,16 C6,17.1 6.9,18 8,18 L20,18 C21.1,18 22,17.1 22,16 Z M11.4,12.53 L13.03,14.71 L15.61,11.49 C15.81,11.24 16.19,11.24 16.39,11.49 L19.35,15.19 C19.61,15.52 19.38,16 18.96,16 L9,16 C8.59,16 8.35,15.53 8.6,15.2 L10.6,12.53 C10.8,12.27 11.2,12.27 11.4,12.53 Z M2,7 L2,20 C2,21.1 2.9,22 4,22 L17,22 C17.55,22 18,21.55 18,21 C18,20.45 17.55,20 17,20 L5,20 C4.45,20 4,19.55 4,19 L4,7 C4,6.45 3.55,6 3,6 C2.45,6 2,6.45 2,7 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sim_card</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-614.000000, -2504.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="-Round-/-Hardware-/-sim_card" transform="translate(510.000000, 98.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-127" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M19.99,4 C19.99,2.9 19.1,2 18,2 L10.83,2 C10.3,2 9.79,2.21 9.41,2.59 L4.59,7.41 C4.21,7.79 4,8.3 4,8.83 L4,20 C4,21.1 4.9,22 6,22 L18.01,22 C19.11,22 20,21.1 20,20 L19.99,4 Z M8,19 C7.45,19 7,18.55 7,18 C7,17.45 7.45,17 8,17 C8.55,17 9,17.45 9,18 C9,18.55 8.55,19 8,19 Z M16,19 C15.45,19 15,18.55 15,18 C15,17.45 15.45,17 16,17 C16.55,17 17,17.45 17,18 C17,18.55 16.55,19 16,19 Z M8,15 C7.45,15 7,14.55 7,14 L7,12 C7,11.45 7.45,11 8,11 C8.55,11 9,11.45 9,12 L9,14 C9,14.55 8.55,15 8,15 Z M12,19 C11.45,19 11,18.55 11,18 L11,16 C11,15.45 11.45,15 12,15 C12.55,15 13,15.45 13,16 L13,18 C13,18.55 12.55,19 12,19 Z M12,13 C11.45,13 11,12.55 11,12 C11,11.45 11.45,11 12,11 C12.55,11 13,11.45 13,12 C13,12.55 12.55,13 12,13 Z M16,15 C15.45,15 15,14.55 15,14 L15,12 C15,11.45 15.45,11 16,11 C16.55,11 17,11.45 17,12 L17,14 C17,14.55 16.55,15 16,15 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

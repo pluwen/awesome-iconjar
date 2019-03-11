@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>speaker_notes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-644.000000, -464.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-speaker_notes" transform="translate(542.000000, 362.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,2 L4,2 C2.9,2 2.01,2.9 2.01,4 L2,22 L6,18 L20,18 C21.1,18 22,17.1 22,16 L22,4 C22,2.9 21.1,2 20,2 Z M8,14 L6,14 L6,12 L8,12 L8,14 Z M8,11 L6,11 L6,9 L8,9 L8,11 Z M8,8 L6,8 L6,6 L8,6 L8,8 Z M14,14 L11,14 C10.45,14 10,13.55 10,13 C10,12.45 10.45,12 11,12 L14,12 C14.55,12 15,12.45 15,13 C15,13.55 14.55,14 14,14 Z M17,11 L11,11 C10.45,11 10,10.55 10,10 C10,9.45 10.45,9 11,9 L17,9 C17.55,9 18,9.45 18,10 C18,10.55 17.55,11 17,11 Z M17,8 L11,8 C10.45,8 10,7.55 10,7 C10,6.45 10.45,6 11,6 L17,6 C17.55,6 18,6.45 18,7 C18,7.55 17.55,8 17,8 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

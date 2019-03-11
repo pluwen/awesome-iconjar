@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>fastfood</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-305.000000, -3123.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Outlined-/-Maps-/-fastfood" transform="translate(204.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M1,21.98 C1,22.54 1.45,22.99 2.01,22.99 L15,22.99 C15.56,22.99 16.01,22.54 16.01,21.98 L16.01,21 L1,21 L1,21.98 Z M8.5,8.99 C4.75,8.99 1,11 1,15 L16,15 C16,11 12.25,8.99 8.5,8.99 Z M3.62,13 C4.73,11.45 7.09,10.99 8.5,10.99 C9.91,10.99 12.27,11.45 13.38,13 L3.62,13 Z M1,17 L16,17 L16,19 L1,19 L1,17 Z M18,5 L18,1 L16,1 L16,5 L11,5 L11.23,7 L20.79,7 L19.39,21 L18,21 L18,23 L19.72,23 C20.56,23 21.25,22.35 21.35,21.53 L23,5 L18,5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

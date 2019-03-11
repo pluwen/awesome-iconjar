@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>perm_camera_mic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-782.000000, -377.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-perm_camera_mic" transform="translate(680.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,6 C10.9,6 10,6.9 10,8 L10,12 C10,13.1 10.9,14 12,14 C13.1,14 14,13.1 14,12 L14,8 C14,6.9 13.1,6 12,6 Z M20,5 L16.83,5 L14.97,3 L8.96,3 L7.17,5 L4,5 C2.9,5 2,5.9 2,7 L2,19 C2,20.1 2.9,21 4,21 L20,21 C21.1,21 22,20.1 22,19 L22,7 C22,5.9 21.1,5 20,5 Z M20,19 L13,19 L13,17.91 C15.83,17.43 18,14.97 18,12 L16,12 C16,14.21 14.21,16 12,16 C9.79,16 8,14.21 8,12 L6,12 C6,14.97 8.17,17.43 11,17.91 L11,19 L4,19 L4,7 L8.21,7 L8.8,6.35 L10.04,5 L14.28,5 L15.52,6.35 L16.11,7 L20,7 L20,19 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="24px" viewBox="0 0 14 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>camera_rear</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-173.000000, -2768.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-camera_rear" transform="translate(68.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M10.85,18.85 C10.54,18.54 10,18.76 10,19.21 L10,20 L6,20 C5.45,20 5,20.45 5,21 C5,21.55 5.45,22 6,22 L10,22 L10,22.79 C10,23.24 10.54,23.46 10.85,23.14 L12.64,21.35 C12.84,21.15 12.84,20.84 12.64,20.64 L10.85,18.85 Z M18,20 L15,20 C14.45,20 14,20.45 14,21 C14,21.55 14.45,22 15,22 L18,22 C18.55,22 19,21.55 19,21 C19,20.45 18.55,20 18,20 Z M17,0 L7,0 C5.9,0 5,0.9 5,2 L5,16 C5,17.1 5.9,18 7,18 L17,18 C18.1,18 19,17.1 19,16 L19,2 C19,0.9 18.1,0 17,0 Z M12,6 C10.89,6 10,5.1 10,4 C10,2.9 10.89,2 11.99,2 C13.09,2 13.99,2.9 13.99,4 C14,5.1 13.1,6 12,6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

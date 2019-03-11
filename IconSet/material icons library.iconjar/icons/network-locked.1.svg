@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>network_locked</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-169.000000, -3655.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Two-Tone-/-Notification-/-network_locked" transform="translate(68.000000, 54.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M22,16 L22,15.5 C22,14.12 20.88,13 19.5,13 C18.12,13 17,14.12 17,15.5 L17,16 C16.45,16 16,16.45 16,17 L16,21 C16,21.55 16.45,22 17,22 L22,22 C22.55,22 23,21.55 23,21 L23,17 C23,16.45 22.55,16 22,16 Z M21,16 L18,16 L18,15.5 C18,14.67 18.67,14 19.5,14 C20.33,14 21,14.67 21,15.5 L21,16 Z M18,5.83 L18,11.26 C18.47,11.1 18.97,11 19.5,11 C19.67,11 19.83,11.03 20,11.05 L20,1 L1,20 L14,20 L14,18 L5.83,18 L18,5.83 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>subway</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-374.000000, -3212.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Outlined-/-Maps-/-subway" transform="translate(272.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17.8,2.8 C16,2.09 13.86,2 12,2 C10.14,2 8,2.09 6.2,2.8 C3.53,3.84 2,6.05 2,8.86 L2,22 L22,22 L22,8.86 C22,6.05 20.47,3.84 17.8,2.8 Z M9.17,20 L10.67,18.5 L13.33,18.5 L14.83,20 L9.17,20 Z M7.01,14 L7.01,9 L17.01,9 L17.01,14 L7.01,14 Z M16.5,16 C16.5,16.55 16.05,17 15.5,17 C14.95,17 14.5,16.55 14.5,16 C14.5,15.45 14.95,15 15.5,15 C16.05,15 16.5,15.45 16.5,16 Z M8.5,15 C9.05,15 9.5,15.45 9.5,16 C9.5,16.55 9.05,17 8.5,17 C7.95,17 7.5,16.55 7.5,16 C7.5,15.45 7.95,15 8.5,15 Z M20,20 L16.5,20 L16.5,19.62 L15.35,18.46 C16.84,18.29 18,17.04 18,15.5 L18,9 C18,6.37 15,6 12,6 C9,6 6,6.37 6,9 L6,15.5 C6,17.04 7.16,18.29 8.65,18.46 L7.5,19.62 L7.5,20 L4,20 L4,8.86 C4,6.86 5.01,5.41 6.93,4.66 C8.41,4.08 10.32,4 12,4 C13.68,4 15.59,4.08 17.07,4.66 C18.99,5.41 20,6.86 20,8.86 L20,20 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

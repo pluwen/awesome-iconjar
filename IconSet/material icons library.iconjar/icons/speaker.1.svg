@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>speaker</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-683.000000, -2504.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="-Round-/-Hardware-/-speaker" transform="translate(578.000000, 98.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-129" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M17,2 L7,2 C5.9,2 5,2.9 5,4 L5,20 C5,21.1 5.9,21.99 7,21.99 L17,22 C18.1,22 19,21.1 19,20 L19,4 C19,2.9 18.1,2 17,2 Z M12,4 C13.1,4 14,4.9 14,6 C14,7.1 13.1,8 12,8 C10.89,8 10,7.1 10,6 C10,4.9 10.89,4 12,4 Z M12,20 C9.24,20 7,17.76 7,15 C7,12.24 9.24,10 12,10 C14.76,10 17,12.24 17,15 C17,17.76 14.76,20 12,20 Z M12,12 C10.34,12 9,13.34 9,15 C9,16.66 10.34,18 12,18 C13.66,18 15,16.66 15,15 C15,13.34 13.66,12 12,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

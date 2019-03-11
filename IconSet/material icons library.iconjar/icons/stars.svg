@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>stars</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-513.000000, -464.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-stars" transform="translate(411.000000, 362.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.99,2 C6.47,2 2,6.48 2,12 C2,17.52 6.47,22 11.99,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 11.99,2 Z M15.22,17.39 L12,15.45 L8.78,17.39 C8.4,17.62 7.93,17.28 8.03,16.85 L8.88,13.19 L6.05,10.74 C5.72,10.45 5.9,9.9 6.34,9.86 L10.08,9.54 L11.54,6.09 C11.71,5.68 12.29,5.68 12.46,6.09 L13.92,9.53 L17.66,9.85 C18.1,9.89 18.28,10.44 17.94,10.73 L15.11,13.18 L15.96,16.85 C16.06,17.28 15.6,17.62 15.22,17.39 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>signal_cellular_2_bar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-748.000000, -1794.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Outlined-/-Device-/-signal_cellular_2_bar" transform="translate(646.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="2 22 22 22 22 2"></polygon>
+                        <polygon id="🔹-Primary-Color" fill="#1D1D1D" points="14 10 2 22 14 22"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

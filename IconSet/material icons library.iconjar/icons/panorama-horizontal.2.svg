@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>panorama_horizontal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-306.000000, -2948.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-panorama_horizontal" transform="translate(204.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,6.54 L20,17.45 C17.4,16.68 14.72,16.29 12,16.29 C9.28,16.29 6.6,16.68 4,17.45 L4,6.54 C6.6,7.31 9.28,7.7 12,7.7 C14.72,7.71 17.4,7.32 20,6.54 Z M21.43,4 C21.33,4 21.23,4.02 21.12,4.06 C18.18,5.16 15.09,5.7 12,5.7 C8.91,5.7 5.82,5.15 2.88,4.06 C2.77,4.02 2.66,4 2.57,4 C2.23,4 2,4.23 2,4.63 L2,19.38 C2,19.77 2.23,20 2.57,20 C2.67,20 2.77,19.98 2.88,19.94 C5.82,18.84 8.91,18.3 12,18.3 C15.09,18.3 18.18,18.85 21.12,19.94 C21.23,19.98 21.33,20 21.43,20 C21.76,20 22,19.77 22,19.37 L22,4.63 C22,4.23 21.76,4 21.43,4 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

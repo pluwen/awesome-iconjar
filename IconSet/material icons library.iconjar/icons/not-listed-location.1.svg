@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="23px" viewBox="0 0 16 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>not_listed_location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-682.000000, -3211.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-not_listed_location" transform="translate(578.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6,9 C6,12.54 9.82,17.86 12,20.47 C13.75,18.36 18,12.84 18,9 C18,5.69 15.31,3 12,3 C8.69,3 6,5.69 6,9 Z M12.88,15.75 L11.13,15.75 L11.13,14 L12.88,14 L12.88,15.75 Z M15.5,8.5 C15.5,10.69 12.88,10.91 12.88,12.88 L11.13,12.88 C11.13,10.04 13.75,10.26 13.75,8.5 C13.75,7.54 12.96,6.75 12,6.75 C11.04,6.75 10.25,7.54 10.25,8.5 L8.5,8.5 C8.5,6.57 10.07,5 12,5 C13.93,5 15.5,6.57 15.5,8.5 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M4,9 C4,14.57 10.96,22.34 11.26,22.67 L12,23.49 L12.74,22.67 C13.04,22.34 20,14.57 20,9 C20,4.59 16.41,1 12,1 C7.59,1 4,4.59 4,9 Z M18,9 C18,12.83 13.75,18.36 12,20.47 C9.82,17.86 6,12.54 6,9 C6,5.69 8.69,3 12,3 C15.31,3 18,5.69 18,9 Z M11.13,14 L12.88,14 L12.88,15.75 L11.13,15.75 L11.13,14 Z M8.5,8.5 L10.25,8.5 C10.25,7.54 11.04,6.75 12,6.75 C12.96,6.75 13.75,7.54 13.75,8.5 C13.75,10.26 11.13,10.04 11.13,12.88 L12.88,12.88 C12.88,10.91 15.5,10.69 15.5,8.5 C15.5,6.57 13.93,5 12,5 C10.07,5 8.5,6.57 8.5,8.5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

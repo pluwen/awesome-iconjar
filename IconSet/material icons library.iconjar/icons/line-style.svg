@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>line_style</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-171.000000, -554.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-line_style" transform="translate(68.000000, 450.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,16 L8,16 L8,14 L3,14 L3,16 Z M9.5,16 L14.5,16 L14.5,14 L9.5,14 L9.5,16 Z M16,16 L21,16 L21,14 L16,14 L16,16 Z M3,20 L5,20 L5,18 L3,18 L3,20 Z M7,20 L9,20 L9,18 L7,18 L7,20 Z M11,20 L13,20 L13,18 L11,18 L11,20 Z M15,20 L17,20 L17,18 L15,18 L15,20 Z M19,20 L21,20 L21,18 L19,18 L19,20 Z M3,12 L11,12 L11,10 L3,10 L3,12 Z M13,12 L21,12 L21,10 L13,10 L13,12 Z M3,4 L3,8 L21,8 L21,4 L3,4 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

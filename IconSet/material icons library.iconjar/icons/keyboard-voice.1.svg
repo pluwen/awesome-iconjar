@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>keyboard_voice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-309.000000, -2461.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Outlined-/-Hardware-/-keyboard_voice" transform="translate(204.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,15 C13.66,15 14.99,13.66 14.99,12 L15,6 C15,4.34 13.66,3 12,3 C10.34,3 9,4.34 9,6 L9,12 C9,13.66 10.34,15 12,15 Z M10.8,5.9 C10.8,5.24 11.34,4.7 12,4.7 C12.66,4.7 13.2,5.24 13.2,5.9 L13.19,12.1 C13.19,12.76 12.66,13.3 12,13.3 C11.34,13.3 10.8,12.76 10.8,12.1 L10.8,5.9 Z M17.3,12 C17.3,15 14.76,17.1 12,17.1 C9.24,17.1 6.7,15 6.7,12 L5,12 C5,15.41 7.72,18.23 11,18.72 L11,22 L13,22 L13,18.72 C16.28,18.24 19,15.42 19,12 L17.3,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

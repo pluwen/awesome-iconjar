@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="14px" viewBox="0 0 24 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>motorcycle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-542.000000, -335.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-motorcycle" transform="translate(442.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12.72,11 L10.72,13 L9.95,13 L9.7,12.31 C9.52,11.83 9.28,11.39 8.98,11 L12.72,11 Z M15.41,5 L11,5 L11,7 L14.59,7 L16.59,9 L5,9 C2.2,9 0,11.2 0,14 C0,16.8 2.2,19 5,19 C7.46,19 9.45,17.31 9.9,15 L11.55,15 L14.32,12.23 C14.11,12.77 14,13.37 14,14 C14,16.8 16.2,19 19,19 C21.8,19 24,16.8 24,14 C24,11.35 22.03,9.23 19.44,9.03 L15.41,5 Z M19,17 C17.34,17 16,15.66 16,14 C16,12.34 17.34,11 19,11 C20.66,11 22,12.34 22,14 C22,15.66 20.66,17 19,17 Z M5,17 C3.37,17 2,15.63 2,14 C2,12.37 3.37,11 5,11 C6.28,11 7.4,11.85 7.82,13 L5,13 L5,15 L7.82,15 C7.4,16.15 6.28,17 5,17 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

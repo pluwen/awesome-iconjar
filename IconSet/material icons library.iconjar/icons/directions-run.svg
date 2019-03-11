@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="22px" viewBox="0 0 17 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>directions_run</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-578.000000, -3123.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-directions_run" transform="translate(476.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.49,3.48 C11.49,4.58 12.39,5.48 13.49,5.48 C14.59,5.48 15.49,4.58 15.49,3.48 C15.49,2.38 14.59,1.48 13.49,1.48 C12.39,1.48 11.49,2.38 11.49,3.48 Z M10.89,14.98 L12.99,16.98 L12.99,22.98 L14.99,22.98 L14.99,15.48 L12.89,13.48 L13.49,10.48 C14.79,11.98 16.79,12.98 18.99,12.98 L18.99,10.98 C17.09,10.98 15.49,9.98 14.69,8.58 L13.69,6.98 C13.29,6.38 12.69,5.98 11.99,5.98 C11.69,5.98 11.49,6.08 11.19,6.08 L5.99,8.28 L5.99,12.98 L7.99,12.98 L7.99,9.58 L9.79,8.88 L8.19,16.98 L3.29,15.98 L2.89,17.98 L9.89,19.38 L10.89,14.98 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

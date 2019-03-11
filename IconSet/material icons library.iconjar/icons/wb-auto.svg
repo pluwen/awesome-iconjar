@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>wb_auto</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-338.000000, -2948.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-wb_auto" transform="translate(238.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,7 L3.8,16 L5.7,16 L6.4,14 L9.6,14 L10.3,16 L12.2,16 L9,7 L7,7 Z M6.85,12.65 L8,9 L9.15,12.65 L6.85,12.65 Z M22,7 L20.8,13.29 L19.3,7 L17.7,7 L16.21,13.29 L15,7 L14.24,7 L14.23,7.01 C12.76,5.18 10.53,4 8,4 C3.58,4 0,7.58 0,12 C0,16.42 3.58,20 8,20 C10.96,20 13.55,18.39 14.93,16 C14.96,15.94 14.98,15.88 15.01,15.82 C15.06,15.74 15.1,15.65 15.15,15.57 L15.25,16 L17,16 L18.5,9.9 L20,16 L21.75,16 L23.8,7 L22,7 Z M13.37,14.67 C12.38,16.64 10.35,18 8,18 C4.69,18 2,15.31 2,12 C2,8.69 4.69,6 8,6 C11.31,6 14,8.69 14,12 C14,12.96 13.77,13.86 13.37,14.67 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

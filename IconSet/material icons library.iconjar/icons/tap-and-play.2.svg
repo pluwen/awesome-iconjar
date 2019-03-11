@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="22px" viewBox="0 0 17 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tap_and_play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-816.000000, -3699.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-tap_and_play" transform="translate(714.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3.14,16.09 C2.54,15.99 2,16.48 2,17.09 C2,17.58 2.36,17.99 2.85,18.07 C4.93,18.43 6.57,20.07 6.93,22.15 C7.01,22.64 7.42,23 7.91,23 C8.52,23 9,22.46 8.91,21.86 C8.43,18.91 6.1,16.57 3.14,16.09 Z M2,20 L2,23 L5,23 C5,21.34 3.66,20 2,20 Z M3.11,12.06 C2.52,12 2,12.46 2,13.05 C2,13.55 2.37,13.99 2.87,14.04 C7.14,14.45 10.54,17.85 10.95,22.12 C11,22.62 11.43,23 11.94,23 C12.53,23 13,22.49 12.94,21.9 C12.43,16.7 8.31,12.58 3.11,12.06 Z M17,1.01 L7,1 C5.9,1 5,1.9 5,3 L5,10.37 C5.69,10.53 6.36,10.74 7,11.01 L7,5 L17,5 L17,18 L13.97,18 C14.49,19.25 14.81,20.59 14.92,22 L17,22 C18.1,22 19,21.1 19,20 L19,3 C19,1.9 18.1,1.01 17,1.01 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

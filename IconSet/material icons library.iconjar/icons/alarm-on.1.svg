@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>alarm_on</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-374.000000, -155.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-alarm_on" transform="translate(272.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M10.54,14.53 L8.41,12.4 L7.35,13.46 L10.53,16.64 L16.53,10.64 L15.47,9.58 L10.54,14.53 Z M17.337,1.81 L21.944,5.655 L20.664,7.19 L16.054,3.347 L17.337,1.81 Z M6.663,1.81 L7.945,3.346 L3.337,7.19 L2.057,5.654 L6.663,1.81 Z M12,4 C7.03,4 3,8.03 3,13 C3,17.97 7.03,22 12,22 C16.97,22 21,17.97 21,13 C21,8.03 16.97,4 12,4 Z M12,20 C8.14,20 5,16.86 5,13 C5,9.14 8.14,6 12,6 C15.86,6 19,9.14 19,13 C19,16.86 15.86,20 12,20 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

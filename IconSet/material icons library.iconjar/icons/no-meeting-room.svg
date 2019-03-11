@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>no_meeting_room</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-339.000000, -3922.000000)">
+            <g id="Places" transform="translate(100.000000, 3866.000000)">
+                <g id="Two-Tone-/-Places-/-no_meeting_room" transform="translate(238.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,5 L8.12,5 L12,8.88 L12,6 L12,5 Z M7,19 L12,19 L12,14.54 L7,9.54 L7,19 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M12,5 L12,8.88 L14,10.88 L14,6 L17,6 L17,13.88 L19,15.88 L19,4 L14,4 L14,3 L6.12,3 L8.12,5 L12,5 Z M2.41,2.13 L1,3.54 L5,7.54 L5,19 L3,19 L3,21 L14,21 L14,16.54 L20.46,23 L21.87,21.59 L2.41,2.13 Z M12,19 L7,19 L7,9.54 L12,14.54 L12,19 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

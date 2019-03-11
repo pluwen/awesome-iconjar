@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>shuffle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-512.000000, -998.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-shuffle" transform="translate(408.000000, 142.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <rect id="Rectangle-Copy-53" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M10.59,9.17 L6.12,4.7 C5.73,4.31 5.1,4.31 4.71,4.7 C4.32,5.09 4.32,5.72 4.71,6.11 L9.17,10.57 L10.59,9.17 Z M15.35,4.85 L16.54,6.04 L4.7,17.88 C4.31,18.27 4.31,18.9 4.7,19.29 C5.09,19.68 5.72,19.68 6.11,19.29 L17.96,7.46 L19.15,8.65 C19.46,8.96 20,8.74 20,8.29 L20,4.5 C20,4.22 19.78,4 19.5,4 L15.71,4 C15.26,4 15.04,4.54 15.35,4.85 Z M14.83,13.41 L13.42,14.82 L16.55,17.95 L15.35,19.15 C15.04,19.46 15.26,20 15.71,20 L19.5,20 C19.78,20 20,19.78 20,19.5 L20,15.71 C20,15.26 19.46,15.04 19.15,15.36 L17.96,16.55 L14.83,13.41 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

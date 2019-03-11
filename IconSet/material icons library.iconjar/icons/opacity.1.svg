@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>opacity</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-716.000000, -332.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-opacity" transform="translate(612.000000, 230.000000)">
+                    <g>
+                        <path d="M24,0 L0,0 L0,24 L24,24 L24,0 Z M24,0 L0,0 L0,24 L24,24 L24,0 Z M0,24 L24,24 L24,0 L0,0 L0,24 Z" id="Shape"></path>
+                        <path d="M16.24,9.65 L12,5.27 L7.76,9.6 C6.62,10.73 6.01,12 6,14 L18,14 C17.99,12 17.38,10.77 16.24,9.65 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M17.66,8 L12,2.35 L6.34,8 C4.78,9.56 4,11.64 4,13.64 C4,15.64 4.78,17.75 6.34,19.31 C7.9,20.87 9.95,21.66 12,21.66 C14.05,21.66 16.1,20.87 17.66,19.31 C19.22,17.75 20,15.64 20,13.64 C20,11.64 19.22,9.56 17.66,8 Z M6,14 C6.01,12 6.62,10.73 7.76,9.6 L12,5.27 L16.24,9.65 C17.38,10.77 17.99,12 18,14 L6,14 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

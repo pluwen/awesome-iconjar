@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>notifications_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-342.000000, -4100.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="-Round-/-Social-/-notifications_off" transform="translate(238.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,22 C13.1,22 14,21.1 14,20 L10,20 C10,21.1 10.89,22 12,22 Z M18,11 C18,7.93 16.36,5.36 13.5,4.68 L13.5,4 C13.5,3.17 12.83,2.5 12,2.5 C11.17,2.5 10.5,3.17 10.5,4 L10.5,4.68 C10.26,4.74 10.03,4.83 9.81,4.91 L18,13.1 L18,11 Z M5.41,3.35 L4,4.76 L6.81,7.57 C6.29,8.57 6,9.73 6,11 L6,16 L4.71,17.29 C4.08,17.92 4.52,19 5.41,19 L18.24,19 L19.98,20.74 L21.39,19.33 L5.41,3.35 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

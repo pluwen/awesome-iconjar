@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tv_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-883.000000, -3655.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Two-Tone-/-Notification-/-tv_off" transform="translate(782.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,19 L16.46,19 L4.46,7 L3,7 L3,19 Z M10.12,7 L21,17.88 L21,7 L10.12,7 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M21,7 L21,17.88 L22.85,19.73 C22.94,19.5 23,19.26 23,19 L23,7 C23,5.89 22.11,5 21,5 L13.42,5 L16.71,1.7 L16,1 L12,5 L8,1 L7.3,1.7 L10.58,5 L8.12,5 L10.12,7 L21,7 Z M20.46,23 L21.72,21.73 L20.46,22.99 L20.46,23 Z M2.41,2.13 L2.27,2.27 L1,3.54 L2.53,5.07 C1.65,5.28 1,6.06 1,7 L1,19 C1,20.1 1.9,21 3,21 L18.46,21 L20.45,22.99 L21.71,21.73 L21.86,21.58 L2.41,2.13 Z M3,19 L3,7 L4.46,7 L16.46,19 L3,19 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

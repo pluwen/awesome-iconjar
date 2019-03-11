@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_laundry_service</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-512.000000, -3168.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Outlined-/-Maps-/-local_laundry_service" transform="translate(408.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18,2.01 C19.11,2.01 20,2.89 20,4 L20,20 C20,21.11 19.11,22 18,22 L6,22 C4.89,22 4,21.11 4,20 L4,4 C4,2.89 4.89,2 6,2 L18,2.01 Z M18,20 L18,4 L5.99,4 L6,20 L18,20 Z M8,7 C7.44771525,7 7,6.55228475 7,6 C7,5.44771525 7.44771525,5 8,5 C8.55228475,5 9,5.44771525 9,6 C9,6.55228475 8.55228475,7 8,7 Z M11,7 C10.4477153,7 10,6.55228475 10,6 C10,5.44771525 10.4477153,5 11,5 C11.5522847,5 12,5.44771525 12,6 C12,6.55228475 11.5522847,7 11,7 Z M12,19 C9.24,19 7,16.76 7,14 C7,11.24 9.24,9 12,9 C14.76,9 17,11.24 17,14 C17,16.76 14.76,19 12,19 Z M14.36,11.64 L9.64,16.36 C10.94,17.66 13.06,17.66 14.36,16.36 C15.66,15.06 15.66,12.94 14.36,11.64 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

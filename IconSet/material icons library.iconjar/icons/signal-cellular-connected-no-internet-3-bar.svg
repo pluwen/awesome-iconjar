@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>signal_cellular_connected_no_internet_3_bar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-749.000000, -1751.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-signal_cellular_connected_no_internet_3_bar" transform="translate(646.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M22,8 L22,4.41 C22,3.52 20.92,3.07 20.29,3.7 L3.71,20.29 C3.08,20.92 3.52,22 4.41,22 L18,22 L18,11 C18,9.34 19.34,8 21,8 L22,8 Z" id="🔹Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M18,22 L18,6 L3.71,20.29 C3.08,20.92 3.52,22 4.41,22 L18,22 Z M20,11 L20,17 C20,17.55 20.45,18 21,18 C21.55,18 22,17.55 22,17 L22,11 C22,10.45 21.55,10 21,10 C20.45,10 20,10.45 20,11 Z M20,22 L22,22 L22,20 L20,20 L20,22 Z" id="🔹Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>panorama_vertical</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-342.000000, -2858.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-panorama_vertical" transform="translate(238.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6.54,4 C7.31,6.6 7.7,9.28 7.7,12 C7.7,14.72 7.31,17.4 6.54,20 L17.45,20 C16.68,17.4 16.29,14.72 16.29,12 C16.29,9.28 16.68,6.6 17.45,4 L6.54,4 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M19.94,21.12 C18.84,18.18 18.3,15.09 18.3,12 C18.3,8.91 18.85,5.82 19.94,2.88 C19.98,2.77 20,2.66 20,2.57 C20,2.23 19.77,2 19.37,2 L4.63,2 C4.23,2 4,2.23 4,2.57 C4,2.67 4.02,2.77 4.06,2.88 C5.16,5.82 5.71,8.91 5.71,12 C5.71,15.09 5.16,18.18 4.07,21.12 C4.02,21.23 4,21.34 4,21.43 C4,21.76 4.23,22 4.63,22 L19.38,22 C19.77,22 20.01,21.76 20.01,21.43 C20,21.33 19.98,21.23 19.94,21.12 Z M17.45,20 L6.54,20 C7.31,17.4 7.7,14.72 7.7,12 C7.7,9.28 7.31,6.6 6.54,4 L17.45,4 C16.68,6.6 16.29,9.28 16.29,12 C16.29,14.72 16.68,17.4 17.45,20 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

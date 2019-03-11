@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="14px" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>queue_music</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-103.000000, -1044.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="Two-Tone-/-AV-/-queue_music" transform="translate(0.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" fill-rule="nonzero" points="0 0 24 0 24 24 0 24"></polygon>
+                        <circle id="🔹-Secondary-Color" fill="#D0D0D0" cx="16" cy="17" r="1"></circle>
+                        <path d="M3,10 L15,10 L15,12 L3,12 L3,10 Z M3,14 L11,14 L11,16 L3,16 L3,14 Z M3,6 L15,6 L15,8 L3,8 L3,6 Z M17,14.18 C16.69,14.07 16.35,14 16,14 C14.34,14 13,15.34 13,17 C13,18.66 14.34,20 16,20 C17.66,20 19,18.66 19,17 L19,8 L22,8 L22,6 L17,6 L17,14.18 Z M16,18 C15.45,18 15,17.55 15,17 C15,16.45 15.45,16 16,16 C16.55,16 17,16.45 17,17 C17,17.55 16.55,18 16,18 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

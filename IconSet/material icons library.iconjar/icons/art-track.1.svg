@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="10px" viewBox="0 0 20 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>art_track</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-782.000000, -913.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="Two-Tone-/-AV-/-art_track" transform="translate(680.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,7 L22,7 L22,9 L14,9 L14,7 Z M14,11 L22,11 L22,13 L14,13 L14,11 Z M14,15 L22,15 L22,17 L14,17 L14,15 Z M4,17 L10,17 C11.1,17 12,16.1 12,15 L12,9 C12,7.9 11.1,7 10,7 L4,7 C2.9,7 2,7.9 2,9 L2,15 C2,16.1 2.9,17 4,17 Z M5.25,12.75 L6.5,14.26 L8.25,12 L10.5,15 L3.5,15 L5.25,12.75 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="24px" viewBox="0 0 18 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tablet_android</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-307.000000, -2502.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Outlined-/-Hardware-/-tablet_android" transform="translate(204.000000, 98.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M18,0 L6,0 C4.34,0 3,1.34 3,3 L3,21 C3,22.66 4.34,24 6,24 L18,24 C19.66,24 21,22.66 21,21 L21,3 C21,1.34 19.66,0 18,0 Z M14,22 L10,22 L10,21 L14,21 L14,22 Z M19.25,19 L4.75,19 L4.75,3 L19.25,3 L19.25,19 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

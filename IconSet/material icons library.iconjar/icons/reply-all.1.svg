@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="15px" viewBox="0 0 24 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>reply_all</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-576.000000, -1531.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="Two-Tone-/-Content-/-reply_all" transform="translate(476.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,8 L7,5 L0,12 L7,19 L7,16 L3,12 L7,8 Z M13,9 L13,5 L6,12 L13,19 L13,14.9 C18,14.9 21.5,16.5 24,20 C23,15 20,10 13,9 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

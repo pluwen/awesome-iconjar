@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>kitchen</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-410.000000, -3922.000000)">
+            <g id="Places" transform="translate(100.000000, 3866.000000)">
+                <g id="-Round-/-Places-/-kitchen" transform="translate(306.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18,2.01 L6,2 C4.9,2 4,2.89 4,4 L4,20 C4,21.1 4.9,22 6,22 L18,22 C19.1,22 20,21.1 20,20 L20,4 C20,2.89 19.1,2.01 18,2.01 Z M17,20 L7,20 C6.45,20 6,19.55 6,19 L6,11.98 C6,11.43 6.45,10.98 7,10.98 L17,10.98 C17.55,10.98 18,11.43 18,11.98 L18,19 C18,19.55 17.55,20 17,20 Z M17,9 L7,9 C6.45,9 6,8.55 6,8 L6,5 C6,4.45 6.45,4 7,4 L17,4 C17.55,4 18,4.45 18,5 L18,8 C18,8.55 17.55,9 17,9 Z M9,5 C9.55,5 10,5.45 10,6 L10,7 C10,7.55 9.55,8 9,8 C8.45,8 8,7.55 8,7 L8,6 C8,5.45 8.45,5 9,5 Z M9,12 C9.55,12 10,12.45 10,13 L10,16 C10,16.55 9.55,17 9,17 C8.45,17 8,16.55 8,16 L8,13 C8,12.45 8.45,12 9,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

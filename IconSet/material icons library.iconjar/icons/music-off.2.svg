@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>music_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-851.000000, -2858.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-music_off" transform="translate(748.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,7 L18,7 L18,3 L12,3 L12,7.61 L14,9.61 L14,7 Z M12,10.44 L4.41,2.86 L3,4.27 L12,13.27 L12,13.55 C11.06,13.01 9.9,12.8 8.67,13.23 C7.33,13.71 6.3,14.9 6.06,16.3 C5.6,19.04 7.92,21.38 10.65,20.95 C12.61,20.64 14,18.84 14,16.85 L14,15.27 L19.73,21 L21.14,19.59 L12,10.44 Z M10,19 C8.9,19 8,18.1 8,17 C8,15.9 8.9,15 10,15 C11.1,15 12,15.9 12,17 C12,18.1 11.1,19 10,19 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="11px" viewBox="0 0 20 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>airline_seat_flat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-816.000000, -3661.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-airline_seat_flat" transform="translate(714.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M22,11 L22,13 L9,13 L9,9 C9,7.9 9.9,7 11,7 L18,7 C20.21,7 22,8.79 22,11 Z M2,15 C2,15.55 2.45,16 3,16 L8,16 L8,17 C8,17.55 8.45,18 9,18 L15,18 C15.55,18 16,17.55 16,17 L16,16 L21,16 C21.55,16 22,15.55 22,15 C22,14.45 21.55,14 21,14 L3,14 C2.45,14 2,14.45 2,15 Z M7.14,12.1 C8.3,10.91 8.28,9.02 7.1,7.86 C5.91,6.7 4.02,6.72 2.86,7.9 C1.7,9.09 1.72,10.98 2.9,12.14 C4.09,13.3 5.98,13.28 7.14,12.1 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

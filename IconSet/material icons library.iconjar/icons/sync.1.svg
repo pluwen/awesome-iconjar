@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="22px" viewBox="0 0 17 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sync</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-477.000000, -3699.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Outlined-/-Notification-/-sync" transform="translate(374.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0.0096 0 23.0496 0 23.0496 24 0.0096 24"></polygon>
+                        <path d="M11.52,4 L11.52,1 L7.68,5 L11.52,9 L11.52,6 C14.6976,6 17.28,8.69 17.28,12 C17.28,13.01 17.04,13.97 16.608,14.8 L18.0096,16.26 C18.7584,15.03 19.2,13.57 19.2,12 C19.2,7.58 15.7632,4 11.52,4 Z M11.52,18 C8.3424,18 5.76,15.31 5.76,12 C5.76,10.99 6,10.03 6.432,9.2 L5.0304,7.74 C4.2816,8.97 3.84,10.43 3.84,12 C3.84,16.42 7.2768,20 11.52,20 L11.52,23 L15.36,19 L11.52,15 L11.52,18 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

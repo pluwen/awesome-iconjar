@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="23px" viewBox="0 0 16 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>where_to_vote</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-138.000000, -1527.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="Outlined-/-Content-/-where_to_vote" transform="translate(34.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,1 C7.59,1 4,4.59 4,9 C4,14.57 10.96,22.34 11.26,22.67 L12,23.49 L12.74,22.67 C13.04,22.34 20,14.57 20,9 C20,4.59 16.41,1 12,1 Z M12,20.47 C9.82,17.86 6,12.54 6,9 C6,5.69 8.69,3 12,3 C15.31,3 18,5.69 18,9 C18,12.83 13.75,18.36 12,20.47 Z M10.47,11.17 L8.71,9.4 L7.29,10.82 L10.47,14 L16.48,7.99 L15.07,6.57 L10.47,11.17 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

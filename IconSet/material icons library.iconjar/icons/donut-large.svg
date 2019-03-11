@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>donut_large</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-748.000000, -244.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-donut_large" transform="translate(646.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14.07,5.32 C16.26,6 18,7.74 18.68,9.93 C18.87,10.56 19.44,11 20.09,11 L20.13,11 C21.13,11 21.85,10.04 21.56,9.09 C20.59,5.91 18.08,3.4 14.9,2.43 C13.96,2.14 13,2.86 13,3.86 L13,3.9 C13,4.56 13.44,5.13 14.07,5.32 Z M18.68,14.07 C18,16.27 16.26,18 14.07,18.68 C13.44,18.87 13,19.44 13,20.09 L13,20.13 C13,21.13 13.96,21.85 14.91,21.56 C18.09,20.59 20.6,18.08 21.57,14.9 C21.86,13.95 21.14,12.99 20.15,12.99 L20.1,12.99 C19.44,13 18.87,13.44 18.68,14.07 Z M11,20.11 C11,19.44 10.55,18.87 9.91,18.67 C7.07,17.78 5,15.13 5,12 C5,8.87 7.07,6.22 9.91,5.33 C10.55,5.13 11,4.56 11,3.89 L11,3.88 C11,2.88 10.03,2.14 9.07,2.44 C4.98,3.69 2,7.5 2,12 C2,16.5 4.98,20.31 9.07,21.56 C10.03,21.86 11,21.12 11,20.11 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

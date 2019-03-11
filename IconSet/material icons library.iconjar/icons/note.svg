@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>note</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-612.000000, -954.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-note" transform="translate(510.000000, 98.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-68" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M21.41,9.41 L16.58,4.58 C16.21,4.21 15.7,4 15.17,4 L4,4 C2.9,4 2,4.9 2,6 L2,18.01 C2,19.11 2.89,20 3.99,20 L20,20 C21.1,20 22,19.1 22,18 L22,10.83 C22,10.3 21.79,9.79 21.41,9.41 Z M15,5.5 L20.5,11 L16,11 C15.45,11 15,10.55 15,10 L15,5.5 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

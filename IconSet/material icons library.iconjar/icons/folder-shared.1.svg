@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>folder_shared</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-136.000000, -2284.000000)">
+            <g id="File" transform="translate(100.000000, 2226.000000)">
+                <g id="Two-Tone-/-File-/-folder_shared" transform="translate(34.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.17,8 L10.58,7.41 L9.17,6 L4,6 L4,18 L20,18 L20,8 L11.17,8 Z M19,16 L19,17 L11,17 L11,16 C11,14.67 13.67,14 15,14 C16.33,14 19,14.67 19,16 Z M15,9 C16.1,9 17,9.9 17,11 C17,12.1 16.1,13 15,13 C13.9,13 13,12.1 13,11 C13,9.9 13.9,9 15,9 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M20,6 L12,6 L10,4 L4,4 C2.9,4 2.01,4.9 2.01,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,8 C22,6.9 21.1,6 20,6 Z M20,18 L4,18 L4,6 L9.17,6 L11.17,8 L20,8 L20,18 Z M15,13 C16.1,13 17,12.1 17,11 C17,9.9 16.1,9 15,9 C13.9,9 13,9.9 13,11 C13,12.1 13.9,13 15,13 Z M11,16 L11,17 L19,17 L19,16 C19,14.67 16.33,14 15,14 C13.67,14 11,14.67 11,16 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

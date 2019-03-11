@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>vibration</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-270.000000, -3701.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Outlined-/-Notification-/-vibration" transform="translate(170.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M0,15 L2,15 L2,9 L0,9 L0,15 Z M3,17 L5,17 L5,7 L3,7 L3,17 Z M22,9 L22,15 L24,15 L24,9 L22,9 Z M19,17 L21,17 L21,7 L19,7 L19,17 Z M16.5,3 L7.5,3 C6.67,3 6,3.67 6,4.5 L6,19.5 C6,20.33 6.67,21 7.5,21 L16.5,21 C17.33,21 18,20.33 18,19.5 L18,4.5 C18,3.67 17.33,3 16.5,3 Z M16,19 L8,19 L8,5 L16,5 L16,19 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

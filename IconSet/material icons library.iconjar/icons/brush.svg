@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>brush</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-612.000000, -2727.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-brush" transform="translate(510.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,14 C5.34,14 4,15.34 4,17 C4,18.31 2.84,19 2,19 C2.92,20.22 4.49,21 6,21 C8.21,21 10,19.21 10,17 C10,15.34 8.66,14 7,14 Z M20.71,4.63 L19.37,3.29 C18.98,2.9 18.35,2.9 17.96,3.29 L9,12.25 L11.75,15 L20.71,6.04 C21.1,5.65 21.1,5.02 20.71,4.63 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

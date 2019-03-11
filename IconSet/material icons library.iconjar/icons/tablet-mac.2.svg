@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="24px" viewBox="0 0 19 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tablet_mac</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-272.000000, -2502.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Outlined-/-Hardware-/-tablet_mac" transform="translate(170.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18.5,0 L4.5,0 C3.12,0 2,1.12 2,2.5 L2,21.5 C2,22.88 3.12,24 4.5,24 L18.5,24 C19.88,24 21,22.88 21,21.5 L21,2.5 C21,1.12 19.88,0 18.5,0 Z M11.5,23 C10.67,23 10,22.33 10,21.5 C10,20.67 10.67,20 11.5,20 C12.33,20 13,20.67 13,21.5 C13,22.33 12.33,23 11.5,23 Z M19,19 L4,19 L4,3 L19,3 L19,19 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

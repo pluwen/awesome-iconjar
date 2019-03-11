@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>filter_drama</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-474.000000, -2772.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-filter_drama" transform="translate(374.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.35,10.04 C18.67,6.59 15.64,4 12,4 C9.11,4 6.61,5.64 5.36,8.04 C2.35,8.36 0,10.9 0,14 C0,17.31 2.69,20 6,20 L19,20 C21.76,20 24,17.76 24,15 C24,12.36 21.95,10.22 19.35,10.04 Z M19,18 L6,18 C3.79,18 2,16.21 2,14 C2,11.79 3.79,10 6,10 C8.21,10 10,11.79 10,14 L12,14 C12,11.24 10.14,8.92 7.6,8.22 C8.61,6.88 10.2,6 12,6 C15.03,6 17.5,8.47 17.5,11.5 L17.5,12 L19,12 C20.65,12 22,13.35 22,15 C22,16.65 20.65,18 19,18 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

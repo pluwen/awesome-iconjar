@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="23px" viewBox="0 0 14 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_voice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-785.000000, -419.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-settings_voice" transform="translate(680.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,11 C12.56,11 12.99,10.56 12.99,10 L13,4 C13,3.45 12.55,3 12,3 C11.45,3 11,3.45 11,4 L11,10 C11,10.55 11.45,11 12,11 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M7,22 L9,22 L9,24 L7,24 L7,22 Z M12,13 C13.66,13 14.99,11.66 14.99,10 L15,4 C15,2.34 13.66,1 12,1 C10.34,1 9,2.34 9,4 L9,10 C9,11.66 10.34,13 12,13 Z M11,4 C11,3.45 11.45,3 12,3 C12.55,3 13,3.45 13,4 L13,10 C13,10.56 12.56,11 12,11 C11.45,11 11,10.55 11,10 L11,4 Z M11,22 L13,22 L13,24 L11,24 L11,22 Z M15,22 L17,22 L17,24 L15,24 L15,22 Z M19,10 L17.3,10 C17.3,13 14.76,15.1 12,15.1 C9.24,15.1 6.7,13 6.7,10 L5,10 C5,13.41 7.72,16.23 11,16.72 L11,20 L13,20 L13,16.72 C16.28,16.23 19,13.41 19,10 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>call_made</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-240.000000, -1221.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-call_made" transform="translate(136.000000, 54.000000)">
+                    <g id="Path">
+                        <polygon points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M9,6 C9,6.56 9.45,7 10,7 L15.59,7 L4.7,17.89 C4.31,18.28 4.31,18.91 4.7,19.3 C5.09,19.69 5.72,19.69 6.11,19.3 L17,8.41 L17,14 C17,14.55 17.45,15 18,15 C18.55,15 19,14.55 19,14 L19,6 C19,5.45 18.55,5 18,5 L10,5 C9.45,5 9,5.45 9,6 Z" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

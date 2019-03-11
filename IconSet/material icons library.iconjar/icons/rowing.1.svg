@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="23px" viewBox="0 0 17 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>rowing</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-512.000000, -375.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-rowing" transform="translate(408.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M8.5,14.5 L4,19 L5.5,20.5 L9,17 L11,17 L8.5,14.5 Z M15,1 C13.9,1 13,1.9 13,3 C13,4.1 13.9,5 15,5 C16.1,5 17,4.1 17,3 C17,1.9 16.1,1 15,1 Z M21,21.01 L18,24 L15.01,20.99 L15.01,19.5 L7.91,12.41 C7.6,12.46 7.3,12.48 7,12.48 L7,10.32 C8.66,10.35 10.61,9.45 11.67,8.28 L13.07,6.73 C13.26,6.52 13.5,6.35 13.76,6.23 C14.05,6.09 14.38,6 14.72,6 L14.75,6 C15.99,6.01 17,7.02 17,8.26 L17,14.01 C17,14.85 16.65,15.62 16.08,16.17 L12.5,12.59 L12.5,10.32 C11.87,10.84 11.07,11.34 10.21,11.71 L16.5,18 L18,18 L21,21.01 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

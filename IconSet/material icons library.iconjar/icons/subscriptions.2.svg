@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>subscriptions</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-136.000000, -1040.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-subscriptions" transform="translate(34.000000, 186.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-75" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M19,8 L5,8 C4.45,8 4,7.55 4,7 C4,6.45 4.45,6 5,6 L19,6 C19.55,6 20,6.45 20,7 C20,7.55 19.55,8 19,8 Z M17,2 L7,2 C6.45,2 6,2.45 6,3 C6,3.55 6.45,4 7,4 L17,4 C17.55,4 18,3.55 18,3 C18,2.45 17.55,2 17,2 Z M22,12 L22,20 C22,21.1 21.1,22 20,22 L4,22 C2.9,22 2,21.1 2,20 L2,12 C2,10.9 2.9,10 4,10 L20,10 C21.1,10 22,10.9 22,12 Z M15.19,15.56 L10,12.73 L10,19.26 L15.19,16.44 C15.54,16.25 15.54,15.75 15.19,15.56 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

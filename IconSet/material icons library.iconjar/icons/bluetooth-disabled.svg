@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bluetooth_disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-104.000000, -1750.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Two-Tone-/-Device-/-bluetooth_disabled" transform="translate(0.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M13,5.83 L14.88,7.71 L13.28,9.31 L14.69,10.72 L17.71,7.7 L12,2 L11,2 L11,7.03 L13,9.03 L13,5.83 Z M5.41,4 L4,5.41 L10.59,12 L5,17.59 L6.41,19 L11,14.41 L11,22 L12,22 L16.29,17.71 L18.59,20 L20,18.59 L5.41,4 Z M13,18.17 L13,14.41 L14.88,16.29 L13,18.17 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

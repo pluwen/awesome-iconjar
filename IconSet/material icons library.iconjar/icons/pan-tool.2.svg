@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="24px" viewBox="0 0 22 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>pan_tool</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-815.000000, -374.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-pan_tool" transform="translate(714.000000, 274.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21.5,4 C20.67,4 20,4.67 20,5.5 L20,10.5 C20,10.78 19.78,11 19.5,11 C19.22,11 19,10.78 19,10.5 L19,2.5 C19,1.67 18.33,1 17.5,1 C16.67,1 16,1.67 16,2.5 L16,10.5 C16,10.78 15.78,11 15.5,11 C15.22,11 15,10.78 15,10.5 L15,1.5 C15,0.67 14.33,0 13.5,0 C12.67,0 12,0.67 12,1.5 L12,10.49 C12,10.77 11.78,10.99 11.5,10.99 C11.22,10.99 11,10.77 11,10.49 L11,4.5 C11,3.67 10.33,3 9.5,3 C8.67,3 8,3.67 8,4.5 L8,15.91 L3.88,13.56 C3.3,13.23 2.58,13.32 2.1,13.78 C1.5,14.36 1.48,15.32 2.07,15.91 L8.85,22.8 C9.6,23.57 10.62,24 11.7,24 L19,24 C21.21,24 23,22.21 23,20 L23,5.5 C23,4.67 22.33,4 21.5,4 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

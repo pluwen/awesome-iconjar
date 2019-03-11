@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>pageview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-272.000000, -334.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-pageview" transform="translate(170.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.49,16 C12.37,16 13.19,15.74 13.88,15.3 L16.32,17.74 L17.74,16.32 L15.3,13.89 C15.74,13.19 16,12.38 16,11.5 C16,9.01 13.99,7 11.5,7 C9.01,7 7,9.01 7,11.5 C7,13.99 9.01,16 11.49,16 Z M11.5,9 C12.88,9 14,10.12 14,11.5 C14,12.88 12.88,14 11.5,14 C10.12,14 9,12.88 9,11.5 C9,10.12 10.12,9 11.5,9 Z M20,4 L4,4 C2.9,4 2,4.9 2,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,6 C22,4.9 21.1,4 20,4 Z M20,18 L4,18 L4,6 L20,6 L20,18 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

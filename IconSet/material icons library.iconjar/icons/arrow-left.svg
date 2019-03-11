@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow_left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-313.000000, -3440.000000)">
+            <g id="Navigation" transform="translate(100.000000, 3378.000000)">
+                <g id="-Round-/-Navigation-/-arrow_left" transform="translate(204.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" opacity="0.87" points="24 0 24 24 0 24 0 0"></polygon>
+                        <path d="M12.29,8.71 L9.7,11.3 C9.31,11.69 9.31,12.32 9.7,12.71 L12.29,15.3 C12.92,15.93 14,15.48 14,14.59 L14,9.41 C14,8.52 12.92,8.08 12.29,8.71 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

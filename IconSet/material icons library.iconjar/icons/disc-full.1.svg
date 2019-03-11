@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>disc_full</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-544.000000, -3658.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Outlined-/-Notification-/-disc_full" transform="translate(442.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,7 L22,7 L22,12 L20,12 L20,7 Z M10,4 C5.58,4 2,7.58 2,12 C2,16.42 5.58,20 10,20 C14.42,20 18,16.42 18,12 C18,7.58 14.42,4 10,4 Z M10,18 C6.69,18 4,15.31 4,12 C4,8.69 6.69,6 10,6 C13.31,6 16,8.69 16,12 C16,15.31 13.31,18 10,18 Z M20,14 L22,14 L22,16 L20,16 L20,14 Z M10,10 C8.9,10 8,10.9 8,12 C8,13.1 8.9,14 10,14 C11.1,14 12,13.1 12,12 C12,10.9 11.1,10 10,10 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

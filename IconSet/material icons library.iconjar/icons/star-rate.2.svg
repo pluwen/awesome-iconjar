@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>star_rate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-511.000000, -554.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-star_rate" transform="translate(406.000000, 450.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,15.0666667 L15.28,17.4533333 C15.8,17.84 16.5066667,17.32 16.3066667,16.7066667 L15.0533333,12.8533333 L18.2933333,10.5466667 C18.8266667,10.1733333 18.56,9.33333333 17.9066667,9.33333333 L13.9333333,9.33333333 L12.64,5.30666667 C12.44,4.69333333 11.5733333,4.69333333 11.3733333,5.30666667 L10.0666667,9.33333333 L6.09333333,9.33333333 C5.44,9.33333333 5.17333333,10.1733333 5.70666667,10.5466667 L8.94666667,12.8533333 L7.69333333,16.7066667 C7.49333333,17.32 8.2,17.8266667 8.72,17.4533333 L12,15.0666667 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

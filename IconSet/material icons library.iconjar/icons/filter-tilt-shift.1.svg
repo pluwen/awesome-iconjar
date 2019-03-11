@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>filter_tilt_shift</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-204.000000, -2770.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-filter_tilt_shift" transform="translate(102.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M13,2.05 L13,4.07 C14.46,4.25 15.79,4.83 16.9,5.69 L18.32,4.26 C16.84,3.05 15.01,2.25 13,2.05 Z M13,19.93 L13,21.95 C15.01,21.75 16.84,20.95 18.32,19.74 L16.89,18.31 C15.79,19.17 14.46,19.75 13,19.93 Z M4.26,18.32 L5.69,16.89 C4.83,15.79 4.25,14.46 4.07,13 L2.05,13 C2.25,15.01 3.05,16.84 4.26,18.32 Z M2.05,11 L4.07,11 C4.25,9.54 4.83,8.21 5.69,7.1 L4.26,5.68 C3.05,7.16 2.25,8.99 2.05,11 Z M18.31,7.1 C19.17,8.21 19.75,9.54 19.93,11 L21.95,11 C21.75,8.99 20.95,7.16 19.74,5.68 L18.31,7.1 Z M7.1,5.69 C8.21,4.83 9.54,4.25 11,4.07 L11,2.05 C8.99,2.25 7.16,3.05 5.68,4.26 L7.1,5.69 Z M5.68,19.74 C7.16,20.95 9,21.75 11,21.95 L11,19.93 C9.54,19.75 8.21,19.17 7.1,18.31 L5.68,19.74 Z M21.95,13.01 L19.93,13.01 C19.75,14.46 19.17,15.79 18.31,16.9 L19.74,18.33 C20.95,16.85 21.75,15.01 21.95,13.01 Z M9,12 C9,13.66 10.34,15 12,15 C13.66,15 15,13.66 15,12 C15,10.34 13.66,9 12,9 C10.34,9 9,10.34 9,12 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>streetview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-579.000000, -3167.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="-Round-/-Maps-/-streetview" transform="translate(476.000000, 98.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12.56,14.33 C14.07,13.2 15.97,12.5 18,12.5 C19.05,12.5 20.06,12.69 21,13.02 L21,19 C21,20.1 20.1,21 19,21 L12,21 L12,15.5 C12,15.03 12.22,14.6 12.56,14.33 Z M18,11 C15.2385763,11 13,8.76142375 13,6 C13,3.23857625 15.2385763,1 18,1 C20.7614237,1 23,3.23857625 23,6 C23,8.76142375 20.7614237,11 18,11 Z M11.5,6 C11.5,7.8 12.23,9.42 13.41,10.59 L3.59,20.41 C3.23,20.05 3,19.55 3,19 L3,5 C3,3.9 3.9,3 5,3 L12.24,3 C11.77,3.9 11.5,4.92 11.5,6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_library</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-545.000000, -3212.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="-Round-/-Maps-/-local_library" transform="translate(442.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,11.55 C10.18,9.85 7.88,8.66 5.32,8.2 C4.11,7.99 3,8.95 3,10.18 L3,16.42 C3,18.1 3.72,18.98 4.71,19.11 C7.21,19.43 9.48,20.46 11.34,21.98 C11.69,22.27 12.26,22.3 12.61,22.02 C14.48,20.49 16.77,19.44 19.29,19.12 C20.23,18.99 21,18.06 21,17.1 L21,10.18 C21,8.95 19.89,7.99 18.68,8.2 C16.12,8.66 13.82,9.85 12,11.55 Z M12,8 C13.66,8 15,6.66 15,5 C15,3.34 13.66,2 12,2 C10.34,2 9,3.34 9,5 C9,6.66 10.34,8 12,8 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>nfc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-884.000000, -1706.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-nfc" transform="translate(782.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,2 L4,2 C2.9,2 2,2.9 2,4 L2,20 C2,21.1 2.9,22 4,22 L20,22 C21.1,22 22,21.1 22,20 L22,4 C22,2.9 21.1,2 20,2 Z M19,20 L5,20 C4.45,20 4,19.55 4,19 L4,5 C4,4.45 4.45,4 5,4 L19,4 C19.55,4 20,4.45 20,5 L20,19 C20,19.55 19.55,20 19,20 Z M16,6 L13,6 C11.9,6 11,6.9 11,8 L11,10.28 C10.4,10.63 10,11.26 10,12 C10,13.1 10.9,14 12,14 C13.1,14 14,13.1 14,12 C14,11.26 13.6,10.62 13,10.28 L13,8 L16,8 L16,15 C16,15.55 15.55,16 15,16 L9,16 C8.45,16 8,15.55 8,15 L8,8 L9,8 C9.55,8 10,7.55 10,7 C10,6.45 9.55,6 9,6 L8,6 C6.9,6 6,6.9 6,8 L6,16 C6,17.1 6.9,18 8,18 L16,18 C17.1,18 18,17.1 18,16 L18,8 C18,6.9 17.1,6 16,6 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

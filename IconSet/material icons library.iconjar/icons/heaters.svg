@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>heaters</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-920.000000, -465.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-heaters" transform="translate(816.000000, 362.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18,3 L18,5 L16,5 L16,3 L8,3 L8,5 L6,5 L6,3 L4,3 L4,21 L6,21 L6,19 L8,19 L8,21 L16,21 L16,19 L18,19 L18,21 L20,21 L20,3 L18,3 Z M8,17 L6,17 L6,15 L8,15 L8,17 Z M8,13 L6,13 L6,11 L8,11 L8,13 Z M8,9 L6,9 L6,7 L8,7 L8,9 Z M14,19 L10,19 L10,5 L14,5 L14,19 Z M18,17 L16,17 L16,15 L18,15 L18,17 Z M18,13 L16,13 L16,11 L18,11 L18,13 Z M18,9 L16,9 L16,7 L18,7 L18,9 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

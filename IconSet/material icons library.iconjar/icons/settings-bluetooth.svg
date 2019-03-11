@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="24px" viewBox="0 0 13 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_bluetooth</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-105.000000, -418.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-settings_bluetooth" transform="translate(0.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11,22 L13,22 L13,24 L11,24 L11,22 Z M7,22 L9,22 L9,24 L7,24 L7,22 Z M15,22 L17,22 L17,24 L15,24 L15,22 Z M13.41,10 L17.03,6.38 C17.22,6.19 17.32,5.94 17.32,5.67 C17.32,5.4 17.21,5.15 17.03,4.96 L12.7,0.65 C12.41,0.36 11.98,0.28 11.61,0.43 C11.24,0.58 11,0.95 11,1.35 L11,7.58 L7.14,3.73 C6.75,3.34 6.12,3.34 5.73,3.73 C5.34,4.12 5.34,4.75 5.73,5.14 L10.58,10 L5.73,14.85 C5.34,15.24 5.34,15.87 5.73,16.26 C6.12,16.65 6.75,16.65 7.14,16.26 L11,12.41 L11,18.64 C11,19.04 11.24,19.41 11.62,19.56 C11.74,19.61 11.87,19.64 12,19.64 C12.26,19.64 12.52,19.54 12.71,19.35 L17.03,15.03 C17.22,14.84 17.32,14.59 17.32,14.32 C17.32,14.05 17.21,13.8 17.03,13.61 L13.41,10 Z M13,3.77 L14.91,5.68 L13,7.58 L13,3.77 Z M13,16.23 L13,12.41 L14.91,14.32 L13,16.23 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

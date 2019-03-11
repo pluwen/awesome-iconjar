@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bluetooth_connected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-919.000000, -1706.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Outlined-/-Device-/-bluetooth_connected" transform="translate(816.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,12 L5,10 L3,12 L5,14 L7,12 Z M17.71,7.71 L12,2 L11,2 L11,9.59 L6.41,5 L5,6.41 L10.59,12 L5,17.59 L6.41,19 L11,14.41 L11,22 L12,22 L17.71,16.29 L13.41,12 L17.71,7.71 Z M13,5.83 L14.88,7.71 L13,9.59 L13,5.83 Z M14.88,16.29 L13,18.17 L13,14.41 L14.88,16.29 Z M19,10 L17,12 L19,14 L21,12 L19,10 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

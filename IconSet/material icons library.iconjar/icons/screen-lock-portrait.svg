@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="22px" viewBox="0 0 14 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>screen_lock_portrait</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-139.000000, -1749.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Two-Tone-/-Device-/-screen_lock_portrait" transform="translate(34.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M13.2,10 C13.2,9.34 12.66,8.8 12,8.8 C11.34,8.8 10.8,9.34 10.8,10 L10.8,11 L13.2,11 L13.2,10 Z M7,19 L17,19 L17,5 L7,5 L7,19 Z M9,12 C9,11.45 9.45,11 10,11 L10,10 C10,8.9 10.89,8 12,8 C13.1,8 14,8.89 14,10 L14,11 C14.55,11 15,11.45 15,12 L15,15 C15,15.55 14.55,16 14,16 L10,16 C9.45,16 9,15.55 9,15 L9,12 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M10,16 L14,16 C14.55,16 15,15.55 15,15 L15,12 C15,11.45 14.55,11 14,11 L14,10 C14,8.89 13.1,8 12,8 C10.89,8 10,8.9 10,10 L10,11 C9.45,11 9,11.45 9,12 L9,15 C9,15.55 9.45,16 10,16 Z M10.8,10 C10.8,9.34 11.34,8.8 12,8.8 C12.66,8.8 13.2,9.34 13.2,10 L13.2,11 L10.8,11 L10.8,10 Z M17,1 L7,1 C5.9,1 5,1.9 5,3 L5,21 C5,22.1 5.9,23 7,23 L17,23 C18.1,23 19,22.1 19,21 L19,3 C19,1.9 18.1,1 17,1 Z M17,19 L7,19 L7,5 L17,5 L17,19 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

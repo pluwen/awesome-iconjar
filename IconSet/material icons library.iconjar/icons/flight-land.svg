@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>flight_land</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-102.000000, -288.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-flight_land" transform="translate(0.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20.5,19 L3.5,19 C2.95,19 2.5,19.45 2.5,20 C2.5,20.55 2.95,21 3.5,21 L20.5,21 C21.05,21 21.5,20.55 21.5,20 C21.5,19.45 21.05,19 20.5,19 Z M3.51,11.61 L19.34,15.85 C20.14,16.06 20.96,15.59 21.18,14.79 C21.39,13.99 20.92,13.17 20.12,12.95 L14.81,11.53 L12.23,3.08 C12.12,2.72 11.84,2.45 11.48,2.35 C10.8,2.17 10.13,2.68 10.13,3.39 L10.13,10.27 L5.15,8.95 L4.4,7.09 C4.28,6.8 4.04,6.58 3.73,6.5 L3.4,6.41 C3.08,6.32 2.77,6.56 2.77,6.89 L2.77,10.64 C2.77,11.1 3.07,11.49 3.51,11.61 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>radio</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-918.000000, -995.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-radio" transform="translate(816.000000, 142.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <rect id="Rectangle-Copy-43" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M3.24,6.15 C2.51,6.43 2,7.17 2,8 L2,20 C2,21.1 2.9,22 4,22 L20,22 C21.11,22 22,21.1 22,20 L22,8 C22,6.9 21.1,6 20,6 L8.3,6 L15.73,3 C16.19,2.81 16.41,2.29 16.22,1.83 C16.03,1.37 15.51,1.15 15.05,1.34 L3.24,6.15 Z M7,20 C5.34,20 4,18.66 4,17 C4,15.34 5.34,14 7,14 C8.66,14 10,15.34 10,17 C10,18.66 8.66,20 7,20 Z M20,12 L18,12 L18,11 C18,10.45 17.55,10 17,10 C16.45,10 16,10.45 16,11 L16,12 L4,12 L4,9 C4,8.45 4.45,8 5,8 L19,8 C19.55,8 20,8.45 20,9 L20,12 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

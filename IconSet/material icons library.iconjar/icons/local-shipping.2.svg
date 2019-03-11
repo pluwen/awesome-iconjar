@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_shipping</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-203.000000, -3258.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-local_shipping" transform="translate(102.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,15 L3.78,15 C4.33,14.39 5.12,14 6,14 C6.88,14 7.67,14.39 8.22,15 L15,15 L15,6 L3,6 L3,15 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M17,8 L17,4 L3,4 C1.9,4 1,4.9 1,6 L1,17 L3,17 C3,18.66 4.34,20 6,20 C7.66,20 9,18.66 9,17 L15,17 C15,18.66 16.34,20 18,20 C19.66,20 21,18.66 21,17 L23,17 L23,12 L20,8 L17,8 Z M6,18 C5.45,18 5,17.55 5,17 C5,16.45 5.45,16 6,16 C6.55,16 7,16.45 7,17 C7,17.55 6.55,18 6,18 Z M15,15 L8.22,15 C7.67,14.39 6.89,14 6,14 C5.11,14 4.33,14.39 3.78,15 L3,15 L3,6 L15,6 L15,15 Z M18,18 C17.45,18 17,17.55 17,17 C17,16.45 17.45,16 18,16 C18.55,16 19,16.45 19,17 C19,17.55 18.55,18 18,18 Z M17,12 L17,9.5 L19.5,9.5 L21.46,12 L17,12 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

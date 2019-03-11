@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>person_add</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-679.000000, -4102.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="-Round-/-Social-/-person_add" transform="translate(578.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15,12 C17.21,12 19,10.21 19,8 C19,5.79 17.21,4 15,4 C12.79,4 11,5.79 11,8 C11,10.21 12.79,12 15,12 Z M6,10 L6,8 C6,7.45 5.55,7 5,7 C4.45,7 4,7.45 4,8 L4,10 L2,10 C1.45,10 1,10.45 1,11 C1,11.55 1.45,12 2,12 L4,12 L4,14 C4,14.55 4.45,15 5,15 C5.55,15 6,14.55 6,14 L6,12 L8,12 C8.55,12 9,11.55 9,11 C9,10.45 8.55,10 8,10 L6,10 Z M15,14 C12.33,14 7,15.34 7,18 L7,19 C7,19.55 7.45,20 8,20 L22,20 C22.55,20 23,19.55 23,19 L23,18 C23,15.34 17.67,14 15,14 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

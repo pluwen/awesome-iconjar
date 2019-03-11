@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>fiber_new</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-340.000000, -910.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="Two-Tone-/-AV-/-fiber_new" transform="translate(238.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="4 6 20 6 20 18 4 18"></polygon>
+                        <path d="M9.12,14.47 L8.13,14.47 L6.03,11.59 L6.03,14.47 L5,14.47 L5,9.53 L6.03,9.53 L8.09,12.41 L8.09,9.53 L9.12,9.53 L9.12,14.47 Z M13.24,10.57 L11.18,10.57 L11.18,11.49 L13.24,11.49 L13.24,12.53 L11.18,12.53 L11.18,13.44 L13.24,13.44 L13.24,14.47 L9.94,14.47 L9.94,9.53 L13.24,9.53 L13.24,10.57 Z M14.06,9.53 L15.08,9.53 L15.08,13.25 L16.01,13.25 L16.01,10.35 L17.04,10.35 L17.04,13.24 L17.96,13.24 L17.96,9.53 L18.99,9.53 L18.99,13.65 C18.99,14.1 18.62,14.47 18.17,14.47 L14.88,14.47 C14.43,14.47 14.06,14.1 14.06,13.65 L14.06,9.53 Z M20,4 C21.11,4 22,4.89 22,6 L22,18 C22,19.11 21.11,20 20,20 L4,20 C2.89,20 2,19.11 2,18 L2.01,6 C2.01,4.89 2.89,4 4,4 L20,4 Z M20,18 L20,6 L4,6 L4,18 L20,18 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

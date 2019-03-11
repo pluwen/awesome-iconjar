@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>transfer_within_a_station</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-204.000000, -3211.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Outlined-/-Maps-/-transfer_within_a_station" transform="translate(102.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16.49,15.5 L16.49,13.75 L14,16.25 L16.49,18.75 L16.49,17 L22,17 L22,15.5 L16.49,15.5 Z M19.51,19.75 L14,19.75 L14,21.25 L19.51,21.25 L19.51,23 L22,20.5 L19.51,18 L19.51,19.75 Z M9.5,5.5 C10.6,5.5 11.5,4.6 11.5,3.5 C11.5,2.4 10.6,1.5 9.5,1.5 C8.4,1.5 7.5,2.4 7.5,3.5 C7.5,4.6 8.4,5.5 9.5,5.5 Z M5.75,8.9 L3,23 L5.1,23 L6.85,15 L9,17 L9,23 L11,23 L11,15.45 L8.95,13.4 L9.55,10.4 C10.85,12 12.8,13 15,13 L15,11 C13.15,11 11.55,10 10.65,8.55 L9.7,6.95 C9.35,6.35 8.7,6 8,6 C7.75,6 7.5,6.05 7.25,6.15 L2,8.3 L2,13 L4,13 L4,9.65 L5.75,8.9 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>swap_vert</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-276.000000, -465.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-swap_vert" transform="translate(171.000000, 362.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16,17.01 L16,11 C16,10.45 15.55,10 15,10 C14.45,10 14,10.45 14,11 L14,17.01 L12.21,17.01 C11.76,17.01 11.54,17.55 11.86,17.86 L14.65,20.64 C14.85,20.83 15.16,20.83 15.36,20.64 L18.15,17.86 C18.47,17.55 18.24,17.01 17.8,17.01 L16,17.01 Z M8.65,3.35 L5.86,6.14 C5.54,6.45 5.76,6.99 6.21,6.99 L8,6.99 L8,13 C8,13.55 8.45,14 9,14 C9.55,14 10,13.55 10,13 L10,6.99 L11.79,6.99 C12.24,6.99 12.46,6.45 12.14,6.14 L9.35,3.35 C9.16,3.16 8.84,3.16 8.65,3.35 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

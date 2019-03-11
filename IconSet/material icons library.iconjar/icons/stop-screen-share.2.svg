@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>stop_screen_share</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-270.000000, -1262.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-stop_screen_share" transform="translate(170.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M23,18 L21.8,18 L23.59,19.79 C23.83,19.61 24,19.33 24,19 C24,18.45 23.55,18 23,18 Z M3.23,2.28 C2.84,1.89 2.2,1.89 1.81,2.28 C1.42,2.67 1.42,3.3 1.81,3.69 L2.65,4.55 C2.65,4.55 1.99,5.12 1.99,6.02 C2,6.92 2,16 2,16 L2.01,16.01 C2.01,17.1 2.89,17.99 3.98,18 L1,18 C0.45,18 0,18.45 0,19 C0,19.55 0.45,20 1,20 L18.13,20 L20.13,22 C20.52,22.39 21.15,22.39 21.54,22 C21.93,21.61 21.93,20.98 21.54,20.59 L3.23,2.28 Z M7,15 C7.31,13.52 7.94,12.07 9.08,10.95 L10.67,12.54 C9.13,12.92 7.96,13.71 7,15 Z M13,9.13 L13,8.15 C13,7.71 13.52,7.49 13.84,7.78 L15,8.87 L16.61,10.37 C16.82,10.57 16.82,10.9 16.61,11.1 L15.72,11.93 L21.3,17.51 C21.73,17.14 22,16.61 22,16 L22,6 C22,4.91 21.11,4.02 20.02,4.02 L7.8,4.02 L12.94,9.15 C12.96,9.14 12.98,9.13 13,9.13 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

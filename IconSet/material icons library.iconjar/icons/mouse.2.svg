@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mouse</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-580.000000, -2503.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Two-Tone-/-Hardware-/-mouse" transform="translate(476.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M13,3.16 L13,9 L18,9 C17.96,6.06 15.81,3.63 13,3.16 Z M11,3.16 C8.19,3.63 6.04,6.06 6,9 L11,9 L11,3.16 Z M11,11 L6,11 L6,15 C6,18.31 8.69,21 12,21 C15.31,21 18,18.31 18,15 L18,11 L11,11 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M20,9 C19.96,4.61 16.4,1.07 12,1.07 C7.6,1.07 4.04,4.61 4,9 L4,15 C4,19.42 7.58,23 12,23 C16.42,23 20,19.42 20,15 L20,9 Z M13,3.16 C15.81,3.63 17.96,6.06 18,9 L13,9 L13,3.16 Z M11,3.16 L11,9 L6,9 C6.04,6.06 8.19,3.63 11,3.16 Z M18,15 C18,18.31 15.31,21 12,21 C8.69,21 6,18.31 6,15 L6,11 L18,11 L18,15 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

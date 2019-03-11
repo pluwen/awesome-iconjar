@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="24px" viewBox="0 0 12 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_cell</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-718.000000, -418.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-settings_cell" transform="translate(612.000000, 318.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,24 L9,24 L9,22 L7,22 L7,24 Z M11,24 L13,24 L13,22 L11,22 L11,24 Z M15,24 L17,24 L17,22 L15,22 L15,24 Z M16,0.01 L8,0 C6.9,0 6,0.9 6,2 L6,18 C6,19.1 6.9,20 8,20 L16,20 C17.1,20 18,19.1 18,18 L18,2 C18,0.9 17.1,0.01 16,0.01 Z M16,16 L8,16 L8,4 L16,4 L16,16 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

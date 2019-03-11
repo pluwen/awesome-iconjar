@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="19px" viewBox="0 0 16 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_color_reset</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-138.000000, -2017.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Two-Tone-/-Editor-/-format_color_reset" transform="translate(34.000000, 54.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M10.93,7.83 L15.7,12.6 C15.08,10.79 13.53,8.36 11.99,6.36 C11.64,6.83 11.28,7.32 10.93,7.83 Z M12,18 C12.96,18 13.83,17.64 14.53,17.08 L8.81,11.36 C8.32,12.38 8,13.31 8,14 C8,16.21 9.79,18 12,18 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M12,6.36 C13.53,8.36 15.08,10.79 15.71,12.6 L17.94,14.83 C17.97,14.56 18,14.28 18,14 C18,10.02 12,3.2 12,3.2 C12,3.2 10.82,4.55 9.5,6.39 L10.94,7.83 C11.28,7.32 11.64,6.83 12,6.36 Z M5.41,5.14 L4,6.55 L7.32,9.87 C6.55,11.33 6,12.79 6,14 C6,17.31 8.69,20 12,20 C13.52,20 14.9,19.43 15.95,18.5 L18.58,21.13 L20,19.72 L5.41,5.14 Z M12,18 C9.79,18 8,16.21 8,14 C8,13.31 8.32,12.38 8.81,11.36 L14.53,17.08 C13.83,17.64 12.96,18 12,18 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

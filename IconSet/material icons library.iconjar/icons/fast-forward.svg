@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>fast_forward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-274.000000, -1044.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="Two-Tone-/-AV-/-fast_forward" transform="translate(170.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" fill-rule="nonzero" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15,9.86 L15,14.14 L18.03,12 L15,9.86 Z M6,9.86 L6,14.14 L9.03,12 L6,9.86 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M4,18 L12.5,12 L4,6 L4,18 Z M6,9.86 L9.03,12 L6,14.14 L6,9.86 Z M21.5,12 L13,6 L13,18 L21.5,12 Z M15,9.86 L18.03,12 L15,14.14 L15,9.86 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

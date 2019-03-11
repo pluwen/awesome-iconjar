@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>domain_disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-746.000000, -1218.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-domain_disabled" transform="translate(646.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M0.71,2.39 C0.32,2.78 0.32,3.41 0.71,3.8 L2,5.1 L2,19 C2,20.1 2.9,21 4,21 L17.9,21 L20.19,23.29 C20.58,23.68 21.21,23.68 21.6,23.29 C21.99,22.9 21.99,22.27 21.6,21.88 L2.12,2.39 C1.73,2 1.1,2 0.71,2.39 Z M6,19 L4,19 L4,17 L6,17 L6,19 Z M6,15 L4,15 L4,13 L6,13 L6,15 Z M4,11 L4,9 L6,9 L6,11 L4,11 Z M10,19 L8,19 L8,17 L10,17 L10,19 Z M8,15 L8,13 L10,13 L10,15 L8,15 Z M12,19 L12,17 L13.9,17 L15.9,19 L12,19 Z M8,5 L10,5 L10,7 L9.55,7 L12,9.45 L12,9 L19,9 C19.55,9 20,9.45 20,10 L20,17.45 L22,19.45 L22,9 C22,7.9 21.1,7 20,7 L12,7 L12,5 C12,3.9 11.1,3 10,3 L5.55,3 L8,5.45 L8,5 Z M16,11 L18,11 L18,13 L16,13 L16,11 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

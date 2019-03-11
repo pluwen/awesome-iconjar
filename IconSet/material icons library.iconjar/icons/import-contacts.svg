@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>import_contacts</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-849.000000, -1220.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-import_contacts" transform="translate(748.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17.5,4.5 C15.55,4.5 13.45,4.9 12,6 C10.55,4.9 8.45,4.5 6.5,4.5 C5.05,4.5 3.51,4.72 2.22,5.29 C1.49,5.62 1,6.33 1,7.14 L1,18.42 C1,19.72 2.22,20.68 3.48,20.36 C4.46,20.11 5.5,20 6.5,20 C8.06,20 9.72,20.26 11.06,20.92 C11.66,21.22 12.34,21.22 12.93,20.92 C14.27,20.25 15.93,20 17.49,20 C18.49,20 19.53,20.11 20.51,20.36 C21.77,20.69 22.99,19.73 22.99,18.42 L22.99,7.14 C22.99,6.33 22.5,5.62 21.77,5.29 C20.49,4.72 18.95,4.5 17.5,4.5 Z M21,17.23 C21,17.86 20.42,18.32 19.8,18.21 C19.05,18.07 18.27,18.01 17.5,18.01 C15.8,18.01 13.35,18.66 12,19.51 L12,8 C13.35,7.15 15.8,6.5 17.5,6.5 C18.42,6.5 19.33,6.59 20.2,6.78 C20.66,6.88 21,7.29 21,7.76 L21,17.23 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

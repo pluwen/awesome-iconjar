@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>desktop_access_disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-168.000000, -1217.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Two-Tone-/-Communication-/-desktop_access_disabled" transform="translate(68.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M1.41,1.69 L0,3.1 L1,4.09 L1,16 C1,17.1 1.89,18 2.99,18 L10,18 L10,20 L8,20 L8,22 L16,22 L16,20 L14,20 L14,18 L14.9,18 L20.9,24 L22.31,22.59 L1.41,1.69 Z M2.99,16 L2.99,6.09 L12.9,16 L2.99,16 Z M4.55,2 L6.55,4 L21,4 L21,16 L18.55,16 L20.55,18 L20.99,18 C22.09,18 22.99,17.1 22.99,16 L22.99,4 C22.99,2.9 22.09,2 20.99,2 L4.55,2 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                        <path d="M2.99,6.09 L2.99,16 L12.9,16 L2.99,6.09 Z M6.55,4 L18.55,16 L21,16 L21,4 L6.55,4 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>file_copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-476.000000, -1483.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="-Round-/-Content-/-file_copy" transform="translate(374.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15,1 L4,1 C2.9,1 2,1.9 2,3 L2,16 C2,16.55 2.45,17 3,17 C3.55,17 4,16.55 4,16 L4,4 C4,3.45 4.45,3 5,3 L15,3 C15.55,3 16,2.55 16,2 C16,1.45 15.55,1 15,1 Z M15.59,5.59 L20.42,10.42 C20.79,10.79 21,11.3 21,11.83 L21,21 C21,22.1 20.1,23 19,23 L7.99,23 C6.89,23 6,22.1 6,21 L6.01,7 C6.01,5.9 6.9,5 8,5 L14.17,5 C14.7,5 15.21,5.21 15.59,5.59 Z M15,12 L19.5,12 L14,6.5 L14,11 C14,11.55 14.45,12 15,12 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

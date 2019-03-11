@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>hotel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-237.000000, -3127.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Outlined-/-Maps-/-hotel" transform="translate(136.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,14 C8.66,14 10,12.66 10,11 C10,9.34 8.66,8 7,8 C5.34,8 4,9.34 4,11 C4,12.66 5.34,14 7,14 Z M7,10 C7.55,10 8,10.45 8,11 C8,11.55 7.55,12 7,12 C6.45,12 6,11.55 6,11 C6,10.45 6.45,10 7,10 Z M19,7 L11,7 L11,15 L3,15 L3,5 L1,5 L1,20 L3,20 L3,17 L21,17 L21,20 L23,20 L23,11 C23,8.79 21.21,7 19,7 Z M21,15 L13,15 L13,9 L19,9 C20.1,9 21,9.9 21,11 L21,15 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

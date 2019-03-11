@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>grain</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-172.000000, -2948.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-grain" transform="translate(68.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M10,12 C8.9,12 8,12.9 8,14 C8,15.1 8.9,16 10,16 C11.1,16 12,15.1 12,14 C12,12.9 11.1,12 10,12 Z M6,8 C4.9,8 4,8.9 4,10 C4,11.1 4.9,12 6,12 C7.1,12 8,11.1 8,10 C8,8.9 7.1,8 6,8 Z M6,16 C4.9,16 4,16.9 4,18 C4,19.1 4.9,20 6,20 C7.1,20 8,19.1 8,18 C8,16.9 7.1,16 6,16 Z M18,8 C19.1,8 20,7.1 20,6 C20,4.9 19.1,4 18,4 C16.9,4 16,4.9 16,6 C16,7.1 16.9,8 18,8 Z M14,16 C12.9,16 12,16.9 12,18 C12,19.1 12.9,20 14,20 C15.1,20 16,19.1 16,18 C16,16.9 15.1,16 14,16 Z M18,12 C16.9,12 16,12.9 16,14 C16,15.1 16.9,16 18,16 C19.1,16 20,15.1 20,14 C20,12.9 19.1,12 18,12 Z M14,8 C12.9,8 12,8.9 12,10 C12,11.1 12.9,12 14,12 C15.1,12 16,11.1 16,10 C16,8.9 15.1,8 14,8 Z M10,4 C8.9,4 8,4.9 8,6 C8,7.1 8.9,8 10,8 C11.1,8 12,7.1 12,6 C12,4.9 11.1,4 10,4 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

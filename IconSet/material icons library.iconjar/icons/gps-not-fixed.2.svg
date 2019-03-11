@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>gps_not_fixed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-339.000000, -1793.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-gps_not_fixed" transform="translate(238.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20.94,11 C20.48,6.83 17.17,3.52 13,3.06 L13,2 C13,1.45 12.55,1 12,1 C11.45,1 11,1.45 11,2 L11,3.06 C6.83,3.52 3.52,6.83 3.06,11 L2,11 C1.45,11 1,11.45 1,12 C1,12.55 1.45,13 2,13 L3.06,13 C3.52,17.17 6.83,20.48 11,20.94 L11,22 C11,22.55 11.45,23 12,23 C12.55,23 13,22.55 13,22 L13,20.94 C17.17,20.48 20.48,17.17 20.94,13 L22,13 C22.55,13 23,12.55 23,12 C23,11.45 22.55,11 22,11 L20.94,11 Z M12,19 C8.13,19 5,15.87 5,12 C5,8.13 8.13,5 12,5 C15.87,5 19,8.13 19,12 C19,15.87 15.87,19 12,19 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

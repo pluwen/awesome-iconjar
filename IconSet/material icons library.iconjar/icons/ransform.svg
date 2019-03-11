@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ransform</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-238.000000, -2725.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-ransform" transform="translate(136.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21,16 L9,16 C8.45,16 8,15.55 8,15 L8,4 L8.79,4 C9.24,4 9.46,3.46 9.14,3.15 L7.35,1.35 C7.15,1.15 6.84,1.15 6.64,1.35 L4.85,3.15 C4.54,3.46 4.76,4 5.21,4 L6,4 L6,6 L3,6 C2.45,6 2,6.45 2,7 C2,7.55 2.45,8 3,8 L6,8 L6,16 C6,17.1 6.9,18 8,18 L16,18 L16,20 L15.21,20 C14.76,20 14.54,20.54 14.86,20.85 L16.65,22.64 C16.85,22.84 17.16,22.84 17.36,22.64 L19.15,20.85 C19.47,20.54 19.24,20 18.8,20 L18,20 L18,18 L21,18 C21.55,18 22,17.55 22,17 C22,16.45 21.55,16 21,16 Z M16,14 L18,14 L18,8 C18,6.9 17.1,6 16,6 L10,6 L10,8 L15,8 C15.55,8 16,8.45 16,9 L16,14 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

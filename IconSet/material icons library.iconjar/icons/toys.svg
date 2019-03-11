@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>toys</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-883.000000, -2503.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Two-Tone-/-Hardware-/-toys" transform="translate(782.000000, 98.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M7,16 C8.82,16 10.41,14.7 10.87,13 L3.13,13 C3.59,14.7 5.18,16 7,16 Z M8,7 C8,8.82 9.3,10.41 11,10.87 L11,3.13 C9.3,3.59 8,5.18 8,7 Z M17,8 C15.18,8 13.59,9.3 13.13,11 L20.87,11 C20.41,9.3 18.82,8 17,8 Z M13,13.13 L13,20.87 C14.7,20.41 16,18.83 16,17 C16,15.17 14.7,13.59 13,13.13 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M23,12 C23,8.75 20.25,6 17,6 C15.48,6 14.07,6.6 13,7.57 L13,1 L12,1 C8.75,1 6,3.75 6,7 C6,8.52 6.6,9.93 7.57,11 L1,11 L1,12 C1,15.25 3.75,18 7,18 C8.52,18 9.93,17.4 11,16.43 L11,23 L12,23 C15.25,23 18,20.25 18,17 C18,15.48 17.4,14.07 16.43,13 L23,13 L23,12 Z M7,16 C5.18,16 3.59,14.7 3.13,13 L10.87,13 C10.41,14.7 8.82,16 7,16 Z M11,10.87 C9.3,10.41 8,8.82 8,7 C8,5.18 9.3,3.59 11,3.13 L11,10.87 Z M13,20.87 L13,13.13 C14.7,13.59 16,15.17 16,17 C16,18.83 14.7,20.41 13,20.87 Z M13.13,11 C13.59,9.3 15.17,8 17,8 C18.83,8 20.41,9.3 20.87,11 L13.13,11 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

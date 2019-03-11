@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="20px" viewBox="0 0 10 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>battery_charging_50</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-379.000000, -1706.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-battery_charging_50" transform="translate(272.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.94,18.24 C11.7,18.69 11,18.52 11,18 L11,14.5 L9.83,14.5 C9.45,14.5 9.21,14.1 9.39,13.76 L9.53,13.5 L7,13.5 L7,20.67 C7,21.4 7.6,22 8.33,22 L15.66,22 C16.4,22 17,21.4 17,20.67 L17,13.5 L14.47,13.5 L11.94,18.24 Z" id="🔹Primary-Color" fill="#1D1D1D"></path>
+                        <path d="M15.67,4 L14,4 L14,3 C14,2.45 13.55,2 13,2 L11,2 C10.45,2 10,2.45 10,3 L10,4 L8.33,4 C7.6,4 7,4.6 7,5.33 L7,13.5 L9.53,13.5 L12.06,8.76 C12.3,8.31 13,8.48 13,9 L13,12.5 L14.17,12.5 C14.55,12.5 14.79,12.9 14.61,13.24 L14.47,13.5 L17,13.5 L17,5.33 C17,4.6 16.4,4 15.67,4 Z" id="🔹Secondary-Color" fill="#D0D0D0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

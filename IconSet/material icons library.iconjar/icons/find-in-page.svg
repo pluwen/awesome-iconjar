@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>find_in_page</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-274.000000, -244.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-find_in_page" transform="translate(170.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6,4 L6,20 L17.6,20 L14.75,17.15 C13.92,17.7 12.96,17.98 12,17.98 C10.72,17.98 9.45,17.49 8.47,16.52 C6.52,14.57 6.52,11.41 8.47,9.47 C9.45,8.49 10.72,8 12,8 C13.28,8 14.55,8.49 15.53,9.46 C17.24,11.17 17.45,13.8 16.17,15.74 L18,17.58 L18,9 L13,4 L6,4 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M14,2 L6,2 C4.9,2 4.01,2.9 4.01,4 L4,20 C4,21.1 4.89,22 5.99,22 L18,22 C19.1,22 20,21.1 20,20 L20,8 L14,2 Z M18,17.58 L16.16,15.74 C17.44,13.8 17.23,11.17 15.52,9.46 C14.55,8.49 13.28,8 12,8 C10.72,8 9.45,8.49 8.47,9.46 C6.52,11.41 6.52,14.57 8.47,16.51 C9.44,17.48 10.72,17.97 12,17.97 C12.96,17.97 13.92,17.69 14.75,17.14 L17.6,20 L6,20 L6,4 L13,4 L18,9 L18,17.58 Z M14.99,12.99 C14.99,13.79 14.68,14.54 14.11,15.1 C13.55,15.66 12.8,15.98 12,15.98 C11.2,15.98 10.45,15.67 9.89,15.1 C9.33,14.54 9.01,13.79 9.01,12.99 C9.01,12.19 9.32,11.44 9.89,10.88 C10.46,10.32 11.2,10 12,10 C12.8,10 13.55,10.31 14.11,10.88 C14.68,11.44 14.99,12.19 14.99,12.99 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

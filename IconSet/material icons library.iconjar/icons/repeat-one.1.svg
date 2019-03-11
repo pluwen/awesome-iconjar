@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>repeat_one</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-341.000000, -996.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-repeat_one" transform="translate(238.000000, 142.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-58" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M7,7 L17,7 L17,8.79 C17,9.24 17.54,9.46 17.85,9.14 L20.64,6.35 C20.84,6.15 20.84,5.84 20.64,5.64 L17.85,2.85 C17.54,2.54 17,2.76 17,3.21 L17,5 L6,5 C5.45,5 5,5.45 5,6 L5,10 C5,10.55 5.45,11 6,11 C6.55,11 7,10.55 7,10 L7,7 Z M17,17 L7,17 L7,15.21 C7,14.76 6.46,14.54 6.15,14.86 L3.36,17.65 C3.16,17.85 3.16,18.16 3.36,18.36 L6.15,21.15 C6.46,21.46 7,21.24 7,20.79 L7,19 L18,19 C18.55,19 19,18.55 19,18 L19,14 C19,13.45 18.55,13 18,13 C17.45,13 17,13.45 17,14 L17,17 Z M13,14.25 L13,9.81 C13,9.36 12.64,9 12.19,9 C12.06,9 11.94,9.03 11.83,9.09 L10.34,9.83 C10.13,9.93 10,10.15 10,10.38 C10,10.72 10.28,11 10.62,11 L11.5,11 L11.5,14.25 C11.5,14.66 11.84,15 12.25,15 C12.66,15 13,14.66 13,14.25 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

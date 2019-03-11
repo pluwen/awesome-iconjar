@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>wifi_tethering</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-170.000000, -1839.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Two-Tone-/-Device-/-wifi_tethering" transform="translate(68.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,11 C10.9,11 10,11.9 10,13 C10,14.1 10.9,15 12,15 C13.1,15 14,14.1 14,13 C14,11.9 13.1,11 12,11 Z M18,13 C18,9.69 15.31,7 12,7 C8.69,7 6,9.69 6,13 C6,15.22 7.21,17.15 9,18.19 L10,16.45 C8.81,15.75 8,14.48 8,13 C8,10.79 9.79,9 12,9 C14.21,9 16,10.79 16,13 C16,14.48 15.19,15.75 14,16.45 L15,18.19 C16.79,17.15 18,15.22 18,13 Z M12,3 C6.48,3 2,7.48 2,13 C2,16.7 4.01,19.92 6.99,21.65 L7.99,19.92 C5.61,18.53 4,15.96 4,13 C4,8.58 7.58,5 12,5 C16.42,5 20,8.58 20,13 C20,15.96 18.39,18.53 16,19.92 L17,21.65 C19.99,19.92 22,16.7 22,13 C22,7.48 17.52,3 12,3 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

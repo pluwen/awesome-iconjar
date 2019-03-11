@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bluetooth_connected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-749.000000, -1794.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-bluetooth_connected" transform="translate(646.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6,13 C6.55,12.45 6.55,11.56 6,11.01 L6,11 C5.45,10.45 4.55,10.45 4,11 C3.45,11.55 3.45,12.45 4,13 C4.55,13.55 5.45,13.55 6,13 Z M20,11 C19.44,10.44 18.55,10.44 18,10.99 L18,11 C17.45,11.55 17.45,12.44 18,12.99 L18,13 C18.55,13.55 19.44,13.55 19.99,13 L20,13 C20.55,12.45 20.55,11.55 20,11 Z M17,7 L12.71,2.71 C12.08,2.08 11,2.52 11,3.41 L11,9.59 L7.11,5.7 C6.72,5.31 6.09,5.31 5.7,5.7 C5.31,6.09 5.31,6.72 5.7,7.11 L10.59,12 L5.7,16.89 C5.31,17.28 5.31,17.91 5.7,18.3 C6.09,18.69 6.72,18.69 7.11,18.3 L11,14.41 L11,20.59 C11,21.48 12.08,21.93 12.71,21.3 L17,17 C17.39,16.61 17.39,15.98 17,15.58 L13.41,12 L17,8.42 C17.39,8.03 17.39,7.39 17,7 Z M14.88,16.29 L13,18.17 L13,14.41 L14.88,16.29 Z M13,9.59 L13,5.83 L14.88,7.71 L13,9.59 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

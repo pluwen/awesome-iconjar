@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>spellcheck</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-576.000000, -465.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-spellcheck" transform="translate(474.000000, 362.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M13.12,16 C13.81,16 14.27,15.31 14.02,14.68 L9.77,3.87 C9.56,3.34 9.06,3 8.5,3 C7.94,3 7.44,3.34 7.23,3.87 L2.98,14.68 C2.73,15.31 3.2,16 3.88,16 C4.28,16 4.64,15.75 4.79,15.37 L5.67,13 L11.31,13 L12.21,15.38 C12.36,15.75 12.72,16 13.12,16 Z M6.43,11 L8.5,5.48 L10.57,11 L6.43,11 Z M20.89,12.29 L13.5,19.68 L10.53,16.71 C10.14,16.32 9.51,16.32 9.12,16.71 C8.73,17.1 8.73,17.73 9.12,18.12 L12.8,21.8 C13.19,22.19 13.82,22.19 14.21,21.8 L22.29,13.71 C22.68,13.32 22.68,12.69 22.29,12.3 C21.91,11.91 21.27,11.91 20.89,12.29 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

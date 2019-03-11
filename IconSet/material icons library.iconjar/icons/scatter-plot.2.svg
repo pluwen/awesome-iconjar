@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>scatter_plot</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-478.000000, -2105.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-scatter_plot" transform="translate(374.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,17 C5.34314575,17 4,15.6568542 4,14 C4,12.3431458 5.34314575,11 7,11 C8.65685425,11 10,12.3431458 10,14 C10,15.6568542 8.65685425,17 7,17 Z M11,9 C9.34314575,9 8,7.65685425 8,6 C8,4.34314575 9.34314575,3 11,3 C12.6568542,3 14,4.34314575 14,6 C14,7.65685425 12.6568542,9 11,9 Z M16.6,20.6 C14.9431458,20.6 13.6,19.2568542 13.6,17.6 C13.6,15.9431458 14.9431458,14.6 16.6,14.6 C18.2568542,14.6 19.6,15.9431458 19.6,17.6 C19.6,19.2568542 18.2568542,20.6 16.6,20.6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

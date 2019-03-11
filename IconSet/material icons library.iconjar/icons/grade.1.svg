@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>grade</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-884.000000, -288.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-grade" transform="translate(782.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="17.11 10.83 14.64 10.62 13.44 10.52 12.97 9.41 12 7.13 11.03 9.41 10.56 10.52 9.36 10.62 6.89 10.83 8.77 12.46 9.68 13.25 9.41 14.42 8.84 16.84 10.97 15.56 12 14.93 13.03 15.56 15.16 16.84 14.59 14.42 14.32 13.25 15.23 12.46"></polygon>
+                        <path d="M22,9.24 L14.81,8.63 L12,2 L9.19,8.63 L2,9.24 L7.46,13.97 L5.82,21 L12,17.27 L18.18,21 L16.54,13.97 L22,9.24 Z M14.59,14.42 L15.15,16.83 L13.03,15.55 L12,14.93 L10.97,15.55 L8.85,16.83 L9.41,14.42 L9.68,13.24 L8.77,12.45 L6.89,10.82 L9.36,10.61 L10.56,10.51 L11.03,9.4 L12,7.13 L12.97,9.42 L13.44,10.53 L14.64,10.63 L17.11,10.84 L15.23,12.47 L14.32,13.26 L14.59,14.42 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

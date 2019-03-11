@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>movie_filter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-816.000000, -2860.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-movie_filter" transform="translate(714.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21.5,4 L18,4 L19.74,6.61 C19.85,6.78 19.73,7 19.53,7 L17.53,7 C17.2,7 16.88,6.83 16.7,6.55 L15,4 L13,4 L14.74,6.61 C14.85,6.78 14.73,7 14.53,7 L12.53,7 C12.2,7 11.88,6.83 11.7,6.55 L10,4 L8,4 L9.74,6.61 C9.85,6.78 9.73,7 9.53,7 L7.53,7 C7.2,7 6.89,6.83 6.7,6.55 L5,4 L4,4 C2.9,4 2.01,4.9 2.01,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,4.5 C22,4.22 21.78,4 21.5,4 Z M11.25,15.25 L10,18 L8.75,15.25 L6,14 L8.75,12.75 L10,10 L11.25,12.75 L14,14 L11.25,15.25 Z M16.94,11.94 L16,14 L15.06,11.94 L13,11 L15.06,10.06 L16,8 L16.94,10.06 L19,11 L16.94,11.94 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>person_add_disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-916.000000, -1262.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-person_add_disabled" transform="translate(816.000000, 98.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14.48,11.95 C14.65,11.97 14.82,12 15,12 C17.21,12 19,10.21 19,8 C19,5.79 17.21,4 15,4 C12.79,4 11,5.79 11,8 C11,8.18 11.03,8.35 11.05,8.52 L14.48,11.95 Z M16.69,14.16 L22.43,19.9 C22.76,19.73 23,19.4 23,19 L23,18 C23,15.86 19.44,14.5 16.69,14.16 Z M2.12,2.42 C1.73,2.03 1.1,2.03 0.71,2.42 C0.32,2.81 0.32,3.44 0.71,3.83 L4,7.12 L4,10 L2,10 C1.45,10 1,10.45 1,11 C1,11.55 1.45,12 2,12 L4,12 L4,14 C4,14.55 4.45,15 5,15 C5.55,15 6,14.55 6,14 L6,12 L8.88,12 L11.39,14.51 C9.19,15.11 7,16.3 7,18 L7,19 C7,19.55 7.45,20 8,20 L16.88,20 L20.17,23.29 C20.56,23.68 21.19,23.68 21.58,23.29 C21.97,22.9 21.97,22.27 21.58,21.88 L2.12,2.42 Z M6,10 L6,9.12 L6.88,10 L6,10 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>signal_cellular_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-850.000000, -1750.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-signal_cellular_off" transform="translate(748.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21,3.41 C21,2.52 19.92,2.07 19.29,2.7 L12.69,9.3 L21,17.61 L21,3.41 Z M21.44,20.88 L5.62,5.06 C5.23,4.67 4.6,4.67 4.21,5.06 C3.82,5.45 3.82,6.08 4.21,6.47 L9.87,12.13 L2.71,19.29 C2.08,19.92 2.52,21 3.41,21 L18.73,21 L20.02,22.29 C20.41,22.68 21.04,22.68 21.43,22.29 C21.83,21.9 21.83,21.27 21.44,20.88 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

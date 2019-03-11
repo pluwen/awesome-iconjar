@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>filter_9_plus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-407.000000, -2813.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-filter_9_plus" transform="translate(306.000000, 186.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M2,5 C1.45,5 1,5.45 1,6 L1,21 C1,22.1 1.9,23 3,23 L18,23 C18.55,23 19,22.55 19,22 C19,21.45 18.55,21 18,21 L4,21 C3.45,21 3,20.55 3,20 L3,6 C3,5.45 2.55,5 2,5 Z M14,12 L14,8 C14,6.9 13.1,6 12,6 L11,6 C9.9,6 9,6.9 9,8 L9,9 C9,10.1 9.9,11 11,11 L12,11 L12,12 L10,12 C9.45,12 9,12.45 9,13 C9,13.55 9.45,14 10,14 L12,14 C13.1,14 14,13.1 14,12 Z M11,9 L11,8 L12,8 L12,9 L11,9 Z M21,1 L7,1 C5.9,1 5,1.9 5,3 L5,17 C5,18.1 5.9,19 7,19 L21,19 C22.1,19 23,18.1 23,17 L23,3 C23,1.9 22.1,1 21,1 Z M20,17 L8,17 C7.45,17 7,16.55 7,16 L7,4 C7,3.45 7.45,3 8,3 L20,3 C20.55,3 21,3.45 21,4 L21,16 C21,16.55 20.55,17 20,17 Z M21,10 C21,9.45 20.55,9 20,9 L19,9 L19,8 C19,7.45 18.55,7 18,7 C17.45,7 17,7.45 17,8 L17,9 L16,9 C15.45,9 15,9.45 15,10 C15,10.55 15.45,11 16,11 L17,11 L17,12 C17,12.55 17.45,13 18,13 C18.55,13 19,12.55 19,12 L19,11 L20,11 C20.55,11 21,10.55 21,10 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

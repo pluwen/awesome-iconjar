@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>signal_cellular_4_bar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-273.000000, -1839.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Round-/-Device-/-signal_cellular_4_bar" transform="translate(170.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4.41,22 L20,22 C21.1,22 22,21.1 22,20 L22,4.41 C22,3.52 20.92,3.07 20.29,3.7 L3.71,20.29 C3.08,20.92 3.52,22 4.41,22 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

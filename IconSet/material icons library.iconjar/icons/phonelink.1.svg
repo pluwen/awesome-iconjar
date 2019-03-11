@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>phonelink</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-474.000000, -2506.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="Two-Tone-/-Hardware-/-phonelink" transform="translate(374.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="18 10 22 10 22 17 18 17"></polygon>
+                        <path d="M4,6 L22,6 L22,4 L4,4 C2.9,4 2,4.9 2,6 L2,17 L0,17 L0,20 L14,20 L14,17 L4,17 L4,6 Z M23,8 L17,8 C16.45,8 16,8.45 16,9 L16,19 C16,19.55 16.45,20 17,20 L23,20 C23.55,20 24,19.55 24,19 L24,9 C24,8.45 23.55,8 23,8 Z M22,17 L18,17 L18,10 L22,10 L22,17 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

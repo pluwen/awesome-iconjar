@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_dining</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-918.000000, -3125.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="-Round-/-Maps-/-local_dining" transform="translate(816.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M8.1,13.34 L10.93,10.51 L4.74,4.33 C4.26,3.85 3.43,3.98 3.13,4.6 C2.42,6.09 2.68,7.92 3.91,9.16 L8.1,13.34 Z M14.88,11.53 C16.41,12.24 18.56,11.74 20.15,10.15 C22.06,8.24 22.43,5.5 20.96,4.03 C19.5,2.57 16.76,2.93 14.84,4.84 C13.25,6.43 12.75,8.58 13.46,10.11 L4.41,19.16 C4.02,19.55 4.02,20.18 4.41,20.57 C4.8,20.96 5.43,20.96 5.82,20.57 L12,14.41 L18.18,20.59 C18.57,20.98 19.2,20.98 19.59,20.59 C19.98,20.2 19.98,19.57 19.59,19.18 L13.41,13 L14.88,11.53 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

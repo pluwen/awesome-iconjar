@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="15px" viewBox="0 0 20 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ow_priority</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-918.000000, -1487.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="-Round-/-Content-/-ow_priority" transform="translate(816.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15,5 L21,5 C21.55,5 22,5.45 22,6 C22,6.55 21.55,7 21,7 L15,7 C14.45,7 14,6.55 14,6 C14,5.45 14.45,5 15,5 Z M15,10.5 L21,10.5 C21.55,10.5 22,10.95 22,11.5 C22,12.05 21.55,12.5 21,12.5 L15,12.5 C14.45,12.5 14,12.05 14,11.5 C14,10.95 14.45,10.5 15,10.5 Z M15,16 L21,16 C21.55,16 22,16.45 22,17 C22,17.55 21.55,18 21,18 L15,18 C14.45,18 14,17.55 14,17 C14,16.45 14.45,16 15,16 Z M9.85,19.15 L11.64,17.36 C11.84,17.16 11.84,16.85 11.64,16.65 L9.85,14.86 C9.54,14.54 9,14.76 9,15.21 L9,18.8 C9,19.24 9.54,19.46 9.85,19.15 Z M9,16 L8.7,16 C6.35,16 4.25,14.29 4.02,11.95 C3.76,9.27 5.87,7 8.5,7 L11,7 C11.55,7 12,6.55 12,6 C12,5.45 11.55,5 11,5 L8.5,5 C4.64,5 1.54,8.4 2.06,12.36 C2.48,15.64 5.43,18 8.73,18 L9,18 L9,16 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

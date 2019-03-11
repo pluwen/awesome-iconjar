@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="20px" viewBox="0 0 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>flight</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-442.000000, -3168.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="-Round-/-Maps-/-flight" transform="translate(340.000000, 98.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21,14.58 C21,14.22 20.81,13.89 20.51,13.69 L13,9 L13,3.5 C13,2.67 12.33,2 11.5,2 C10.67,2 10,2.67 10,3.5 L10,9 L2.49,13.69 C2.19,13.88 2,14.22 2,14.58 C2,15.28 2.68,15.79 3.36,15.58 L10,13.5 L10,19 L8.2,20.35 C8.07,20.44 8,20.59 8,20.75 L8,21.34 C8,21.67 8.32,21.91 8.64,21.82 L11.5,21 L14.36,21.82 C14.68,21.91 15,21.67 15,21.34 L15,20.75 C15,20.59 14.93,20.44 14.8,20.35 L13,19 L13,13.5 L19.64,15.58 C20.32,15.79 21,15.28 21,14.58 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

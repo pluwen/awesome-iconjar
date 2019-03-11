@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>network_check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-203.000000, -3658.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Two-Tone-/-Notification-/-network_check" transform="translate(102.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15.9,5 C15.73,5 15.58,5.09 15.49,5.23 L15.42,5.38 L10.24,17.03 C10.08,17.32 9.98,17.64 9.98,17.99 C9.98,19.1 10.88,20 11.99,20 C12.95,20 13.76,19.32 13.95,18.41 L13.96,18.38 L16.4,5.5 C16.4,5.22 16.18,5 15.9,5 Z M1,9 L3,11 C5.88,8.12 9.79,6.92 13.53,7.38 L14.72,4.7 C9.89,3.84 4.74,5.27 1,9 Z M21,11 L23,9 C21.36,7.36 19.45,6.18 17.41,5.43 L16.88,8.25 C18.38,8.87 19.78,9.78 21,11 Z M17,15 L19,13 C18.2,12.2 17.3,11.58 16.34,11.11 L15.79,14.03 C16.21,14.3 16.62,14.62 17,15 Z M5,13 L7,15 C8.13,13.87 9.56,13.21 11.03,13 L12.31,10.12 C9.68,10.04 7.01,10.99 5,13 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

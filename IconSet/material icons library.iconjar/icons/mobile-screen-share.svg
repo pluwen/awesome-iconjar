@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="22px" viewBox="0 0 14 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile_screen_share</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-547.000000, -1261.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Two-Tone-/-Communication-/-mobile_screen_share" transform="translate(442.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,19 L17,19 L17,5 L7,5 L7,19 Z M12.8,10.72 L12.8,9.02 L16,12 L12.8,14.99 L12.8,13.24 C10.58,13.24 9.11,13.92 8,15.42 C8.45,13.28 9.69,11.15 12.8,10.72 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M17,1 L7,1 C5.9,1 5.01,1.85 5.01,2.95 L5.01,20.95 C5.01,22.05 5.9,23 7,23 L17,23 C18.1,23 19,22.05 19,20.95 L19,3 C19,1.9 18.1,1 17,1 Z M17,19 L7,19 L7,5 L17,5 L17,19 Z M12.8,13.24 L12.8,14.99 L16,12 L12.8,9.02 L12.8,10.72 C9.69,11.15 8.45,13.28 8,15.42 C9.11,13.92 10.58,13.24 12.8,13.24 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

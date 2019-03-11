@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>calendar_today</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-476.000000, -199.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-calendar_today" transform="translate(374.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,3 L19,3 L19,2 C19,1.45 18.55,1 18,1 C17.45,1 17,1.45 17,2 L17,3 L7,3 L7,2 C7,1.45 6.55,1 6,1 C5.45,1 5,1.45 5,2 L5,3 L4,3 C2.9,3 2,3.9 2,5 L2,21 C2,22.1 2.9,23 4,23 L20,23 C21.1,23 22,22.1 22,21 L22,5 C22,3.9 21.1,3 20,3 Z M19,21 L5,21 C4.45,21 4,20.55 4,20 L4,8 L20,8 L20,20 C20,20.55 19.55,21 19,21 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

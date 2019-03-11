@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tune</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-205.000000, -2727.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-tune" transform="translate(102.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,18 C3,18.55 3.45,19 4,19 L9,19 L9,17 L4,17 C3.45,17 3,17.45 3,18 Z M3,6 C3,6.55 3.45,7 4,7 L13,7 L13,5 L4,5 C3.45,5 3,5.45 3,6 Z M13,20 L13,19 L20,19 C20.55,19 21,18.55 21,18 C21,17.45 20.55,17 20,17 L13,17 L13,16 C13,15.45 12.55,15 12,15 C11.45,15 11,15.45 11,16 L11,20 C11,20.55 11.45,21 12,21 C12.55,21 13,20.55 13,20 Z M7,10 L7,11 L4,11 C3.45,11 3,11.45 3,12 C3,12.55 3.45,13 4,13 L7,13 L7,14 C7,14.55 7.45,15 8,15 C8.55,15 9,14.55 9,14 L9,10 C9,9.45 8.55,9 8,9 C7.45,9 7,9.45 7,10 Z M21,12 C21,11.45 20.55,11 20,11 L11,11 L11,13 L20,13 C20.55,13 21,12.55 21,12 Z M16,9 C16.55,9 17,8.55 17,8 L17,7 L20,7 C20.55,7 21,6.55 21,6 C21,5.45 20.55,5 20,5 L17,5 L17,4 C17,3.45 16.55,3 16,3 C15.45,3 15,3.45 15,4 L15,8 C15,8.55 15.45,9 16,9 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

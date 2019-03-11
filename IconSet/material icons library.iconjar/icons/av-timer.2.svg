@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>av_timer</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-715.000000, -909.000000)">
+            <g id="Av" transform="translate(100.000000, 852.000000)">
+                <g id="Outlined-/-AV-/-av_timer" transform="translate(612.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11,17 C11,17.55 11.45,18 12,18 C12.55,18 13,17.55 13,17 C13,16.45 12.55,16 12,16 C11.45,16 11,16.45 11,17 Z M11,3 L11,7 L13,7 L13,5.08 C16.39,5.57 19,8.47 19,12 C19,15.87 15.87,19 12,19 C8.13,19 5,15.87 5,12 C5,10.32 5.59,8.78 6.58,7.58 L12,13 L13.41,11.59 L6.61,4.79 L6.61,4.81 C4.42,6.45 3,9.05 3,12 C3,16.97 7.02,21 12,21 C16.97,21 21,16.97 21,12 C21,7.03 16.97,3 12,3 L11,3 Z M18,12 C18,11.45 17.55,11 17,11 C16.45,11 16,11.45 16,12 C16,12.55 16.45,13 17,13 C17.55,13 18,12.55 18,12 Z M6,12 C6,12.55 6.45,13 7,13 C7.55,13 8,12.55 8,12 C8,11.45 7.55,11 7,11 C6.45,11 6,11.45 6,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

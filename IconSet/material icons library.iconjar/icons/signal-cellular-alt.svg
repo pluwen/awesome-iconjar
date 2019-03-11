@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>signal_cellular_alt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-309.000000, -1840.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Round-/-Device-/-signal_cellular_alt" transform="translate(204.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18.5,4 C19.33,4 20,4.67 20,5.5 L20,18.5 C20,19.33 19.33,20 18.5,20 C17.67,20 17,19.33 17,18.5 L17,5.5 C17,4.67 17.67,4 18.5,4 Z M6.5,14 C7.33,14 8,14.67 8,15.5 L8,18.5 C8,19.33 7.33,20 6.5,20 C5.67,20 5,19.33 5,18.5 L5,15.5 C5,14.67 5.67,14 6.5,14 Z M12.5,9 C13.33,9 14,9.67 14,10.5 L14,18.5 C14,19.33 13.33,20 12.5,20 C11.67,20 11,19.33 11,18.5 L11,10.5 C11,9.67 11.67,9 12.5,9 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

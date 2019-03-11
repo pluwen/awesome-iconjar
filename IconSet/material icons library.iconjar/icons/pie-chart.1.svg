@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>pie_chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-714.000000, -2104.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Outlined-/-Editor-/-pie_chart" transform="translate(612.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 Z M19.93,11 L13,11 L13,4.07 C16.61,4.52 19.48,7.39 19.93,11 Z M4,12 C4,7.93 7.06,4.56 11,4.07 L11,19.93 C7.06,19.44 4,16.07 4,12 Z M13,19.93 L13,13 L19.93,13 C19.48,16.61 16.61,19.48 13,19.93 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

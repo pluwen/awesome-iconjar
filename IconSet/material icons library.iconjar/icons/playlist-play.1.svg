@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>playlist_play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-105.000000, -999.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-playlist_play" transform="translate(0.000000, 142.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-60" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M6,9 L16,9 C16.55,9 17,9.45 17,10 C17,10.55 16.55,11 16,11 L6,11 C5.45,11 5,10.55 5,10 C5,9.45 5.45,9 6,9 Z M6,5 L16,5 C16.55,5 17,5.45 17,6 C17,6.55 16.55,7 16,7 L6,7 C5.45,7 5,6.55 5,6 C5,5.45 5.45,5 6,5 Z M6,13 L12,13 C12.55,13 13,13.45 13,14 C13,14.55 12.55,15 12,15 L6,15 C5.45,15 5,14.55 5,14 C5,13.45 5.45,13 6,13 Z M15,13.88 L15,18.11 C15,18.5 15.42,18.74 15.76,18.54 L19.29,16.42 C19.61,16.23 19.61,15.76 19.29,15.56 L15.76,13.44 C15.42,13.25 15,13.49 15,13.88 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

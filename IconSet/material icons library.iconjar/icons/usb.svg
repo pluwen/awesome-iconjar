@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="22px" viewBox="0 0 15 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>usb</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-240.000000, -1837.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Outlined-/-Device-/-usb" transform="translate(136.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15,7 L15,11 L16,11 L16,13 L13,13 L13,5 L15,5 L12,1 L9,5 L11,5 L11,13 L8,13 L8,10.93 C8.7,10.56 9.2,9.85 9.2,9 C9.2,7.79 8.21,6.8 7,6.8 C5.79,6.8 4.8,7.79 4.8,9 C4.8,9.85 5.3,10.56 6,10.93 L6,13 C6,14.11 6.89,15 8,15 L11,15 L11,18.05 C10.29,18.42 9.8,19.15 9.8,20 C9.8,21.22 10.79,22.2 12,22.2 C13.21,22.2 14.2,21.22 14.2,20 C14.2,19.15 13.71,18.42 13,18.05 L13,15 L16,15 C17.11,15 18,14.11 18,13 L18,11 L19,11 L19,7 L15,7 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>volume_down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-819.000000, -998.000000)">
+            <g id="Av" transform="translate(100.000000, 852.000000)">
+                <g id="Outlined-/-AV-/-volume_down" transform="translate(714.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16,7.97 L16,16.02 C17.48,15.29 18.5,13.77 18.5,12 C18.5,10.23 17.48,8.71 16,7.97 Z M5,9 L5,15 L9,15 L14,20 L14,4 L9,9 L5,9 Z M12,8.83 L12,15.17 L9.83,13 L7,13 L7,11 L9.83,11 L12,8.83 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

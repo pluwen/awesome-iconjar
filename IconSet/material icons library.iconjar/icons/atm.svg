@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="6px" viewBox="0 0 20 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>atm</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-850.000000, -3131.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-atm" transform="translate(748.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3.5,13.5 L5.5,13.5 L5.5,15 L7,15 L7,10 C7,9.45 6.55,9 6,9 L3,9 C2.45,9 2,9.45 2,10 L2,15 L3.5,15 L3.5,13.5 Z M3.5,10.5 L5.5,10.5 L5.5,12 L3.5,12 L3.5,10.5 Z M17,10.5 L18,10.5 L18,14 L19.5,14 L19.5,10.49 L20.5,10.49 L20.5,15 L22,15 L22,10 C22,9.45 21.55,9 21,9 L16.5,9 C15.95,9 15.5,9.45 15.5,10 L15.5,15 L17,15 L17,10.5 Z M10.25,15 L11.75,15 L11.75,10.5 L14,10.5 L14,9 L8,9 L8,10.5 L10.25,10.5 L10.25,15 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

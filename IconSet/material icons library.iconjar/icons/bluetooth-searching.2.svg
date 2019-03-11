@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bluetooth_searching</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-851.000000, -1750.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Two-Tone-/-Device-/-bluetooth_searching" transform="translate(748.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14.24,12.01 L16.56,14.33 C16.84,13.61 17,12.82 17,12 C17,11.18 16.84,10.41 16.57,9.69 L14.24,12.01 Z M19.53,6.71 L18.27,7.97 C18.9,9.18 19.25,10.54 19.25,11.99 C19.25,13.44 18.89,14.81 18.27,16.01 L19.47,17.21 C20.44,15.67 21.01,13.85 21.01,11.9 C21,10.01 20.46,8.23 19.53,6.71 Z M15.71,7.71 L10,2 L9,2 L9,9.59 L4.41,5 L3,6.41 L8.59,12 L3,17.59 L4.41,19 L9,14.41 L9,22 L10,22 L15.71,16.29 L11.41,12 L15.71,7.71 Z M11,5.83 L12.88,7.71 L11,9.59 L11,5.83 Z M12.88,16.29 L11,18.17 L11,14.41 L12.88,16.29 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

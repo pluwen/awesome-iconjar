@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>volume_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-783.000000, -997.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-volume_off" transform="translate(680.000000, 142.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <rect id="Rectangle-Copy-85" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M3.63,3.63 C3.24,4.02 3.24,4.65 3.63,5.04 L7.29,8.7 L7,9 L4,9 C3.45,9 3,9.45 3,10 L3,14 C3,14.55 3.45,15 4,15 L7,15 L10.29,18.29 C10.92,18.92 12,18.47 12,17.58 L12,13.41 L16.18,17.59 C15.69,17.96 15.16,18.27 14.58,18.5 C14.22,18.65 14,19.03 14,19.42 C14,20.14 14.73,20.6 15.39,20.33 C16.19,20 16.94,19.56 17.61,19.02 L18.95,20.36 C19.34,20.75 19.97,20.75 20.36,20.36 C20.75,19.97 20.75,19.34 20.36,18.95 L5.05,3.63 C4.66,3.24 4.03,3.24 3.63,3.63 Z M19,12 C19,12.82 18.85,13.61 18.59,14.34 L20.12,15.87 C20.68,14.7 21,13.39 21,12 C21,8.17 18.6,4.89 15.22,3.6 C14.63,3.37 14,3.83 14,4.46 L14,4.65 C14,5.03 14.25,5.36 14.61,5.5 C17.18,6.54 19,9.06 19,12 Z M10.29,5.71 L10.12,5.88 L12,7.76 L12,6.41 C12,5.52 10.92,5.08 10.29,5.71 Z M16.5,12 C16.5,10.23 15.48,8.71 14,7.97 L14,9.76 L16.48,12.24 C16.49,12.16 16.5,12.08 16.5,12 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

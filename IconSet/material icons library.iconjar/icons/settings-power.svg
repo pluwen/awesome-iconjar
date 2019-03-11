@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_power</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-852.000000, -420.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-settings_power" transform="translate(748.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,24 L9,24 L9,22 L7,22 L7,24 Z M11,24 L13,24 L13,22 L11,22 L11,24 Z M13,2 L11,2 L11,12 L13,12 L13,2 Z M16.56,4.44 L15.11,5.89 C16.84,6.94 18,8.83 18,11 C18,14.31 15.31,17 12,17 C8.69,17 6,14.31 6,11 C6,8.83 7.16,6.94 8.88,5.88 L7.44,4.44 C5.36,5.88 4,8.28 4,11 C4,15.42 7.58,19 12,19 C16.42,19 20,15.42 20,11 C20,8.28 18.64,5.88 16.56,4.44 Z M15,24 L17,24 L17,22 L15,22 L15,24 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

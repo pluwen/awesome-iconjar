@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="9px" viewBox="0 0 24 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>call_end</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-202.000000, -1223.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-call_end" transform="translate(102.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)" id="Path">
+                        <polygon points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4.51,15.48 L6.51,13.89 C6.99,13.51 7.27,12.93 7.27,12.32 L7.27,9.72 C10.29,8.74 13.56,8.73 16.59,9.72 L16.59,12.33 C16.59,12.94 16.87,13.52 17.35,13.9 L19.34,15.48 C20.14,16.11 21.28,16.05 22,15.33 L23.22,14.11 C24.02,13.31 24.02,11.98 23.17,11.23 C16.76,5.57 7.1,5.57 0.69,11.23 C-0.16,11.98 -0.16,13.31 0.64,14.11 L1.86,15.33 C2.57,16.05 3.71,16.11 4.51,15.48 Z" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

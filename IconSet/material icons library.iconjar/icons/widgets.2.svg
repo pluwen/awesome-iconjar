@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>widgets</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-171.000000, -1837.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="Outlined-/-Device-/-widgets" transform="translate(68.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16.66,4.52 L19.49,7.35 L16.66,10.18 L13.83,7.35 L16.66,4.52 Z M9,5 L9,9 L5,9 L5,5 L9,5 Z M19,15 L19,19 L15,19 L15,15 L19,15 Z M9,15 L9,19 L5,19 L5,15 L9,15 Z M16.66,1.69 L11,7.34 L16.66,13 L22.32,7.34 L16.66,1.69 Z M11,3 L3,3 L3,11 L11,11 L11,3 Z M21,13 L13,13 L13,21 L21,21 L21,13 Z M11,13 L3,13 L3,21 L11,21 L11,13 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

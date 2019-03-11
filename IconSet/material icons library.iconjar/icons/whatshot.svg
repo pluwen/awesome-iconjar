@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>whatshot</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-784.000000, -4098.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="Outlined-/-Social-/-whatshot" transform="translate(680.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.57,13.16 C10.21,13.44 9.4,14.32 9.4,15.57 C9.4,16.91 10.51,17.99 11.89,17.99 C13.94,17.99 15.6,16.33 15.6,14.28 C15.6,13.21 15.45,12.16 15.14,11.16 C14.35,12.23 12.94,12.88 11.57,13.16 Z M13.5,0.67 C13.5,0.67 14.24,3.32 14.24,5.47 C14.24,7.53 12.89,9.2 10.83,9.2 C8.76,9.2 7.2,7.53 7.2,5.47 L7.23,5.11 C5.21,7.51 4,10.62 4,14 C4,18.42 7.58,22 12,22 C16.42,22 20,18.42 20,14 C20,8.61 17.41,3.8 13.5,0.67 Z M12,20 C8.69,20 6,17.31 6,14 C6,12.47 6.3,10.96 6.86,9.57 C7.87,10.58 9.27,11.2 10.83,11.2 C13.49,11.2 15.58,9.37 16.11,6.77 C17.34,8.97 18,11.44 18,14 C18,17.31 15.31,20 12,20 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

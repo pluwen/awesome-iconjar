@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>directions</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-511.000000, -3124.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="-Round-/-Maps-/-directions" transform="translate(409.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21.71,11.29 L12.71,2.29 C12.32,1.9 11.69,1.9 11.3,2.29 L2.3,11.29 C1.91,11.68 1.91,12.31 2.3,12.7 L11.3,21.7 C11.69,22.09 12.32,22.09 12.71,21.7 L21.71,12.7 C22.1,12.32 22.1,11.69 21.71,11.29 Z M14,14.5 L14,12 L10,12 L10,14 C10,14.55 9.55,15 9,15 C8.45,15 8,14.55 8,14 L8,11 C8,10.45 8.45,10 9,10 L14,10 L14,7.5 L17.15,10.65 C17.35,10.85 17.35,11.16 17.15,11.36 L14,14.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

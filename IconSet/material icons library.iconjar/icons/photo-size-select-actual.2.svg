@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>photo_size_select_actual</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-101.000000, -2859.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-photo_size_select_actual" transform="translate(0.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3.08,5 L3,5.08 L3,19 L20.92,19 C20.95,18.98 20.98,18.94 21,18.92 L21,5.08 L20.92,5 L3.08,5 Z M5,17 L8.5,12.5 L11,15.51 L14.5,11 L19,17 L5,17 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M21,3 L3,3 C2,3 1,4 1,5 L1,19 C1,20.1 1.9,21 3,21 L21,21 C22,21 23,20 23,19 L23,5 C23,4 22,3 21,3 Z M21,18.92 C20.98,18.95 20.94,18.98 20.92,19 L3,19 L3,5.08 L3.08,5 L20.91,5 C20.94,5.02 20.97,5.06 20.99,5.08 L20.99,18.92 L21,18.92 Z M11,15.51 L8.5,12.5 L5,17 L19,17 L14.5,11 L11,15.51 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

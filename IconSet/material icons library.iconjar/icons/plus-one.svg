@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="13px" viewBox="0 0 15 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>plus_one</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-240.000000, -4147.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="-Round-/-Social-/-plus_one" transform="translate(136.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M9,8 C8.45,8 8,8.45 8,9 L8,12 L5,12 C4.45,12 4,12.45 4,13 C4,13.55 4.45,14 5,14 L8,14 L8,17 C8,17.55 8.45,18 9,18 C9.55,18 10,17.55 10,17 L10,14 L13,14 C13.55,14 14,13.55 14,13 C14,12.45 13.55,12 13,12 L10,12 L10,9 C10,8.45 9.55,8 9,8 Z M14.5,6.79 C14.5,7.36 15.02,7.79 15.58,7.68 L17,7.4 L17,17 C17,17.55 17.45,18 18,18 C18.55,18 19,17.55 19,17 L19,6.27 C19,5.62 18.4,5.15 17.77,5.3 L15.2,5.92 C14.79,6.01 14.5,6.38 14.5,6.79 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

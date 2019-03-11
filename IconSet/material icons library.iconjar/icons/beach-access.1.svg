@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>beach_access</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-715.000000, -3923.000000)">
+            <g id="Places" transform="translate(100.000000, 3866.000000)">
+                <g id="Outlined-/-Places-/-beach_access" transform="translate(612.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21,19.57 L19.573,20.998 L13.131,14.556 L14.561,13.128 L21,19.57 Z M13.12,3 C10.54,3 7.96,3.98 5.98,5.95 L5.97,5.96 C2.02,9.91 2.02,16.32 5.97,20.27 L20.27,5.96 C18.3,3.99 15.71,3 13.12,3 Z M6.14,17.27 C5.4,16.03 5,14.61 5,13.12 C5,12.19 5.16,11.3 5.46,10.45 C5.65,12.36 6.35,14.24 7.53,15.89 L6.14,17.27 Z M8.98,14.43 C7.63,12.38 7.12,9.93 7.6,7.6 C8.18,7.48 8.76,7.42 9.35,7.42 C11.15,7.42 12.9,7.97 14.43,8.98 L8.98,14.43 Z M10.45,5.46 C11.3,5.16 12.19,5 13.12,5 C14.61,5 16.03,5.4 17.27,6.14 L15.88,7.53 C14.23,6.35 12.36,5.65 10.45,5.46 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

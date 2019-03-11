@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>developer_board</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-306.000000, -2461.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="-Round-/-Hardware-/-developer_board" transform="translate(204.000000, 54.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-94" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M22,8 C22,7.45 21.55,7 21,7 L20,7 L20,5 C20,3.9 19.1,3 18,3 L4,3 C2.9,3 2,3.9 2,5 L2,19 C2,20.1 2.9,21 4,21 L18,21 C19.1,21 20,20.1 20,19 L20,17 L21,17 C21.55,17 22,16.55 22,16 C22,15.45 21.55,15 21,15 L20,15 L20,13 L21,13 C21.55,13 22,12.55 22,12 C22,11.45 21.55,11 21,11 L20,11 L20,9 L21,9 C21.55,9 22,8.55 22,8 Z M17,19 L5,19 C4.45,19 4,18.55 4,18 L4,6 C4,5.45 4.45,5 5,5 L17,5 C17.55,5 18,5.45 18,6 L18,18 C18,18.55 17.55,19 17,19 Z M6.5,13 L10.5,13 C10.78,13 11,13.22 11,13.5 L11,16.5 C11,16.78 10.78,17 10.5,17 L6.5,17 C6.22,17 6,16.78 6,16.5 L6,13.5 C6,13.22 6.22,13 6.5,13 Z M12.5,7 L15.5,7 C15.78,7 16,7.22 16,7.5 L16,9.5 C16,9.78 15.78,10 15.5,10 L12.5,10 C12.22,10 12,9.78 12,9.5 L12,7.5 C12,7.22 12.22,7 12.5,7 Z M6.5,7 L10.5,7 C10.78,7 11,7.22 11,7.5 L11,11.5 C11,11.78 10.78,12 10.5,12 L6.5,12 C6.22,12 6,11.78 6,11.5 L6,7.5 C6,7.22 6.22,7 6.5,7 Z M12.5,11 L15.5,11 C15.78,11 16,11.22 16,11.5 L16,16.5 C16,16.78 15.78,17 15.5,17 L12.5,17 C12.22,17 12,16.78 12,16.5 L12,11.5 C12,11.22 12.22,11 12.5,11 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

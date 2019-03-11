@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="14px" viewBox="0 0 22 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>burst_mode</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-305.000000, -2685.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-burst_mode" transform="translate(204.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M1,5 L3,5 L3,19 L1,19 L1,5 Z M5,5 L7,5 L7,19 L5,19 L5,5 Z M22,5 L10,5 C9.45,5 9,5.45 9,6 L9,18 C9,18.55 9.45,19 10,19 L22,19 C22.55,19 23,18.55 23,18 L23,6 C23,5.45 22.55,5 22,5 Z M21,17 L11,17 L11,7 L21,7 L21,17 Z M17.43,12.62 L15.43,15.19 L14,13.47 L12,15.99 L20,15.99 L17.43,12.62 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

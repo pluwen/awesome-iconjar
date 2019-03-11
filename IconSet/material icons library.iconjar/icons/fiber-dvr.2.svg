@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="6px" viewBox="0 0 18 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>fiber_dvr</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-375.000000, -915.000000)">
+            <g id="Av" transform="translate(100.000000, 852.000000)">
+                <g id="Outlined-/-AV-/-fiber_dvr" transform="translate(272.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11.87,12.43 L10.87,9 L9.37,9 L11.12,15 L12.62,15 L14.37,9 L12.87,9 L11.87,12.43 Z M21,11.5 L21,10.5 C21,9.65 20.35,9 19.5,9 L16,9 L16,15 L17.5,15 L17.5,13 L18.65,13 L19.5,15 L21,15 L20.1,12.9 C20.6,12.65 21,12.1 21,11.5 Z M19.5,11.5 L17.5,11.5 L17.5,10.5 L19.5,10.5 L19.5,11.5 Z M6.5,9 L3,9 L3,15 L6.5,15 C7.35,15 8,14.35 8,13.5 L8,10.5 C8,9.65 7.35,9 6.5,9 Z M6.5,13.5 L4.5,13.5 L4.5,10.5 L6.5,10.5 L6.5,13.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

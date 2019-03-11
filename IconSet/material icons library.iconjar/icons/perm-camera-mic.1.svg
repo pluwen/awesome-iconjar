@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>perm_camera_mic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-748.000000, -377.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-perm_camera_mic" transform="translate(646.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,5 L16.83,5 L15.59,3.65 C15.22,3.24 14.68,3 14.12,3 L9.88,3 C9.32,3 8.78,3.24 8.4,3.65 L7.17,5 L4,5 C2.9,5 2,5.9 2,7 L2,19 C2,20.1 2.9,21 4,21 L11,21 L11,18.91 C8.55,18.49 6.59,16.59 6.11,14.16 C5.99,13.55 6.49,13 7.1,13 C7.59,13 7.98,13.35 8.08,13.83 C8.47,15.64 10.07,17 12,17 C13.93,17 15.53,15.64 15.91,13.83 C16.01,13.35 16.41,13 16.89,13 C17.5,13 18,13.55 17.88,14.16 C17.4,16.59 15.44,18.5 12.99,18.91 L12.99,21 L19.99,21 C21.09,21 21.99,20.1 21.99,19 L21.99,7 C22,5.9 21.1,5 20,5 Z M14,13 C14,14.1 13.1,15 12,15 C10.9,15 10,14.1 10,13 L10,9 C10,7.9 10.9,7 12,7 C13.1,7 14,7.9 14,9 L14,13 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

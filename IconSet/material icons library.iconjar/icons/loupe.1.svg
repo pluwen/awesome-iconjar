@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>loupe</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-918.000000, -2858.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-loupe" transform="translate(816.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,7 C11.45,7 11,7.45 11,8 L11,11 L8,11 C7.45,11 7,11.45 7,12 C7,12.55 7.45,13 8,13 L11,13 L11,16 C11,16.55 11.45,17 12,17 C12.55,17 13,16.55 13,16 L13,13 L16,13 C16.55,13 17,12.55 17,12 C17,11.45 16.55,11 16,11 L13,11 L13,8 C13,7.45 12.55,7 12,7 Z M12,2 C6.49,2 2,6.49 2,12 C2,17.51 6.49,22 12,22 L20,22 C21.1,22 22,21.1 22,20 L22,12 C22,6.49 17.51,2 12,2 Z M12,20 C7.59,20 4,16.41 4,12 C4,7.59 7.59,4 12,4 C16.41,4 20,7.59 20,12 C20,16.41 16.41,20 12,20 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

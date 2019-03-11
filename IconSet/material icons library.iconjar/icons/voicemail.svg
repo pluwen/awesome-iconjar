@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="11px" viewBox="0 0 24 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>voicemail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-168.000000, -1310.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Two-Tone-/-Communication-/-voicemail" transform="translate(68.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18.5,6 C15.46,6 13,8.46 13,11.5 C13,12.83 13.47,14.05 14.26,15 L9.74,15 C10.53,14.05 11,12.83 11,11.5 C11,8.46 8.54,6 5.5,6 C2.46,6 0,8.46 0,11.5 C0,14.54 2.46,17 5.5,17 L18.5,17 C21.54,17 24,14.54 24,11.5 C24,8.46 21.54,6 18.5,6 Z M5.5,15 C3.57,15 2,13.43 2,11.5 C2,9.57 3.57,8 5.5,8 C7.43,8 9,9.57 9,11.5 C9,13.43 7.43,15 5.5,15 Z M18.5,15 C16.57,15 15,13.43 15,11.5 C15,9.57 16.57,8 18.5,8 C20.43,8 22,9.57 22,11.5 C22,13.43 20.43,15 18.5,15 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

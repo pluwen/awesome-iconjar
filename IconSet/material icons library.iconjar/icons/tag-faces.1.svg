@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tag_faces</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-476.000000, -2726.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-tag_faces" transform="translate(374.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12.01,2 C6.49,2 2.02,6.48 2.02,12 C2.02,17.52 6.49,22 12.01,22 C17.54,22 22.02,17.52 22.02,12 C22.02,6.48 17.54,2 12.01,2 Z M12.02,20 C7.6,20 4.02,16.42 4.02,12 C4.02,7.58 7.6,4 12.02,4 C16.44,4 20.02,7.58 20.02,12 C20.02,16.42 16.44,20 12.02,20 Z M15.52,11 C16.35,11 17.02,10.33 17.02,9.5 C17.02,8.67 16.35,8 15.52,8 C14.69,8 14.02,8.67 14.02,9.5 C14.02,10.33 14.69,11 15.52,11 Z M8.52,11 C9.35,11 10.02,10.33 10.02,9.5 C10.02,8.67 9.35,8 8.52,8 C7.69,8 7.02,8.67 7.02,9.5 C7.02,10.33 7.69,11 8.52,11 Z M12.02,17.5 C14.05,17.5 15.82,16.39 16.77,14.75 C16.96,14.42 16.72,14 16.33,14 L7.71,14 C7.33,14 7.08,14.42 7.27,14.75 C8.22,16.39 9.99,17.5 12.02,17.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

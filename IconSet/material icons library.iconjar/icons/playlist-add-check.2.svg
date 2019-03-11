@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="14px" viewBox="0 0 21 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>playlist_add_check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-918.000000, -912.000000)">
+            <g id="Av" transform="translate(100.000000, 852.000000)">
+                <g id="Outlined-/-AV-/-playlist_add_check" transform="translate(816.000000, 54.000000)">
+                    <g>
+                        <g>
+                            <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                            <path d="M14,10 L2,10 L2,12 L14,12 L14,10 Z M14,6 L2,6 L2,8 L14,8 L14,6 Z M2,16 L10,16 L10,14 L2,14 L2,16 Z M21.5,11.5 L23,13 L16.01,20 L11.5,15.5 L13,14 L16.01,17 L21.5,11.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

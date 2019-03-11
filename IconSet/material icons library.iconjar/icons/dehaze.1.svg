@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>dehaze</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-646.000000, -2774.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-dehaze" transform="translate(544.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M2,17 C2,17.55 2.45,18 3,18 L21,18 C21.55,18 22,17.55 22,17 C22,16.45 21.55,16 21,16 L3,16 C2.45,16 2,16.45 2,17 Z M2,12 C2,12.55 2.45,13 3,13 L21,13 C21.55,13 22,12.55 22,12 C22,11.45 21.55,11 21,11 L3,11 C2.45,11 2,11.45 2,12 Z M2,7 C2,7.55 2.45,8 3,8 L21,8 C21.55,8 22,7.55 22,7 C22,6.45 21.55,6 21,6 L3,6 C2.45,6 2,6.45 2,7 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

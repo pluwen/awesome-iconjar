@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="13px" viewBox="0 0 20 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>360</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-102.000000, -3129.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-360" transform="translate(0.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M9,16.77 L9,20 L13,16 L9,12 L9,14.73 C5.85,14.17 4,12.83 4,12 C4,10.94 7.04,9 12,9 C16.96,9 20,10.94 20,12 C20,12.73 18.54,13.89 16,14.53 L16,16.58 C19.53,15.81 22,14.05 22,12 C22,9.24 17.52,7 12,7 C6.48,7 2,9.24 2,12 C2,14.24 4.94,16.13 9,16.77 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="24px" viewBox="0 0 13 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_bluetooth</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-105.000000, -418.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-settings_bluetooth" transform="translate(0.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11,24 L13,24 L13,22 L11,22 L11,24 Z M7,24 L9,24 L9,22 L7,22 L7,24 Z M15,24 L17,24 L17,22 L15,22 L15,24 Z M17.71,5.71 L12,0 L11,0 L11,7.59 L6.41,3 L5,4.41 L10.59,10 L5,15.59 L6.41,17 L11,12.41 L11,20 L12,20 L17.71,14.29 L13.41,10 L17.71,5.71 Z M13,3.83 L14.88,5.71 L13,7.59 L13,3.83 Z M14.88,14.29 L13,16.17 L13,12.41 L14.88,14.29 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

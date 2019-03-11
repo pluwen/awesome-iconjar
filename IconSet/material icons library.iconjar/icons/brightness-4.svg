@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>brightness_4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-305.000000, -2769.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-brightness_4" transform="translate(204.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M22.6,11.29 L20,8.69 L20,5 C20,4.45 19.55,4 19,4 L15.31,4 L12.71,1.4 C12.32,1.01 11.69,1.01 11.3,1.4 L8.69,4 L5,4 C4.45,4 4,4.45 4,5 L4,8.69 L1.4,11.29 C1.01,11.68 1.01,12.31 1.4,12.7 L4,15.3 L4,19 C4,19.55 4.45,20 5,20 L8.69,20 L11.29,22.6 C11.68,22.99 12.31,22.99 12.7,22.6 L15.3,20 L19,20 C19.55,20 20,19.55 20,19 L20,15.31 L22.6,12.71 C22.99,12.32 22.99,11.68 22.6,11.29 Z M17.92,12.98 C17.58,15.1 16.07,16.92 14.04,17.64 C12.83,18.07 11.63,18.09 10.54,17.82 C10.13,17.72 10.06,17.17 10.41,16.92 C11.98,15.84 13,14.04 13,12 C13,9.96 11.98,8.16 10.42,7.08 C10.07,6.84 10.13,6.29 10.55,6.18 C11.64,5.91 12.84,5.93 14.05,6.36 C16.07,7.08 17.59,8.9 17.93,11.02 C17.98,11.35 18,11.68 18,12 C17.99,12.32 17.97,12.65 17.92,12.98 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

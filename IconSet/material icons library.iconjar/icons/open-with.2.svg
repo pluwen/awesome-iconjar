@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>open_with</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-883.000000, -375.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-open_with" transform="translate(782.000000, 274.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M10.5,9 L13.5,9 C13.78,9 14,8.78 14,8.5 L14,6 L15.79,6 C16.24,6 16.46,5.46 16.14,5.15 L12.35,1.36 C12.15,1.16 11.84,1.16 11.64,1.36 L7.85,5.15 C7.54,5.46 7.76,6 8.21,6 L10,6 L10,8.5 C10,8.78 10.22,9 10.5,9 Z M8.5,10 L6,10 L6,8.21 C6,7.76 5.46,7.54 5.15,7.86 L1.36,11.65 C1.16,11.85 1.16,12.16 1.36,12.36 L5.15,16.15 C5.46,16.46 6,16.24 6,15.79 L6,14 L8.5,14 C8.78,14 9,13.78 9,13.5 L9,10.5 C9,10.22 8.78,10 8.5,10 Z M22.65,11.65 L18.86,7.86 C18.54,7.54 18,7.76 18,8.21 L18,10 L15.5,10 C15.22,10 15,10.22 15,10.5 L15,13.5 C15,13.78 15.22,14 15.5,14 L18,14 L18,15.79 C18,16.24 18.54,16.46 18.85,16.14 L22.64,12.35 C22.84,12.16 22.84,11.84 22.65,11.65 Z M13.5,15 L10.5,15 C10.22,15 10,15.22 10,15.5 L10,18 L8.21,18 C7.76,18 7.54,18.54 7.86,18.85 L11.65,22.64 C11.85,22.84 12.16,22.84 12.36,22.64 L16.15,18.85 C16.46,18.54 16.24,18 15.8,18 L14,18 L14,15.5 C14,15.22 13.78,15 13.5,15 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

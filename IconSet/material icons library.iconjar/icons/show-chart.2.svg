@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>show_chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-408.000000, -2063.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-show_chart" transform="translate(306.000000, 98.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4.2,17.78 L9.5,12.48 L12.75,15.73 C13.16,16.14 13.82,16.12 14.2,15.69 L21.37,7.62 C21.72,7.23 21.7,6.63 21.33,6.25 C20.93,5.85 20.26,5.86 19.88,6.29 L13.49,13.47 L10.2,10.18 C9.81,9.79 9.18,9.79 8.79,10.18 L2.7,16.28 C2.31,16.67 2.31,17.3 2.7,17.69 L2.79,17.78 C3.18,18.17 3.82,18.17 4.2,17.78 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

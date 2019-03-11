@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>desktop_access_disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-644.000000, -1217.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-desktop_access_disabled" transform="translate(544.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M0.31,2 C-0.08,2.39 -0.08,3.02 0.31,3.41 L1,4.09 L1,16 C1,17.1 1.9,18 3,18 L10,18 L10,20 L9,20 C8.45,20 8,20.45 8,21 C8,21.55 8.45,22 9,22 L15,22 C15.55,22 16,21.55 16,21 C16,20.45 15.55,20 15,20 L14,20 L14,18 L14.9,18 L20.19,23.29 C20.58,23.68 21.21,23.68 21.6,23.29 C21.99,22.9 21.99,22.27 21.6,21.88 L1.72,2 C1.33,1.61 0.7,1.61 0.31,2 Z M2.99,15 L2.99,6.09 L12.9,16 L3.99,16 C3.44,16 2.99,15.55 2.99,15 Z M4.55,2 L6.55,4 L20,4 C20.55,4 21,4.45 21,5 L21,15 C21,15.55 20.55,16 20,16 L18.55,16 L20.55,18 L20.99,18 C22.09,18 22.99,17.1 22.99,16 L22.99,4 C22.99,2.9 22.09,2 20.99,2 L4.55,2 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

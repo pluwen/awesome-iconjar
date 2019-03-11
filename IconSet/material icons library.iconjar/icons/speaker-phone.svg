@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>speaker_phone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-444.000000, -1261.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-speaker_phone" transform="translate(340.000000, 98.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7.76,7.83 L7.78,7.85 C8.13,8.2 8.67,8.23 9.08,7.94 C9.91,7.37 10.92,7.02 12,7.02 C13.08,7.02 14.09,7.37 14.92,7.95 C15.32,8.24 15.87,8.21 16.22,7.86 L16.24,7.84 C16.66,7.42 16.63,6.7 16.15,6.35 C14.98,5.5 13.55,5 12,5 C10.45,5 9.02,5.5 7.86,6.34 C7.37,6.69 7.34,7.41 7.76,7.83 Z M12,1 C9.38,1 6.97,1.93 5.08,3.47 C4.62,3.84 4.57,4.53 5,4.96 C5.36,5.32 5.93,5.35 6.32,5.03 C7.86,3.76 9.85,3 12,3 C14.15,3 16.14,3.76 17.69,5.03 C18.08,5.35 18.65,5.32 19.01,4.96 C19.43,4.54 19.39,3.85 18.93,3.47 C17.03,1.93 14.62,1 12,1 Z M14.86,10.01 L9.14,10 C8.51,10 8,10.51 8,11.14 L8,20.85 C8,21.48 8.51,21.99 9.14,21.99 L14.85,21.99 C15.48,21.99 15.99,21.48 15.99,20.85 L15.99,11.14 C16,10.51 15.49,10.01 14.86,10.01 Z M15,20 L9,20 L9,12 L15,12 L15,20 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

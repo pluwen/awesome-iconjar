@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>cell_wifi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-477.000000, -1219.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Two-Tone-/-Communication-/-cell_wifi" transform="translate(374.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="22 5.97 18 9.98 18 12.78 20 10.78 20 20 18 20 18 22 22 22"></polygon>
+                        <path d="M9.07,11.07 L11,13 L12.93,11.07 C11.86,10.01 10.14,10.01 9.07,11.07 Z M18.08,5.93 C14.17,2.02 7.83,2.02 3.93,5.93 L5.22,7.22 C8.41,4.03 13.6,4.03 16.79,7.22 L18.08,5.93 Z M15.5,8.5 C13.02,6.02 8.98,6.02 6.5,8.5 L7.79,9.79 C9.56,8.02 12.44,8.02 14.22,9.79 L15.5,8.5 Z M18,12.78 L18,9.98 L6,22 L18,22 L18,19.95 L18,12.78 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="16px" viewBox="0 0 19 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_list_numbered_rtl</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-782.000000, -2062.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Outlined-/-Editor-/-format_list_numbered_rtl" transform="translate(680.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18,17 L20,17 L20,17.5 L19,17.5 L19,18.5 L20,18.5 L20,19 L18,19 L18,20 L21,20 L21,16 L18,16 L18,17 Z M19,8 L20,8 L20,4 L18,4 L18,5 L19,5 L19,8 Z M18,11 L19.8,11 L18,13.1 L18,14 L21,14 L21,13 L19.2,13 L21,10.9 L21,10 L18,10 L18,11 Z M2,5 L16,5 L16,7 L2,7 L2,5 Z M2,17 L16,17 L16,19 L2,19 L2,17 Z M2,11 L16,11 L16,13 L2,13 L2,11 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

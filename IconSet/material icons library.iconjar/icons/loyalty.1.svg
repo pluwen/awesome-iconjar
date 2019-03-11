@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>loyalty</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-408.000000, -332.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-loyalty" transform="translate(306.000000, 230.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21.41,11.58 L12.41,2.58 C12.05,2.22 11.55,2 11,2 L4,2 C2.9,2 2,2.9 2,4 L2,11 C2,11.55 2.22,12.05 2.59,12.42 L11.59,21.42 C11.95,21.78 12.45,22 13,22 C13.55,22 14.05,21.78 14.41,21.41 L21.41,14.41 C21.78,14.05 22,13.55 22,13 C22,12.45 21.77,11.94 21.41,11.58 Z M5.5,7 C4.67,7 4,6.33 4,5.5 C4,4.67 4.67,4 5.5,4 C6.33,4 7,4.67 7,5.5 C7,6.33 6.33,7 5.5,7 Z M17.27,15.27 L13.35,19.19 C13.15,19.39 12.84,19.39 12.64,19.19 L8.72,15.27 C8.15,14.69 7.85,13.84 8.05,12.93 C8.24,12.05 8.94,11.32 9.81,11.09 C10.75,10.84 11.66,11.13 12.25,11.74 L13,12.46 L13.73,11.73 C14.18,11.28 14.81,11 15.5,11 C16.88,11 18,12.12 18,13.5 C18,14.19 17.72,14.82 17.27,15.27 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>last_page</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-922.000000, -3438.000000)">
+            <g id="Navigation" transform="translate(100.000000, 3378.000000)">
+                <g id="-Round-/-Navigation-/-last_page" transform="translate(816.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" opacity="0.87" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6.29,8.11 L10.18,12 L6.29,15.89 C5.9,16.28 5.9,16.91 6.29,17.3 C6.68,17.69 7.31,17.69 7.7,17.3 L12.29,12.71 C12.68,12.32 12.68,11.69 12.29,11.3 L7.7,6.7 C7.31,6.31 6.68,6.31 6.29,6.7 C5.91,7.09 5.91,7.73 6.29,8.11 Z M17,6 C17.55,6 18,6.45 18,7 L18,17 C18,17.55 17.55,18 17,18 C16.45,18 16,17.55 16,17 L16,7 C16,6.45 16.45,6 17,6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

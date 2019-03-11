@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile_friendly</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-171.000000, -1793.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-mobile_friendly" transform="translate(68.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19,1 L9,1 C7.9,1 7,1.9 7,3 L7,5 C7,5.55 7.45,6 8,6 C8.55,6 9,5.55 9,5 L9,4 L19,4 L19,20 L9,20 L9,19 C9,18.45 8.55,18 8,18 C7.45,18 7,18.45 7,19 L7,21 C7,22.1 7.9,23 9,23 L19,23 C20.1,23 21,22.1 21,21 L21,3 C21,1.9 20.1,1 19,1 Z M7.01,13.47 L5.09,11.55 C4.74,11.2 4.17,11.2 3.82,11.55 C3.47,11.9 3.47,12.47 3.82,12.82 L6.29,15.29 C6.68,15.68 7.31,15.68 7.7,15.29 L13.55,9.44 C13.9,9.09 13.9,8.52 13.55,8.17 C13.2,7.82 12.63,7.82 12.28,8.17 L7.01,13.47 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

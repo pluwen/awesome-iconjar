@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-377.000000, -952.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-mic" transform="translate(272.000000, 98.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-36" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M12,14 C13.66,14 15,12.66 15,11 L15,5 C15,3.34 13.66,2 12,2 C10.34,2 9,3.34 9,5 L9,11 C9,12.66 10.34,14 12,14 Z M17.91,11 C17.42,11 17.01,11.36 16.93,11.85 C16.52,14.2 14.47,16 12,16 C9.53,16 7.48,14.2 7.07,11.85 C6.99,11.36 6.58,11 6.09,11 C5.48,11 5,11.54 5.09,12.14 C5.58,15.14 7.98,17.49 11,17.92 L11,20 C11,20.55 11.45,21 12,21 C12.55,21 13,20.55 13,20 L13,17.92 C16.02,17.49 18.42,15.14 18.91,12.14 C19.01,11.54 18.52,11 17.91,11 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>filter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-645.000000, -2769.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-filter" transform="translate(544.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,17 L21,17 L21,3 L7,3 L7,17 Z M11.25,11.47 L13.21,13.83 L15.96,10.29 L19.5,15 L8.5,15 L11.25,11.47 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M1,21 C1,22.1 1.9,23 3,23 L19,23 L19,21 L3,21 L3,5 L1,5 L1,21 Z M21,1 L7,1 C5.9,1 5,1.9 5,3 L5,17 C5,18.1 5.9,19 7,19 L21,19 C22.1,19 23,18.1 23,17 L23,3 C23,1.9 22.1,1 21,1 Z M21,17 L7,17 L7,3 L21,3 L21,17 Z M15.96,10.29 L13.21,13.83 L11.25,11.47 L8.5,15 L19.5,15 L15.96,10.29 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

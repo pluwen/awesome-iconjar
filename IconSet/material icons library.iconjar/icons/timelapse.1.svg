@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>timelapse</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-578.000000, -2902.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-timelapse" transform="translate(476.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16.24,7.75 C15.07,6.58 13.54,5.99 12,5.99 L12,11.99 L7.76,16.23 C10.1,18.57 13.9,18.57 16.25,16.23 C18.59,13.89 18.59,10.09 16.24,7.75 Z M12,1.99 C6.48,1.99 2,6.47 2,11.99 C2,17.51 6.48,21.99 12,21.99 C17.52,21.99 22,17.51 22,11.99 C22,6.47 17.52,1.99 12,1.99 Z M12,19.99 C7.58,19.99 4,16.41 4,11.99 C4,7.57 7.58,3.99 12,3.99 C16.42,3.99 20,7.57 20,11.99 C20,16.41 16.42,19.99 12,19.99 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

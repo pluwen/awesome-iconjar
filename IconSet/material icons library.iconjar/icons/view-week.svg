@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="14px" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>view_week</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-170.000000, -555.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-view_week" transform="translate(68.000000, 450.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6,5 L3,5 C2.45,5 2,5.45 2,6 L2,18 C2,18.55 2.45,19 3,19 L6,19 C6.55,19 7,18.55 7,18 L7,6 C7,5.45 6.55,5 6,5 Z M20,5 L17,5 C16.45,5 16,5.45 16,6 L16,18 C16,18.55 16.45,19 17,19 L20,19 C20.55,19 21,18.55 21,18 L21,6 C21,5.45 20.55,5 20,5 Z M13,5 L10,5 C9.45,5 9,5.45 9,6 L9,18 C9,18.55 9.45,19 10,19 L13,19 C13.55,19 14,18.55 14,18 L14,6 C14,5.45 13.55,5 13,5 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

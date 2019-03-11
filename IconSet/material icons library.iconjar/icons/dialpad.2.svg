@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>dialpad</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-172.000000, -1217.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="Outlined-/-Communication-/-dialpad" transform="translate(68.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,19 C10.9,19 10,19.9 10,21 C10,22.1 10.9,23 12,23 C13.1,23 14,22.1 14,21 C14,19.9 13.1,19 12,19 Z M6,1 C4.9,1 4,1.9 4,3 C4,4.1 4.9,5 6,5 C7.1,5 8,4.1 8,3 C8,1.9 7.1,1 6,1 Z M6,7 C4.9,7 4,7.9 4,9 C4,10.1 4.9,11 6,11 C7.1,11 8,10.1 8,9 C8,7.9 7.1,7 6,7 Z M6,13 C4.9,13 4,13.9 4,15 C4,16.1 4.9,17 6,17 C7.1,17 8,16.1 8,15 C8,13.9 7.1,13 6,13 Z M18,5 C19.1,5 20,4.1 20,3 C20,1.9 19.1,1 18,1 C16.9,1 16,1.9 16,3 C16,4.1 16.9,5 18,5 Z M12,13 C10.9,13 10,13.9 10,15 C10,16.1 10.9,17 12,17 C13.1,17 14,16.1 14,15 C14,13.9 13.1,13 12,13 Z M18,13 C16.9,13 16,13.9 16,15 C16,16.1 16.9,17 18,17 C19.1,17 20,16.1 20,15 C20,13.9 19.1,13 18,13 Z M18,7 C16.9,7 16,7.9 16,9 C16,10.1 16.9,11 18,11 C19.1,11 20,10.1 20,9 C20,7.9 19.1,7 18,7 Z M12,7 C10.9,7 10,7.9 10,9 C10,10.1 10.9,11 12,11 C13.1,11 14,10.1 14,9 C14,7.9 13.1,7 12,7 Z M12,1 C10.9,1 10,1.9 10,3 C10,4.1 10.9,5 12,5 C13.1,5 14,4.1 14,3 C14,1.9 13.1,1 12,1 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

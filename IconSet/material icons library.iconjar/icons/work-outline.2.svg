@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>work_outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-646.000000, -508.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-work_outline" transform="translate(544.000000, 406.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,6 L14,4 L10,4 L10,6 L14,6 Z M4,8 L4,19 L20,19 L20,8 L4,8 Z M20,6 C21.11,6 22,6.89 22,8 L22,19 C22,20.11 21.11,21 20,21 L4,21 C2.89,21 2,20.11 2,19 L2.01,8 C2.01,6.89 2.89,6 4,6 L8,6 L8,4 C8,2.89 8.89,2 10,2 L14,2 C15.11,2 16,2.89 16,4 L16,6 L20,6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

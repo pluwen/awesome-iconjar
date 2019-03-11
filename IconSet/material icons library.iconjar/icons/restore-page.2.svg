@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>restore_page</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-206.000000, -420.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-restore_page" transform="translate(102.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.41,7.41 L14.58,2.58 C14.21,2.21 13.7,2 13.17,2 L6,2 C4.9,2 4.01,2.9 4.01,4 L4,20 C4,21.1 4.89,22 5.99,22 L18,22 C19.1,22 20,21.1 20,20 L20,8.83 C20,8.3 19.79,7.79 19.41,7.41 Z M12,18 C10.35,18 8.81,17.19 7.88,15.83 C7.65,15.49 7.73,15.02 8.07,14.79 C8.41,14.55 8.88,14.64 9.11,14.98 C9.76,15.93 10.84,16.5 11.99,16.5 C13.92,16.5 15.49,14.93 15.49,13 C15.49,11.07 13.93,9.5 12,9.5 C10.67,9.5 9.48,10.24 8.89,11.39 L10.5,13 L7,13 C6.72,13 6.5,12.78 6.5,12.5 L6.5,9 L7.8,10.3 C8.71,8.89 10.26,8 12,8 C14.76,8 17,10.24 17,13 C17,15.76 14.76,18 12,18 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

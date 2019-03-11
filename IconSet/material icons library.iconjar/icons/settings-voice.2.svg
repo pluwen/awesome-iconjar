@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="23px" viewBox="0 0 14 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_voice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-818.000000, -463.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-settings_voice" transform="translate(713.000000, 362.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,24 L9,24 L9,22 L7,22 L7,24 Z M12,13 C13.66,13 14.99,11.66 14.99,10 L15,4 C15,2.34 13.66,1 12,1 C10.34,1 9,2.34 9,4 L9,10 C9,11.66 10.34,13 12,13 Z M11,24 L13,24 L13,22 L11,22 L11,24 Z M15,24 L17,24 L17,22 L15,22 L15,24 Z M18.08,10 C17.66,10 17.31,10.3 17.25,10.71 C16.88,13.32 14.53,15.1 12,15.1 C9.47,15.1 7.12,13.33 6.75,10.71 C6.69,10.3 6.33,10 5.92,10 C5.4,10 5,10.46 5.07,10.97 C5.53,13.93 8.03,16.27 11,16.72 L11,19 C11,19.55 11.45,20 12,20 C12.55,20 13,19.55 13,19 L13,16.72 C15.96,16.28 18.47,13.93 18.93,10.97 C19,10.46 18.6,10 18.08,10 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

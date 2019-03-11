@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>horizontal_split</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-647.000000, -291.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-horizontal_split" transform="translate(544.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19,15 L19,17 L5,17 L5,15 L19,15 Z M21,5 L3,5 L3,7 L21,7 L21,5 Z M21,9 L3,9 L3,11 L21,11 L21,9 Z M21,13 L3,13 L3,19 L21,19 L21,13 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="5 15 19 15 19 17 5 17"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

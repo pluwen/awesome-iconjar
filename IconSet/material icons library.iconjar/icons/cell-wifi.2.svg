@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>cell_wifi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-410.000000, -1219.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-cell_wifi" transform="translate(306.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M8.41,22 L20,22 C21.1,22 22,21.1 22,20 L22,8.39 C22,7.5 20.92,7.05 20.29,7.68 L7.7,20.29 C7.07,20.92 7.52,22 8.41,22 Z" id="🔹Icon-Color" fill="#D0D0D0"></path>
+                        <path d="M7.71,20.29 C7.08,20.92 7.52,22 8.41,22 L18,22 L18,9.98 L7.71,20.29 Z M9.07,11.07 L11,13 L12.93,11.07 C11.86,10.01 10.14,10.01 9.07,11.07 Z M8.37,9.3 C9.94,8.18 12.07,8.18 13.64,9.3 C14,9.56 14.49,9.52 14.8,9.2 C15.19,8.81 15.15,8.14 14.7,7.82 C12.5,6.25 9.51,6.25 7.3,7.82 C6.85,8.14 6.8,8.81 7.2,9.2 C7.52,9.52 8.01,9.56 8.37,9.3 Z M16.21,6.69 C16.55,6.97 17.04,6.97 17.35,6.66 L17.47,6.54 C17.82,6.19 17.78,5.62 17.39,5.3 C13.72,2.25 8.37,2.23 4.69,5.24 C4.26,5.59 4.22,6.23 4.61,6.61 C4.93,6.94 5.45,6.98 5.8,6.69 C8.81,4.21 13.2,4.21 16.21,6.69 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

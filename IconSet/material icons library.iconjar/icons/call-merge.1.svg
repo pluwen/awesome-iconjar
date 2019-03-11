@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="17px" viewBox="0 0 12 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>call_merge</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-276.000000, -1219.000000)">
+            <g id="Communication" transform="translate(100.000000, 1162.000000)">
+                <g id="-Round-/-Communication-/-call_merge" transform="translate(170.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17.7,19.7 C18.09,19.31 18.09,18.68 17.7,18.29 L15,15.59 L13.59,17 L16.29,19.7 C16.68,20.09 17.32,20.09 17.7,19.7 Z M8.71,8 L11,8 L11,13.59 L6.29,18.29 C5.9,18.68 5.9,19.31 6.29,19.7 C6.68,20.09 7.31,20.09 7.7,19.7 L13,14.4 L13,8 L15.29,8 C15.74,8 15.96,7.46 15.64,7.15 L12.35,3.86 C12.15,3.66 11.84,3.66 11.64,3.86 L8.35,7.15 C8.04,7.46 8.26,8 8.71,8 Z" id="Shape" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

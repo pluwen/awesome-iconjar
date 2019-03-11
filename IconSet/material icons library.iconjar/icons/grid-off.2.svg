@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>grid_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-270.000000, -2857.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-grid_off" transform="translate(170.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M8,4 L8,4.89 L10,6.89 L10,4 L14,4 L14,8 L11.11,8 L13.11,10 L14,10 L14,10.89 L16,12.89 L16,10 L20,10 L20,14 L17.11,14 L19.11,16 L20,16 L20,16.89 L22,18.89 L22,4 C22,2.9 21.1,2 20,2 L5.11,2 L7.11,4 L8,4 Z M16,4 L19,4 C19.55,4 20,4.45 20,5 L20,8 L16,8 L16,4 Z M22.16,21.88 L2.12,1.84 C1.73,1.45 1.1,1.45 0.71,1.84 C0.32,2.23 0.32,2.86 0.71,3.25 L2,4.55 L2,20 C2,21.1 2.9,22 4,22 L19.45,22 L20.75,23.3 C21.14,23.69 21.77,23.69 22.16,23.3 C22.55,22.91 22.55,22.27 22.16,21.88 Z M10,12.55 L11.45,14 L10,14 L10,12.55 Z M4,6.55 L5.45,8 L4,8 L4,6.55 Z M8,20 L5,20 C4.45,20 4,19.55 4,19 L4,16 L8,16 L8,20 Z M8,14 L4,14 L4,10 L7.45,10 L8,10.55 L8,14 Z M14,20 L10,20 L10,16 L13.45,16 L14,16.55 L14,20 Z M16,20 L16,18.55 L17.45,20 L16,20 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

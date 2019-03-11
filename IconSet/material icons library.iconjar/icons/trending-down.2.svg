@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>trending_down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-442.000000, -512.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-trending_down" transform="translate(340.000000, 406.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16.85,17.15 L18.29,15.71 L13.41,10.83 L10.12,14.12 C9.73,14.51 9.1,14.51 8.71,14.12 L2.71,8.11 C2.32,7.72 2.32,7.09 2.71,6.7 C3.1,6.31 3.73,6.31 4.12,6.7 L9.41,12 L12.7,8.71 C13.09,8.32 13.72,8.32 14.11,8.71 L19.7,14.29 L21.14,12.85 C21.45,12.54 21.99,12.76 21.99,13.2 L21.99,17.49 C21.99,17.77 21.77,17.99 21.49,17.99 L17.2,17.99 C16.76,18 16.54,17.46 16.85,17.15 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

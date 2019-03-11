@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>toll</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-611.000000, -466.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-toll" transform="translate(510.000000, 362.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15,6 C11.69,6 9,8.69 9,12 C9,15.31 11.69,18 15,18 C18.31,18 21,15.31 21,12 C21,8.69 18.31,6 15,6 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M15,4 C10.58,4 7,7.58 7,12 C7,16.42 10.58,20 15,20 C19.42,20 23,16.42 23,12 C23,7.58 19.42,4 15,4 Z M15,18 C11.69,18 9,15.31 9,12 C9,8.69 11.69,6 15,6 C18.31,6 21,8.69 21,12 C21,15.31 18.31,18 15,18 Z M3,12 C3,9.39 4.67,7.17 7,6.35 L7,4.26 C3.55,5.15 1,8.27 1,12 C1,15.73 3.55,18.85 7,19.74 L7,17.65 C4.67,16.83 3,14.61 3,12 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

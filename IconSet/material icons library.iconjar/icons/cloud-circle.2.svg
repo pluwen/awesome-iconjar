@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud_circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-442.000000, -2282.000000)">
+            <g id="File" transform="translate(100.000000, 2226.000000)">
+                <g id="Two-Tone-/-File-/-cloud_circle" transform="translate(340.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,4 C7.59,4 4,7.59 4,12 C4,16.41 7.59,20 12,20 C16.41,20 20,16.41 20,12 C20,7.59 16.41,4 12,4 Z M16.08,16 L8.5,16 C6.57,16 5,14.43 5,12.5 C5,10.7 6.36,9.21 8.12,9.02 C8.85,7.62 10.31,6.66 12,6.66 C14.12,6.66 15.89,8.17 16.29,10.18 C17.81,10.28 19,11.53 19,13.07 C19,14.69 17.69,16 16.08,16 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 Z M12,20 C7.59,20 4,16.41 4,12 C4,7.59 7.59,4 12,4 C16.41,4 20,7.59 20,12 C20,16.41 16.41,20 12,20 Z M16.29,10.19 C15.89,8.18 14.13,6.67 12,6.67 C10.31,6.67 8.85,7.63 8.12,9.03 C6.36,9.21 5,10.7 5,12.5 C5,14.43 6.57,16 8.5,16 L16.08,16 C17.69,16 19,14.69 19,13.08 C19,11.54 17.8,10.29 16.29,10.19 Z M16,14 L8.5,14 C7.67,14 7,13.33 7,12.5 C7,11.67 7.67,11 8.5,11 L9.4,11 L9.89,9.95 C10.3,9.16 11.11,8.67 12,8.67 C13.13,8.67 14.11,9.47 14.33,10.58 L14.61,12 L16,12 C16.55,12 17,12.45 17,13 C17,13.55 16.55,14 16,14 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

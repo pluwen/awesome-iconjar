@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>nature_people</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-578.000000, -2858.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Two-Tone-/-Image-/-nature_people" transform="translate(476.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <circle id="🔹-Secondary-Color" fill="#D0D0D0" cx="15.17" cy="9.17" r="5"></circle>
+                        <path d="M4.5,11 C3.67157288,11 3,10.3284271 3,9.5 C3,8.67157288 3.67157288,8 4.5,8 C5.32842712,8 6,8.67157288 6,9.5 C6,10.3284271 5.32842712,11 4.5,11 Z M15.17,2.17 C19.04,2.17 22.17,5.3 22.17,9.17 C22.17,12.76 19.47,15.71 16,16.12 L16,20 L19,20 L19,22 L3,22 L3,17 L2,17 L2,13 C2,12.45 2.45,12 3,12 L6,12 C6.55,12 7,12.45 7,13 L7,17 L6,17 L6,20 L14,20 L14,16.06 C10.69,15.51 8.17,12.64 8.17,9.17 C8.17,5.3 11.3,2.17 15.17,2.17 Z M15.17,14.17 C17.93,14.17 20.17,11.93 20.17,9.17 C20.17,6.41 17.93,4.17 15.17,4.17 C12.41,4.17 10.17,6.41 10.17,9.17 C10.17,11.93 12.41,14.17 15.17,14.17 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

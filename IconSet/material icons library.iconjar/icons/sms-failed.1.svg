@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sms_failed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-238.000000, -3700.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Two-Tone-/-Notification-/-sms_failed" transform="translate(136.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4,17.17 L5.17,16 L20,16 L20,4 L4,4 L4,17.17 Z M11,6 L13,6 L13,10 L11,10 L11,6 Z M11,12 L13,12 L13,14 L11,14 L11,12 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M20,2 L4,2 C2.9,2 2,2.9 2,4 L2,22 L6,18 L20,18 C21.1,18 22,17.1 22,16 L22,4 C22,2.9 21.1,2 20,2 Z M20,16 L5.17,16 L4,17.17 L4,4 L20,4 L20,16 Z M11,12 L13,12 L13,14 L11,14 L11,12 Z M11,6 L13,6 L13,10 L11,10 L11,6 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

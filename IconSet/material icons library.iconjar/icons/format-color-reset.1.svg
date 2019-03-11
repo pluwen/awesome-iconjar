@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_color_reset</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-818.000000, -2105.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-format_color_reset" transform="translate(714.000000, 142.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M18,14 C18,10.91 14.4,6.12 12.77,4.13 C12.37,3.64 11.62,3.64 11.22,4.13 C10.76,4.7 10.14,5.49 9.49,6.4 L17.93,14.84 C17.97,14.56 18,14.28 18,14 Z M19.29,19.01 L6.12,5.84 C5.73,5.45 5.1,5.45 4.71,5.84 C4.32,6.23 4.32,6.86 4.71,7.25 L7.32,9.86 C6.55,11.33 6,12.79 6,14 C6,17.31 8.69,20 12,20 C13.52,20 14.9,19.43 15.95,18.5 L17.87,20.42 C18.26,20.81 18.89,20.81 19.28,20.42 C19.68,20.04 19.68,19.4 19.29,19.01 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

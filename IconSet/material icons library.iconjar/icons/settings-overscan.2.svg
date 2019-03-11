@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_overscan</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-917.000000, -421.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-settings_overscan" transform="translate(816.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,19.01 L21,19.01 L21,4.99 L3,4.99 L3,19.01 Z M18,10 L20.5,12.01 L18,14 L18,10 Z M12.01,5.5 L14,8 L10,8 L12.01,5.5 Z M14,16 L12.01,18.5 L10,16 L14,16 Z M6,10 L6,14 L3.5,12.01 L6,10 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M14,16 L10,16 L12.01,18.5 L14,16 Z M18,10 L18,14 L20.5,12.01 L18,10 Z M21,3 L3,3 C1.9,3 1,3.9 1,5 L1,19 C1,20.1 1.9,21 3,21 L21,21 C22.1,21 23,20.1 23,19 L23,5 C23,3.9 22.1,3 21,3 Z M21,19.01 L3,19.01 L3,4.99 L21,4.99 L21,19.01 Z M6,10 L3.5,12.01 L6,14 L6,10 Z M12.01,5.5 L10,8 L14,8 L12.01,5.5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

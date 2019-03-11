@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>fast_rewind</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-510.000000, -912.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="Two-Tone-/-AV-/-fast_rewind" transform="translate(408.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M9,14.14 L9,9.86 L5.97,12 L9,14.14 Z M18,14.14 L18,9.86 L14.97,12 L18,14.14 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M11,6 L2.5,12 L11,18 L11,6 Z M9,14.14 L5.97,12 L9,9.86 L9,14.14 Z M20,6 L11.5,12 L20,18 L20,6 Z M18,14.14 L14.97,12 L18,9.86 L18,14.14 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

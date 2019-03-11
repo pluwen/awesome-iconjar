@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>snooze</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-646.000000, -996.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-snooze" transform="translate(544.000000, 142.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-72" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M10,11 L12.63,11 L8.91,15.35 C8.36,16 8.82,17 9.67,17 L14,17 C14.55,17 15,16.55 15,16 C15,15.45 14.55,15 14,15 L11.37,15 L15.09,10.65 C15.64,10 15.18,9 14.33,9 L10,9 C9.45,9 9,9.45 9,10 C9,10.55 9.45,11 10,11 Z M21.3,6.42 C20.95,6.84 20.32,6.9 19.89,6.55 L16.82,3.99 C16.4,3.63 16.34,3 16.7,2.58 C17.05,2.16 17.68,2.1 18.11,2.45 L21.18,5.01 C21.6,5.37 21.66,6 21.3,6.42 Z M2.7,6.42 C3.05,6.85 3.68,6.9 4.1,6.55 L7.17,3.99 C7.6,3.63 7.66,3 7.3,2.58 C6.95,2.15 6.32,2.1 5.9,2.45 L2.82,5.01 C2.4,5.37 2.34,6 2.7,6.42 Z M12,6 C15.86,6 19,9.14 19,13 C19,16.86 15.86,20 12,20 C8.14,20 5,16.86 5,13 C5,9.14 8.14,6 12,6 Z M12,4 C7.03,4 3,8.03 3,13 C3,17.97 7.03,22 12,22 C16.97,22 21,17.97 21,13 C21,8.03 16.97,4 12,4 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

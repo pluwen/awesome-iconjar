@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>list</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-511.000000, -337.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-list" transform="translate(408.000000, 230.000000)">
+                    <g>
+                        <g transform="translate(0.000000, 0.000000)">
+                            <polygon id="Path" opacity="0.87" points="0 0 24 0 24 24 0 24"></polygon>
+                            <path d="M4,13 C4.55,13 5,12.55 5,12 C5,11.45 4.55,11 4,11 C3.45,11 3,11.45 3,12 C3,12.55 3.45,13 4,13 Z M4,17 C4.55,17 5,16.55 5,16 C5,15.45 4.55,15 4,15 C3.45,15 3,15.45 3,16 C3,16.55 3.45,17 4,17 Z M4,9 C4.55,9 5,8.55 5,8 C5,7.45 4.55,7 4,7 C3.45,7 3,7.45 3,8 C3,8.55 3.45,9 4,9 Z M8,13 L20,13 C20.55,13 21,12.55 21,12 C21,11.45 20.55,11 20,11 L8,11 C7.45,11 7,11.45 7,12 C7,12.55 7.45,13 8,13 Z M8,17 L20,17 C20.55,17 21,16.55 21,16 C21,15.45 20.55,15 20,15 L8,15 C7.45,15 7,15.45 7,16 C7,16.55 7.45,17 8,17 Z M7,8 C7,8.55 7.45,9 8,9 L20,9 C20.55,9 21,8.55 21,8 C21,7.45 20.55,7 20,7 L8,7 C7.45,7 7,7.45 7,8 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

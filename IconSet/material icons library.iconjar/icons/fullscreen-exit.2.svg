@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>fullscreen_exit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-105.000000, -3481.000000)">
+            <g id="Navigation" transform="translate(100.000000, 3378.000000)">
+                <g id="-Round-/-Navigation-/-fullscreen_exit" transform="translate(0.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6,16 L8,16 L8,18 C8,18.55 8.45,19 9,19 C9.55,19 10,18.55 10,18 L10,15 C10,14.45 9.55,14 9,14 L6,14 C5.45,14 5,14.45 5,15 C5,15.55 5.45,16 6,16 Z M8,8 L6,8 C5.45,8 5,8.45 5,9 C5,9.55 5.45,10 6,10 L9,10 C9.55,10 10,9.55 10,9 L10,6 C10,5.45 9.55,5 9,5 C8.45,5 8,5.45 8,6 L8,8 Z M15,19 C15.55,19 16,18.55 16,18 L16,16 L18,16 C18.55,16 19,15.55 19,15 C19,14.45 18.55,14 18,14 L15,14 C14.45,14 14,14.45 14,15 L14,18 C14,18.55 14.45,19 15,19 Z M16,8 L16,6 C16,5.45 15.55,5 15,5 C14.45,5 14,5.45 14,6 L14,9 C14,9.55 14.45,10 15,10 L18,10 C18.55,10 19,9.55 19,9 C19,8.45 18.55,8 18,8 L16,8 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

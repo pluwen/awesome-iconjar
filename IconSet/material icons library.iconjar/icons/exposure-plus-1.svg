@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>exposure_plus_1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-444.000000, -2773.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-exposure_plus_1" transform="translate(340.000000, 142.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M9,7 C8.45,7 8,7.45 8,8 L8,11 L5,11 C4.45,11 4,11.45 4,12 C4,12.55 4.45,13 5,13 L8,13 L8,16 C8,16.55 8.45,17 9,17 C9.55,17 10,16.55 10,16 L10,13 L13,13 C13.55,13 14,12.55 14,12 C14,11.45 13.55,11 13,11 L10,11 L10,8 C10,7.45 9.55,7 9,7 Z M20,18 L18,18 L18,7.38 L15,8.4 L15,6.7 L19.7,5 L20,5 L20,18 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

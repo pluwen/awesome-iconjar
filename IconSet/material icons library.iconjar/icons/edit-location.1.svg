@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="23px" viewBox="0 0 16 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>edit_location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-376.000000, -3123.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Outlined-/-Maps-/-edit_location" transform="translate(272.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,1 C7.59,1 4,4.59 4,9 C4,14.57 10.96,22.34 11.26,22.67 L12,23.49 L12.74,22.67 C13.04,22.34 20,14.57 20,9 C20,4.59 16.41,1 12,1 Z M12,20.47 C9.82,17.86 6,12.54 6,9 C6,5.69 8.69,3 12,3 C15.31,3 18,5.69 18,9 C18,12.83 13.75,18.36 12,20.47 Z M8.51,11.05 L8.51,12.49 L9.95,12.49 L13.87,8.56 L12.44,7.13 L8.51,11.05 Z M14.39,5.71 C14.24,5.56 14,5.56 13.85,5.71 L13.15,6.41 L14.59,7.85 L15.29,7.15 C15.44,7 15.44,6.76 15.29,6.61 L14.39,5.71 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

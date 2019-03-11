@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="22px" viewBox="0 0 14 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>device_unknown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-377.000000, -2459.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="-Round-/-Hardware-/-device_unknown" transform="translate(272.000000, 54.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-96" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M17,1 L7,1 C5.9,1 5,1.9 5,3 L5,21 C5,22.1 5.9,23 7,23 L17,23 C18.1,23 19,22.1 19,21 L19,3 C19,1.9 18.1,1 17,1 Z M17,19 L7,19 L7,5 L17,5 L17,19 Z M11,16 L13,16 L13,18 L11,18 L11,16 Z M9.52,10.19 L9.65,10.19 C9.98,10.19 10.24,9.96 10.35,9.65 C10.59,8.96 11.26,8.44 12.01,8.44 C12.94,8.44 13.76,9.26 13.76,10.19 C13.76,11.51 12.27,11.74 11.53,13.01 L11.52,13.01 C11.44,13.15 11.38,13.3 11.32,13.46 C11.31,13.48 11.3,13.49 11.3,13.51 C11.29,13.53 11.29,13.55 11.29,13.56 C11.19,13.87 11.13,14.22 11.13,14.64 L12.89,14.64 C12.89,14.39 12.93,14.17 13.01,13.97 C13.55,12.5 15.78,12.11 15.49,9.79 C15.3,8.24 14.06,6.95 12.51,6.75 C10.74,6.52 9.22,7.53 8.7,9.05 C8.5,9.61 8.93,10.19 9.52,10.19 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

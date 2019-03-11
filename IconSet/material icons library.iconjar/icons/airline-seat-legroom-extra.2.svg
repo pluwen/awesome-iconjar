@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>airline_seat_legroom_extra</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-782.000000, -3657.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Outlined-/-Notification-/-airline_seat_legroom_extra" transform="translate(680.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4,12 L4,3 L2,3 L2,12 C2,14.76 4.24,17 7,17 L13,17 L13,15 L7,15 C5.34,15 4,13.66 4,12 Z M22.83,17.24 C22.45,16.52 21.54,16.27 20.8,16.61 L19.71,17.11 L16.3,10.13 C15.96,9.45 15.27,9 14.51,9 L11,9 L11,3 L5,3 L5,11 C5,12.66 6.34,14 8,14 L15,14 L18.41,21 L22.13,19.3 C22.9,18.94 23.23,18 22.83,17.24 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

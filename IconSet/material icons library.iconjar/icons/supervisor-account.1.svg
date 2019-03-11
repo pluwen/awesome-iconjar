@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>supervisor_account</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-376.000000, -467.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-supervisor_account" transform="translate(274.000000, 362.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16.5,12 C17.88,12 18.99,10.88 18.99,9.5 C18.99,8.12 17.88,7 16.5,7 C15.12,7 14,8.12 14,9.5 C14,10.88 15.12,12 16.5,12 Z M9,11 C10.66,11 11.99,9.66 11.99,8 C11.99,6.34 10.66,5 9,5 C7.34,5 6,6.34 6,8 C6,9.66 7.34,11 9,11 Z M16.5,14 C14.67,14 11,14.92 11,16.75 L11,18 C11,18.55 11.45,19 12,19 L21,19 C21.55,19 22,18.55 22,18 L22,16.75 C22,14.92 18.33,14 16.5,14 Z M9,13 C6.67,13 2,14.17 2,16.5 L2,18 C2,18.55 2.45,19 3,19 L9,19 L9,16.75 C9,15.9 9.33,14.41 11.37,13.28 C10.5,13.1 9.66,13 9,13 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

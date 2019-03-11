@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bookmarks</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-817.000000, -199.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-bookmarks" transform="translate(714.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19,1 L8.99,1 C7.89,1 7,1.9 7,3 L17,3 C18.1,3 19,3.9 19,5 L19,18 L21,19 L21,3 C21,1.9 20.1,1 19,1 Z M15,5 L5,5 C3.9,5 3,5.9 3,7 L3,23 L10,20 L17,23 L17,7 C17,5.9 16.1,5 15,5 Z M15,19.97 L10.79,18.16 L10,17.82 L9.21,18.16 L5,19.97 L5,7 L15,7 L15,19.97 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="5 19.97 10 17.82 15 19.97 15 7 5 7"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

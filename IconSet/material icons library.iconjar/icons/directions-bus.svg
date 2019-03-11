@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="19px" viewBox="0 0 16 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>directions_bus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-614.000000, -3124.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Outlined-/-Maps-/-directions_bus" transform="translate(510.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,2 C16.42,2 20,2.5 20,6 L20,16 C20,16.88 19.61,17.67 19,18.22 L19,20 C19,20.55 18.55,21 18,21 L17,21 C16.45,21 16,20.55 16,20 L16,19 L8,19 L8,20 C8,20.55 7.55,21 7,21 L6,21 C5.45,21 5,20.55 5,20 L5,18.22 C4.39,17.67 4,16.88 4,16 L4,6 C4,2.5 7.58,2 12,2 Z M17.66,4.99 C17.11,4.46 15.69,4 12,4 C8.31,4 6.89,4.46 6.34,4.99 L17.66,4.99 Z M18,6.99 L6,6.99 L6,10 L18,10 L18,6.99 Z M17.66,16.73 C17.79,16.62 18,16.37 18,16 L18,12 L6,12 L6,16 C6,16.37 6.21,16.62 6.34,16.73 L6.63,17 L17.37,17 L17.66,16.73 Z M8.5,16 C7.67157288,16 7,15.3284271 7,14.5 C7,13.6715729 7.67157288,13 8.5,13 C9.32842712,13 10,13.6715729 10,14.5 C10,15.3284271 9.32842712,16 8.5,16 Z M15.5,16 C14.6715729,16 14,15.3284271 14,14.5 C14,13.6715729 14.6715729,13 15.5,13 C16.3284271,13 17,13.6715729 17,14.5 C17,15.3284271 16.3284271,16 15.5,16 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

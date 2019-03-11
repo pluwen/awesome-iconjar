@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>outlined_flag</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-751.000000, -1530.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="-Round-/-Content-/-outlined_flag" transform="translate(646.000000, 98.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,6 L13.28,4.55 C13.11,4.21 12.76,4 12.38,4 L6,4 C5.45,4 5,4.45 5,5 L5,20 C5,20.55 5.45,21 6,21 C6.55,21 7,20.55 7,20 L7,14 L12,14 L12.72,15.45 C12.89,15.79 13.24,16 13.61,16 L19,16 C19.55,16 20,15.55 20,15 L20,7 C20,6.45 19.55,6 19,6 L14,6 Z M18,14 L14,14 L13,12 L7,12 L7,6 L12,6 L13,8 L18,8 L18,14 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

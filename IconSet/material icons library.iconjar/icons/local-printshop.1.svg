@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_printshop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-884.000000, -3213.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-local_printshop" transform="translate(782.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M8,5 L16,5 L16,8 L8,8 L8,5 Z M19,10 L5,10 C4.45,10 4,10.45 4,11 L4,15 L6,15 L6,13 L18,13 L18,15 L20,15 L20,11 C20,10.45 19.55,10 19,10 Z M18,12.5 C17.45,12.5 17,12.05 17,11.5 C17,10.95 17.45,10.5 18,10.5 C18.55,10.5 19,10.95 19,11.5 C19,12.05 18.55,12.5 18,12.5 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M19,8 C20.66,8 22,9.34 22,11 L22,17 L18,17 L18,21 L6,21 L6,17 L2,17 L2,11 C2,9.34 3.34,8 5,8 L6,8 L6,3 L18,3 L18,8 L19,8 Z M8,5 L8,8 L16,8 L16,5 L8,5 Z M16,19 L16,15 L8,15 L8,19 L16,19 Z M20,15 L20,11 C20,10.45 19.55,10 19,10 L5,10 C4.45,10 4,10.45 4,11 L4,15 L6,15 L6,13 L18,13 L18,15 L20,15 Z M18,12.5 C17.4477153,12.5 17,12.0522847 17,11.5 C17,10.9477153 17.4477153,10.5 18,10.5 C18.5522847,10.5 19,10.9477153 19,11.5 C19,12.0522847 18.5522847,12.5 18,12.5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

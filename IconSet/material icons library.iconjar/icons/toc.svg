@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>toc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-613.000000, -513.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-toc" transform="translate(510.000000, 406.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M4,9 L16,9 C16.55,9 17,8.55 17,8 C17,7.45 16.55,7 16,7 L4,7 C3.45,7 3,7.45 3,8 C3,8.55 3.45,9 4,9 Z M4,13 L16,13 C16.55,13 17,12.55 17,12 C17,11.45 16.55,11 16,11 L4,11 C3.45,11 3,11.45 3,12 C3,12.55 3.45,13 4,13 Z M4,17 L16,17 C16.55,17 17,16.55 17,16 C17,15.45 16.55,15 16,15 L4,15 C3.45,15 3,15.45 3,16 C3,16.55 3.45,17 4,17 Z M19,17 L21,17 L21,15 L19,15 L19,17 Z M19,7 L19,9 L21,9 L21,7 L19,7 Z M19,13 L21,13 L21,11 L19,11 L19,13 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

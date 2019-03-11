@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>texture</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-613.000000, -2903.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-texture" transform="translate(510.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.51,3.08 L3.08,19.51 C3.17,19.85 3.35,20.16 3.59,20.41 C3.84,20.65 4.15,20.83 4.49,20.92 L20.93,4.49 C20.74,3.8 20.2,3.26 19.51,3.08 Z M11.88,3 L3,11.88 L3,14.71 L14.71,3 L11.88,3 Z M5,3 C3.9,3 3,3.9 3,5 L3,7 L7,3 L5,3 Z M19,21 C19.55,21 20.05,20.78 20.41,20.41 C20.78,20.05 21,19.55 21,19 L21,17 L17,21 L19,21 Z M9.29,21 L12.12,21 L21,12.12 L21,9.29 L9.29,21 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

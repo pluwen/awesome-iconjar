@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>visibility</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-407.000000, -510.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-visibility" transform="translate(306.000000, 406.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,6 C8.21,6 4.83,8.13 3.18,11.5 C4.83,14.87 8.21,17 12,17 C15.79,17 19.17,14.87 20.82,11.5 C19.17,8.13 15.79,6 12,6 Z M12,16 C9.52,16 7.5,13.98 7.5,11.5 C7.5,9.02 9.52,7 12,7 C14.48,7 16.5,9.02 16.5,11.5 C16.5,13.98 14.48,16 12,16 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M12,4 C7,4 2.73,7.11 1,11.5 C2.73,15.89 7,19 12,19 C17,19 21.27,15.89 23,11.5 C21.27,7.11 17,4 12,4 Z M12,17 C8.21,17 4.83,14.87 3.18,11.5 C4.83,8.13 8.21,6 12,6 C15.79,6 19.17,8.13 20.82,11.5 C19.17,14.87 15.79,17 12,17 Z M12,7 C9.52,7 7.5,9.02 7.5,11.5 C7.5,13.98 9.52,16 12,16 C14.48,16 16.5,13.98 16.5,11.5 C16.5,9.02 14.48,7 12,7 Z M12,14 C10.62,14 9.5,12.88 9.5,11.5 C9.5,10.12 10.62,9 12,9 C13.38,9 14.5,10.12 14.5,11.5 C14.5,12.88 13.38,14 12,14 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

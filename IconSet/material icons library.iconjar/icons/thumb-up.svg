@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>thumb_up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-747.000000, -463.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-thumb_up" transform="translate(646.000000, 362.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="21 12 21 10 12 10 13.34 4.66 9 9 9 19 18 19"></polygon>
+                        <path d="M9,21 L18,21 C18.83,21 19.54,20.5 19.84,19.78 L22.86,12.73 C22.95,12.5 23,12.26 23,12 L23,10 C23,8.9 22.1,8 21,8 L14.69,8 L15.64,3.43 L15.67,3.11 C15.67,2.7 15.5,2.32 15.23,2.05 L14.17,1 L7.58,7.59 C7.22,7.95 7,8.45 7,9 L7,19 C7,20.1 7.9,21 9,21 Z M9,9 L13.34,4.66 L12,10 L21,10 L21,12 L18,19 L9,19 L9,9 Z M1,9 L5,9 L5,21 L1,21 L1,9 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

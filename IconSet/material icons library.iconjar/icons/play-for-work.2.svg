@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="15px" viewBox="0 0 12 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>play_for_work</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-378.000000, -379.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-play_for_work" transform="translate(272.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11,6 L11,10.59 L8.71,10.59 C8.26,10.59 8.04,11.13 8.36,11.44 L11.65,14.73 C11.85,14.93 12.16,14.93 12.36,14.73 L15.65,11.44 C15.96,11.13 15.74,10.59 15.3,10.59 L13,10.59 L13,6 C13,5.45 12.55,5 12,5 C11.45,5 11,5.45 11,6 Z M7.1,14 C6.49,14 5.99,14.55 6.11,15.15 C6.65,17.91 9.08,20 12,20 C14.92,20 17.35,17.91 17.89,15.15 C18.01,14.55 17.51,14 16.9,14 C16.41,14 16.02,14.35 15.92,14.83 C15.53,16.64 13.93,18 12,18 C10.07,18 8.47,16.64 8.09,14.83 C7.99,14.35 7.59,14 7.1,14 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sync_problem</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-137.000000, -3746.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Two-Tone-/-Notification-/-sync_problem" transform="translate(34.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,12 C3,14.21 3.91,16.2 5.36,17.64 L3,20 L9,20 L9,14 L6.76,16.24 C5.68,15.15 5,13.66 5,12 C5,9.39 6.67,7.17 9,6.35 L9,4.26 C5.55,5.15 3,8.27 3,12 Z M11,17 L13,17 L13,15 L11,15 L11,17 Z M21,4 L15,4 L15,10 L17.24,7.76 C18.32,8.85 19,10.34 19,12 C19,14.61 17.33,16.83 15,17.65 L15,19.74 C18.45,18.85 21,15.73 21,12 C21,9.79 20.09,7.8 18.64,6.36 L21,4 Z M11,13 L13,13 L13,7 L11,7 L11,13 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

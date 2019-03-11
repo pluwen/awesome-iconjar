@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>alarm_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-407.000000, -155.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-alarm_off" transform="translate(306.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M10.04,6.29 C10.66,6.11 11.32,6 12,6 C15.86,6 19,9.14 19,13 C19,13.68 18.89,14.34 18.71,14.96 L20.27,16.52 C20.74,15.44 21,14.25 21,13 C21,8.03 16.97,4 12,4 C10.75,4 9.56,4.26 8.47,4.72 L10.04,6.29 Z M17.337,1.81 L21.944,5.655 L20.664,7.19 L16.054,3.347 L17.337,1.81 Z M3.02,2.1 L1.61,3.51 L2.98,4.88 L2.06,5.65 L3.34,7.19 L4.4,6.31 L5.2,7.11 C3.83,8.69 3,10.75 3,13 C3,17.97 7.03,22 12,22 C14.25,22 16.31,21.17 17.89,19.8 L19.99,21.9 L21.4,20.49 L3.02,2.1 Z M12,20 C8.14,20 5,16.86 5,13 C5,11.3 5.61,9.74 6.62,8.53 L16.47,18.38 C15.26,19.39 13.7,20 12,20 Z M7.48,3.73 L7.94,3.35 L6.66,1.81 L6.06,2.31 L7.48,3.73 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

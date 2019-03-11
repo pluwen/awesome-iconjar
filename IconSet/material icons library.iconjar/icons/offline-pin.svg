@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>offline_pin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-170.000000, -332.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-offline_pin" transform="translate(68.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,2 C6.5,2 2,6.5 2,12 C2,17.5 6.5,22 12,22 C17.5,22 22,17.5 22,12 C22,6.5 17.5,2 12,2 Z M16,18 L8,18 C7.45,18 7,17.55 7,17 C7,16.45 7.45,16 8,16 L16,16 C16.55,16 17,16.45 17,17 C17,17.55 16.55,18 16,18 Z M9.59,13.29 L7.7,11.4 C7.31,11.01 7.31,10.39 7.7,10 C8.09,9.61 8.71,9.61 9.1,10 L10.3,11.2 L14.9,6.6 C15.29,6.21 15.91,6.21 16.3,6.6 C16.69,6.99 16.69,7.61 16.3,8 L11.01,13.29 C10.62,13.68 9.98,13.68 9.59,13.29 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

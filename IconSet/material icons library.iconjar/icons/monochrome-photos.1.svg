@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>monochrome_photos</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-884.000000, -2859.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-monochrome_photos" transform="translate(782.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,5 L16.8,5 L15.6,3.66 C15.22,3.24 14.68,3 14.11,3 L9.89,3 C9.32,3 8.78,3.24 8.4,3.66 L7.2,5 L4,5 C2.9,5 2,5.9 2,7 L2,19 C2,20.1 2.9,21 4,21 L20,21 C21.1,21 22,20.1 22,19 L22,7 C22,5.9 21.1,5 20,5 Z M20,18 C20,18.55 19.55,19 19,19 L12,19 L12,18 C9.2,18 7,15.8 7,13 C7,10.2 9.2,8 12,8 L12,7 L19,7 C19.55,7 20,7.45 20,8 L20,18 Z M17,13 C17,10.2 14.8,8 12,8 L12,9.8 C13.8,9.8 15.2,11.2 15.2,13 C15.2,14.8 13.8,16.2 12,16.2 L12,18 C14.8,18 17,15.8 17,13 Z M8.8,13 C8.8,14.8 10.2,16.2 12,16.2 L12,9.8 C10.2,9.8 8.8,11.2 8.8,13 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

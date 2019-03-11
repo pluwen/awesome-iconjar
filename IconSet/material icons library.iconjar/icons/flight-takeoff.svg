@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>flight_takeoff</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-918.000000, -245.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-flight_takeoff" transform="translate(816.000000, 142.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20.5,19 L3.5,19 C2.95,19 2.5,19.45 2.5,20 C2.5,20.55 2.95,21 3.5,21 L20.5,21 C21.05,21 21.5,20.55 21.5,20 C21.5,19.45 21.05,19 20.5,19 Z M22.07,9.64 C21.85,8.84 21.03,8.37 20.23,8.58 L14.92,10 L8.46,3.98 C8.19,3.72 7.8,3.63 7.44,3.73 C6.76,3.92 6.44,4.7 6.79,5.31 L10.23,11.27 L5.26,12.6 L3.69,11.36 C3.44,11.17 3.12,11.1 2.81,11.18 L2.48,11.27 C2.16,11.35 2.01,11.72 2.18,12 L4.06,15.25 C4.29,15.64 4.75,15.83 5.18,15.72 L21,11.48 C21.8,11.26 22.28,10.44 22.07,9.64 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

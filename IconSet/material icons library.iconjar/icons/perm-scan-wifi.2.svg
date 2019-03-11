@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="19px" viewBox="0 0 24 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>perm_scan_wifi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-270.000000, -553.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-perm_scan_wifi" transform="translate(170.000000, 450.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,5 C8.74,5 5.8,5.85 2.92,7.65 L12,18.83 L21.08,7.67 C18.18,5.85 15.25,5 12,5 Z M13,16 L11,16 L11,10 L13,10 L13,16 Z M11,8 L11,6 L13,6 L13,8 L11,8 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M12,3 C6.95,3 3.15,4.85 0,7.23 L12,22 L24,7.25 C20.85,4.87 17.05,3 12,3 Z M2.92,7.65 C5.8,5.85 8.74,5 12,5 C15.25,5 18.18,5.85 21.08,7.67 L12,18.83 L2.92,7.65 Z M11,10 L13,10 L13,16 L11,16 L11,10 Z M11,6 L13,6 L13,8 L11,8 L11,6 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

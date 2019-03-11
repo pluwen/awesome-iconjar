@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>money</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-102.000000, -3214.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="Two-Tone-/-Maps-/-money" transform="translate(0.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M10,10 L11,10 L11,14 L10,14 L10,10 Z M16,10 L17,10 L17,14 L16,14 L16,10 Z M4,18 L20,18 L20,6 L4,6 L4,18 Z M14,9 C14,8.45 14.45,8 15,8 L18,8 C18.55,8 19,8.45 19,9 L19,15 C19,15.55 18.55,16 18,16 L15,16 C14.45,16 14,15.55 14,15 L14,9 Z M8,9 C8,8.45 8.45,8 9,8 L12,8 C12.55,8 13,8.45 13,9 L13,15 C13,15.55 12.55,16 12,16 L9,16 C8.45,16 8,15.55 8,15 L8,9 Z M5,8 L7,8 L7,16 L5,16 L5,8 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M15,16 L18,16 C18.55,16 19,15.55 19,15 L19,9 C19,8.45 18.55,8 18,8 L15,8 C14.45,8 14,8.45 14,9 L14,15 C14,15.55 14.45,16 15,16 Z M16,10 L17,10 L17,14 L16,14 L16,10 Z M9,16 L12,16 C12.55,16 13,15.55 13,15 L13,9 C13,8.45 12.55,8 12,8 L9,8 C8.45,8 8,8.45 8,9 L8,15 C8,15.55 8.45,16 9,16 Z M10,10 L11,10 L11,14 L10,14 L10,10 Z M5,8 L7,8 L7,16 L5,16 L5,8 Z M2,4 L2,20 L22,20 L22,4 L2,4 Z M20,18 L4,18 L4,6 L20,6 L20,18 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

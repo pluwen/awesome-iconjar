@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>view_agenda</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-340.000000, -553.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-view_agenda" transform="translate(238.000000, 450.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19,5 L19,9 L4,9 L4,5 L19,5 Z M19,15 L19,19 L4,19 L4,15 L19,15 Z M20,3 L3,3 C2.45,3 2,3.45 2,4 L2,10 C2,10.55 2.45,11 3,11 L20,11 C20.55,11 21,10.55 21,10 L21,4 C21,3.45 20.55,3 20,3 Z M20,13 L3,13 C2.45,13 2,13.45 2,14 L2,20 C2,20.55 2.45,21 3,21 L20,21 C20.55,21 21,20.55 21,20 L21,14 C21,13.45 20.55,13 20,13 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

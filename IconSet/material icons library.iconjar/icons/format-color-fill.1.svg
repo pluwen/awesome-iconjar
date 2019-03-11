@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_color_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-882.000000, -2102.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-format_color_fill" transform="translate(782.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M16.56,8.94 L8.32,0.7 C7.93,0.31 7.3,0.31 6.91,0.7 C6.52,1.09 6.52,1.72 6.91,2.11 L8.59,3.79 L3.44,8.94 C2.85,9.53 2.85,10.48 3.44,11.06 L8.94,16.56 C9.23,16.85 9.62,17 10,17 C10.38,17 10.77,16.85 11.06,16.56 L16.56,11.06 C17.15,10.48 17.15,9.53 16.56,8.94 Z M5.21,10 L10,5.21 L14.79,10 L5.21,10 Z M19,11.5 C19,11.5 17,13.67 17,15 C17,16.1 17.9,17 19,17 C20.1,17 21,16.1 21,15 C21,13.67 19,11.5 19,11.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                        <path d="M2,20 L22,20 C23.1,20 24,20.9 24,22 C24,23.1 23.1,24 22,24 L2,24 C0.9,24 0,23.1 0,22 C0,20.9 0.9,20 2,20 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

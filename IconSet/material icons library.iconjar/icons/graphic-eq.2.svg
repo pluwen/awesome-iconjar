@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>graphic_eq</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-273.000000, -1794.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-graphic_eq" transform="translate(170.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M8,18 C8.55,18 9,17.55 9,17 L9,7 C9,6.45 8.55,6 8,6 C7.45,6 7,6.45 7,7 L7,17 C7,17.55 7.45,18 8,18 Z M12,22 C12.55,22 13,21.55 13,21 L13,3 C13,2.45 12.55,2 12,2 C11.45,2 11,2.45 11,3 L11,21 C11,21.55 11.45,22 12,22 Z M4,14 C4.55,14 5,13.55 5,13 L5,11 C5,10.45 4.55,10 4,10 C3.45,10 3,10.45 3,11 L3,13 C3,13.55 3.45,14 4,14 Z M16,18 C16.55,18 17,17.55 17,17 L17,7 C17,6.45 16.55,6 16,6 C15.45,6 15,6.45 15,7 L15,17 C15,17.55 15.45,18 16,18 Z M19,11 L19,13 C19,13.55 19.45,14 20,14 C20.55,14 21,13.55 21,13 L21,11 C21,10.45 20.55,10 20,10 C19.45,10 19,10.45 19,11 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

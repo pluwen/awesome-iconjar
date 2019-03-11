@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>wc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-205.000000, -3700.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Outlined-/-Notification-/-wc" transform="translate(102.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0.0096 0 23.0496 0 23.0496 24 0.0096 24"></polygon>
+                        <path d="M5.28,22 L5.28,14.5 L3.84,14.5 L3.84,9 C3.84,7.9 4.704,7 5.76,7 L8.64,7 C9.696,7 10.56,7.9 10.56,9 L10.56,14.5 L9.12,14.5 L9.12,22 L5.28,22 Z M17.28,22 L17.28,16 L20.16,16 L17.7216,8.37 C17.4528,7.55 16.7232,7 15.8976,7 L15.7824,7 C14.9568,7 14.2176,7.55 13.9584,8.37 L11.52,16 L14.4,16 L14.4,22 L17.28,22 Z M7.2,6 C8.2656,6 9.12,5.11 9.12,4 C9.12,2.89 8.2656,2 7.2,2 C6.1344,2 5.28,2.89 5.28,4 C5.28,5.11 6.1344,6 7.2,6 Z M15.84,6 C16.9056,6 17.76,5.11 17.76,4 C17.76,2.89 16.9056,2 15.84,2 C14.7744,2 13.92,2.89 13.92,4 C13.92,5.11 14.7744,6 15.84,6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

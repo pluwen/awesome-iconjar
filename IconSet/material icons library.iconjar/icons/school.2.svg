@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>school</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-849.000000, -4101.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="-Two-Tone-/-Social-/-school" transform="translate(748.000000, 54.000000)">
+                    <g id="Two-Tone-/-Social-/-school">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,12.27 L7,15.99 L12,18.72 L17,15.99 L17,12.27 L12,15 L7,12.27 Z M5.18,9 L12,12.72 L18.82,9 L12,5.28 L5.18,9 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M12,3 L1,9 L5,11.18 L5,17.18 L12,21 L19,17.18 L19,11.18 L21,10.09 L21,17 L23,17 L23,9 L12,3 Z M17,15.99 L12,18.72 L7,15.99 L7,12.27 L12,15 L17,12.27 L17,15.99 Z M12,12.72 L5.18,9 L12,5.28 L18.82,9 L12,12.72 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

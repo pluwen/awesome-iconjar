@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>multiline_chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-816.000000, -2107.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Outlined-/-Editor-/-multiline_chart" transform="translate(714.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M22,6.92 L20.59,5.51 L17.74,8.72 C15.68,6.4 12.83,5 9.61,5 C6.72,5 4.07,6.16 2,8 L3.42,9.42 C5.12,7.93 7.27,7 9.61,7 C12.35,7 14.7,8.26 16.38,10.24 L13.5,13.48 L9.5,9.48 L2,16.99 L3.5,18.49 L9.5,12.48 L13.5,16.48 L17.55,11.93 C18.3,13.28 18.8,14.83 18.99,16.48 L21,16.48 C20.78,14.18 20.05,12.09 18.96,10.34 L22,6.92 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

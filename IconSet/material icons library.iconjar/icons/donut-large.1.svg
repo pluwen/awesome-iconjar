@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>donut_large</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-748.000000, -244.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-donut_large" transform="translate(646.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M13,5.08 C16.06,5.52 18.48,7.94 18.92,11 L21.95,11 C21.48,6.28 17.72,2.52 13,2.05 L13,5.08 Z M18.92,13 C18.48,16.06 16.06,18.48 13,18.92 L13,21.95 C17.72,21.48 21.48,17.72 21.95,13 L18.92,13 Z M11,18.92 C7.61,18.43 5,15.52 5,12 C5,8.48 7.61,5.57 11,5.08 L11,2.05 C5.95,2.55 2,6.81 2,12 C2,17.19 5.95,21.45 11,21.95 L11,18.92 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

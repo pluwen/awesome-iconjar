@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>security</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-579.000000, -2502.000000)">
+            <g id="Hardware" transform="translate(100.000000, 2404.000000)">
+                <g id="-Round-/-Hardware-/-security" transform="translate(476.000000, 98.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-126" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M11.19,0.36 L4.19,3.47 C3.47,3.79 3,4.51 3,5.3 L3,10 C3,15.55 6.84,20.74 12,22 C17.16,20.74 21,15.55 21,10 L21,5.3 C21,4.51 20.53,3.79 19.81,3.47 L12.81,0.36 C12.3,0.13 11.7,0.13 11.19,0.36 Z M12,10.99 L19,10.99 C18.47,15.11 15.72,18.78 12,19.93 L12,11 L5,11 L5,5.3 L12,2.19 L12,10.99 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

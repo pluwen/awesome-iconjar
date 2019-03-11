@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>devices</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-440.000000, -1796.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-devices" transform="translate(340.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4,7 C4,6.45 4.45,6 5,6 L21,6 C21.55,6 22,5.55 22,5 C22,4.45 21.55,4 21,4 L4,4 C2.9,4 2,4.9 2,6 L2,17 L1.5,17 C0.67,17 0,17.67 0,18.5 C0,19.33 0.67,20 1.5,20 L14,20 L14,17 L4,17 L4,7 Z M23,8 L17,8 C16.45,8 16,8.45 16,9 L16,19 C16,19.55 16.45,20 17,20 L23,20 C23.55,20 24,19.55 24,19 L24,9 C24,8.45 23.55,8 23,8 Z M22,17 L18,17 L18,10 L22,10 L22,17 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

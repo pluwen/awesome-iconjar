@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>reorder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-273.000000, -423.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-reorder" transform="translate(170.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4,15 L20,15 C20.55,15 21,14.55 21,14 C21,13.45 20.55,13 20,13 L4,13 C3.45,13 3,13.45 3,14 C3,14.55 3.45,15 4,15 Z M4,19 L20,19 C20.55,19 21,18.55 21,18 C21,17.45 20.55,17 20,17 L4,17 C3.45,17 3,17.45 3,18 C3,18.55 3.45,19 4,19 Z M4,11 L20,11 C20.55,11 21,10.55 21,10 C21,9.45 20.55,9 20,9 L4,9 C3.45,9 3,9.45 3,10 C3,10.55 3.45,11 4,11 Z M3,6 C3,6.55 3.45,7 4,7 L20,7 C20.55,7 21,6.55 21,6 C21,5.45 20.55,5 20,5 L4,5 C3.45,5 3,5.45 3,6 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

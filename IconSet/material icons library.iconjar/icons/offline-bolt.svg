@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>offline_bolt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-782.000000, -332.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-offline_bolt" transform="translate(680.000000, 230.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,4.02 C7.6,4.02 4.02,7.6 4.02,12 C4.02,16.4 7.6,19.98 12,19.98 C16.4,19.98 19.98,16.4 19.98,12 C19.98,7.6 16.4,4.02 12,4.02 Z M11.39,19 L11.39,13.5 L8.25,13.5 L12.75,5 L12.75,10.5 L15.75,10.5 L11.39,19 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M12,2.02 C6.49,2.02 2.02,6.49 2.02,12 C2.02,17.51 6.49,21.98 12,21.98 C17.51,21.98 21.98,17.51 21.98,12 C21.98,6.49 17.51,2.02 12,2.02 Z M12,19.98 C7.6,19.98 4.02,16.4 4.02,12 C4.02,7.6 7.6,4.02 12,4.02 C16.4,4.02 19.98,7.6 19.98,12 C19.98,16.4 16.4,19.98 12,19.98 Z M12.75,5 L8.25,13.5 L11.39,13.5 L11.39,19 L15.75,10.5 L12.75,10.5 L12.75,5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

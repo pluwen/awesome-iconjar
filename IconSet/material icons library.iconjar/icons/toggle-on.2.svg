@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="10px" viewBox="0 0 20 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>toggle_on</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-136.000000, -4327.000000)">
+            <g id="Toggle" transform="translate(100.000000, 4266.000000)">
+                <g id="-Round-/-Toggle-/-toggle_on" transform="translate(34.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17,7 L7,7 C4.24,7 2,9.24 2,12 C2,14.76 4.24,17 7,17 L17,17 C19.76,17 22,14.76 22,12 C22,9.24 19.76,7 17,7 Z M17,15 C15.34,15 14,13.66 14,12 C14,10.34 15.34,9 17,9 C18.66,9 20,10.34 20,12 C20,13.66 18.66,15 17,15 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>party_mode</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-408.000000, -4100.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="Two-Tone-/-Social-/-party_mode" transform="translate(306.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15.95,6 L15.36,5.35 L14.12,4 L9.88,4 L8.65,5.35 L8.05,6 L4,6 L4,18 L20,18 L20,6 L15.95,6 Z M7,12 C7,9.24 9.24,7 12,7 C13.63,7 15.06,7.79 15.98,9 L12,9 C10.34,9 9,10.34 9,12 C9,12.35 9.07,12.69 9.18,13 L7.1,13 C7.04,12.68 7,12.34 7,12 Z M17,12 C17,14.76 14.76,17 12,17 C10.37,17 8.94,16.21 8.02,15 L12,15 C13.66,15 15,13.66 15,12 C15,11.65 14.93,11.31 14.82,11 L16.9,11 C16.97,11.32 17,11.66 17,12 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M20,4 L16.83,4 L15,2 L9,2 L7.17,4 L4,4 C2.9,4 2,4.9 2,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,6 C22,4.9 21.1,4 20,4 Z M20,18 L4,18 L4,6 L8.05,6 L8.64,5.35 L9.88,4 L14.12,4 L15.36,5.35 L15.95,6 L20,6 L20,18 Z M9,12 C9,10.34 10.34,9 12,9 L15.98,9 C15.06,7.79 13.63,7 12,7 C9.24,7 7,9.24 7,12 C7,12.34 7.04,12.68 7.1,13 L9.18,13 C9.07,12.69 9,12.35 9,12 Z M15,12 C15,13.66 13.66,15 12,15 L8.02,15 C8.94,16.21 10.37,17 12,17 C14.76,17 17,14.76 17,12 C17,11.66 16.97,11.32 16.9,11 L14.82,11 C14.93,11.31 15,11.65 15,12 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

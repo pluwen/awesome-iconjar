@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud_download</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-372.000000, -2284.000000)">
+            <g id="File" transform="translate(100.000000, 2226.000000)">
+                <g id="Two-Tone-/-File-/-cloud_download" transform="translate(272.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19.21,12.04 L17.68,11.93 L17.38,10.43 C16.88,7.86 14.62,6 12,6 C9.94,6 8.08,7.14 7.12,8.96 L6.62,9.91 L5.55,10.02 C3.53,10.24 2,11.95 2,14 C2,16.21 3.79,18 6,18 L19,18 C20.65,18 22,16.65 22,15 C22,13.45 20.78,12.14 19.21,12.04 Z M12,17 L8,13 L10.55,13 L10.55,10 L13.46,10 L13.46,13 L16,13 L12,17 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M19.35,10.04 C18.67,6.59 15.64,4 12,4 C9.11,4 6.6,5.64 5.35,8.04 C2.34,8.36 0,10.91 0,14 C0,17.31 2.69,20 6,20 L19,20 C21.76,20 24,17.76 24,15 C24,12.36 21.95,10.22 19.35,10.04 Z M19,18 L6,18 C3.79,18 2,16.21 2,14 C2,11.95 3.53,10.24 5.56,10.03 L6.63,9.92 L7.13,8.97 C8.08,7.14 9.94,6 12,6 C14.62,6 16.88,7.86 17.39,10.43 L17.69,11.93 L19.22,12.04 C20.78,12.14 22,13.45 22,15 C22,16.65 20.65,18 19,18 Z M13.45,10 L10.55,10 L10.55,13 L8,13 L12,17 L16,13 L13.45,13 L13.45,10 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

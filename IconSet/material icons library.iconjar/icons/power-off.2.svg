@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>power_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-103.000000, -3701.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="-Round-/-Notification-/-power_off" transform="translate(0.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18,13.66 L18,8.99 C18,7.99 16.99,6.99 16,7 L16,4 C16,3.45 15.55,3 15,3 C14.45,3 14,3.45 14,4 L14,7 L10.12,7 L17.75,14.63 C17.9,14.33 18,14 18,13.66 Z M10,4 C10,3.45 9.55,3 9,3 C8.45,3 8,3.45 8,4 L8,4.88 L10,6.88 L10,4 Z M20.15,19.86 L12.49,12.2 L7.39,7.1 L4.83,4.54 C4.44,4.15 3.81,4.15 3.42,4.54 C3.03,4.93 3.03,5.56 3.42,5.95 L6.05,8.58 C6.02,8.71 6,8.85 6,8.99 L6,13.65 C6,14.18 6.21,14.69 6.58,15.06 L9.5,18 L9.5,20 C9.5,20.55 9.95,21 10.5,21 L13.5,21 C14.05,21 14.5,20.55 14.5,20 L14.5,18 L14.98,17.52 L18.74,21.28 C19.13,21.67 19.76,21.67 20.15,21.28 C20.54,20.89 20.54,20.25 20.15,19.86 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>picture_in_picture</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-441.000000, -377.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-picture_in_picture" transform="translate(340.000000, 274.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18,7 L12,7 C11.45,7 11,7.45 11,8 L11,12 C11,12.55 11.45,13 12,13 L18,13 C18.55,13 19,12.55 19,12 L19,8 C19,7.45 18.55,7 18,7 Z M21,3 L3,3 C1.9,3 1,3.9 1,5 L1,19 C1,20.1 1.9,20.98 3,20.98 L21,20.98 C22.1,20.98 23,20.1 23,19 L23,5 C23,3.9 22.1,3 21,3 Z M20,19.01 L4,19.01 C3.45,19.01 3,18.56 3,18.01 L3,5.98 C3,5.43 3.45,4.98 4,4.98 L20,4.98 C20.55,4.98 21,5.43 21,5.98 L21,18.01 C21,18.56 20.55,19.01 20,19.01 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

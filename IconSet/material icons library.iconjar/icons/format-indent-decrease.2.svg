@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_indent_decrease</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-749.000000, -2105.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-format_indent_decrease" transform="translate(646.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,17 L20,17 C20.55,17 21,16.55 21,16 C21,15.45 20.55,15 20,15 L12,15 C11.45,15 11,15.45 11,16 C11,16.55 11.45,17 12,17 Z M3.35,12.35 L6.14,15.14 C6.46,15.46 7,15.24 7,14.79 L7,9.21 C7,8.76 6.46,8.54 6.15,8.86 L3.36,11.65 C3.16,11.84 3.16,12.16 3.35,12.35 Z M4,21 L20,21 C20.55,21 21,20.55 21,20 C21,19.45 20.55,19 20,19 L4,19 C3.45,19 3,19.45 3,20 C3,20.55 3.45,21 4,21 Z M3,4 C3,4.55 3.45,5 4,5 L20,5 C20.55,5 21,4.55 21,4 C21,3.45 20.55,3 20,3 L4,3 C3.45,3 3,3.45 3,4 Z M12,9 L20,9 C20.55,9 21,8.55 21,8 C21,7.45 20.55,7 20,7 L12,7 C11.45,7 11,7.45 11,8 C11,8.55 11.45,9 12,9 Z M12,13 L20,13 C20.55,13 21,12.55 21,12 C21,11.45 20.55,11 20,11 L12,11 C11.45,11 11,11.45 11,12 C11,12.55 11.45,13 12,13 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

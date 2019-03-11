@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="10px" viewBox="0 0 20 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>edit_attributes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-171.000000, -3129.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="-Round-/-Maps-/-edit_attributes" transform="translate(69.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17.63,7 L6.37,7 C3.96,7 2,9.24 2,12 C2,14.76 3.96,17 6.37,17 L17.63,17 C20.04,17 22,14.76 22,12 C22,9.24 20.04,7 17.63,7 Z M11.11,10.6 L7.6,14.11 C7.5,14.21 7.37,14.26 7.25,14.26 C7.13,14.26 6.99,14.21 6.9,14.11 L5.04,12.25 C4.84,12.05 4.84,11.74 5.04,11.54 C5.24,11.34 5.55,11.34 5.75,11.54 L7.26,13.05 L10.42,9.89 C10.62,9.69 10.93,9.69 11.13,9.89 C11.33,10.09 11.3,10.4 11.11,10.6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

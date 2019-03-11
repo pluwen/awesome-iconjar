@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>brightness_6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-406.000000, -2680.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-brightness_6" transform="translate(306.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,8.69 L20,4 L15.31,4 L12,0.69 L8.69,4 L4,4 L4,8.69 L0.69,12 L4,15.31 L4,20 L8.69,20 L12,23.31 L15.31,20 L20,20 L20,15.31 L23.31,12 L20,8.69 Z M18,14.48 L18,18 L14.48,18 L12,20.48 L9.52,18 L6,18 L6,14.48 L3.52,12 L6,9.52 L6,6 L9.52,6 L12,3.52 L14.48,6 L18,6 L18,9.52 L20.48,12 L18,14.48 Z M12,6.5 L12,17.5 C15.03,17.5 17.5,15.03 17.5,12 C17.5,8.97 15.03,6.5 12,6.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

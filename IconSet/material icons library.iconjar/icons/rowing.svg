@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="23px" viewBox="0 0 17 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>rowing</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-512.000000, -419.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-rowing" transform="translate(408.000000, 318.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M4.75,18.25 C4.34,18.66 4.34,19.34 4.75,19.75 C5.16,20.16 5.84,20.16 6.25,19.75 L9,17 L11,17 L8.5,14.5 L4.75,18.25 Z M15,5 C16.1,5 17,4.1 17,3 C17,1.9 16.1,1 15,1 C13.9,1 13,1.9 13,3 C13,4.1 13.9,5 15,5 Z M20.29,20.3 L18.29,18.29 C18.11,18.11 17.85,18 17.58,18 L16.5,18 L10.21,11.71 C11,11.38 11.87,10.84 12.5,10.32 L12.5,12.59 L16.08,16.17 C16.65,15.62 17,14.85 17,14.01 L17,8.26 C17,7.02 15.98,6 14.74,6 L14.72,6 C14.38,6 14.05,6.09 13.76,6.23 C13.5,6.35 13.26,6.52 13.07,6.73 L11.67,8.28 C10.61,9.45 8.66,10.35 7,10.32 C6.4,10.32 5.92,10.8 5.92,11.4 C5.92,12 6.4,12.48 7,12.48 C7.31,12.48 7.61,12.45 7.9,12.41 L15.01,19.5 L15.01,20.58 C15.01,20.84 15.11,21.1 15.3,21.28 L17.29,23.29 C17.68,23.68 18.31,23.68 18.71,23.29 L20.29,21.71 C20.68,21.33 20.68,20.69 20.29,20.3 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>text_rotation_none</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-550.000000, -465.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-text_rotation_none" transform="translate(445.000000, 362.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20.65,17.65 L18.86,15.86 C18.54,15.54 18,15.76 18,16.21 L18,17 L6,17 C5.45,17 5,17.45 5,18 C5,18.55 5.45,19 6,19 L18,19 L18,19.79 C18,20.24 18.54,20.46 18.85,20.14 L20.64,18.35 C20.84,18.16 20.84,17.84 20.65,17.65 Z M9.5,11.8 L14.5,11.8 L15.16,13.4 C15.31,13.76 15.66,14 16.05,14 C16.74,14 17.2,13.29 16.93,12.66 L13.05,3.69 C12.87,3.27 12.46,3 12,3 C11.54,3 11.13,3.27 10.95,3.69 L7.07,12.66 C6.8,13.29 7.27,14 7.96,14 C8.35,14 8.7,13.76 8.85,13.4 L9.5,11.8 Z M12,4.98 L13.87,10 L10.13,10 L12,4.98 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

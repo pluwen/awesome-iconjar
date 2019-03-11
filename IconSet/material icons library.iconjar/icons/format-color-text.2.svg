@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>format_color_text</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-780.000000, -2105.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-format_color_text" transform="translate(680.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M2,20 L22,20 C23.1,20 24,20.9 24,22 C24,23.1 23.1,24 22,24 L2,24 C0.9,24 0,23.1 0,22 C0,20.9 0.9,20 2,20 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M10.63,3.93 L6.06,15.58 C5.79,16.26 6.29,17 7.03,17 C7.46,17 7.85,16.73 8.01,16.32 L8.87,14 L15.12,14 L15.99,16.32 C16.14,16.73 16.53,17 16.97,17 C17.7,17 18.21,16.26 17.94,15.58 L13.37,3.93 C13.14,3.37 12.6,3 12,3 C11.4,3 10.85,3.37 10.63,3.93 Z M9.62,12 L12,5.67 L14.38,12 L9.62,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

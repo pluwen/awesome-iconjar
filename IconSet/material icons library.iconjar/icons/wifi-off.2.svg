@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>wifi_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-135.000000, -3699.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Outlined-/-Notification-/-wifi_off" transform="translate(34.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21,11 L23,9 C19.27,5.27 14.13,3.85 9.3,4.69 L11.88,7.27 C15.18,7.25 18.49,8.49 21,11 Z M19,13 C17.92,11.92 16.64,11.15 15.28,10.67 L18.3,13.69 L19,13 Z M9,17 L12,20 L15,17 C13.35,15.34 10.66,15.34 9,17 Z M3.41,1.64 L2,3.05 L5.05,6.1 C3.59,6.83 2.22,7.79 1,9 L3,11 C4.23,9.77 5.65,8.84 7.17,8.22 L9.41,10.46 C7.79,10.89 6.27,11.74 5,13 L7,15 C8.35,13.65 10.11,12.96 11.89,12.94 L18.97,20.02 L20.38,18.61 L3.41,1.64 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

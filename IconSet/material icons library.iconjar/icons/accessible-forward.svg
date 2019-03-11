@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="20px" viewBox="0 0 15 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>accessible_forward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-683.000000, -156.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-accessible_forward" transform="translate(578.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18,6.54 C16.8954305,6.54 16,5.6445695 16,4.54 C16,3.4354305 16.8954305,2.54 18,2.54 C19.1045695,2.54 20,3.4354305 20,4.54 C20,5.6445695 19.1045695,6.54 18,6.54 Z M15,17 C15,19.76 12.76,22 10,22 C7.24,22 5,19.76 5,17 C5,14.24 7.24,12 10,12 L10,14 C8.35,14 7,15.35 7,17 C7,18.65 8.35,20 10,20 C11.65,20 13,18.65 13,17 L15,17 Z M18,13.5 C19.1,13.5 20,14.4 20,15.5 L20,21 L18,21 L18,16 L13.02,16 C11.56,16 10.57,14.43 11.17,13.1 L13,9 L10.79,9 L10.14,10.53 L8.22,10 L8.89,8.2 C9.22,7.47 9.95,7 10.76,7 L15.96,7 C17.44,7 18.42,8.5 17.81,9.83 L16.14,13.5 L18,13.5 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

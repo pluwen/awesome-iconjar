@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>surround_sound</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-102.000000, -1042.000000)">
+            <g id="Av" transform="translate(100.000000, 852.000000)">
+                <g id="Outlined-/-AV-/-surround_sound" transform="translate(0.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" fill-rule="nonzero" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M20,4 L4,4 C2.9,4 2,4.9 2,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,6 C22,4.9 21.1,4 20,4 Z M20,18 L4,18 L4,6 L20,6 L20,18 Z M8.29,15.71 C7.27,14.69 6.75,13.35 6.75,12 C6.75,10.65 7.27,9.31 8.28,8.28 L7.05,7.05 C5.68,8.41 5,10.21 5,12 C5,13.79 5.68,15.59 7.06,16.94 L8.29,15.71 Z M12,15.5 C13.93,15.5 15.5,13.93 15.5,12 C15.5,10.07 13.93,8.5 12,8.5 C10.07,8.5 8.5,10.07 8.5,12 C8.5,13.93 10.07,15.5 12,15.5 Z M12,10.5 C12.83,10.5 13.5,11.17 13.5,12 C13.5,12.83 12.83,13.5 12,13.5 C11.17,13.5 10.5,12.83 10.5,12 C10.5,11.17 11.17,10.5 12,10.5 Z M15.72,15.72 L16.95,16.95 C18.32,15.59 19,13.79 19,12 C19,10.21 18.32,8.41 16.94,7.06 L15.71,8.29 C16.73,9.31 17.25,10.65 17.25,12 C17.25,13.35 16.73,14.69 15.72,15.72 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

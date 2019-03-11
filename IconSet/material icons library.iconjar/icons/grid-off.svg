@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>grid_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-916.000000, -2813.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-grid_off" transform="translate(816.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 23.04 0 23.04"></polygon>
+                        <path d="M8,3.84 L8,4.6944 L10,6.6144 L10,3.84 L14,3.84 L14,7.68 L11.11,7.68 L13.11,9.6 L14,9.6 L14,10.4544 L16,12.3744 L16,9.6 L20,9.6 L20,13.44 L17.11,13.44 L19.11,15.36 L20,15.36 L20,16.2144 L22,18.1344 L22,3.84 C22,2.784 21.1,1.92 20,1.92 L5.11,1.92 L7.11,3.84 L8,3.84 Z M16,3.84 L20,3.84 L20,7.68 L16,7.68 L16,3.84 Z M1.41,1.0944 L0,2.448 L2,4.368 L2,19.2 C2,20.256 2.9,21.12 4,21.12 L19.45,21.12 L21.46,23.0496 L22.87,21.696 L1.41,1.0944 Z M10,12.048 L11.45,13.44 L10,13.44 L10,12.048 Z M4,6.288 L5.45,7.68 L4,7.68 L4,6.288 Z M8,19.2 L4,19.2 L4,15.36 L8,15.36 L8,19.2 Z M8,13.44 L4,13.44 L4,9.6 L7.45,9.6 L8,10.128 L8,13.44 Z M14,19.2 L10,19.2 L10,15.36 L13.45,15.36 L14,15.888 L14,19.2 Z M16,19.2 L16,17.808 L17.45,19.2 L16,19.2 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

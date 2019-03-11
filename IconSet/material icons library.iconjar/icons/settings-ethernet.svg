@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="14px" viewBox="0 0 24 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings_ethernet</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-712.000000, -423.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-settings_ethernet" transform="translate(612.000000, 318.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7.77,6.76 L6.23,5.48 L0.82,12 L6.23,18.52 L7.77,17.24 L3.42,12 L7.77,6.76 Z M7,13 L9,13 L9,11 L7,11 L7,13 Z M17,11 L15,11 L15,13 L17,13 L17,11 Z M11,13 L13,13 L13,11 L11,11 L11,13 Z M17.77,5.48 L16.23,6.76 L20.58,12 L16.23,17.24 L17.77,18.52 L23.18,12 L17.77,5.48 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

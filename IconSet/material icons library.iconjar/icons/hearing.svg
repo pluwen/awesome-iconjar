@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>hearing</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-783.000000, -951.000000)">
+            <g id="Av" transform="translate(100.000000, 852.000000)">
+                <g id="Outlined-/-AV-/-hearing" transform="translate(680.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M17,20 C16.71,20 16.44,19.94 16.24,19.85 C15.53,19.48 15.03,18.97 14.53,17.47 C14.02,15.91 13.06,15.18 12.14,14.47 C11.35,13.86 10.53,13.23 9.82,11.94 C9.29,10.98 9,9.93 9,9 C9,6.2 11.2,4 14,4 C16.8,4 19,6.2 19,9 L21,9 C21,5.07 17.93,2 14,2 C10.07,2 7,5.07 7,9 C7,10.26 7.38,11.65 8.07,12.9 C8.98,14.55 10.05,15.38 10.92,16.05 C11.73,16.67 12.31,17.12 12.63,18.1 C13.23,19.92 14,20.94 15.36,21.65 C15.87,21.88 16.43,22 17,22 C19.21,22 21,20.21 21,18 L19,18 C19,19.1 18.1,20 17,20 Z M7.64,2.64 L6.22,1.22 C4.23,3.21 3,5.96 3,9 C3,12.04 4.23,14.79 6.22,16.78 L7.63,15.37 C6.01,13.74 5,11.49 5,9 C5,6.51 6.01,4.26 7.64,2.64 Z M11.5,9 C11.5,10.38 12.62,11.5 14,11.5 C15.38,11.5 16.5,10.38 16.5,9 C16.5,7.62 15.38,6.5 14,6.5 C12.62,6.5 11.5,7.62 11.5,9 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

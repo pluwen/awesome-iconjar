@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>timer_off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-475.000000, -2901.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="Outlined-/-Image-/-timer_off" transform="translate(374.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11,8 L11,8.86 L13,10.86 L13,8 L11,8 Z M9,1 L15,1 L15,3 L9,3 L9,1 Z M12,6 C15.87,6 19,9.13 19,13 C19,14.12 18.73,15.18 18.26,16.12 L19.73,17.59 C20.53,16.25 21,14.68 21,13 C21,10.88 20.26,8.93 19.03,7.39 L20.45,5.97 C20.02,5.46 19.55,4.98 19.04,4.56 L17.62,5.98 C16.07,4.74 14.12,4 12,4 C10.32,4 8.75,4.47 7.41,5.27 L8.88,6.74 C9.82,6.27 10.88,6 12,6 Z M3.16,3.86 L1.75,5.27 L4.5,8.02 C3.56,9.45 3,11.16 3,13 C3,17.97 7.02,22 12,22 C13.84,22 15.55,21.45 16.98,20.5 L19.48,23 L20.89,21.59 L3.16,3.86 Z M12,20 C8.13,20 5,16.87 5,13 C5,11.71 5.35,10.51 5.96,9.48 L15.53,19.05 C14.49,19.65 13.29,20 12,20 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

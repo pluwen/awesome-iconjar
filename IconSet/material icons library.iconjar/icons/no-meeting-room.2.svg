@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>no_meeting_room</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-339.000000, -3922.000000)">
+            <g id="Places" transform="translate(100.000000, 3866.000000)">
+                <g id="-Round-/-Places-/-no_meeting_room" transform="translate(238.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,6 L17,6 L17,13.88 L19,15.88 L19,5 C19,4.45 18.55,4 18,4 L14,4 C14,3.45 13.55,3 13,3 L6.12,3 L14,10.88 L14,6 Z M21.17,20.88 L12,11.71 L12,13 L10,13 L10,11 L11.29,11 L3.12,2.83 C2.73,2.44 2.1,2.44 1.71,2.83 C1.32,3.22 1.32,3.85 1.71,4.24 L5,7.54 L5,19 L4,19 C3.45,19 3,19.45 3,20 C3,20.55 3.45,21 4,21 L13,21 C13.55,21 14,20.55 14,20 L14,16.54 L19.75,22.29 C20.14,22.68 20.77,22.68 21.16,22.29 C21.56,21.9 21.56,21.27 21.17,20.88 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

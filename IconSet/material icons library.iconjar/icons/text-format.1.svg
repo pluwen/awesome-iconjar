@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>text_format</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-309.000000, -1530.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="Outlined-/-Content-/-text_format" transform="translate(204.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M5,17 L5,19 L19,19 L19,17 L5,17 Z M9.5,12.8 L14.5,12.8 L15.4,15 L17.5,15 L12.75,4 L11.25,4 L6.5,15 L8.6,15 L9.5,12.8 Z M12,5.98 L13.87,11 L10.13,11 L12,5.98 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

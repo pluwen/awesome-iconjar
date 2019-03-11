@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="14px" viewBox="0 0 22 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>recent_actors</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-543.000000, -999.000000)">
+            <g id="Av" transform="translate(100.000000, 852.000000)">
+                <g id="Outlined-/-AV-/-recent_actors" transform="translate(442.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21,5 L23,5 L23,19 L21,19 L21,5 Z M17,5 L19,5 L19,19 L17,19 L17,5 Z M14,5 C14.55,5 15,5.45 15,6 L15,18 C15,18.55 14.55,19 14,19 L2,19 C1.45,19 1,18.55 1,18 L1,6 C1,5.45 1.45,5 2,5 L14,5 Z M13,17 L13,7 L3,7 L3,17 L13,17 Z M8,11.89 C6.92304474,11.89 6.05,11.0169553 6.05,9.94 C6.05,8.86304474 6.92304474,7.99 8,7.99 C9.07695526,7.99 9.95,8.86304474 9.95,9.94 C9.95,11.0169553 9.07695526,11.89 8,11.89 Z M11.89,15.35 L11.89,16 L4.11,16 L4.11,15.35 C4.11,14.05 6.7,13.4 8,13.4 C9.3,13.4 11.89,14.05 11.89,15.35 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

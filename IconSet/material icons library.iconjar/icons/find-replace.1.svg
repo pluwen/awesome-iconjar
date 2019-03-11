@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>find_replace</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-784.000000, -510.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-find_replace" transform="translate(680.000000, 406.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11,6 C12.38,6 13.63,6.56 14.54,7.46 L12,10 L18,10 L18,4 L15.95,6.05 C14.68,4.78 12.93,4 11,4 C7.47,4 4.57,6.61 4.08,10 L6.1,10 C6.56,7.72 8.58,6 11,6 Z M16.64,15.14 C17.3,14.24 17.76,13.17 17.92,12 L15.9,12 C15.44,14.28 13.42,16 11,16 C9.62,16 8.37,15.44 7.46,14.54 L10,12 L4,12 L4,18 L6.05,15.95 C7.32,17.22 9.07,18 11,18 C12.55,18 13.98,17.49 15.14,16.64 L20,21.49 L21.49,20 L16.64,15.14 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="19px" viewBox="0 0 24 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>perm_scan_wifi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-542.000000, -377.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Outlined-/-Action-/-perm_scan_wifi" transform="translate(442.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,3 C6.95,3 3.15,4.85 0,7.23 L12,22 L24,7.25 C20.85,4.87 17.05,3 12,3 Z M2.92,7.65 C5.8,5.85 8.74,5 12,5 C15.25,5 18.18,5.85 21.08,7.67 L12,18.83 L2.92,7.65 Z M11,10 L13,10 L13,16 L11,16 L11,10 Z M11,6 L13,6 L13,8 L11,8 L11,6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

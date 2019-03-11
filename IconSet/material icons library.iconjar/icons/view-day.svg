@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>view_day</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-884.000000, -509.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-view_day" transform="translate(782.000000, 406.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,21 L20,21 C20.55,21 21,20.55 21,20 L21,19 C21,18.45 20.55,18 20,18 L3,18 C2.45,18 2,18.45 2,19 L2,20 C2,20.55 2.45,21 3,21 Z M20,8 L3,8 C2.45,8 2,8.45 2,9 L2,15 C2,15.55 2.45,16 3,16 L20,16 C20.55,16 21,15.55 21,15 L21,9 C21,8.45 20.55,8 20,8 Z M2,4 L2,5 C2,5.55 2.45,6 3,6 L20,6 C20.55,6 21,5.55 21,5 L21,4 C21,3.45 20.55,3 20,3 L3,3 C2.45,3 2,3.45 2,4 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

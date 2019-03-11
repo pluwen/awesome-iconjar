@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>unfold_less</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-685.000000, -3436.000000)">
+            <g id="Navigation" transform="translate(100.000000, 3378.000000)">
+                <g id="-Round-/-Navigation-/-unfold_less" transform="translate(578.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" opacity="0.87" points="24 0 24 24 0 24 0 0"></polygon>
+                        <path d="M8.12,19.3 C8.51,19.69 9.14,19.69 9.53,19.3 L12,16.83 L14.47,19.3 C14.86,19.69 15.49,19.69 15.88,19.3 C16.27,18.91 16.27,18.28 15.88,17.89 L12.71,14.72 C12.32,14.33 11.69,14.33 11.3,14.72 L8.13,17.89 C7.73,18.27 7.73,18.91 8.12,19.3 Z M15.88,4.7 C15.49,4.31 14.86,4.31 14.47,4.7 L12,7.17 L9.53,4.7 C9.14,4.31 8.51,4.31 8.12,4.7 C7.73,5.09 7.73,5.73 8.12,6.12 L11.29,9.29 C11.68,9.68 12.31,9.68 12.7,9.29 L15.87,6.12 C16.27,5.73 16.27,5.09 15.88,4.7 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

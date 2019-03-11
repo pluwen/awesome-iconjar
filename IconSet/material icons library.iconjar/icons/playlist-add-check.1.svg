@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="14px" viewBox="0 0 21 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>playlist_add_check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-918.000000, -955.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="-Round-/-AV-/-playlist_add_check" transform="translate(816.000000, 98.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy-61" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M13,9 L3,9 C2.45,9 2,9.45 2,10 C2,10.55 2.45,11 3,11 L13,11 C13.55,11 14,10.55 14,10 C14,9.45 13.55,9 13,9 Z M13,5 L3,5 C2.45,5 2,5.45 2,6 C2,6.55 2.45,7 3,7 L13,7 C13.55,7 14,6.55 14,6 C14,5.45 13.55,5 13,5 Z M3,15 L9,15 C9.55,15 10,14.55 10,14 C10,13.45 9.55,13 9,13 L3,13 C2.45,13 2,13.45 2,14 C2,14.55 2.45,15 3,15 Z M22.21,11.21 L22.3,11.3 C22.69,11.69 22.69,12.32 22.3,12.71 L16.72,18.3 C16.33,18.69 15.7,18.69 15.31,18.3 L12.22,15.21 C11.83,14.82 11.83,14.19 12.22,13.8 L12.31,13.71 C12.7,13.32 13.33,13.32 13.72,13.71 L16.02,16.01 L20.8,11.22 C21.18,10.82 21.82,10.82 22.21,11.21 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

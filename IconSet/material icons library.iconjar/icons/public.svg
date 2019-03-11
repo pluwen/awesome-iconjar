@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>public</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-136.000000, -4100.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="-Two-Tone-/-Social-/-public" transform="translate(34.000000, 54.000000)">
+                    <g id="Two-Tone-/-Social-/-public">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14.99,4.59 L14.99,5 C14.99,6.1 14.09,7 12.99,7 L10.99,7 L10.99,9 C10.99,9.55 10.54,10 9.99,10 L7.99,10 L7.99,12 L13.99,12 C14.54,12 14.99,12.45 14.99,13 L14.99,16 L15.99,16 C16.88,16 17.63,16.59 17.89,17.4 C19.19,15.98 20,14.08 20,12 C20,8.65 17.92,5.77 14.99,4.59 Z M8.99,16 L8.99,15 L4.21,10.22 C4.08,10.79 4,11.39 4,12 C4,16.07 7.06,19.43 10.99,19.93 L10.99,18 C9.89,18 8.99,17.1 8.99,16 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 Z M10.99,19.93 C7.06,19.43 4,16.07 4,12 C4,11.39 4.08,10.79 4.21,10.22 L8.99,15 L8.99,16 C8.99,17.1 9.89,18 10.99,18 L10.99,19.93 Z M17.89,17.4 C17.63,16.59 16.89,16 15.99,16 L14.99,16 L14.99,13 C14.99,12.45 14.54,12 13.99,12 L7.99,12 L7.99,10 L9.99,10 C10.54,10 10.99,9.55 10.99,9 L10.99,7 L12.99,7 C14.09,7 14.99,6.1 14.99,5 L14.99,4.59 C17.92,5.77 20,8.65 20,12 C20,14.08 19.19,15.98 17.89,17.4 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

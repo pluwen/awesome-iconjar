@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="11px" viewBox="0 0 22 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>looks</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-305.000000, -2906.000000)">
+            <g id="Image" transform="translate(100.000000, 2626.000000)">
+                <g id="-Round-/-Image-/-looks" transform="translate(204.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,10 C8.53,10 5.64,12.54 5.09,15.86 C4.99,16.46 5.48,17 6.09,17 C6.58,17 6.99,16.64 7.07,16.15 C7.48,13.79 9.53,12 12,12 C14.47,12 16.52,13.79 16.93,16.15 C17.01,16.64 17.42,17 17.91,17 C18.52,17 19,16.46 18.9,15.86 C18.36,12.54 15.47,10 12,10 Z M12,6 C6.3,6 1.61,10.34 1.05,15.9 C1,16.49 1.46,17 2.06,17 C2.57,17 3,16.62 3.05,16.12 C3.49,11.57 7.34,8 12,8 C16.66,8 20.51,11.57 20.96,16.12 C21.01,16.62 21.44,17 21.95,17 C22.54,17 23.01,16.49 22.95,15.9 C22.39,10.34 17.7,6 12,6 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>find_replace</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-172.000000, -290.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-find_replace" transform="translate(68.000000, 186.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M11,6 C12.38,6 13.63,6.56 14.54,7.46 L12.85,9.15 C12.54,9.46 12.76,10 13.21,10 L17.5,10 C17.78,10 18,9.78 18,9.5 L18,5.21 C18,4.76 17.46,4.54 17.15,4.86 L15.95,6.06 C14.68,4.78 12.93,4 11,4 C7.96,4 5.38,5.94 4.42,8.64 C4.18,9.3 4.65,10 5.35,10 C5.77,10 6.14,9.74 6.28,9.34 C6.96,7.4 8.82,6 11,6 Z M16.64,15.14 C17.04,14.6 17.36,13.99 17.59,13.34 C17.82,12.69 17.34,12 16.65,12 C16.23,12 15.86,12.26 15.72,12.66 C15.04,14.6 13.18,16 11,16 C9.62,16 8.37,15.44 7.46,14.54 L9.15,12.85 C9.46,12.54 9.24,12 8.79,12 L4.5,12 C4.22,12 4,12.22 4,12.5 L4,16.79 C4,17.24 4.54,17.46 4.85,17.14 L6.05,15.94 C7.32,17.22 9.07,18 11,18 C12.55,18 13.98,17.49 15.14,16.64 L19.25,20.75 C19.66,21.16 20.33,21.16 20.74,20.75 C21.15,20.34 21.15,19.67 20.74,19.26 L16.64,15.14 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

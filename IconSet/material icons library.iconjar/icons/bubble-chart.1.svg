@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bubble_chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-477.000000, -2017.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Outlined-/-Editor-/-bubble_chart" transform="translate(374.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M7,10 C4.79,10 3,11.79 3,14 C3,16.21 4.79,18 7,18 C9.21,18 11,16.21 11,14 C11,11.79 9.21,10 7,10 Z M7,16 C5.9,16 5,15.1 5,14 C5,12.9 5.9,12 7,12 C8.1,12 9,12.9 9,14 C9,15.1 8.1,16 7,16 Z M15.01,15 C13.36,15 12.01,16.35 12.01,18 C12.01,19.65 13.36,21 15.01,21 C16.66,21 18.01,19.65 18.01,18 C18.01,16.35 16.66,15 15.01,15 Z M15.01,19 C14.46,19 14.01,18.55 14.01,18 C14.01,17.45 14.46,17 15.01,17 C15.56,17 16.01,17.45 16.01,18 C16.01,18.55 15.56,19 15.01,19 Z M16.5,3 C13.47,3 11,5.47 11,8.5 C11,11.53 13.47,14 16.5,14 C19.53,14 22,11.53 22,8.5 C22,5.47 19.53,3 16.5,3 Z M16.5,12 C14.57,12 13,10.43 13,8.5 C13,6.57 14.57,5 16.5,5 C18.43,5 20,6.57 20,8.5 C20,10.43 18.43,12 16.5,12 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>cached</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-135.000000, -202.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="-Round-/-Action-/-cached" transform="translate(34.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M18.65,8.35 L15.86,11.14 C15.54,11.46 15.76,12 16.21,12 L18,12 C18,15.31 15.31,18 12,18 C11.21,18 10.44,17.85 9.75,17.56 C9.39,17.41 8.98,17.52 8.71,17.79 C8.2,18.3 8.38,19.16 9.05,19.43 C9.96,19.8 10.96,20 12,20 C16.42,20 20,16.42 20,12 L21.79,12 C22.24,12 22.46,11.46 22.14,11.15 L19.35,8.36 C19.16,8.16 18.84,8.16 18.65,8.35 Z M6,12 C6,8.69 8.69,6 12,6 C12.79,6 13.56,6.15 14.25,6.44 C14.61,6.59 15.02,6.48 15.29,6.21 C15.8,5.7 15.62,4.84 14.95,4.57 C14.04,4.2 13.04,4 12,4 C7.58,4 4,7.58 4,12 L2.21,12 C1.76,12 1.54,12.54 1.86,12.85 L4.65,15.64 C4.85,15.84 5.16,15.84 5.36,15.64 L8.15,12.85 C8.46,12.54 8.24,12 7.79,12 L6,12 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

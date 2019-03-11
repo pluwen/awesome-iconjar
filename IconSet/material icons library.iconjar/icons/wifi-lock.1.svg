@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>wifi_lock</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-168.000000, -1750.000000)">
+            <g id="Device" transform="translate(100.000000, 1650.000000)">
+                <g id="-Round-/-Device-/-wifi_lock" transform="translate(68.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21.31,9.58 L24,6 C20.66,3.49 16.5,2 12,2 C7.5,2 3.34,3.49 0,6 L10.4,19.87 C11.2,20.94 12.8,20.94 13.6,19.87 L15.5,17.34 L15.5,14.5 C15.5,11.74 17.74,9.5 20.5,9.5 C20.78,9.5 21.05,9.54 21.31,9.58 Z M23,16 L23,14.5 C23,13.12 21.88,12 20.5,12 C19.12,12 18,13.12 18,14.5 L18,16 C17.45,16 17,16.45 17,17 L17,21 C17,21.55 17.45,22 18,22 L23,22 C23.55,22 24,21.55 24,21 L24,17 C24,16.45 23.55,16 23,16 Z M22,16 L19,16 L19,14.5 C19,13.67 19.67,13 20.5,13 C21.33,13 22,13.67 22,14.5 L22,16 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

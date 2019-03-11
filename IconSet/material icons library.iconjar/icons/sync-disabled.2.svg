@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sync_disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-442.000000, -3702.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Outlined-/-Notification-/-sync_disabled" transform="translate(340.000000, 98.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M10,6.35 L10,4.26 C9.34,4.43 8.71,4.69 8.12,5.01 L9.62,6.51 C9.75,6.46 9.87,6.4 10,6.35 Z M20,12 C20,9.79 19.09,7.8 17.64,6.36 L20,4 L14,4 L14,10 L16.24,7.76 C17.32,8.85 18,10.34 18,12 C18,12.85 17.81,13.65 17.49,14.38 L18.99,15.88 C19.63,14.74 20,13.41 20,12 Z M4.27,4 L2.86,5.41 L5.22,7.77 C4.45,8.99 4,10.44 4,12 C4,14.21 4.91,16.2 6.36,17.64 L4,20 L10,20 L10,14 L7.76,16.24 C6.68,15.15 6,13.66 6,12 C6,11 6.25,10.06 6.68,9.23 L14.76,17.31 C14.51,17.44 14.26,17.55 14,17.65 L14,19.74 C14.8,19.53 15.55,19.2 16.23,18.78 L18.81,21.36 L20.22,19.95 L4.27,4 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

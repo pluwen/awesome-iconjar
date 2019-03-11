@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>highlight</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-341.000000, -2060.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="Two-Tone-/-Editor-/-highlight" transform="translate(238.000000, 98.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="11 20 13 20 13 16.17 16 13.17 16 11 8 11 8 13.17 11 16.17"></polygon>
+                        <path d="M6,14 L9,17 L9,22 L15,22 L15,17 L18,14 L18,9 L6,9 L6,14 Z M8,11 L16,11 L16,13.17 L13,16.17 L13,20 L11,20 L11,16.17 L8,13.17 L8,11 Z M11,2 L13,2 L13,5 L11,5 L11,2 Z M4.916,4.464 L7.036,6.586 L5.62,8 L3.5,5.877 L4.916,4.464 Z M18.372,8 L16.958,6.586 L19.078,4.466 L20.493,5.879 L18.372,8 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

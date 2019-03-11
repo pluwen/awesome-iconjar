@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>record_voice_over</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-713.000000, -376.000000)">
+            <g id="Action" transform="translate(100.000000, 100.000000)">
+                <g id="Two-Tone-/-Action-/-record_voice_over" transform="translate(612.000000, 274.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <g id="Group" opacity="0.3" transform="translate(3.000000, 7.000000)" fill="#D0D0D0">
+                            <path d="M6,4 C4.8954305,4 4,3.1045695 4,2 C4,0.8954305 4.8954305,0 6,0 C7.1045695,0 8,0.8954305 8,2 C8,3.1045695 7.1045695,4 6,4 Z M6,10 C8.7,10 11.8,11.29 12,12 L0,12 C0.23,11.28 3.31,10 6,10 Z" id="🔹-Secondary-Color"></path>
+                        </g>
+                        <path d="M9,13 C11.21,13 13,11.21 13,9 C13,6.79 11.21,5 9,5 C6.79,5 5,6.79 5,9 C5,11.21 6.79,13 9,13 Z M9,7 C10.1,7 11,7.9 11,9 C11,10.1 10.1,11 9,11 C7.9,11 7,10.1 7,9 C7,7.9 7.9,7 9,7 Z M9,15 C6.33,15 1,16.34 1,19 L1,21 L17,21 L17,19 C17,16.34 11.67,15 9,15 Z M3,19 C3.22,18.28 6.31,17 9,17 C11.7,17 14.8,18.29 15,19 L3,19 Z M16.76,5.36 L15.08,7.05 C15.92,8.23 15.92,9.76 15.08,10.94 L16.76,12.63 C18.78,10.61 18.78,7.56 16.76,5.36 Z M20.07,2 L18.44,3.63 C21.21,6.65 21.21,11.19 18.44,14.37 L20.07,16 C23.97,12.11 23.98,6.05 20.07,2 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

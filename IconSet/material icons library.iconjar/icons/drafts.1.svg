@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>drafts</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-510.000000, -1483.000000)">
+            <g id="Content" transform="translate(100.000000, 1428.000000)">
+                <g id="-Round-/-Content-/-drafts" transform="translate(408.000000, 54.000000)">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M21.99,8 C21.99,7.28 21.62,6.65 21.05,6.3 L13.01,1.59 C12.39,1.22 11.61,1.22 10.99,1.59 L2.95,6.3 C2.38,6.65 2,7.28 2,8 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L21.99,8 Z M10.94,12.34 L3.74,7.84 L10.99,3.59 C11.61,3.22 12.39,3.22 13.01,3.59 L20.26,7.84 L13.06,12.34 C12.41,12.74 11.59,12.74 10.94,12.34 Z" id="🔹Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

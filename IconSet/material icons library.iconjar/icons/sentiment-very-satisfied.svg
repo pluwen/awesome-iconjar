@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sentiment_very_satisfied</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-170.000000, -4144.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="-Two-Tone-/-Social-/-sentiment_very_satisfied" transform="translate(68.000000, 98.000000)">
+                    <g id="Two-Tone-/-Social-/-sentiment_very_satisfied">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,4 C7.58,4 4,7.58 4,12 C4,16.42 7.58,20 12,20 C16.42,20 20,16.42 20,12 C20,7.58 16.42,4 12,4 Z M8.88,7.82 L11,9.94 L9.94,11 L8.88,9.94 L7.82,11 L6.76,9.94 L8.88,7.82 Z M12,17.5 C9.67,17.5 7.69,16.04 6.89,14 L17.11,14 C16.31,16.04 14.33,17.5 12,17.5 Z M16.18,11 L15.12,9.94 L14.06,11 L13,9.94 L15.12,7.82 L17.24,9.94 L16.18,11 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M8.88,9.94 L9.94,11 L11,9.94 L8.88,7.82 L6.76,9.94 L7.82,11 L8.88,9.94 Z M13,9.94 L14.06,11 L15.12,9.94 L16.18,11 L17.24,9.94 L15.12,7.82 L13,9.94 Z M11.99,2 C6.47,2 2,6.47 2,12 C2,17.53 6.47,22 11.99,22 C17.51,22 22,17.53 22,12 C22,6.47 17.52,2 11.99,2 Z M12,20 C7.58,20 4,16.42 4,12 C4,7.58 7.58,4 12,4 C16.42,4 20,7.58 20,12 C20,16.42 16.42,20 12,20 Z M12,17.5 C14.33,17.5 16.31,16.04 17.11,14 L6.89,14 C7.69,16.04 9.67,17.5 12,17.5 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

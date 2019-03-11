@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>highlight</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-137.000000, -2104.000000)">
+            <g id="Editor" transform="translate(100.000000, 1960.000000)">
+                <g id="-Round-/-Editor-/-highlight" transform="translate(34.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M6.29,14.29 L9,17 L9,21 C9,21.55 9.45,22 10,22 L14,22 C14.55,22 15,21.55 15,21 L15,17 L17.71,14.29 C17.9,14.1 18,13.85 18,13.58 L18,10 C18,9.45 17.55,9 17,9 L7,9 C6.45,9 6,9.45 6,10 L6,13.59 C6,13.85 6.11,14.11 6.29,14.29 Z M12,2 C12.55,2 13,2.45 13,3 L13,4 C13,4.55 12.55,5 12,5 C11.45,5 11,4.55 11,4 L11,3 C11,2.45 11.45,2 12,2 Z M4.21,5.17 C4.6,4.78 5.23,4.78 5.63,5.17 L6.34,5.88 C6.73,6.27 6.73,6.9 6.34,7.29 C5.95,7.68 5.32,7.68 4.93,7.29 L4.21,6.58 C3.82,6.19 3.82,5.56 4.21,5.17 Z M17.67,5.88 L18.38,5.17 C18.77,4.78 19.4,4.78 19.79,5.17 C20.18,5.56 20.18,6.19 19.79,6.58 L19.08,7.29 C18.69,7.68 18.06,7.68 17.67,7.29 C17.28,6.9 17.28,6.27 17.67,5.88 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

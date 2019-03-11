@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>fiber_dvr</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-407.000000, -909.000000)">
+            <g id="AV" transform="translate(100.000000, 852.000000)">
+                <g id="Two-Tone-/-AV-/-fiber_dvr" transform="translate(306.000000, 54.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="🔹-Secondary-Color" fill="#D0D0D0" points="3 5 21 5 21 19 3 19"></polygon>
+                        <path d="M20,11.56 C20,12.09 19.64,12.58 19.2,12.8 L20,14.67 L18.67,14.67 L17.91,12.89 L16.89,12.89 L16.89,14.67 L15.56,14.67 L15.56,9.34 L18.67,9.34 C19.42,9.34 20,9.91 20,10.67 L20,11.56 Z M18.67,11.56 L18.67,10.67 L16.89,10.67 L16.89,11.56 L18.67,11.56 Z M7.11,9.33 C7.87,9.33 8.44,9.91 8.44,10.66 L8.44,13.33 C8.44,14.08 7.87,14.66 7.11,14.66 L4,14.66 L4,9.33 L7.11,9.33 Z M7.11,13.33 L7.11,10.66 L5.33,10.66 L5.33,13.33 L7.11,13.33 Z M14.11,9.33 L12.55,14.67 L11.22,14.67 L9.66,9.33 L11,9.33 L11.88,12.38 L12.77,9.33 L14.11,9.33 Z M21,3 C22.11,3 23,3.89 23,5 L23,19 C23,20.1 22.11,21 21,21 L3,21 C1.89,21 1,20.1 1,19 L1,5 C1,3.89 1.89,3 3,3 L21,3 Z M21,19 L21,5 L3,5 L3,19 L21,19 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

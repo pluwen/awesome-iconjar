@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>person_add</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Two-Tone" transform="translate(-271.000000, -4102.000000)">
+            <g id="Social" transform="translate(100.000000, 4044.000000)">
+                <g id="-Two-Tone-/-Social-/-person_add" transform="translate(170.000000, 54.000000)">
+                    <g id="Two-Tone-/-Social-/-person_add">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M15,16 C17.7,16 20.8,17.29 21,18 L9,18 C9.23,17.28 12.31,16 15,16 Z M15,10 C13.8954305,10 13,9.1045695 13,8 C13,6.8954305 13.8954305,6 15,6 C16.1045695,6 17,6.8954305 17,8 C17,9.1045695 16.1045695,10 15,10 Z" id="🔹-Secondary-Color" fill="#D0D0D0"></path>
+                        <path d="M15,12 C17.21,12 19,10.21 19,8 C19,5.79 17.21,4 15,4 C12.79,4 11,5.79 11,8 C11,10.21 12.79,12 15,12 Z M15,6 C16.1,6 17,6.9 17,8 C17,9.1 16.1,10 15,10 C13.9,10 13,9.1 13,8 C13,6.9 13.9,6 15,6 Z M15,14 C12.33,14 7,15.34 7,18 L7,20 L23,20 L23,18 C23,15.34 17.67,14 15,14 Z M9,18 C9.22,17.28 12.31,16 15,16 C17.7,16 20.8,17.29 21,18 L9,18 Z M6,15 L6,12 L9,12 L9,10 L6,10 L6,7 L4,7 L4,10 L1,10 L1,12 L4,12 L4,15 L6,15 Z" id="🔹-Primary-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="18px" viewBox="0 0 13 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>local_parking</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded" transform="translate(-412.000000, -3213.000000)">
+            <g id="Maps" transform="translate(100.000000, 3068.000000)">
+                <g id="-Round-/-Maps-/-local_parking" transform="translate(306.000000, 142.000000)">
+                    <g>
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12.79,3 L8,3 C6.9,3 6,3.9 6,5 L6,19 C6,20.1 6.9,21 8,21 C9.1,21 10,20.1 10,19 L10,15 L13,15 C16.57,15 19.42,11.87 18.95,8.21 C18.56,5.19 15.84,3 12.79,3 Z M13.2,11 L10,11 L10,7 L13.2,7 C14.3,7 15.2,7.9 15.2,9 C15.2,10.1 14.3,11 13.2,11 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

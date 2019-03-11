@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>no_encryption</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outlined" transform="translate(-205.000000, -3655.000000)">
+            <g id="Notification" transform="translate(100.000000, 3600.000000)">
+                <g id="Outlined-/-Notification-/-no_encryption" transform="translate(102.000000, 54.000000)">
+                    <g>
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M8.9,6 C8.9,4.29 10.29,2.9 12,2.9 C13.71,2.9 15.1,4.29 15.1,6 L15.1,8 L10.44,8 L12.44,10 L18,10 L18,15.56 L20,17.56 L20,10 C20,8.9 19.1,8 18,8 L17,8 L17,6 C17,3.24 14.76,1 12,1 C9.68,1 7.74,2.59 7.18,4.74 L8.9,6.46 L8.9,6 Z M4.41,4.81 L3,6.22 L5.04,8.26 C4.42,8.6 4,9.25 4,10 L4,20 C4,21.1 4.9,22 6,22 L18.78,22 L19.78,23 L21.19,21.59 L4.41,4.81 Z M6,20 L6,10 L6.78,10 L16.78,20 L6,20 Z" id="🔹-Icon-Color" fill="#1D1D1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
