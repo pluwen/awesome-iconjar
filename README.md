@@ -3,8 +3,8 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 
 ## IconSet Included
 
-| Name            | Num | Version |
-| --------------- | ------ | ------- |
+| Name            | Num | Version | Publish Date
+| --------------- | ------ | ------- | ----- |
 | 70 Social icons | 140 |
 | 100 icons | 100 |
 | [Apple Icons](http://www.webalys.com/) | 60 |
@@ -37,7 +37,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke/) | 202 | v1.2 |
 | Picons basic sample | 70 |
 | [Simple Icons](https://simpleicons.org/) | 536 |
-| [Streamline free](https://streamlineicons.com) | 300 | v3.0 |
+| [Streamline free](https://streamlineicons.com) | 300 | v3.0 | 2018-06-07 |
 | [Those icons social media](https://thoseicons.com/freebies) | 128 |
 | [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 |
 
