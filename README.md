@@ -3,7 +3,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 
 ## IconSet Included
 
-| Name            | Num | Version | Publish Date
+| Name            | Num | Version | Last Updated |
 | --------------- | ------ | ------- | ----- |
 | 70 Social icons | 140 |
 | 100 icons | 100 |
@@ -33,13 +33,13 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Micons](https://dribbble.com/shots/2071168-231-Icon-Set) | 231 |
 | Mutimedia Collection | 50 |
 | Nova free | 350 |
-| [Open Iconic](https://github.com/iconic/open-iconic) | 223 | v1.1.1 |
-| [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke/) | 202 | v1.2 |
+| [Open Iconic](https://github.com/iconic/open-iconic) | 223 | v1.1.1 | 2014-07-02 |
+| [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke/) | 202 | v1.2.0 | 2014-11-28 |
 | Picons basic sample | 70 |
 | [Simple Icons](https://simpleicons.org/) | 536 |
 | [Streamline free](https://streamlineicons.com) | 300 | v3.0 | 2018-06-07 |
 | [Those icons social media](https://thoseicons.com/freebies) | 128 |
-| [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 |
+| [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 | 2017-05-25 |
 
 ## Download
 * Click [Download](https://github.com/pluwen/awesome-iconjar/archive/master.zip) and unzip
