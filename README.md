@@ -3,8 +3,8 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 
 ## IconSet Included
 
-| Name            | Num | Version | Last Updated |
-| --------------- | ------ | ------- | ----- |
+| Name            | Icon | Version | Last Updated | Checked Time |
+| --------------- | ------ | ------- | ----- | ----- |
 | 70 Social icons | 140 |
 | 100 icons | 100 |
 | [Apple Icons](http://www.webalys.com) | 60 |
