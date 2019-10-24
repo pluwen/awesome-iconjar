@@ -5,19 +5,19 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 
 | Name            | Icon | Version | Last Updated | Checked Time |
 | --------------- | ------ | ------- | ----- | ----- |
-| 70 Social icons | 140 |
-| 100 icons | 100 |
+| [100 icons](#) | 100 |
+| [70 Social icons](#) | 140 |
 | [Apple Icons](http://www.webalys.com) | 60 |
-| [Bicon](http://bicon.lab.themebucket.net) | 250 |
-| Bigmug | 418 |
-| Bubble icons | 48 |
-| Bytesize | 84 |
-| Camcons | 236 |
-| Creative day icons | 20 |
+| [Bicon](http://bicon.lab.themebucket.net) | 250 | 2017-04-25 | 2019-10-24 |
+| [Bigmug](#) | 418 |
+| [Bubble icons](#) | 48 |
+| [Bytesize](#) | 84 |
+| [Camcons](#) | 236 |
+| [Creative day icons](#) | 20 |
 | [Ego icons Free](http://www.ego-icons.com) | 100 |
 | [Eleganticons](https://github.com/josephnle/elegant-icons) | 360 |
 | [Entypo](http://www.entypo.com) | 411 | v2.0 |
-| Essential icons | 77 |
+| [Essential icons](#) | 77 |
 | [Eva Icons](https://akveo.github.io/eva-icons/) | 488 | 1.1.1 |
 | [Evericons](http://www.evericons.com) | 521 | 1.1 |
 | [Feather](https://feathericons.com) | 274 | v4.17.0 |
@@ -31,11 +31,11 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Metrize Icons](http://www.alessioatzeni.com/metrize-icons) | 300 | v1.0 |
 | [MFGLabs iconset](https://github.com/MfgLabs/mfglabs-iconset) | 190 |
 | [Micons](https://dribbble.com/shots/2071168-231-Icon-Set) | 231 |
-| Mutimedia Collection | 50 |
-| Nova free | 350 |
+| [Mutimedia Collection](#) | 50 |
+| [Nova free](https://www.webalys.com/nova/) | 350 |  | 2019-10-24 |
 | [Open Iconic](https://github.com/iconic/open-iconic) | 223 | v1.1.1 | 2014-07-02 |
 | [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke) | 202 | v1.2.0 | 2014-11-28 |
-| Picons basic sample | 70 |
+| [Picons basic sample](#) | 70 |
 | [Remix Icon](https://remixicon.com) | 1703 | v1.3.0 | 2019-06-27 | 
 | [Simple Icons](https://simpleicons.org) | 536 |
 | [Streamline free](https://streamlineicons.com) | 300 | v3.0 | 2018-06-07 |
