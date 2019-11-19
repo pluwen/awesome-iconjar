@@ -17,6 +17,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Creative day icons](#) | 20 |
 | [Ego icons Free](http://www.ego-icons.com) | 100 |
 | [Eleganticons](https://github.com/josephnle/elegant-icons) | 360 |
+| [Elusive Icons](https://github.com/reduxframework/elusive-icons) | 304 | 2.0 | 2015-02-20 | 2019-11-19 |
 | [Entypo](http://www.entypo.com) | 411 | v2.0 |
 | [Essential icons](#) | 77 |
 | [Eva Icons](https://akveo.github.io/eva-icons/) | 488 | 1.1.1 |
