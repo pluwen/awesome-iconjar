@@ -25,6 +25,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Feather](https://feathericons.com) | 274 | v4.17.0 |
 | [FontAwesome](https://github.com/FortAwesome/Font-Awesome) | 675 | v4.7 |
 | [FontAwesome5](https://fontawesome.com) | 1503 | v5.7.1 |
+| [Fontelico](hhttps://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 |
 | [heroicons](https://github.com/sschoger/heroicons-ui) | 112 |
 | [Ionicons](https://github.com/driftyco/ionicons) | 696 | v4 |
 | [Linea](http://linea.io) | 715 | v1.0 |
