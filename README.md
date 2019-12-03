@@ -28,6 +28,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Fontelico](https://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 |
 | [heroicons](https://github.com/sschoger/heroicons-ui) | 112 |
 | [Ionicons](https://github.com/driftyco/ionicons) | 696 | v4 |
+| [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2019-12-03 |
 | [Linea](http://linea.io) | 715 | v1.0 |
 | [Material Design](https://github.com/google/material-design-icons) | 1956 | v2.2 |
 | [Material Icons Library](https://icons.pixsellz.io/) | 3129 |
