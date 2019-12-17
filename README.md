@@ -20,7 +20,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Elusive Icons](https://github.com/reduxframework/elusive-icons) | 304 | 2.0 | 2015-02-20 | 2019-11-19 |
 | [Entypo](http://www.entypo.com) | 411 | v2.0 |
 | [Essential icons](#) | 77 |
-| [Eva Icons](https://akveo.github.io/eva-icons/) | 488 | 1.1.1 |
+| [Eva Icons](https://github.com/akveo/eva-icons) | 488 | 1.1.2 | 2019-10-31 | 2019-12-17 |
 | [Evericons](http://www.evericons.com) | 521 | 1.1 |
 | [Feather](https://feathericons.com) | 274 | v4.17.0 |
 | [FontAwesome](https://github.com/FortAwesome/Font-Awesome) | 675 | v4.7 |
