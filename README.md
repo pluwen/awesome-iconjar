@@ -8,7 +8,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [100 icons](#) | 100 |
 | [70 Social icons](#) | 140 |
 | [Apple Icons](http://www.webalys.com) | 60 |
-| [Bicon](http://bicon.lab.themebucket.net) | 250 | 2017-04-25 | 2019-10-24 |
+| [Bicon](http://bicon.lab.themebucket.net) | 250 | | 2017-04-25 | 2019-10-24 |
 | [Bigmug](#) | 418 |
 | [Brandico](https://github.com/fontello/brandico.font) | 45 | | 2016-10-21 | 2019-11-19 |
 | [Bubble icons](#) | 48 |
