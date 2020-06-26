@@ -22,7 +22,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Elusive Icons](https://github.com/reduxframework/elusive-icons) | 304 | 2.0 | 2015-02-20 | 2019-11-19 |
 | [Entypo](http://www.entypo.com) | 411 | v2.0 |
 | [Essential icons](#) | 77 |
-| [Eva Icons](https://github.com/akveo/eva-icons) | 488 | 1.1.3 | 2020-03-02 | 2020-06-27 |
+| [Eva Icons](https://github.com/akveo/eva-icons) | 490 | 1.1.3 | 2020-03-02 | 2020-06-27 |
 | [Evericons](http://www.evericons.com) | 521 | 1.1 |
 | [Feather](https://feathericons.com) | 274 | v4.17.0 |
 | [FontAwesome](https://github.com/FortAwesome/Font-Awesome) | 675 | v4.7 |
@@ -45,7 +45,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Remix Icon](https://remixicon.com) | 1703 | v1.3.0 | 2019-06-27 | 
 | [Simple Icons](https://simpleicons.org) | 536 |
 | [Streamline free](https://streamlineicons.com) | 300 | v3.0 | 2018-06-07 |
-| [Tabler Icons](https://github.com/tabler/tabler-icons) | 310 | v1.0 | 2020-03-18 | 2020-03-20 |
+| [Tabler Icons](https://github.com/tabler/tabler-icons) | 558 | v1.10 | 2020-06-07 | 2020-06-27 |
 | [Those icons social media](https://thoseicons.com/freebies) | 128 |
 | [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 | 2017-05-25 |
 
