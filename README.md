@@ -31,7 +31,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Fontelico](https://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 |
 | [Heroicons](https://github.com/tailwindlabs/heroicons) | 452 | 0.4.2 | 2020-09-02 | 2020-11-24 | MIT |
 | [Ionicons](https://github.com/driftyco/ionicons) | 696 | v4 |
-| [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2019-12-03 |
+| [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2020-11-24 | MIT or Good Boy |
 | [Linea](http://linea.io) | 1814 | v1.0 | 2020-03 | 2020-11-24 |
 | [Material Icons Library](https://icons.pixsellz.io/) | 3129 |
 | [Metrize Icons](http://www.alessioatzeni.com/metrize-icons) | 300 | v1.0 |
