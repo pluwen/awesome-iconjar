@@ -3,7 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M1,32c0,0,11,15,31,15s31-15,31-15S52,17,32,17
-	S1,32,1,32z"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="7"/>
+<g>
+	<path d="M32,48c20.273,0,31.345-14.779,31.807-15.409L64.24,32l-0.434-0.591C63.345,30.779,52.273,16,32,16
+		S0.655,30.779,0.193,31.409L-0.24,32l0.434,0.591C0.655,33.221,11.727,48,32,48z M32,18c16.983,0,27.434,11.265,29.719,14
+		C59.434,34.735,48.983,46,32,46S4.566,34.735,2.281,32C4.566,29.265,15.017,18,32,18z"/>
+	<path d="M32,40c4.411,0,8-3.589,8-8s-3.589-8-8-8s-8,3.589-8,8S27.589,40,32,40z M32,26c3.309,0,6,2.691,6,6s-2.691,6-6,6
+		s-6-2.691-6-6S28.691,26,32,26z"/>
+</g>
 </svg>

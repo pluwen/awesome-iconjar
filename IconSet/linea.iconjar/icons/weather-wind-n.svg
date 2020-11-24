@@ -3,8 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="31"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="4"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M44,32c0-6.628-12-25-12-25S20,25.372,20,32
-	s5.373,12,12,12S44,38.628,44,32z"/>
+<g>
+	<path d="M32,0C14.355,0,0,14.355,0,32s14.355,32,32,32s32-14.355,32-32S49.645,0,32,0z M32,62C15.458,62,2,48.542,2,32
+		S15.458,2,32,2s30,13.458,30,30S48.542,62,32,62z"/>
+	<path d="M27,32c0,2.757,2.243,5,5,5s5-2.243,5-5s-2.243-5-5-5S27,29.243,27,32z M35,32c0,1.654-1.346,3-3,3s-3-1.346-3-3
+		s1.346-3,3-3S35,30.346,35,32z"/>
+	<path d="M32,5.171l-0.837,1.282C30.666,7.214,19,25.153,19,32c0,7.168,5.832,13,13,13s13-5.832,13-13
+		c0-6.847-11.666-24.786-12.163-25.547L32,5.171z M32,43c-6.065,0-11-4.935-11-11c0-4.796,7.293-17.299,11-23.15
+		C35.707,14.701,43,27.204,43,32C43,38.065,38.065,43,32,43z"/>
+</g>
 </svg>

@@ -3,10 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="5" cy="59" r="4"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M23,29c-3.124,3.124-3.124,8.876,0,12
-	c3.124,3.124,8.876,2.124,12-1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="23" y1="29" x2="51" y2="1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="35" y1="40" x2="63" y2="12"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="23" y1="41" x2="8" y2="56"/>
+<g>
+	<path d="M34.293,39.293c-2.734,2.735-7.843,3.743-10.586,1c-1.303-1.303-2.05-3.232-2.05-5.293c0-2.061,0.747-3.99,2.05-5.293
+		l28-28l-1.414-1.414l-28,28c-1.675,1.675-2.636,4.12-2.636,6.707c0,2.224,0.714,4.338,1.976,5.953l-13.88,13.88
+		C6.963,54.309,6.018,54,5,54c-2.757,0-5,2.243-5,5s2.243,5,5,5s5-2.243,5-5c0-1.018-0.309-1.962-0.833-2.753L23.054,42.36
+		c1.423,1.078,3.138,1.562,4.896,1.562c2.843,0,5.79-1.248,7.758-3.216l28-28l-1.414-1.414L34.293,39.293z M5,62
+		c-1.654,0-3-1.346-3-3s1.346-3,3-3s3,1.346,3,3S6.654,62,5,62z"/>
+</g>
 </svg>

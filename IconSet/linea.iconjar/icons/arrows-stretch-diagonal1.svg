@@ -3,11 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="63,12 63,1 52,1 
-	"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="1,52 1,63 12,63 
-	"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="1" y1="63" x2="26" y2="38"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="38" y1="26" x2="63" y2="1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="24" y1="24" x2="40" y2="40"/>
+<g>
+	<polygon points="52,0 52,2 60.586,2 37.293,25.293 38.707,26.707 62,3.414 62,12 64,12 64,1 63,0 	"/>
+	<polygon points="25.293,37.293 2,60.586 2,52 0,52 0,63 1,64 12,64 12,62 3.414,62 26.707,38.707 	"/>
+	<rect x="20.686" y="31" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 32 77.2548)" width="22.627" height="2"/>
+</g>
 </svg>

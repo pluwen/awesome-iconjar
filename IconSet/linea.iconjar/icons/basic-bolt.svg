@@ -3,6 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="40,1 17,37 31,37 
-	24,63 50,27 36,27 "/>
+<g>
+	<path d="M39.157,0.462l-23,36L17,38h12.695l-6.661,24.74l1.776,0.846l26-36L50,26H37.166l3.823-24.848L39.157,0.462z
+		 M35.012,26.848L36,28h12.044l-21.66,29.991l5.582-20.731L31,36H18.826L38.291,5.532L35.012,26.848z"/>
+</g>
 </svg>

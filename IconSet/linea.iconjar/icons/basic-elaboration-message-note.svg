@@ -3,11 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,47 63,47 63,5 1,5 1,47 18,47 18,59 "/>
 <g>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35" cy="31" r="3"/>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="25" cy="33" r="3"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="38,31 38,16 28,18 28,33 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="28" y1="22" x2="38" y2="20"/>
+	<path d="M0,4v44h17v13.174L32.37,48H64V4H0z M62,46H31.63L19,56.826V46H2V6h60V46z"/>
+	<path d="M25.002,37C27.206,37,29,35.206,29,33V22.82l8-1.6v6.336C36.41,27.212,35.732,27,35.002,27C32.795,27,31,28.794,31,31
+		s1.795,4,4.002,4C37.206,35,39,33.206,39,31V14.78l-12,2.4v12.376C26.41,29.212,25.732,29,25.002,29C22.795,29,21,30.794,21,33
+		S22.795,37,25.002,37z M35.002,33C33.898,33,33,32.103,33,31s0.898-2,2.002-2C36.104,29,37,29.897,37,31S36.104,33,35.002,33z
+		 M37,17.22v1.96l-8,1.6v-1.96L37,17.22z M25.002,31C26.104,31,27,31.897,27,33s-0.896,2-1.998,2C23.898,35,23,34.103,23,33
+		S23.898,31,25.002,31z"/>
 </g>
 </svg>

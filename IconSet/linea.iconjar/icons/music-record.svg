@@ -4,15 +4,18 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="31"/>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="8"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32,48c-8.838,0-16-7.16-16-16"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32.002,48"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32,16c8.838,0,16,7.162,16,16"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32,9"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32.003,55C19.299,55,9,44.707,9,32"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32.003,55"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M55,32.002"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32,9c12.704,0,23,10.295,23,23"/>
+	<path d="M31.998,0C23.45,0,15.415,3.329,9.371,9.374C3.327,15.417-0.001,23.454,0,32c0,8.548,3.328,16.583,9.372,22.628
+		C15.415,60.672,23.45,64,31.999,64c0,0,0.001,0,0.001,0h0.003C49.647,63.999,64.001,49.643,64,31.999
+		c0-8.547-3.327-16.583-9.37-22.627C48.586,3.329,40.552,0,31.998,0z M32,62v1V62c-0.002,0-0.002,0-0.003,0
+		c-8.012,0-15.546-3.121-21.211-8.786C5.12,47.547,2,40.014,2,32c-0.001-8.013,3.119-15.546,8.785-21.212
+		C16.451,5.121,23.984,2,32.004,2c8.013,0,15.546,3.12,21.211,8.786c5.666,5.666,8.784,13.2,8.784,21.213C62,48.54,49,61.999,32,62z
+		"/>
+	<path d="M32,23c-4.961,0-8.999,4.037-9,8.998C23,36.962,27.038,41,32.001,41h0C36.963,40.998,41,36.96,41,32
+		C41,27.038,36.962,23,32,23z M32.001,39C28.141,39,25,35.859,25,31.998C25.001,28.14,28.141,25,32,25c3.86,0,7,3.14,7,7
+		C39,35.858,35.86,38.999,32.001,39z"/>
+	<path d="M32,49v-2c-8.271,0-15-6.729-15-15h-2C15,41.374,22.626,49,32,49z"/>
+	<path d="M32,15v2c8.271,0,15,6.729,15,15h2C49,22.626,41.374,15,32,15z"/>
+	<path d="M10,32H8c0,13.233,11,24,24,24v-2C20,54,10,44.131,10,32z"/>
+	<path d="M32,8v2c12.131,0,22,9.869,22,22h2C56,18.767,45.233,8,32,8z"/>
 </g>
 </svg>

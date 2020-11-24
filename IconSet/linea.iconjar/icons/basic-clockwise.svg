@@ -3,14 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,12 32,32 41,41 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="4" y1="32" x2="8" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="56" y1="32" x2="60" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="60" x2="32" y2="56"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="8" x2="32" y2="4"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32,63c17.121,0,31-13.879,31-31S49.121,1,32,1"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32,63C14.879,63,1,49.121,1,32
-	c0-6.713,2.134-12.926,5.759-18l5.62-5.621"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="13,19 13,8 2,8 
-	"/>
+<g>
+	<polygon points="41.707,40.293 33,31.586 33,12 31,12 31,32.414 40.293,41.707 	"/>
+	<rect x="4" y="31" width="4" height="2"/>
+	<rect x="56" y="31" width="4" height="2"/>
+	<rect x="31" y="56" width="2" height="4"/>
+	<rect x="31" y="4" width="2" height="4"/>
+	<path d="M32,0v2c16.542,0,30,13.458,30,30S48.542,62,32,62S2,48.542,2,32c0-6.265,1.91-12.263,5.525-17.352L12,10.172V19h2V8l-1-1
+		H2v2h8.344l-4.292,4.293l-0.106,0.126C2.056,18.863,0,25.288,0,32c0,17.645,14.355,32,32,32s32-14.355,32-32S49.645,0,32,0z"/>
+</g>
 </svg>

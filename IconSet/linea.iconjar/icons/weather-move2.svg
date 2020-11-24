@@ -3,16 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="31"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="5" x2="17" y2="5"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="11" x2="9" y2="11"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="17" x2="5" y2="17"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="23" x2="2" y2="23"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="29" x2="1" y2="29"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="63" x2="32" y2="1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="35" x2="1" y2="35"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="41" x2="2" y2="41"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="47" x2="5" y2="47"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="53" x2="9" y2="53"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="59" x2="17" y2="59"/>
+<g>
+	<path d="M32,64c17.645,0,32-14.355,32-32S49.645,0,32,0S0,14.355,0,32S14.355,64,32,64z M2,32c0-0.673,0.03-1.338,0.074-2H31v4
+		H2.074C2.03,33.338,2,32.673,2,32z M31,61.975c-3.426-0.113-6.707-0.802-9.751-1.975H31V61.975z M31,4h-9.751
+		C24.293,2.827,27.574,2.139,31,2.025V4z M31,6v4H11.632c1.649-1.528,3.471-2.87,5.43-4H31z M31,12v4H6.642
+		c0.897-1.417,1.907-2.756,3.022-4H31z M31,18v4H3.72c0.49-1.383,1.079-2.719,1.758-4H31z M31,24v4H2.274
+		c0.183-1.364,0.457-2.699,0.817-4H31z M31,36v4H3.092c-0.36-1.301-0.634-2.636-0.817-4H31z M31,42v4H5.479
+		c-0.679-1.281-1.268-2.617-1.758-4H31z M31,48v4H9.664c-1.115-1.244-2.125-2.583-3.022-4H31z M31,54v4H17.062
+		c-1.959-1.13-3.781-2.472-5.43-4H31z M62,32c0,16.207-12.92,29.444-29,29.975V2.025C49.08,2.556,62,15.793,62,32z"/>
+</g>
 </svg>

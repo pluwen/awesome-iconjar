@@ -3,13 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,63 1,2 62,63 "/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="14,54 14,30 38,54 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="8" y1="22" x2="2" y2="22"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="6" y1="30" x2="2" y2="30"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="8" y1="38" x2="2" y2="38"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="6" y1="46" x2="2" y2="46"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="8" y1="54" x2="2" y2="54"/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="25,1 19,7 55,43 63,45 61,37 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="25" y1="13" x2="31" y2="7"/>
+<g>
+	<path d="M0,64h64.414L0-0.414V64z M2,55h6v-2H2v-6h4v-2H2v-6h6v-2H2v-6h4v-2H2v-6h6v-2H2V4.414L59.586,62H2V55z"/>
+	<path d="M13,27.586V55h27.414L13,27.586z M15,32.414L35.586,53H15V32.414z"/>
+	<path d="M64.375,46.375l-2.472-9.886L25-0.414L17.586,7l36.903,36.903L64.375,46.375z M61.625,43.625l-6.114-1.528L26.414,13
+		L31,8.414l29.097,29.097L61.625,43.625z M25,2.414L29.586,7L25,11.586L20.414,7L25,2.414z"/>
+</g>
 </svg>

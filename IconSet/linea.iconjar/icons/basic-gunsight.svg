@@ -3,9 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="48" x2="32" y2="64"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="0" x2="32" y2="16"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="16" y1="32" x2="0" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="64" y1="32" x2="48" y2="32"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="24"/>
+<g>
+	<path d="M33,7.025V0h-2v7.025C18.01,7.54,7.54,18.01,7.025,31H0v2h7.025C7.54,45.99,18.01,56.46,31,56.975V64h2v-7.025
+		C45.99,56.46,56.46,45.99,56.975,33H64v-2h-7.025C56.46,18.01,45.99,7.54,33,7.025z M33,54.975V48h-2v6.975
+		C19.111,54.463,9.537,44.889,9.025,33H16v-2H9.025C9.537,19.111,19.111,9.537,31,9.025V16h2V9.025
+		C44.889,9.537,54.463,19.111,54.975,31H48v2h6.975C54.463,44.889,44.889,54.463,33,54.975z"/>
+</g>
 </svg>

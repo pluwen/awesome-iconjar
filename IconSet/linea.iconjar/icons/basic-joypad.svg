@@ -3,12 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M50,27H14C6.82,27,1,32.82,1,40s5.82,13,13,13
-	c4.6,0,8.632-2.396,10.943-6h14.113C41.368,50.604,45.4,53,50,53c7.18,0,13-5.82,13-13S57.18,27,50,27z"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="14" y1="32" x2="14" y2="48"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="22" y1="40" x2="6" y2="40"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" cx="50" cy="39.99" r="7"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="50" y1="33" x2="50" y2="47"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="57" y1="40" x2="43" y2="40"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,27 32,21 46,21 46,14 36,14 36,11 "/>
+<g>
+	<path d="M50,26H33v-4h14v-9H37v-2h-2v4h10v5H31v6H14C6.28,26,0,32.28,0,40s6.28,14,14,14c4.601,0,8.851-2.232,11.478-6h13.045
+		c2.627,3.768,6.877,6,11.478,6c7.72,0,14-6.28,14-14S57.72,26,50,26z M50,52c-4.101,0-7.877-2.071-10.102-5.54L39.604,46H24.396
+		l-0.295,0.46C21.877,49.929,18.101,52,14,52C7.383,52,2,46.617,2,40s5.383-12,12-12h36c6.617,0,12,5.383,12,12S56.617,52,50,52z"/>
+	<polygon points="15,32 13,32 13,39 6,39 6,41 13,41 13,48 15,48 15,41 22,41 22,39 15,39 	"/>
+	<path d="M50,31.99c-4.411,0-8,3.589-8,8s3.589,8,8,8s8-3.589,8-8S54.411,31.99,50,31.99z M55.911,39H51v-4.919
+		C53.511,34.504,55.491,36.488,55.911,39z M49,34.081V39h-4.911C44.509,36.488,46.489,34.504,49,34.081z M44.092,41H49v4.9
+		C46.496,45.477,44.519,43.502,44.092,41z M51,45.9V41h4.908C55.481,43.502,53.504,45.477,51,45.9z"/>
+</g>
 </svg>

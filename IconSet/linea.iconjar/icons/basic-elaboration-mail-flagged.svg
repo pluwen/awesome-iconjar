@@ -4,11 +4,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,26 32,45.434 63,26 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11.334,21.667 1,26 1,63 63,63 63,26 
-		63,26 52.666,21.667 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11,32 11,1 53,1 53,32 	"/>
+	<path d="M54,0H10v21.142L0,25.335V64h64V25.335l-10-4.193V0z M52,2v29.716L32,44.253L12,31.716V2H52z M10,30.462l-6.835-4.285
+		L10,23.311V30.462z M2,62V27.807l30,18.807l30-18.807V62H2z M60.835,26.177L54,30.462v-7.151L60.835,26.177z"/>
+	<path d="M28,21h15.811l-3.145-5l3.145-5H28V9h-2v23h2V21z M40.189,13l-1.887,3l1.887,3H28v-6H40.189z"/>
 </g>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="27" y1="9" x2="27" y2="32"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="27,12 42,12 39.484,16 42,20 27,20 "/>
 </svg>

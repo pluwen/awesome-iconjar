@@ -3,8 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect x="1" y="1" fill="none" stroke="#231F20" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" width="62" height="62"/>
-<polygon fill="none" stroke="#231F20" stroke-width="2" stroke-miterlimit="10" points="55,44 19,44 9,32 19,20 55,20 "/>
-<line fill="none" stroke="#231F20" stroke-width="2" stroke-miterlimit="10" x1="27" y1="39" x2="41" y2="25"/>
-<line fill="none" stroke="#231F20" stroke-width="2" stroke-miterlimit="10" x1="27" y1="25" x2="41" y2="39"/>
+<g>
+	<path d="M1,0L0,1v62l1,1h62l1-1V1l-1-1H1z M62,62H2V2h60V62z"/>
+	<path d="M56,45V19H18.532L7.698,32l10.833,13H56z M19.468,21H54v22H19.468l-9.167-11L19.468,21z"/>
+	<polygon points="27.707,39.707 34,33.414 40.293,39.707 41.707,38.293 35.414,32 41.707,25.707 40.293,24.293 34,30.586 
+		27.707,24.293 26.293,25.707 32.586,32 26.293,38.293 	"/>
+</g>
 </svg>

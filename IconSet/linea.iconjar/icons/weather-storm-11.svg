@@ -3,11 +3,15 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M55,40c4.565,0,8-3.435,8-8c0-4.565-3.435-9-8-9
-	c0-11.414-9.586-20-21-20C23.898,3,14.8,9.423,13,19c0,0-1.165,0-2,0C5.292,19,1,24.292,1,30s4.292,10,10,10H55z"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="23" y1="46" x2="15" y2="60"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="13" y1="46" x2="5" y2="60"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="33" y1="46" x2="25" y2="60"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="43" y1="46" x2="35" y2="60"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="53" y1="46" x2="45" y2="60"/>
+<g>
+	<path d="M55.979,22.058C55.48,10.736,46.006,2,34,2C23.401,2,14.37,8.68,12.189,18H11C5.038,18,0,23.495,0,30
+		c0,6.271,4.729,11,11,11h44c5.131,0,9-3.869,9-9C64,27.47,60.818,22.639,55.979,22.058z M55,39H11c-5.131,0-9-3.869-9-9
+		c0-5.42,4.122-10,9-10h2.83l0.153-0.815C15.637,10.386,24.055,4,34,4c11.215,0,20,8.346,20,19v1h1c4.125,0,7,4.216,7,8
+		C62,35.991,58.991,39,55,39z"/>
+	<rect x="10.938" y="52" transform="matrix(0.4961 -0.8682 0.8682 0.4961 -36.4435 43.2013)" width="16.125" height="2"/>
+	<rect x="0.938" y="52" transform="matrix(0.4961 -0.8682 0.8682 0.4961 -41.4821 34.5188)" width="16.125" height="2"/>
+	<rect x="20.938" y="52" transform="matrix(0.4961 -0.8682 0.8682 0.4961 -31.4049 51.8837)" width="16.125" height="2"/>
+	<rect x="30.938" y="52" transform="matrix(0.4961 -0.8682 0.8682 0.4961 -26.3663 60.5661)" width="16.125" height="2"/>
+	<rect x="40.938" y="52" transform="matrix(0.4961 -0.8682 0.8682 0.4961 -21.3277 69.2485)" width="16.125" height="2"/>
+</g>
 </svg>

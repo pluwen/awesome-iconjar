@@ -3,14 +3,15 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="0" y1="47" x2="64" y2="47"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="10" y1="37" x2="0" y2="37"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="64" y1="37" x2="54" y2="37"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="15" x2="32" y2="4"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="14" y1="23" x2="6" y2="15"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="50" y1="23" x2="58" y2="15"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="25,53 32,60 
-	39,53 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M48.159,47C49.96,44.096,51,40.669,51,37
-	c0-10.493-8.506-19-19-19s-19,8.507-19,19c0,3.668,1.04,7.094,2.841,9.998"/>
+<g>
+	<rect y="36" width="10" height="2"/>
+	<rect x="54" y="36" width="10" height="2"/>
+	<rect x="31" y="4" width="2" height="11"/>
+	<rect x="4.343" y="18" transform="matrix(0.7071 0.7071 -0.7071 0.7071 16.364 -1.5061)" width="11.314" height="2"/>
+	<rect x="48.343" y="18" transform="matrix(0.7071 -0.7071 0.7071 0.7071 2.3812 43.7487)" width="11.314" height="2"/>
+	<polygon points="39.707,53.854 38.293,52.366 32,58.623 25.707,52.312 24.293,53.862 31.293,61 32.707,61 	"/>
+	<path d="M52,37c0-11.028-8.972-20-20-20s-20,8.972-20,20c0,3.145,0.743,6.221,2.146,9H0v2h64v-2H49.854
+		C51.257,43.221,52,40.145,52,37z M14,37c0-9.925,8.075-18,18-18s18,8.075,18,18c0,3.176-0.842,6.272-2.42,9H16.421
+		C14.842,43.272,14,40.175,14,37z"/>
+</g>
 </svg>

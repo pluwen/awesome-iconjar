@@ -3,8 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="20"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="20,15 20,1 44,1 44,15 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="44,49 44,63 20,63 20,49 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,20 32,32 40,36 "/>
+<g>
+	<path d="M53,32c0-6.993-3.449-13.181-8.721-17H45V0H19v15h0.721C14.449,18.819,11,25.007,11,32s3.449,13.181,8.721,17H19v15h26V49
+		h-0.721C49.551,45.181,53,38.993,53,32z M21,2h22v12.146C39.796,12.164,36.036,11,32,11s-7.796,1.164-11,3.146V2z M43,62H21V49.854
+		C24.204,51.836,27.964,53,32,53s7.796-1.164,11-3.146V62z M32,51c-10.477,0-19-8.523-19-19s8.523-19,19-19s19,8.523,19,19
+		S42.477,51,32,51z"/>
+	<polygon points="33,20 31,20 31,32.618 39.553,36.895 40.447,35.105 33,31.382 	"/>
+</g>
 </svg>

@@ -3,11 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="63,18 63,54 1,54 1,10 22,10 30,18 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M24,36c0,4.418,3.582,9,8,9h4"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="33,49 36,45 
-	33,41 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M42,36c0-4.418-3.582-9-8-9h-4"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="33,23 30,27 
-	33,31 "/>
+<g>
+	<path d="M22.414,9H0v46h64V17H30.414L22.414,9z M62,53H2V11h19.586l8,8H62V53z"/>
+	<path d="M32.2,41.6L34,44h-2c-3.942,0-7-4.301-7-8h-2c0,4.721,3.849,10,9,10h2l-1.8,2.4l1.7,1.199l3.1-4V44.4l-3.1-4L32.2,41.6z"/>
+	<path d="M29,27.6l3.1,4l1.65-1.199L32,28h2c3.942,0,7,4.301,7,8h2c0-4.721-3.849-10-9-10h-2l1.8-2.4L32.1,22.4l-3.1,4V27.6z"/>
+</g>
 </svg>

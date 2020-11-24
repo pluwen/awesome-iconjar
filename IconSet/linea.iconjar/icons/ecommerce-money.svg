@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="44" cy="38" r="19"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="44" cy="38" r="13"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="30,51 1,51 1,57 38,57 38,56 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="27,45 3,45 3,51 30,51 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="26,39 5,39 5,45 27,45 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="26,33 1,33 1,39 26,39 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="29,27 3,27 3,33 26,33 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="35,21 1,21 1,27 29,27 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="40,20 40,15 3,15 3,21 35,21 "/>
-<rect x="1" y="9" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="37" height="6"/>
+<g>
+	<path d="M44,58c-11.028,0-20-8.972-20-20s8.972-20,20-20s20,8.972,20,20S55.028,58,44,58z M44,20c-9.925,0-18,8.075-18,18
+		s8.075,18,18,18s18-8.075,18-18S53.925,20,44,20z"/>
+</g>
+<g>
+	<path d="M44,52c-7.72,0-14-6.28-14-14s6.28-14,14-14s14,6.28,14,14S51.72,52,44,52z M44,26c-6.617,0-12,5.383-12,12s5.383,12,12,12
+		s12-5.383,12-12S50.617,26,44,26z"/>
+</g>
+<g>
+	<polygon points="39,58 0,58 0,50 30,50 30,52 2,52 2,56 39,56 	"/>
+</g>
+<g>
+	<polygon points="30,52 2,52 2,44 27,44 27,46 4,46 4,50 30,50 	"/>
+</g>
+<g>
+	<polygon points="27,46 4,46 4,38 26,38 26,40 6,40 6,44 27,44 	"/>
+</g>
+<g>
+	<polygon points="26,40 0,40 0,32 26,32 26,34 2,34 2,38 26,38 	"/>
+</g>
+<g>
+	<polygon points="26,34 2,34 2,26 29,26 29,28 4,28 4,32 26,32 	"/>
+</g>
+<g>
+	<polygon points="29,28 0,28 0,20 35,20 35,22 2,22 2,26 29,26 	"/>
+</g>
+<g>
+	<polygon points="35,22 2,22 2,14 41,14 41,20 39,20 39,16 4,16 4,20 35,20 	"/>
+</g>
+<g>
+	<path d="M39,16H0V8h39V16z M2,14h35v-4H2V14z"/>
+</g>
 </svg>

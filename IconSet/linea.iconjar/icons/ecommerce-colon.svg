@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M53.92,10.081c12.107,12.105,12.107,31.732,0,43.838
-	c-12.106,12.108-31.734,12.108-43.839,0c-12.107-12.105-12.107-31.732,0-43.838C22.186-2.027,41.813-2.027,53.92,10.081z"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M42,43c0,0-1,4-10,4s-12-7-12-15s3-15,12-15
-	s10,4,10,4"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="36" y1="14" x2="21" y2="49"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="41" y1="14" x2="26" y2="49"/>
+<g>
+	<path d="M32,64c-8.547,0-16.583-3.329-22.626-9.374C3.329,48.582,0,40.547,0,32S3.329,15.418,9.374,9.374
+		C15.417,3.329,23.453,0,32,0s16.583,3.329,22.627,9.374C60.671,15.418,64,23.453,64,32s-3.329,16.582-9.374,22.626
+		C48.583,60.671,40.547,64,32,64z M32,2c-8.013,0-15.546,3.121-21.212,8.788C5.121,16.454,2,23.987,2,32s3.121,15.546,8.788,21.212
+		C16.454,58.879,23.987,62,32,62c8.013,0,15.546-3.121,21.213-8.788C58.88,47.546,62,40.013,62,32s-3.121-15.546-8.788-21.212
+		C47.546,5.121,40.013,2,32,2z"/>
+</g>
+<g>
+	<path d="M32,48c-8.383,0-13-5.683-13-16s4.617-16,13-16c9.669,0,10.921,4.563,10.97,4.758l-1.94,0.484
+		C41.026,21.233,39.945,18,32,18c-9.092,0-11,7.613-11,14s1.908,14,11,14c7.945,0,9.026-3.233,9.036-3.267l1.934,0.509
+		C42.921,43.437,41.669,48,32,48z"/>
+</g>
+<g>
+	<rect x="27.5" y="12.461" transform="matrix(0.9192 0.3937 -0.3937 0.9192 14.7025 -8.6762)" width="1.999" height="38.079"/>
+</g>
+<g>
+	<rect x="32.5" y="12.461" transform="matrix(0.9192 0.3937 -0.3937 0.9192 15.1063 -10.6446)" width="1.999" height="38.079"/>
+</g>
 </svg>

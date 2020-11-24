@@ -3,16 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="47,25 40,32 
-	47,39 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="17,39 24,32 
-	17,25 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="24" y1="32" x2="0" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="64" y1="32" x2="40" y2="32"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="25,17 32,24 
-	39,17 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="39,47 32,40 
-	25,47 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="40" x2="32" y2="64"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="0" x2="32" y2="24"/>
+<g>
+	<polygon points="47.707,25.707 46.146,24.293 39,31.293 39,32.707 46.146,39.707 47.634,38.293 42.414,33 64,33 64,31 42.414,31 	
+		"/>
+	<polygon points="16.293,38.293 17.854,39.707 25,32.707 25,31.293 17.854,24.293 16.366,25.707 21.586,31 0,31 0,33 21.586,33 	"/>
+	<polygon points="31.293,39 24.293,46.146 25.707,47.634 31,42.414 31,64 33,64 33,42.414 38.293,47.707 39.707,46.146 32.707,39 	
+		"/>
+	<polygon points="31,0 31,21.586 25.707,16.293 24.293,17.854 31.293,25 32.707,25 39.707,17.854 38.293,16.366 33,21.586 33,0 	"/>
+</g>
 </svg>

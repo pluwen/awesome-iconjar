@@ -3,7 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,47 63,47 63,5 1,5 1,47 18,47 18,59 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M22,23c0,6.666,10,12,10,12s10-5.334,10-12
-	c0-2.762-2-5-5-5c-2.762,0-5,2.238-5,5c0-2.762-2.238-5-5-5C24,18,22,20.238,22,23z"/>
+<g>
+	<path d="M0,48h17v13.174L32.37,48H64V4H0V48z M2,6h60v40H31.63L19,56.826V46H2V6z"/>
+	<path d="M31.529,35.882L32,36.133l0.471-0.251C32.9,35.653,43,30.184,43,23c0-3.42-2.579-6-6-6c-2.085,0-3.924,1.068-5,2.687
+		C30.924,18.068,29.085,17,27,17c-3.421,0-6,2.58-6,6C21,30.184,31.1,35.653,31.529,35.882z M27,19c2.206,0,4,1.794,4,4h2
+		c0-2.206,1.794-4,4-4c2.317,0,4,1.682,4,4c0,5.203-7.086,9.724-9,10.85c-1.914-1.126-9-5.647-9-10.85C23,20.682,24.683,19,27,19z"
+		/>
+</g>
 </svg>

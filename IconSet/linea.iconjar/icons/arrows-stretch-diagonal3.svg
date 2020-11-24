@@ -3,11 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="63,12 63,1 52,1 
-	"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="1,52 1,63 12,63 
-	"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="1" y1="63" x2="32" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="32" y1="32" x2="63" y2="1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="1" y1="1" x2="63" y2="63"/>
+<g>
+	<polygon points="52,0 52,2 60.586,2 32,30.586 1.707,0.293 0.293,1.707 30.586,32 2,60.586 2,52 0,52 0,63 1,64 12,64 12,62 
+		3.414,62 32,33.414 62.293,63.707 63.707,62.293 33.414,32 62,3.414 62,12 64,12 64,1 63,0 	"/>
+</g>
 </svg>

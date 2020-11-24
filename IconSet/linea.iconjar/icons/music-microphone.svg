@@ -3,9 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="45" cy="15" r="14"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,20 6,46 14,54 40,28 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="24" y1="28" x2="32" y2="36"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="10,50 6,54 15,63 20,63 42,41 47,46 40,53 
-	"/>
+<g>
+	<path d="M45,0c-8.271,0-15,6.729-15,15c0,1.676,0.288,3.282,0.798,4.789L4.586,46l4,4l-4,4l10,10h5.828L42,42.414L45.586,46
+		l-6.293,6.293l1.414,1.414L48.414,46L42,39.586L19.586,62h-4.172l-8-8L10,51.414l4,4l26.212-26.211C41.718,29.712,43.324,30,45,30
+		c8.271,0,15-6.729,15-15S53.271,0,45,0z M7.414,46L24,29.414L30.586,36L14,52.586L7.414,46z M32,34.586L25.414,28l6.223-6.222
+		c1.442,2.833,3.753,5.143,6.586,6.586L32,34.586z M45,28c-7.168,0-13-5.832-13-13S37.832,2,45,2s13,5.832,13,13S52.168,28,45,28z"
+		/>
+</g>
 </svg>

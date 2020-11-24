@@ -3,10 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="24,34 32,26 
-	40,34 "/>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="26" x2="32" y2="58"/>
+	<polygon points="33,58 33,28.414 39.293,34.707 40.707,33.146 32.707,25 31.293,25 23.293,33.146 24.707,34.634 31,28.414 31,58 	
+		"/>
+	<polygon points="24,41 2,41 2,7 62,7 62,41 40,41 40,43 64,43 64,5 0,5 0,43 24,43 	"/>
 </g>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="24,42 1,42 1,6 63,6 63,42 40,42 "/>
 </svg>

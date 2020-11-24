@@ -4,20 +4,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="45.968,48.968 
-		31.967,62.968 18,49 	"/>
-</g>
-<g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="18,15 
-		32.032,0.968 46.032,14.968 	"/>
-</g>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" cx="31.968" cy="31.968" r="5"/>
-<g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="49,18 63,32 
-		49,46 	"/>
-</g>
-<g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="15.032,45.968 
-		1,31.935 14.968,17.968 	"/>
+	<polygon points="31.967,61.554 18.707,48.293 17.293,49.87 31.26,64 32.674,64 46.675,49.837 45.261,48.342 	"/>
+	<polygon points="31.325,0 17.293,14.163 18.707,15.642 32.032,2.349 45.325,15.659 46.739,14.122 32.739,0 	"/>
+	<path d="M37.968,31.968c0-3.309-2.691-6-6-6s-6,2.691-6,6s2.691,6,6,6S37.968,35.276,37.968,31.968z M27.968,31.968
+		c0-2.206,1.794-4,4-4s4,1.794,4,4s-1.794,4-4,4S27.968,34.173,27.968,31.968z"/>
+	<polygon points="48.293,18.707 61.586,32 48.293,45.293 49.854,46.707 64,32.707 64,31.293 49.854,17.293 	"/>
+	<polygon points="15.675,18.675 14.114,17.261 0,31.228 0,32.642 14.179,46.675 15.666,45.261 2.377,31.935 	"/>
 </g>
 </svg>

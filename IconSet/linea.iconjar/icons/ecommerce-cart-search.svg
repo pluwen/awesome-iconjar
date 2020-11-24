@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="20" cy="57" r="6"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="44" cy="57" r="6"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="26" y1="57" x2="38" y2="57"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="14,57 10,2 0,2 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="13,43 56,40 63,10 11,10 "/>
 <g>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="33" cy="23" r="6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="37" y1="27" x2="45" y2="35"/>
+	<path d="M20,64c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S23.859,64,20,64z M20,52c-2.757,0-5,2.243-5,5s2.243,5,5,5s5-2.243,5-5
+		S22.757,52,20,52z"/>
+</g>
+<g>
+	<path d="M44,64c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S47.859,64,44,64z M44,52c-2.757,0-5,2.243-5,5s2.243,5,5,5s5-2.243,5-5
+		S46.757,52,44,52z"/>
+</g>
+<g>
+	<rect x="26" y="56" width="12" height="2"/>
+</g>
+<g>
+	<polygon points="13.003,57.073 9.07,3 0,3 0,1 10.93,1 14.997,56.927 	"/>
+</g>
+<g>
+	<polygon points="13.069,43.998 12.931,42.002 55.194,39.054 61.74,11 11,11 11,9 64.26,9 56.806,40.946 	"/>
+</g>
+<g>
+	<g>
+		<path d="M33,30c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S36.859,30,33,30z M33,18c-2.757,0-5,2.243-5,5s2.243,5,5,5
+			s5-2.243,5-5S35.757,18,33,18z"/>
+	</g>
+	<g>
+		<rect x="35.343" y="30" transform="matrix(0.7071 0.7071 -0.7071 0.7071 33.9289 -19.9117)" width="11.314" height="2"/>
+	</g>
 </g>
 </svg>

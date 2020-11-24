@@ -3,13 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="12" y1="19" x2="12" y2="64"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="52" y1="0" x2="52" y2="45"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="38" x2="32" y2="64"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="0" x2="32" y2="26"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="12" cy="13" r="6"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="52" cy="51" r="6"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="6"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="12" y1="0" x2="12" y2="7"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="52" y1="57" x2="52" y2="64"/>
+<g>
+	<path d="M13,6.08V0h-2v6.08C7.613,6.568,5,9.48,5,13s2.613,6.432,6,6.92V64h2V19.92c3.387-0.488,6-3.4,6-6.92S16.387,6.568,13,6.08
+		z M12,18c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5S14.757,18,12,18z"/>
+	<path d="M53,44.08V0h-2v44.08c-3.387,0.488-6,3.4-6,6.92s2.613,6.432,6,6.92V64h2v-6.08c3.387-0.488,6-3.4,6-6.92
+		S56.387,44.568,53,44.08z M52,56c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5S54.757,56,52,56z"/>
+	<path d="M33,25.08V0h-2v25.08c-3.387,0.488-6,3.4-6,6.92s2.613,6.432,6,6.92V64h2V38.92c3.387-0.488,6-3.4,6-6.92
+		S36.387,25.568,33,25.08z M32,37c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5S34.757,37,32,37z"/>
+</g>
 </svg>

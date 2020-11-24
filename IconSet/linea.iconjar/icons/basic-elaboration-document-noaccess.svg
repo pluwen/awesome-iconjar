@@ -4,9 +4,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="23,1 55,1 55,63 9,63 9,15 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="9,15 23,15 23,1 	"/>
+	<path d="M8,64h48V0H22.586L8,14.586V64z M54,62H10V16h14V2h30V62z M11.414,14L22,3.414V14H11.414z"/>
+	<path d="M22,36c0,2.671,1.039,5.182,2.927,7.071C26.815,44.96,29.327,46,31.998,46H32c5.514,0,10-4.486,10-10
+		c0-2.672-1.039-5.183-2.928-7.072C37.184,27.04,34.673,26,31.998,26c-2.671,0-5.182,1.04-7.07,2.929S22,33.329,22,36z M31.998,44
+		c-2.137,0-4.146-0.832-5.656-2.343C24.831,40.146,24,38.137,24,36c0-1.8,0.596-3.505,1.685-4.902l11.212,11.214
+		C35.542,43.366,33.844,44,31.998,44z M32.001,28c2.137,0,4.146,0.832,5.657,2.342C39.169,31.853,40,33.862,40,36
+		c0,1.846-0.635,3.542-1.689,4.897L27.099,29.684C28.495,28.596,30.199,28,32.001,28z"/>
 </g>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="36" r="9"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="25.834" y1="29.834" x2="38.166" y2="42.166"/>
 </svg>

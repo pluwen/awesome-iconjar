@@ -3,11 +3,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="44,59 16,45 36,5 63,19 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="31.899,14.004 28,6 1,20 19,59 32,52.964 
-	"/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="35,41 46,36 45,24 34,29 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="38" y1="9" x2="37" y2="11"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="7" y1="23" x2="6" y2="21"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="43" y1="53" x2="42" y2="55"/>
+<g>
+	<path d="M31.713,11.339L28.45,4.641L-0.308,19.552l18.82,40.777l13.435-6.237l12.519,6.259l19.852-41.794L35.56,3.646
+		L31.713,11.339z M19.488,57.671L2.308,20.448L27.55,7.359l3.036,6.232L14.658,45.447l15.001,7.501L19.488,57.671z M61.683,19.443
+		L43.535,57.649L17.342,44.553L36.44,6.354L61.683,19.443z"/>
+	<path d="M34.122,42.498l12.934-5.879l-1.177-14.117l-12.934,5.879L34.122,42.498z M44.122,25.498l0.823,9.883l-9.066,4.121
+		l-0.823-9.883L44.122,25.498z"/>
+	<rect x="36.5" y="8.882" transform="matrix(0.8944 0.4472 -0.4472 0.8944 8.4311 -15.7148)" width="2" height="2.236"/>
+	<rect x="5.382" y="21" transform="matrix(-0.4472 -0.8944 0.8944 -0.4472 -10.2705 37.6525)" width="2.236" height="2"/>
+	<rect x="41.5" y="52.882" transform="matrix(-0.8944 -0.4472 0.4472 -0.8944 56.3636 121.3056)" width="2" height="2.236"/>
+</g>
 </svg>

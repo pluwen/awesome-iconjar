@@ -3,12 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M34.887,28H39c1.887,0,3-1,3-3c0-1-1-3-3-3
-	c0-3.604-3.277-6-7-6c-3.295,0-6.413,2.978-7,6l0,0c-2,0-3,2-3,3c0,2,1,3,3,3h10.434"/>
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,26 32,45.434 63,26 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11.334,21.667 1,26 1,63 63,63 63,26 
-		63,26 52.666,21.667 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11,32 11,1 53,1 53,32 	"/>
+	<path d="M25,29h14c2.505,0,4-1.495,4-4c0-1.255-1.021-3.373-3.058-3.886C39.475,17.572,36.217,15,32,15
+		c-3.69,0-6.845,3.022-7.797,6.081C22.07,21.527,21,23.715,21,25C21,27.542,22.458,29,25,29z M25,23h0.825l0.157-0.81
+		C26.458,19.74,29.132,17,32,17c2.909,0,6,1.752,6,5v1h1c1.398,0,2,1.518,2,2c0,1.383-0.617,2-2,2H25c-1.439,0-2-0.561-2-2
+		C23,24.518,23.602,23,25,23z"/>
+	<path d="M54,0H10v21.142L0,25.335V64h64V25.335l-10-4.193V0z M52,2v29.716L32,44.253L12,31.716V2H52z M10,30.462l-6.835-4.285
+		L10,23.311V30.462z M2,62V27.807l30,18.807l30-18.807V62H2z M60.835,26.177L54,30.462v-7.151L60.835,26.177z"/>
 </g>
 </svg>

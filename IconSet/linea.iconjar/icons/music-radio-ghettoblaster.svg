@@ -3,16 +3,17 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect x="1" y="21" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="62" height="35"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="17.5" cy="38.5" r="10.5"/>
-<rect x="34" y="35" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="23" height="15"/>
-<rect x="52" y="27" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="5" height="4"/>
-<rect x="43" y="27" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="5" height="4"/>
-<rect x="34" y="27" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="5" height="4"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="5,21 5,8 59,8 59,21 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="5" y1="12" x2="59" y2="12"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="14" y1="48" x2="14" y2="29"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="21" y1="48" x2="21" y2="29"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="8" y1="35" x2="27" y2="35"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="8" y1="42" x2="27" y2="42"/>
+<g>
+	<path d="M17.5,50C23.841,50,29,44.841,29,38.5S23.841,27,17.5,27S6,32.159,6,38.5S11.159,50,17.5,50z M9.137,43H13v3.863
+		C11.366,45.981,10.02,44.634,9.137,43z M15,47.655V43h5v4.655C19.202,47.874,18.366,48,17.5,48S15.798,47.874,15,47.655z M15,41v-5
+		h5v5H15z M22,46.863V43h3.863C24.98,44.634,23.634,45.981,22,46.863z M26.655,41H22v-5h4.655C26.873,36.798,27,37.634,27,38.5
+		S26.873,40.202,26.655,41z M25.863,34H22v-3.863C23.634,31.019,24.98,32.366,25.863,34z M20,29.345V34h-5v-4.655
+		C15.798,29.126,16.634,29,17.5,29S19.202,29.126,20,29.345z M13,30.137V34H9.137C10.02,32.366,11.366,31.019,13,30.137z M8.345,36
+		H13v5H8.345C8.127,40.202,8,39.366,8,38.5S8.127,36.798,8.345,36z"/>
+	<path d="M58,34H33v17h25V34z M56,49H35V36h21V49z"/>
+	<path d="M58,26h-7v6h7V26z M56,30h-3v-2h3V30z"/>
+	<path d="M49,26h-7v6h7V26z M47,30h-3v-2h3V30z"/>
+	<path d="M40,26h-7v6h7V26z M38,30h-3v-2h3V30z"/>
+	<path d="M60,7H4v13H0v37h64V20h-4V7z M58,9v2H6V9H58z M6,13h52v7H6V13z M62,55H2V22h60V55z"/>
+</g>
 </svg>

@@ -3,21 +3,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,24 9,32 1,40 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="63,40 55,32 63,24 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="24,63 32,55 40,63 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="40,1 32,9 24,1 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="5,49 15,49 15,59 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="59,15 49,15 49,5 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="38" y1="26" x2="49" y2="15"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="49" x2="26" y2="38"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="15,5 15,15 5,15 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="49,59 49,49 59,49 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="38" y1="38" x2="49" y2="49"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="15" x2="26" y2="26"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="40" y1="32" x2="55" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="9" y1="32" x2="24" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="40" x2="32" y2="55"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="9" x2="32" y2="24"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="8"/>
+<g>
+	<path d="M1.707,40.707L9.414,33h13.645c0.192,1.732,0.88,3.316,1.916,4.611L14.586,48H5v2h9v9h2v-9.586l10.389-10.389
+		c1.294,1.036,2.878,1.724,4.611,1.916v13.645l-7.707,7.707l1.414,1.414L32,56.414l7.293,7.293l1.414-1.414L33,54.586V40.941
+		c1.732-0.192,3.316-0.88,4.611-1.916L48,49.414V59h2v-9h9v-2h-9.586L39.025,37.611c1.036-1.294,1.724-2.878,1.916-4.611h13.645
+		l7.707,7.707l1.414-1.414L56.414,32l7.293-7.293l-1.414-1.414L54.586,31H40.941c-0.192-1.732-0.88-3.316-1.916-4.611L49.414,16H59
+		v-2h-9V5h-2v9.586L37.611,24.975c-1.294-1.036-2.878-1.724-4.611-1.916V9.414l7.707-7.707l-1.414-1.414L32,7.586l-7.293-7.293
+		l-1.414,1.414L31,9.414v13.645c-1.732,0.192-3.316,0.88-4.611,1.916L16,14.586V5h-2v9H5v2h9.586l10.389,10.389
+		c-1.036,1.294-1.724,2.878-1.916,4.611H9.414l-7.707-7.707l-1.414,1.414L7.586,32l-7.293,7.293L1.707,40.707z M32,25
+		c3.86,0,7,3.14,7,7s-3.14,7-7,7s-7-3.14-7-7S28.14,25,32,25z"/>
+</g>
 </svg>

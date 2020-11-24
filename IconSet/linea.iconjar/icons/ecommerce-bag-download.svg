@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="40,43 32,51 
-	24,43 "/>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="51" x2="32" y2="31"/>
+	<polygon points="32.707,51.707 31.293,51.707 23.293,43.707 24.707,42.293 32,49.586 39.293,42.293 40.707,43.707 	"/>
 </g>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="44,18 54,18 54,63 10,63 10,18 20,18 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M22,24V11c0-5.523,4.477-10,10-10s10,4.477,10,10v13
-	"/>
+<g>
+	<rect x="31" y="31" width="2" height="20"/>
+</g>
+<g>
+	<path d="M55,64H9V17h46V64z M11,62h42V19H11V62z"/>
+</g>
+<g>
+	<path d="M43,24h-2V11c0-4.962-4.037-9-9-9s-9,4.038-9,9v13h-2V11c0-6.065,4.935-11,11-11s11,4.935,11,11V24z"/>
+</g>
 </svg>

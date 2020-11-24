@@ -4,9 +4,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="23,1 55,1 55,63 9,63 9,15 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="9,15 23,15 23,1 	"/>
+	<path d="M8,64h48V0H22.586L8,14.586V64z M54,62H10V16h14V2h30V62z M11.414,14L22,3.414V14H11.414z"/>
+	<path d="M21,33c0,7.184,10.1,12.653,10.529,12.882L32,46.133l0.471-0.251C32.9,45.653,43,40.184,43,33c0-3.42-2.58-6-6-6
+		c-2.084,0-3.924,1.068-5,2.687C30.924,28.068,29.084,27,27,27C23.58,27,21,29.58,21,33z M31,33h2c0-2.206,1.794-4,4-4
+		c2.318,0,4,1.682,4,4c0,5.203-7.086,9.724-9,10.85c-1.914-1.126-9-5.647-9-10.85c0-2.318,1.682-4,4-4C29.206,29,31,30.794,31,33z"
+		/>
 </g>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M22,33c0,6.666,10,12,10,12s10-5.334,10-12
-	c0-2.762-2-5-5-5c-2.762,0-5,2.238-5,5c0-2.762-2.238-5-5-5C24,28,22,30.238,22,33z"/>
 </svg>

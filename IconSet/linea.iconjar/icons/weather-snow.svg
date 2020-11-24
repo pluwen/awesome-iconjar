@@ -3,22 +3,25 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M55,40c4.565,0,8-3.435,8-8c0-4.565-3.435-9-8-9
-	c0-11.414-9.586-20-21-20C23.898,3,14.8,9.423,13,19c0,0-1.165,0-2,0C5.292,19,1,24.292,1,30s4.292,10,10,10H55z"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="43" x2="22" y2="48"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="52" x2="22" y2="57"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="27" y1="45" x2="24" y2="48"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="20" y1="52" x2="17" y2="55"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="27" y1="55" x2="24" y2="52"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="20" y1="48" x2="17" y2="45"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="29" y1="50" x2="24" y2="50"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="20" y1="50" x2="15" y2="50"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="42" y1="48" x2="42" y2="53"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="42" y1="57" x2="42" y2="62"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="47" y1="50" x2="44" y2="53"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="40" y1="57" x2="37" y2="60"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="47" y1="60" x2="44" y2="57"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="40" y1="53" x2="37" y2="50"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49" y1="55" x2="44" y2="55"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="40" y1="55" x2="35" y2="55"/>
+<g>
+	<path d="M11,41h44c5.131,0,9-3.869,9-9c0-4.53-3.182-9.361-8.021-9.942C55.48,10.736,46.006,2,34,2C23.401,2,14.37,8.68,12.189,18
+		H11C5.038,18,0,23.495,0,30C0,36.271,4.729,41,11,41z M11,20h2.83l0.153-0.815C15.637,10.386,24.055,4,34,4
+		c11.215,0,20,8.346,20,19v1h1c4.125,0,7,4.216,7,8c0,3.991-3.009,7-7,7H11c-5.131,0-9-3.869-9-9C2,24.58,6.122,20,11,20z"/>
+	<rect x="21" y="43" width="2" height="5"/>
+	<rect x="21" y="52" width="2" height="5"/>
+	<rect x="24.5" y="44.379" transform="matrix(0.7071 0.7071 -0.7071 0.7071 40.3492 -4.4117)" width="2" height="4.243"/>
+	<rect x="17.5" y="51.379" transform="matrix(0.7071 0.7071 -0.7071 0.7071 43.2487 2.5883)" width="2" height="4.243"/>
+	<rect x="24.5" y="51.379" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 81.3614 73.299)" width="2" height="4.243"/>
+	<rect x="17.5" y="44.379" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -27.4619 26.701)" width="2" height="4.243"/>
+	<rect x="24" y="49" width="5" height="2"/>
+	<rect x="15" y="49" width="5" height="2"/>
+	<rect x="41" y="48" width="2" height="5"/>
+	<rect x="41" y="57" width="2" height="5"/>
+	<rect x="44.5" y="49.379" transform="matrix(0.7071 0.7071 -0.7071 0.7071 49.7426 -17.0894)" width="2" height="4.243"/>
+	<rect x="37.5" y="56.379" transform="matrix(0.7071 0.7071 -0.7071 0.7071 52.6421 -10.0894)" width="2" height="4.243"/>
+	<rect x="44.5" y="56.379" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 119.0391 67.6924)" width="2" height="4.243"/>
+	<rect x="37.5" y="49.379" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -25.1396 42.3076)" width="2" height="4.243"/>
+	<rect x="44" y="54" width="5" height="2"/>
+	<rect x="35" y="54" width="5" height="2"/>
+</g>
 </svg>

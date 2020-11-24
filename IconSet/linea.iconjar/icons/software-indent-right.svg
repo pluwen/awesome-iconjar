@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="34" y1="7" x2="0" y2="7"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="34" y1="17" x2="12" y2="17"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="34" y1="27" x2="0" y2="27"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="34" y1="37" x2="9" y2="37"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="34" y1="47" x2="0" y2="47"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="34" y1="57" x2="7" y2="57"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="39" y1="0" x2="39" y2="64"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="52,25 45,32 
-	52,39 "/>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="45" y1="32" x2="64" y2="32"/>
+	<rect y="6" width="34" height="2"/>
+	<rect x="12" y="16" width="22" height="2"/>
+	<rect y="26" width="34" height="2"/>
+	<rect x="9" y="36" width="25" height="2"/>
+	<rect y="46" width="34" height="2"/>
+	<rect x="7" y="56" width="27" height="2"/>
+	<rect x="38" width="2" height="64"/>
+	<polygon points="52.707,25.707 51.146,24.293 44,31.293 44,32.707 51.146,39.707 52.634,38.293 47.414,33 64,33 64,31 47.414,31 	
+		"/>
 </g>
 </svg>

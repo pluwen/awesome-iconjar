@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="30" y1="10" x2="64" y2="10"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="20" x2="53" y2="20"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="30" x2="64" y2="30"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="40" x2="56" y2="40"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="50" x2="64" y2="50"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="60" x2="58" y2="60"/>
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="16,17 23,10 
-		16,3 	"/>
-	<g>
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="23" y1="10" x2="0" y2="10"/>
-	</g>
+	<rect x="30" y="9" width="34" height="2"/>
+	<rect x="22" y="19" width="31" height="2"/>
+	<rect x="22" y="29" width="42" height="2"/>
+	<rect x="22" y="39" width="34" height="2"/>
+	<rect x="22" y="49" width="42" height="2"/>
+	<rect x="22" y="59" width="36" height="2"/>
+	<polygon points="15.293,16.293 16.854,17.707 24,10.707 24,9.293 16.854,2.293 15.366,3.707 20.586,9 0,9 0,11 20.586,11 	"/>
 </g>
 </svg>

@@ -3,14 +3,16 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="31"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="15"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="26" y1="18" x2="26" y2="1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="38" y1="18" x2="38" y2="1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="26" y1="63" x2="26" y2="46"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="38" y1="63" x2="38" y2="46"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="46" y1="26" x2="63" y2="26"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="46" y1="38" x2="63" y2="38"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="26" x2="18" y2="26"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="38" x2="18" y2="38"/>
+<g>
+	<path d="M32,0C14.355,0,0,14.355,0,32s14.355,32,32,32s32-14.355,32-32S49.645,0,32,0z M61.167,25H46.365
+		c-1.566-3.201-4.164-5.799-7.365-7.365V2.833C49.928,5.456,58.544,14.072,61.167,25z M62,32c0,1.704-0.15,3.373-0.425,5H47.188
+		C47.708,35.425,48,33.747,48,32s-0.292-3.425-0.812-5h14.387C61.85,28.627,62,30.296,62,32z M32,46c-7.72,0-14-6.28-14-14
+		s6.28-14,14-14s14,6.28,14,14S39.72,46,32,46z M16.812,37H2.425C2.15,35.373,2,33.704,2,32s0.15-3.373,0.425-5h14.387
+		C16.292,28.575,16,30.253,16,32S16.292,35.425,16.812,37z M37,2.425v14.387C35.425,16.291,33.747,16,32,16s-3.425,0.291-5,0.812
+		V2.425C28.627,2.15,30.296,2,32,2S35.373,2.15,37,2.425z M25,2.833v14.802c-3.201,1.566-5.799,4.164-7.365,7.365H2.833
+		C5.456,14.072,14.072,5.456,25,2.833z M2.833,39h14.802c1.566,3.201,4.164,5.799,7.365,7.365v14.802
+		C14.072,58.544,5.456,49.928,2.833,39z M27,61.575V47.188C28.575,47.709,30.253,48,32,48s3.425-0.291,5-0.812v14.387
+		C35.373,61.85,33.704,62,32,62S28.627,61.85,27,61.575z M39,61.167V46.365c3.201-1.566,5.799-4.164,7.365-7.365h14.802
+		C58.544,49.928,49.928,58.544,39,61.167z"/>
+</g>
 </svg>

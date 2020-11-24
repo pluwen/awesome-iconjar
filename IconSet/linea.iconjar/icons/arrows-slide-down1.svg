@@ -4,8 +4,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="27,63 27,1 46,1 	"/>
+	<polygon points="46,2 46,0 26,0 26,60.586 18.707,53.293 17.293,54.854 26.293,64 27.707,64 36.707,54.854 35.293,53.366 
+		28,60.586 28,2 	"/>
 </g>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="18,54 27,63 
-	36,54 "/>
 </svg>

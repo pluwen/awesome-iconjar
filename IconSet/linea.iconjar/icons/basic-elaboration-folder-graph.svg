@@ -3,13 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="63,18 63,54 1,54 1,10 22,10 30,18 "/>
 <g>
-	<g>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="27,44 27,37 23,37 23,44 		"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="34,44 34,27 30,27 30,44 		"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="41,44 41,34 37,34 37,44 		"/>
-	</g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="20" y1="45" x2="44" y2="45"/>
+	<path d="M22.414,9H0v46h64V17H30.414L22.414,9z M62,53H2V11h19.586l8,8H62V53z"/>
+	<path d="M29,26v18h-1v-8h-6v8h-2v2h24v-2h-2V33h-6v11h-1V26H29z M24,44v-6h2v6H24z M38,35h2v9h-2V35z M31,44V28h2v16H31z"/>
 </g>
 </svg>

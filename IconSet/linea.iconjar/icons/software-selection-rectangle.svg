@@ -1,22 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<g>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="63,50 63,52 61,52 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="59" y1="52" x2="4" y2="52"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="3,52 1,52 1,50 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="1" y1="48" x2="1" y2="15"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,14 1,12 3,12 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="5" y1="12" x2="60" y2="12"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="61,12 63,12 63,14 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="63" y1="16" x2="63" y2="49"/>
-	</g>
+	<polygon points="62,51 61,51 61,53 64,53 64,50 62,50 	"/>
+	<rect x="55" y="51" width="4" height="2"/>
+	<rect x="30" y="51" width="4" height="2"/>
+	<rect x="11" y="51" width="4" height="2"/>
+	<rect x="36" y="51" width="4" height="2"/>
+	<rect x="42" y="51" width="4" height="2"/>
+	<rect x="24" y="51" width="4" height="2"/>
+	<rect x="49" y="51" width="4" height="2"/>
+	<rect x="17" y="51" width="5" height="2"/>
+	<rect x="5" y="51" width="4" height="2"/>
+	<polygon points="3,51 2,51 2,50 0,50 0,53 3,53 	"/>
+	<rect y="44" width="2" height="4"/>
+	<rect y="39" width="2" height="3"/>
+	<rect y="27" width="2" height="4"/>
+	<rect y="33" width="2" height="4"/>
+	<rect y="22" width="2" height="3"/>
+	<rect y="16" width="2" height="4"/>
+	<polygon points="2,13 3,13 3,11 0,11 0,14 2,14 	"/>
+	<rect x="55" y="11" width="4" height="2"/>
+	<rect x="24" y="11" width="4" height="2"/>
+	<rect x="49" y="11" width="4" height="2"/>
+	<rect x="5" y="11" width="4" height="2"/>
+	<rect x="11" y="11" width="4" height="2"/>
+	<rect x="17" y="11" width="5" height="2"/>
+	<rect x="30" y="11" width="4" height="2"/>
+	<rect x="42" y="11" width="4" height="2"/>
+	<rect x="36" y="11" width="4" height="2"/>
+	<polygon points="61,13 62,13 62,14 64,14 64,11 61,11 	"/>
+	<rect x="62" y="22" width="2" height="3"/>
+	<rect x="62" y="33" width="2" height="4"/>
+	<rect x="62" y="39" width="2" height="3"/>
+	<rect x="62" y="44" width="2" height="4"/>
+	<rect x="62" y="16" width="2" height="4"/>
+	<rect x="62" y="27" width="2" height="4"/>
 </g>
 </svg>

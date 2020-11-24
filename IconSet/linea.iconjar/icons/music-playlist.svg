@@ -4,10 +4,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35" cy="55" r="8"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="43,55 43,7 63,1 63,15 43,21 	"/>
+	<path d="M42,49.355C40.349,47.312,37.826,46,35,46c-4.963,0-9,4.038-9,9s4.037,9,9,9s9-4.038,9-9V21.744l20-6V-0.344l-22,6.6
+		V49.355z M35,62c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S38.859,62,35,62z M44,7.744l18-5.4v11.912l-18,5.4V7.744z"/>
+	<rect x="4" y="15" width="34" height="2"/>
+	<rect x="4" y="25" width="34" height="2"/>
+	<rect x="4" y="35" width="34" height="2"/>
 </g>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="4" y1="16" x2="38" y2="16"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="4" y1="26" x2="38" y2="26"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="4" y1="36" x2="38" y2="36"/>
 </svg>

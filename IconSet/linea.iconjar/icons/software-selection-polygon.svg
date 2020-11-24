@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<g>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="19,59 16.675,59 15.851,57.261 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.1609,2.0805" x1="14.661" y1="55.451" x2="2.851" y2="34.644"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="2.338,33.739 1.351,32 2.338,30.261 		
-			"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.1609,2.0805" x1="3.365" y1="28.451" x2="15.175" y2="7.644"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="15.851,6.739 16.675,5 19,5 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="21" y1="5" x2="44" y2="5"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="45,5 47.325,5 48.149,6.739 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.1609,2.0805" x1="49.339" y1="8.549" x2="61.149" y2="29.356"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="61.662,30.261 62.649,32 61.662,33.739 
-					"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.1609,2.0805" x1="60.635" y1="35.549" x2="48.825" y2="56.356"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="48.149,57.261 47.325,59 45,59 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="43" y1="59" x2="20" y2="59"/>
-	</g>
+	<polygon points="19,60 19,58 17.257,58 16.558,56.767 14.818,57.754 16.093,60 	"/>
+	<rect x="2.311" y="36.358" transform="matrix(-0.4936 -0.8697 0.8697 -0.4936 -25.9311 59.6169)" width="4.161" height="2"/>
+	<rect x="8.473" y="47.214" transform="matrix(0.4936 0.8697 -0.8697 0.4936 47.276 15.2383)" width="4.161" height="2"/>
+	<rect x="11.554" y="52.642" transform="matrix(0.4936 0.8697 -0.8697 0.4936 53.5568 15.3074)" width="4.161" height="2"/>
+	<rect x="5.392" y="41.786" transform="matrix(0.4937 0.8696 -0.8696 0.4937 40.9921 15.1653)" width="4.161" height="2"/>
+	<polygon points="0.201,32 1.468,34.233 3.208,33.246 2.5,32 3.208,30.754 1.468,29.767 	"/>
+	<rect x="6.473" y="19.134" transform="matrix(-0.8697 -0.4937 0.4937 -0.8697 3.4986 43.352)" width="2" height="4.161"/>
+	<rect x="12.634" y="8.278" transform="matrix(-0.8697 -0.4937 0.4937 -0.8697 20.3779 26.0969)" width="2" height="4.161"/>
+	<rect x="3.392" y="24.561" transform="matrix(-0.8697 -0.4937 0.4937 -0.8697 -4.9414 51.979)" width="2" height="4.161"/>
+	<rect x="9.553" y="13.705" transform="matrix(-0.8697 -0.4937 0.4937 -0.8697 11.9384 34.724)" width="2" height="4.161"/>
+	<polygon points="14.818,6.246 16.558,7.233 17.257,6 19,6 19,4 16.093,4 	"/>
+	<rect x="27" y="4" width="4" height="2"/>
+	<rect x="33" y="4" width="4" height="2"/>
+	<rect x="21" y="4" width="4" height="2"/>
+	<rect x="39" y="4" width="4" height="2"/>
+	<polygon points="45,4 45,6 46.743,6 47.442,7.233 49.182,6.246 47.907,4 	"/>
+	<rect x="54.447" y="20.214" transform="matrix(-0.4937 -0.8696 0.8696 -0.4937 65.9849 80.846)" width="4.161" height="2"/>
+	<rect x="48.285" y="9.358" transform="matrix(-0.4936 -0.8697 0.8697 -0.4936 66.217 59.2738)" width="4.161" height="2"/>
+	<rect x="51.366" y="14.786" transform="matrix(-0.4936 -0.8697 0.8697 -0.4936 66.0983 70.0601)" width="4.161" height="2"/>
+	<rect x="57.528" y="25.642" transform="matrix(-0.4936 -0.8697 0.8697 -0.4936 65.8598 91.6331)" width="4.161" height="2"/>
+	<polygon points="63.799,32 62.532,29.767 60.792,30.754 61.5,32 60.792,33.246 62.532,34.233 	"/>
+	<rect x="49.366" y="51.561" transform="matrix(-0.8697 -0.4937 0.4937 -0.8697 67.6852 125.1554)" width="2" height="4.161"/>
+	<rect x="52.447" y="46.134" transform="matrix(0.8697 0.4937 -0.4937 0.8697 30.7683 -20.1001)" width="2" height="4.161"/>
+	<rect x="55.527" y="40.705" transform="matrix(0.8697 0.4937 -0.4937 0.8697 28.4901 -22.3285)" width="2" height="4.161"/>
+	<rect x="58.608" y="35.278" transform="matrix(0.8697 0.4937 -0.4937 0.8697 26.2123 -24.557)" width="2" height="4.161"/>
+	<polygon points="45,60 47.907,60 49.182,57.754 47.442,56.767 46.743,58 45,58 	"/>
+	<rect x="39" y="58" width="4" height="2"/>
+	<rect x="27" y="58" width="4" height="2"/>
+	<rect x="33" y="58" width="4" height="2"/>
+	<rect x="21" y="58" width="4" height="2"/>
 </g>
 </svg>

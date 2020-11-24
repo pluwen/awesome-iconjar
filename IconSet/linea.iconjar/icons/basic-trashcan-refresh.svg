@@ -4,14 +4,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="25,8 25,1 39,1 39,8 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="14,10 14,63 50,63 50,10 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="10" y1="9" x2="54" y2="9"/>
+	<path d="M13,64h38V10h3V8H40V0H24v8H10v2h3V64z M26,2h12v6H26V2z M49,10v52H15V10H49z"/>
+	<path d="M31,46h2l-1.8,2.4l1.7,1.2l3.1-4v-1.2l-3.1-4l-1.65,1.2L33,44h-2c-3.942,0-7-4.3-7-8h-2C22,40.721,25.849,46,31,46z"/>
+	<path d="M32.8,30.4L31,28h2c3.942,0,7,4.3,7,8h2c0-4.721-3.849-10-9-10h-2l1.8-2.4l-1.7-1.2l-3.1,4v1.2l3.1,4L32.8,30.4z"/>
 </g>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M23,36c0,4.418,3.582,9,8,9h4"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="32,49 35,45 
-	32,41 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M41,36c0-4.418-3.582-9-8-9h-4"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="32,23 29,27 
-	32,31 "/>
 </svg>

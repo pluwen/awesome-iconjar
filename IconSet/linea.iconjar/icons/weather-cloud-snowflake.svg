@@ -3,26 +3,21 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M18,40h-7C5.292,40,1,35.708,1,30s4.292-11,10-11
-	c0.835,0,2,0,2,0C14.8,9.423,23.898,3,34,3c11.414,0,21,8.586,21,20c4.565,0,8,4.435,8,9c0,4.565-3.435,8-8,8h-9"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="21,37 23,40 21,43 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="43,43 41,40 43,37 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="30" y1="40" x2="23" y2="40"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="41" y1="40" x2="34" y2="40"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="29,51 32,49 35,51 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="35,29 32,31 29,29 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="42" x2="32" y2="49"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="31" x2="32" y2="38"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="26.343,30.101 25.636,33.636 
-	22.101,34.343 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="37.657,49.899 38.364,46.364 
-	41.899,45.657 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="30" y1="38" x2="25.636" y2="33.636"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="38.364" y1="46.364" x2="34" y2="42"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="22.101,45.657 25.636,46.364 
-	26.343,49.899 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="41.899,34.343 38.364,33.636 
-	37.657,30.101 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="30" y1="42" x2="25.636" y2="46.364"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="38.364" y1="33.636" x2="34" y2="38"/>
+<g>
+	<path d="M11,41h7v-2h-7c-5.131,0-9-3.869-9-9c0-5.42,4.122-10,9-10h2.83l0.153-0.815C15.637,10.386,24.055,4,34,4
+		c11.215,0,20,8.346,20,19v1h1c4.125,0,7,4.216,7,8c0,3.991-3.009,7-7,7h-9v2h9c5.131,0,9-3.869,9-9c0-4.53-3.182-9.361-8.021-9.942
+		C55.48,10.736,46.006,2,34,2C23.401,2,14.37,8.68,12.189,18H11C5.038,18,0,23.495,0,30C0,36.271,4.729,41,11,41z"/>
+	<polygon points="21.832,43.555 23.535,41 30,41 30,39 23.535,39 21.832,36.445 20.168,37.555 21.798,40 20.168,42.445 	"/>
+	<polygon points="42.168,36.445 40.465,39 34,39 34,41 40.465,41 42.168,43.555 43.832,42.445 42.202,40 43.832,37.555 	"/>
+	<polygon points="32,50.202 34.445,51.832 35.555,50.168 33,48.465 33,42 31,42 31,48.465 28.445,50.168 29.555,51.832 	"/>
+	<polygon points="32,29.798 29.555,28.168 28.445,29.832 31,31.535 31,38 33,38 33,31.535 35.555,29.832 34.445,28.168 	"/>
+	<polygon points="25.363,29.904 24.787,32.786 21.904,33.363 22.297,35.324 25.308,34.721 29.293,38.707 30.707,37.293 
+		26.722,33.307 27.324,30.297 	"/>
+	<polygon points="38.637,50.096 39.214,47.214 42.096,46.637 41.703,44.676 38.692,45.278 34.707,41.293 33.293,42.707 
+		37.278,46.692 36.676,49.703 	"/>
+	<polygon points="29.293,41.293 25.307,45.278 22.297,44.676 21.904,46.637 24.786,47.213 25.363,50.096 27.324,49.703 
+		26.721,46.692 30.707,42.707 	"/>
+	<polygon points="34.707,38.707 38.692,34.722 41.703,35.324 42.096,33.363 39.214,32.786 38.637,29.904 36.676,30.297 
+		37.278,33.308 33.293,37.293 	"/>
+</g>
 </svg>

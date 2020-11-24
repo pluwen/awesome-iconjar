@@ -4,13 +4,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="46" y1="10" x2="18" y2="10"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="12,10 1,10 1,58 63,58 63,10 52,10 	"/>
-	<rect x="12" y="6" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="6" height="8"/>
-	<rect x="46" y="6" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="6" height="8"/>
+	<path d="M53,5h-8v4H19V5h-8v4H0v50h64V9H53V5z M47,7h4v6h-4V7z M13,7h4v6h-4V7z M2,57V19h60v38H2z M62,11v6H2v-6h9v4h8v-4h26v4h8
+		v-4H62z"/>
+	<polygon points="30.708,30.707 29.147,29.293 21,37.293 21,38.707 29.147,46.707 30.635,45.293 24.415,39 42,39 42,37 24.415,37 	
+		"/>
 </g>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="18" x2="63" y2="18"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="30.001,46 
-	22.001,38 30.001,30 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22.001" y1="38" x2="42.001" y2="38"/>
 </svg>

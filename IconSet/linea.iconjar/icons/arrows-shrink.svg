@@ -4,23 +4,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="63" x2="23" y2="41"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="12,41 23,41 
-		23,52 	"/>
-</g>
-<g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="63" y1="63" x2="41" y2="41"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="41,52 41,41 
-		52,41 	"/>
-</g>
-<g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="63" y1="1" x2="41" y2="23"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="52,23 41,23 
-		41,12 	"/>
-</g>
-<g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="1" x2="23" y2="23"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="23,12 23,23 
-		12,23 	"/>
+	<polygon points="1.707,63.707 22,43.414 22,52 24,52 24,41 23,40 12,40 12,42 20.586,42 0.293,62.293 	"/>
+	<polygon points="40,52 42,52 42,43.414 62.293,63.707 63.707,62.293 43.414,42 52,42 52,40 41,40 40,41 	"/>
+	<polygon points="40,12 40,23 41,24 52,24 52,22 43.414,22 63.707,1.707 62.293,0.293 42,20.586 42,12 	"/>
+	<polygon points="12,24 23,24 24,23 24,12 22,12 22,20.586 1.707,0.293 0.293,1.707 20.586,22 12,22 	"/>
 </g>
 </svg>

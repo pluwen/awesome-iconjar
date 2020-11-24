@@ -3,13 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" d="M59,56
-	c0,3.866-11.641,7-26,7S7,59.866,7,56"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" d="M59,40
-	c0,3.866-11.641,7-26,7S7,43.866,7,40"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" d="M59,24
-	c0,3.866-11.641,7-26,7S7,27.866,7,24"/>
-<ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" cx="33" cy="8" rx="26" ry="7"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="7" y1="8" x2="7" y2="56"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="59" y1="8" x2="59" y2="56"/>
+<g>
+	<path d="M33,0C19.583,0,6,2.748,6,8v48c0,5.252,13.583,8,27,8s27-2.748,27-8V8C60,2.748,46.417,0,33,0z M33,62
+		c-15.489,0-25-3.495-25-6V43.225C12.254,46.37,22.672,48,33,48s20.746-1.63,25-4.775V56C58,58.505,48.489,62,33,62z M33,46
+		c-15.489,0-25-3.495-25-6V27.225C12.254,30.37,22.672,32,33,32s20.746-1.63,25-4.775V40C58,42.505,48.489,46,33,46z M33,30
+		c-15.489,0-25-3.495-25-6V11.225C12.254,14.37,22.672,16,33,16s20.746-1.63,25-4.775V24C58,26.505,48.489,30,33,30z M33,14
+		C17.511,14,8,10.505,8,8s9.511-6,25-6s25,3.495,25,6S48.489,14,33,14z"/>
+</g>
 </svg>

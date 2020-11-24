@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="6" x2="64" y2="6"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="16" x2="56" y2="16"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="26" x2="64" y2="26"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="36" x2="58" y2="36"/>
 <g>
-	<g>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="59,48 59,46 57,46 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="55" y1="46" x2="26" y2="46"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="25,46 23,46 23,48 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3,2" x1="23" y1="50" x2="23" y2="53"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="23,54 23,56 25,56 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="27" y1="56" x2="56" y2="56"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="57,56 59,56 59,54 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3,2" x1="59" y1="53" x2="59" y2="49"/>
-	</g>
-</g>
-<g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="10,58 17,51 
-		10,44 	"/>
-	<g>
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="17" y1="51" x2="0" y2="51"/>
-	</g>
+	<rect x="22" y="5" width="42" height="2"/>
+	<rect x="22" y="15" width="34" height="2"/>
+	<rect x="22" y="25" width="42" height="2"/>
+	<rect x="22" y="35" width="36" height="2"/>
+	<polygon points="57,47 58,47 58,48 60,48 60,45 57,45 	"/>
+	<rect x="39" y="45" width="4" height="2"/>
+	<rect x="27" y="45" width="4" height="2"/>
+	<rect x="45" y="45" width="4" height="2"/>
+	<rect x="33" y="45" width="4" height="2"/>
+	<rect x="51" y="45" width="4" height="2"/>
+	<polygon points="24,47 25,47 25,45 22,45 22,48 24,48 	"/>
+	<rect x="22" y="50" width="2" height="3"/>
+	<polygon points="22,57 25,57 25,55 24,55 24,54 22,54 	"/>
+	<rect x="51" y="55" width="4" height="2"/>
+	<rect x="45" y="55" width="4" height="2"/>
+	<rect x="39" y="55" width="4" height="2"/>
+	<rect x="33" y="55" width="4" height="2"/>
+	<rect x="27" y="55" width="4" height="2"/>
+	<polygon points="58,55 57,55 57,57 60,57 60,54 58,54 	"/>
+	<rect x="58" y="50" width="2" height="3"/>
+	<polygon points="9.293,57.293 10.854,58.707 18,51.707 18,50.293 10.854,43.293 9.366,44.707 14.586,50 0,50 0,52 14.586,52 	"/>
 </g>
 </svg>

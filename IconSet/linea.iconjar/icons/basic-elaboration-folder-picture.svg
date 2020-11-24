@@ -3,10 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="63,18 63,54 1,54 1,10 22,10 30,18 "/>
 <g>
-	<rect x="22" y="29" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="20" height="14"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="22,41 29,34 33,39 35,37 41,42 	"/>
+	<path d="M22.414,9H0v46h64V17H30.414L22.414,9z M62,53H2V11h19.586l8,8H62V53z"/>
+	<path d="M21,44h22V28H21V44z M23,41.414l5.917-5.917l4,5l2.145-2.145L39.438,42H23V41.414z M39,30c1.103,0,2,0.897,2,2
+		s-0.897,2-2,2s-2-0.897-2-2S37.897,30,39,30z M35.556,30C35.212,30.591,35,31.268,35,32c0,2.206,1.794,4,4,4
+		c0.732,0,1.409-0.212,2-0.557v5.255l-6.062-5.051l-1.855,1.855l-4-5L23,38.586V30H35.556z"/>
 </g>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="39" cy="32" r="3"/>
 </svg>

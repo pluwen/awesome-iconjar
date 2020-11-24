@@ -4,12 +4,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="48.968,45.968 
-		31.967,62.968 14.968,45.967 	"/>
+	<polygon points="31.967,61.554 15.675,45.26 14.261,46.837 31.26,64 32.674,64 49.675,46.837 48.261,45.342 	"/>
+	<polygon points="31.325,0 14.325,17.13 15.739,18.609 32.032,2.349 48.325,18.659 49.739,17.122 32.739,0 	"/>
+	<path d="M37.968,31.968c0-3.309-2.691-6-6-6s-6,2.691-6,6s2.691,6,6,6S37.968,35.276,37.968,31.968z M27.968,31.968
+		c0-2.206,1.794-4,4-4s4,1.794,4,4s-1.794,4-4,4S27.968,34.173,27.968,31.968z"/>
 </g>
-<g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="15.032,17.967 
-		32.032,0.968 49.032,17.968 	"/>
-</g>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" cx="31.968" cy="31.968" r="5"/>
 </svg>

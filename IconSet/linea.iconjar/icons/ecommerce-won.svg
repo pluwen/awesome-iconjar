@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M53.92,10.081c12.107,12.105,12.107,31.732,0,43.838
-	c-12.106,12.108-31.734,12.108-43.84,0c-12.107-12.105-12.107-31.732,0-43.838C22.186-2.027,41.813-2.027,53.92,10.081z"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="15,16 23,48 24,48 31,18 33,18 40,48 
-	41,48 49,16 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="13" y1="30" x2="51" y2="30"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="13" y1="36" x2="51" y2="36"/>
+<g>
+	<path d="M32,64c-8.548,0-16.583-3.329-22.627-9.374C3.328,48.582-0.001,40.547-0.001,32S3.328,15.418,9.373,9.374
+		C15.417,3.329,23.452,0,32,0c8.547,0,16.583,3.329,22.627,9.374c6.045,6.044,9.374,14.079,9.374,22.626s-3.329,16.582-9.374,22.626
+		C48.583,60.671,40.547,64,32,64z M32,2c-8.014,0-15.547,3.121-21.213,8.788C5.12,16.454,1.999,23.987,1.999,32
+		s3.121,15.546,8.788,21.212C16.453,58.879,23.986,62,32,62c8.013,0,15.547-3.121,21.213-8.788
+		C58.88,47.546,62.001,40.013,62.001,32s-3.121-15.546-8.788-21.212C47.547,5.121,40.013,2,32,2z"/>
+</g>
+<g>
+	<polygon points="41.781,49 39.206,49 32.206,19 31.794,19 24.794,49 22.219,49 14.03,16.242 15.97,15.758 23.483,45.812 30.206,17 
+		33.794,17 40.517,45.812 48.03,15.758 49.97,16.242 	"/>
+</g>
+<g>
+	<rect x="13" y="29" width="38" height="2"/>
+</g>
+<g>
+	<rect x="13" y="35" width="38" height="2"/>
+</g>
 </svg>

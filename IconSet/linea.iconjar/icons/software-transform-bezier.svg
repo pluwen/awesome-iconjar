@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect x="1" y="41" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="10" height="10"/>
-<rect x="53" y="41" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="10" height="10"/>
-<rect x="27" y="13" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="10" height="10"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="4" cy="18" r="3"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="60" cy="18" r="3"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M7,18h20C6,18,6,41,6,41"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M57,18H37c21,0,21,23,21,23"/>
+<g>
+	<path d="M60,22c2.206,0,4-1.794,4-4s-1.794-4-4-4c-1.858,0-3.411,1.28-3.857,3H38v-5H26v5H7.857C7.411,15.28,5.858,14,4,14
+		c-2.206,0-4,1.794-4,4s1.794,4,4,4c1.858,0,3.411-1.28,3.857-3h9.435C6.912,23.905,5.297,36.387,5.047,40H0v12h12V40H7.045
+		c0.127-1.847,0.616-5.979,2.49-10.084c3.17-6.946,8.711-10.599,16.465-10.887V24h12v-4.972c7.732,0.288,13.264,3.922,16.44,10.832
+		c1.889,4.111,2.384,8.281,2.514,10.14H52v12h12V40h-5.047c-0.25-3.613-1.865-16.095-12.245-21h9.435C56.589,20.72,58.142,22,60,22z
+		 M60,16c1.103,0,2,0.897,2,2s-0.897,2-2,2s-2-0.897-2-2S58.897,16,60,16z M4,20c-1.103,0-2-0.897-2-2s0.897-2,2-2s2,0.897,2,2
+		S5.103,20,4,20z M10,50H2v-8h8V50z M36,22h-8v-8h8V22z M62,50h-8v-8h8V50z"/>
+</g>
 </svg>

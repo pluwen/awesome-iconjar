@@ -4,13 +4,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="23,1 55,1 55,63 9,63 9,15 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="9,15 23,15 23,1 	"/>
-</g>
-<g>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35" cy="41" r="3"/>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="25" cy="43" r="3"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="38,41 38,26 28,28 28,43 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="28" y1="32" x2="38" y2="30"/>
+	<path d="M8,64h48V0H22.586L8,14.586V64z M54,62H10V16h14V2h30V62z M11.414,14L22,3.414V14H11.414z"/>
+	<path d="M25.002,39C22.795,39,21,40.794,21,43s1.795,4,4.002,4C27.207,47,29,45.206,29,43V32.82l8-1.6v6.336
+		C36.41,37.212,35.733,37,35.002,37C32.795,37,31,38.794,31,41s1.795,4,4.002,4C37.207,45,39,43.206,39,41V24.78l-12,2.4v12.375
+		C26.41,39.212,25.733,39,25.002,39z M25.002,45C23.898,45,23,44.103,23,43s0.898-2,2.002-2C26.104,41,27,41.897,27,43
+		S26.104,45,25.002,45z M35.002,43C33.898,43,33,42.103,33,41s0.898-2,2.002-2C36.104,39,37,39.897,37,41S36.104,43,35.002,43z
+		 M37,27.22v1.96l-8,1.6v-1.96L37,27.22z"/>
 </g>
 </svg>

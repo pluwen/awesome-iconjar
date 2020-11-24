@@ -3,16 +3,20 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M55,40c4.565,0,8-3.435,8-8c0-4.565-3.435-9-8-9
-	c0-11.414-9.586-20-21-20C23.898,3,14.8,9.423,13,19c0,0-1.165,0-2,0C5.292,19,1,24.292,1,30s4.292,10,10,10H55z"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="24" y1="45" x2="19" y2="56"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="14" y1="45" x2="9" y2="56"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="34" y1="45" x2="29" y2="56"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="44" y1="45" x2="39" y2="56"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="54" y1="45" x2="49" y2="56"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="17" y1="59" x2="16" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="7" y1="59" x2="6" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="27" y1="59" x2="26" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="37" y1="59" x2="36" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="47" y1="59" x2="46" y2="61"/>
+<g>
+	<path d="M55.979,22.058C55.48,10.736,46.006,2,34,2C23.401,2,14.37,8.68,12.189,18H11C5.038,18,0,23.495,0,30
+		c0,6.271,4.729,11,11,11h44c5.131,0,9-3.869,9-9C64,27.47,60.818,22.639,55.979,22.058z M55,39H11c-5.131,0-9-3.869-9-9
+		c0-5.42,4.122-10,9-10h2.83l0.153-0.815C15.637,10.386,24.055,4,34,4c11.215,0,20,8.346,20,19v1h1c4.125,0,7,4.216,7,8
+		C62,35.991,58.991,39,55,39z"/>
+	<rect x="15.458" y="49.5" transform="matrix(0.4138 -0.9104 0.9104 0.4138 -33.3703 49.1758)" width="12.083" height="1.999"/>
+	<rect x="5.458" y="49.5" transform="matrix(0.4138 -0.9104 0.9104 0.4138 -39.2322 40.0722)" width="12.083" height="1.999"/>
+	<rect x="25.458" y="49.5" transform="matrix(0.4138 -0.9104 0.9104 0.4138 -27.5083 58.2795)" width="12.083" height="1.999"/>
+	<rect x="35.458" y="49.5" transform="matrix(0.4138 -0.9104 0.9104 0.4138 -21.6463 67.3832)" width="12.083" height="1.999"/>
+	<rect x="50.5" y="44.458" transform="matrix(0.9104 0.4137 -0.4137 0.9104 25.505 -16.7812)" width="1.999" height="12.083"/>
+	<rect x="15.382" y="59" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -44.5447 47.9252)" width="2.236" height="2"/>
+	<rect x="5.382" y="59" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -50.0725 38.981)" width="2.236" height="2"/>
+	<rect x="25.382" y="59" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -39.0168 56.8695)" width="2.236" height="2"/>
+	<rect x="35.382" y="59" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -33.4889 65.8138)" width="2.236" height="2"/>
+	<rect x="45.382" y="59" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -27.9611 74.7581)" width="2.236" height="2"/>
+</g>
 </svg>

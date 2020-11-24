@@ -3,11 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="40,9 32,1 24,9 
-	"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="24,55 32,63 
-	40,55 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,62 32,52.323 32,32 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,32 32,22.323 32,2 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="0" y1="32" x2="64" y2="32"/>
+<g>
+	<polygon points="33,3.414 39.293,9.707 40.707,8.146 32.707,0 31.293,0 23.293,8.146 24.707,9.634 31,3.414 31,31 0,31 0,33 31,33 
+		31,60.586 24.707,54.293 23.293,55.854 31.293,64 32.707,64 40.707,55.854 39.293,54.366 33,60.586 33,33 64,33 64,31 33,31 	"/>
+</g>
 </svg>

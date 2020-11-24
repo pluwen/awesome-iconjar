@@ -4,12 +4,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<rect x="16" y="1" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="32" height="62"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="16" y1="36" x2="48" y2="36"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="16" y1="5" x2="48" y2="5"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" cx="31.5" cy="49.5" r="9.5"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" cx="31.5" cy="49.5" r="2.5"/>
+	<path d="M15,64h34V0H15V64z M17,62V37h30v25H17z M17,35V6h30v29H17z M47,2v2H17V2H47z"/>
+	<path d="M31.5,39C25.71,39,21,43.71,21,49.5S25.71,60,31.5,60S42,55.29,42,49.5S37.29,39,31.5,39z M31.5,58
+		c-4.687,0-8.5-3.813-8.5-8.5s3.813-8.5,8.5-8.5s8.5,3.813,8.5,8.5S36.187,58,31.5,58z"/>
+	<path d="M31.5,46c-1.93,0-3.5,1.57-3.5,3.5s1.57,3.5,3.5,3.5s3.5-1.57,3.5-3.5S33.43,46,31.5,46z M31.5,51
+		c-0.827,0-1.5-0.673-1.5-1.5s0.673-1.5,1.5-1.5s1.5,0.673,1.5,1.5S32.327,51,31.5,51z"/>
 </g>
 </svg>

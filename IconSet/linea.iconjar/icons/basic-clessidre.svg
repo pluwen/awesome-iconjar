@@ -3,8 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect x="14" y="1" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="36" height="4"/>
-<rect x="14" y="59" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="36" height="4"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M18,59c0,0,0-8,0-14s29-19,29-25c0-2,0-15,0-15"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M47,59c0,0,0-8,0-14S18,26,18,20c0-2,0-15,0-15"/>
+<g>
+	<path d="M17,45v13h-4v6h38v-6h-3V45c0-3.148-5.141-6.879-13.68-12.5C42.859,26.879,48,23.148,48,20V6h3V0H13v6h4v14
+		c0,3.148,5.141,6.879,13.68,12.5C22.141,38.121,17,41.852,17,45z M49,62H15v-2h34V62z M15,2h34v2H15V2z M19,20V6h27v14
+		c0,2.389-7.343,7.269-13.5,11.304C26.343,27.269,19,22.389,19,20z M32.5,33.696C38.657,37.731,46,42.611,46,45v13H19V45
+		C19,42.611,26.343,37.731,32.5,33.696z"/>
+</g>
 </svg>

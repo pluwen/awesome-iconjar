@@ -3,12 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="5,41 11,1 53,1 59,41 "/>
-<rect x="5" y="41" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="54" height="22"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="48" cy="52" r="3"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="40,23 32,31 
-	24,23 "/>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="31" x2="32" y2="11"/>
+	<path d="M53.861,0H10.139l-6,40H4v24h56V40h-0.139L53.861,0z M11.861,2h40.277l5.7,38H6.161L11.861,2z M58,62H6V42h52V62z"/>
+	<path d="M48,56c2.206,0,4-1.794,4-4s-1.794-4-4-4s-4,1.794-4,4S45.794,56,48,56z M48,50c1.103,0,2,0.897,2,2s-0.897,2-2,2
+		s-2-0.897-2-2S46.897,50,48,50z"/>
+	<polygon points="33,28.586 33,11 31,11 31,28.586 24.707,22.293 23.293,23.854 31.293,32 32.707,32 40.707,23.854 39.293,22.366 	
+		"/>
 </g>
 </svg>

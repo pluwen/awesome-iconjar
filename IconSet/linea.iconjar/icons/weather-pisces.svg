@@ -3,7 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M54,0c0,0-10,16-10,32s10,32,10,32"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M10,64c0,0,10-16,10-32S10,0,10,0"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="7" y1="32" x2="57" y2="32"/>
+<g>
+	<path d="M54.848,0.53L53.152-0.53C52.746,0.119,43.406,15.252,43.019,31H20.981C20.594,15.252,11.254,0.119,10.848-0.53L9.152,0.53
+		C9.249,0.684,18.58,15.797,18.981,31H7v2h11.981C18.58,48.188,9.249,63.316,9.152,63.47l1.696,1.061
+		c0.406-0.649,9.746-15.782,10.133-31.53h22.037c0.387,15.748,9.728,30.881,10.133,31.53l1.696-1.061
+		C54.751,63.316,45.42,48.203,45.019,33H57v-2H45.019C45.42,15.812,54.751,0.684,54.848,0.53z"/>
+</g>
 </svg>

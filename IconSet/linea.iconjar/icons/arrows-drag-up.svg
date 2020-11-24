@@ -4,9 +4,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="33" x2="32" y2="1"/>
+	<path d="M33,32.051V3.414l7.293,7.293l1.414-1.561l-9-9.146h-1.414l-9,9.146l1.414,1.487L31,3.414v28.637
+		C22.644,32.571,16,39.516,16,48c0,8.822,7.178,16,16,16s16-7.178,16-16C48,39.516,41.356,32.571,33,32.051z M32,62
+		c-7.72,0-14-6.28-14-14s6.28-14,14-14s14,6.28,14,14S39.72,62,32,62z"/>
 </g>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="48" r="15"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="41,10 32,1 23,10 
-	"/>
 </svg>

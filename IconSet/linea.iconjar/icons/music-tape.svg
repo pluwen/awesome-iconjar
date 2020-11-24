@@ -3,10 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect x="1" y="11" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="62" height="42"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="16" cy="31" r="6"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="48" cy="31" r="6"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="57,53 54,43 32,43 10,43 7,53 "/>
-<rect x="5" y="15" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="55" height="4"/>
-<rect x="26" y="28" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="12" height="6"/>
+<g>
+	<path d="M0,54h64V10H0V54z M8.344,52l2.4-8h42.512l2.4,8H8.344z M2,12h60v40h-4.256l-3-10H9.256l-3,10H2V12z"/>
+	<path d="M16,24c-3.859,0-7,3.14-7,7s3.141,7,7,7s7-3.14,7-7S19.859,24,16,24z M16,36c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5
+		S18.757,36,16,36z"/>
+	<path d="M48,24c-3.859,0-7,3.14-7,7s3.141,7,7,7s7-3.14,7-7S51.859,24,48,24z M48,36c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5
+		S50.757,36,48,36z"/>
+	<path d="M61,14H4v6h57V14z M59,18H6v-2h53V18z"/>
+	<path d="M25,35h14v-8H25V35z M27,29h10v4H27V29z"/>
+</g>
 </svg>

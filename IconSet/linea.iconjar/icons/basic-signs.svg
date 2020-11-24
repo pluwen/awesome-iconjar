@@ -3,10 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="55,24 22,24 22,12 55,12 62,18 "/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="9,28 42,28 42,40 9,40 2,34 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="40" x2="32" y2="64"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="28" x2="32" y2="24"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="12" x2="32" y2="7"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="24" y1="63" x2="40" y2="63"/>
+<g>
+	<path d="M31,41v21h-7v2h7h2h7v-2h-7V41h10V27H33v-2h22.37l8.166-7l-8.166-7H33V7h-2v4H21v14h10v2H8.63l-8.166,7l8.166,7H31z M23,13
+		h31.63l5.834,5l-5.834,5H23V13z M9.37,29H41v10H9.37l-5.834-5L9.37,29z"/>
+</g>
 </svg>

@@ -4,7 +4,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="22" cy="55" r="8"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="30,55 30,7 50,1 50,15 30,21 	"/>
+	<path d="M31,55V21.744l20-6V-0.344l-22,6.6v43.1C27.349,47.312,24.826,46,22,46c-4.962,0-9,4.038-9,9s4.038,9,9,9S31,59.962,31,55z
+		 M31,7.744l18-5.4v11.912l-18,5.4V7.744z M15,55c0-3.86,3.14-7,7-7s7,3.14,7,7s-3.14,7-7,7S15,58.86,15,55z"/>
 </g>
 </svg>

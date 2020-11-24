@@ -3,8 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="25" cy="39" r="24"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="63" y1="1" x2="42" y2="22"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="45,1 63,1 63,19 
-	"/>
+<g>
+	<path d="M45,0v2h15.586L41.945,20.641C37.487,16.522,31.533,14,25,14C11.215,14,0,25.215,0,39s11.215,25,25,25s25-11.215,25-25
+		c0-6.533-2.522-12.487-6.641-16.945L62,3.414V19h2V1l-1-1H45z M25,62C12.317,62,2,51.683,2,39s10.317-23,23-23s23,10.317,23,23
+		S37.683,62,25,62z"/>
+</g>
 </svg>

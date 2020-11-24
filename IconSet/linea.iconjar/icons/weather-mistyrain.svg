@@ -3,21 +3,25 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M55,40c4.565,0,8-3.435,8-8c0-4.565-3.435-9-8-9
-	c0-11.414-9.586-20-21-20C23.898,3,14.8,9.423,13,19c0,0-1.165,0-2,0C5.292,19,1,24.292,1,30s4.292,10,10,10H55z"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="17" y1="59" x2="16" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="7" y1="59" x2="6" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="27" y1="59" x2="26" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="37" y1="59" x2="36" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="47" y1="59" x2="46" y2="61"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="24" y1="52" x2="23" y2="54"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="14" y1="52" x2="13" y2="54"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="34" y1="52" x2="33" y2="54"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="44" y1="52" x2="43" y2="54"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="54" y1="52" x2="53" y2="54"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="19" y1="44" x2="18" y2="46"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="9" y1="44" x2="8" y2="46"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="29" y1="44" x2="28" y2="46"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="39" y1="44" x2="38" y2="46"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49" y1="44" x2="48" y2="46"/>
+<g>
+	<path d="M55.979,22.058C55.48,10.736,46.006,2,34,2C23.401,2,14.37,8.68,12.189,18H11C5.038,18,0,23.495,0,30
+		c0,6.271,4.729,11,11,11h44c5.131,0,9-3.869,9-9C64,27.47,60.818,22.639,55.979,22.058z M55,39H11c-5.131,0-9-3.869-9-9
+		c0-5.42,4.122-10,9-10h2.83l0.153-0.815C15.637,10.386,24.055,4,34,4c11.215,0,20,8.346,20,19v1h1c4.125,0,7,4.216,7,8
+		C62,35.991,58.991,39,55,39z"/>
+	<rect x="15.5" y="58.882" transform="matrix(-0.8944 -0.4472 0.4472 -0.8944 4.4252 121.0447)" width="2" height="2.236"/>
+	<rect x="5.5" y="58.882" transform="matrix(-0.8944 -0.4472 0.4472 -0.8944 -14.519 116.5725)" width="2" height="2.236"/>
+	<rect x="25.5" y="58.882" transform="matrix(-0.8944 -0.4472 0.4472 -0.8944 23.3695 125.5168)" width="2" height="2.236"/>
+	<rect x="35.5" y="58.882" transform="matrix(-0.8944 -0.4472 0.4472 -0.8944 42.3138 129.9889)" width="2" height="2.236"/>
+	<rect x="45.5" y="58.882" transform="matrix(-0.8944 -0.4472 0.4472 -0.8944 61.2581 134.4611)" width="2" height="2.236"/>
+	<rect x="22.382" y="52" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -34.4142 50.3167)" width="2.236" height="2"/>
+	<rect x="12.5" y="51.882" transform="matrix(0.8944 0.4472 -0.4472 0.8944 25.1276 -0.442)" width="2" height="2.236"/>
+	<rect x="32.382" y="52" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -28.8863 59.261)" width="2.236" height="2"/>
+	<rect x="42.382" y="52" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -23.3584 68.2053)" width="2.236" height="2"/>
+	<rect x="52.382" y="52" transform="matrix(0.4472 -0.8944 0.8944 0.4472 -17.8306 77.1495)" width="2.236" height="2"/>
+	<rect x="17.5" y="43.882" transform="matrix(0.8944 0.4472 -0.4472 0.8944 22.0777 -3.5227)" width="2" height="2.236"/>
+	<rect x="7.5" y="43.882" transform="matrix(0.8944 0.4472 -0.4472 0.8944 21.022 0.9495)" width="2" height="2.236"/>
+	<rect x="27.5" y="43.882" transform="matrix(0.8944 0.4472 -0.4472 0.8944 23.1334 -7.9948)" width="2" height="2.236"/>
+	<rect x="37.5" y="43.882" transform="matrix(0.8944 0.4472 -0.4472 0.8944 24.1892 -12.4669)" width="2" height="2.236"/>
+	<rect x="47.5" y="43.882" transform="matrix(0.8944 0.4472 -0.4472 0.8944 25.2449 -16.9391)" width="2" height="2.236"/>
+</g>
 </svg>

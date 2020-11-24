@@ -3,10 +3,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="26"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,20 32,32 40,36 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="21.995" y1="56.005" x2="15" y2="63"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49" y1="63" x2="42.005" y2="56.005"/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,8 5,4 15,6 3,18 "/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="59,4 63,8 61,18 49,6 "/>
+<g>
+	<path d="M59,32C59,17.112,46.888,5,32,5S5,17.112,5,32c0,10.687,6.241,19.942,15.271,24.315l-5.978,5.978l1.414,1.414l6.538-6.538
+		C25.273,58.347,28.561,59,32,59s6.727-0.653,9.755-1.831l6.538,6.538l1.414-1.414l-5.978-5.978C52.759,51.942,59,42.687,59,32z
+		 M32,57C18.215,57,7,45.785,7,32S18.215,7,32,7s25,11.215,25,25S45.785,57,32,57z"/>
+	<polygon points="33,20 31,20 31,32.618 39.553,36.895 40.447,35.105 33,31.382 	"/>
+	<path d="M-0.086,7.671l2.472,12.357L17.028,5.386L4.671,2.915L-0.086,7.671z M12.972,6.614l-9.357,9.357L2.086,8.329l3.243-3.243
+		L12.972,6.614z"/>
+	<path d="M46.972,5.386l14.643,14.643l2.472-12.357l-4.757-4.757L46.972,5.386z M60.386,15.972l-9.357-9.357l7.643-1.529
+		l3.243,3.243L60.386,15.972z"/>
+</g>
 </svg>

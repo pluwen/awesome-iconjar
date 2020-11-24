@@ -4,13 +4,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="29" cy="19" r="6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="33" y1="23" x2="41" y2="31"/>
-</g>
-<g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,26 32,45.434 63,26 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11.334,21.667 1,26 1,63 63,63 63,26 
-		63,26 52.666,21.667 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11,32 11,1 53,1 53,32 	"/>
+	<path d="M29,26c1.57,0,3.016-0.526,4.185-1.401l7.108,7.108l1.414-1.414l-7.108-7.108C35.474,22.016,36,20.57,36,19
+		c0-3.86-3.14-7-7-7s-7,3.14-7,7S25.14,26,29,26z M29,14c2.757,0,5,2.243,5,5s-2.243,5-5,5s-5-2.243-5-5S26.243,14,29,14z"/>
+	<path d="M54,0H10v21.142L0,25.335V64h64V25.335l-10-4.193V0z M52,2v29.716L32,44.253L12,31.716V2H52z M10,30.462l-6.835-4.285
+		L10,23.311V30.462z M2,62V27.807l30,18.807l30-18.807V62H2z M60.835,26.177L54,30.462v-7.151L60.835,26.177z"/>
 </g>
 </svg>

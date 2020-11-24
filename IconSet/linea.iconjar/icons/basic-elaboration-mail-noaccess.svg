@@ -3,12 +3,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="22" r="9"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="25.834" y1="15.834" x2="38.166" y2="28.166"/>
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,26 32,45.434 63,26 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11.334,21.667 1,26 1,63 63,63 63,26 
-		63,26 52.666,21.667 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11,32 11,1 53,1 53,32 	"/>
+	<path d="M31.998,32H32c5.514,0,10-4.486,10-10c0-2.671-1.039-5.183-2.928-7.072C37.184,13.04,34.673,12,31.998,12
+		c-2.671,0-5.182,1.04-7.071,2.929C23.039,16.817,22,19.329,22,22c0,2.671,1.039,5.182,2.927,7.071
+		C26.815,30.96,29.327,32,31.998,32z M32.002,14c2.137,0,4.146,0.832,5.656,2.342C39.168,17.853,40,19.862,40,22
+		c0,1.846-0.635,3.542-1.688,4.897L27.098,15.684C28.495,14.596,30.2,14,32.002,14z M25.684,17.098l11.213,11.213
+		C35.542,29.365,33.844,30,31.998,30c-2.137,0-4.146-0.832-5.656-2.343C24.831,26.146,24,24.137,24,22
+		C24,20.2,24.596,18.495,25.684,17.098z"/>
+	<path d="M54,0H10v21.142L0,25.335V64h64V25.335l-10-4.193V0z M52,2v29.716L32,44.253L12,31.716V2H52z M10,30.462l-6.835-4.285
+		L10,23.311V30.462z M2,62V27.807l30,18.807l30-18.807V62H2z M60.835,26.177L54,30.462v-7.151L60.835,26.177z"/>
 </g>
 </svg>

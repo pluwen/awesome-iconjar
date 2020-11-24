@@ -3,11 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="55,40 63,32 
-	55,24 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="9,24 1,32 9,40 
-	"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="2,32 11.677,32 26,32 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="38,32 41.677,32 62,32 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="21" x2="32" y2="43"/>
+<g>
+	<polygon points="54.293,24.707 60.586,31 38,31 38,33 60.586,33 54.293,39.293 55.854,40.707 64,32.707 64,31.293 55.854,23.293 	
+		"/>
+	<polygon points="9.707,24.707 8.146,23.293 0,31.293 0,32.707 8.146,40.707 9.634,39.293 3.414,33 26,33 26,31 3.414,31 	"/>
+	<rect x="31" y="21" width="2" height="22"/>
+</g>
 </svg>

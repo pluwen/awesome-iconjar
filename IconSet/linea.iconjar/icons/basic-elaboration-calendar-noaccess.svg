@@ -4,12 +4,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="46" y1="10" x2="18" y2="10"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="12,10 1,10 1,58 63,58 63,10 52,10 	"/>
-	<rect x="12" y="6" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="6" height="8"/>
-	<rect x="46" y="6" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="6" height="8"/>
+	<path d="M53,5h-8v4H19V5h-8v4H0v50h64V9H53V5z M47,7h4v6h-4V7z M13,7h4v6h-4V7z M2,57V19h60v38H2z M62,11v6H2v-6h9v4h8v-4h26v4h8
+		v-4H62z"/>
+	<path d="M31.998,28c-2.671,0-5.182,1.04-7.071,2.929C23.039,32.817,22,35.329,22,38c0,2.671,1.039,5.183,2.927,7.071
+		S29.327,48,31.998,48H32c5.514,0,10-4.486,10-10c0-2.672-1.039-5.184-2.928-7.071C37.184,29.04,34.673,28,31.998,28z M31.998,46
+		c-2.137,0-4.146-0.832-5.656-2.343C24.831,42.146,24,40.137,24,38c0-1.8,0.596-3.505,1.684-4.902l11.213,11.214
+		C35.542,45.365,33.844,46,31.998,46z M38.312,42.897L27.098,31.685C28.495,30.596,30.2,30,32.002,30
+		c2.137,0,4.146,0.832,5.656,2.343C39.168,33.854,40,35.862,40,38C40,39.846,39.365,41.542,38.312,42.897z"/>
 </g>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="38" r="9"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="25.834" y1="31.834" x2="38.166" y2="44.166"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="18" x2="63" y2="18"/>
 </svg>

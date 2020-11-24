@@ -3,13 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect x="11" y="1" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="42" height="62"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="41" y1="1" x2="41" y2="62"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="16" x2="7" y2="16"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="8" x2="7" y2="8"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="24" x2="7" y2="24"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="32" x2="7" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="40" x2="7" y2="40"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="48" x2="7" y2="48"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="15" y1="56" x2="7" y2="56"/>
+<g>
+	<path d="M54,64V0H10v7H7v2h3v6H7v2h3v6H7v2h3v6H7v2h3v6H7v2h3v6H7v2h3v6H7v2h3v7H54z M52,62H42V2h10V62z M12,49h3v-2h-3v-6h3v-2h-3
+		v-6h3v-2h-3v-6h3v-2h-3v-6h3v-2h-3V9h3V7h-3V2h28v60H12v-5h3v-2h-3V49z"/>
+</g>
 </svg>

@@ -3,9 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M11,53C5.477,53,1,48.523,1,43s4.477-10,10-10h2v20
-	H11z"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M53,33c5.523,0,10,4.477,10,10s-4.477,10-10,10h-2
-	V33H53z"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M13,36v-9c0,0,0-16,19-16s19,16,19,16v6"/>
+<g>
+	<path d="M53,32h-1v-5c0-0.17-0.229-17-20-17S12,26.83,12,27v5h-1C4.935,32,0,36.935,0,43s4.935,11,11,11h3V36v-4v-5
+		c0-0.612,0.205-15,18-15c17.739,0,17.998,14.389,18,15v5v1v21h3c6.065,0,11-4.935,11-11S59.065,32,53,32z M12,52h-1
+		c-4.963,0-9-4.038-9-9s4.037-9,9-9h1v2V52z M53,52h-1V34h1c4.963,0,9,4.038,9,9S57.963,52,53,52z"/>
+</g>
 </svg>

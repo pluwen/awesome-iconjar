@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="36,43 21,1 20,1 5,43 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="31" y1="29" x2="10" y2="29"/>
-</g>
-<g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="59,31 51,8 50,8 42,31 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="57" y1="24" x2="44" y2="24"/>
-</g>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="38" y1="47" x2="2" y2="47"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="62" y1="35" x2="40" y2="35"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="58,47 51,40 
-	44,47 "/>
-<g>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="51" y1="64" x2="51" y2="40"/>
+	<path d="M30.295,30l4.763,13.336l1.884-0.672L21.705,0h-2.409L4.058,42.664l1.884,0.672L10.705,30H30.295z M20.5,2.573L29.581,28
+		H11.419L20.5,2.573z"/>
+	<path d="M49.289,7l-8.233,23.672l1.889,0.656L45.146,25h10.709l2.201,6.328l1.889-0.656L51.711,7H49.289z M45.841,23L50.5,9.606
+		L55.159,23H45.841z"/>
+	<rect x="2" y="46" width="36" height="2"/>
+	<rect x="40" y="34" width="22" height="2"/>
+	<polygon points="52,64 52,42.414 57.293,47.707 58.707,46.146 51.707,39 50.293,39 43.293,46.146 44.707,47.634 50,42.414 50,64 	
+		"/>
 </g>
 </svg>

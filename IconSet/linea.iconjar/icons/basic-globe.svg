@@ -3,9 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32,1c14.359,0,27,12.641,27,27S46.359,55,32,55
-	c-10,0-13-4-13-4"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="28" r="20"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="54" x2="32" y2="64"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="63" x2="42" y2="63"/>
+<g>
+	<path d="M58,28c0,13.851-12.149,26-26,26c-9.265,0-12.178-3.573-12.2-3.6l-1.6,1.2c0.13,0.174,3.223,4.11,12.8,4.375V62h-9v2h9h2h9
+		v-2h-9v-6.027C47.495,55.404,60,42.581,60,28C60,13.084,46.916,0,32,0v2C45.851,2,58,14.149,58,28z"/>
+	<path d="M32,49c11.58,0,21-9.42,21-21S43.58,7,32,7s-21,9.42-21,21S20.42,49,32,49z M32,9c10.477,0,19,8.523,19,19s-8.523,19-19,19
+		s-19-8.523-19-19S21.523,9,32,9z"/>
+</g>
 </svg>

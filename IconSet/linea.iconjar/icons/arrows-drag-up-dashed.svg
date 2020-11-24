@@ -4,10 +4,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" x1="32" y1="33" x2="32" y2="1"/>
+	<rect x="31" y="17" width="2" height="4"/>
+	<rect x="31" y="5" width="2" height="4"/>
+	<rect x="31" y="11" width="2" height="4"/>
+	<rect x="31" y="23" width="2" height="4"/>
+	<path d="M16,48c0,8.822,7.178,16,16,16s16-7.178,16-16c0-8.484-6.644-15.429-15-15.949V29h-2v3.051C22.644,32.571,16,39.516,16,48z
+		 M32,34c7.72,0,14,6.28,14,14s-6.28,14-14,14s-14-6.28-14-14S24.28,34,32,34z"/>
+	<polygon points="40.293,10.707 41.707,9.146 32.707,0 31.293,0 22.293,9.146 23.707,10.634 31.414,3 32.586,3 	"/>
 </g>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="48" r="15"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="41,10 32,1 23,10 
-	"/>
 </svg>
