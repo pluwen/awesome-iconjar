@@ -33,7 +33,6 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Ionicons](https://github.com/driftyco/ionicons) | 696 | v4 |
 | [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2019-12-03 |
 | [Linea](http://linea.io) | 715 | v1.0 |
-| [Material Design](https://github.com/google/material-design-icons) | 1956 | v2.2 |
 | [Material Icons Library](https://icons.pixsellz.io/) | 3129 |
 | [Metrize Icons](http://www.alessioatzeni.com/metrize-icons) | 300 | v1.0 |
 | [MFGLabs iconset](https://github.com/MfgLabs/mfglabs-iconset) | 190 |
