@@ -12,7 +12,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Bigmug](#) | 418 |
 | [Bootstrap Icons](https://github.com/twbs/icons) | 1152 | 1.1.0 | 2020-10-29 | 2020-11-24 | MIT |
 | [BoxIcons](https://github.com/atisawd/boxicons) | 1500 | 2.0.7 | 2020-10-23 | 2020-11-24 | CC 4.0 |
-| [Brandico](https://github.com/fontello/brandico.font) | 45 | | 2016-10-21 | 2019-11-19 |
+| [Brandico](https://github.com/fontello/brandico.font) | 45 | | 2016-10-21 | 2020-11-24 | CC BY |
 | [Bubble icons](#) | 48 |
 | [Bytesize](#) | 84 |
 | [Camcons](#) | 236 |
