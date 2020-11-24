@@ -11,7 +11,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Bicon](http://bicon.lab.themebucket.net) | 250 | | 2017-04-25 | 2019-10-24 |
 | [Bigmug](#) | 418 |
 | [Bootstrap Icons](https://github.com/twbs/icons) | 1152 | 1.1.0 | 2020-10-29 | 2020-11-24 | MIT |
-| [BoxIcons](https://github.com/atisawd/boxicons) | 1462 | 2.0.5 | 2020-02-15 | 2020-02-15 |
+| [BoxIcons](https://github.com/atisawd/boxicons) | 1500 | 2.0.7 | 2020-10-23 | 2020-11-24 | CC 4.0 |
 | [Brandico](https://github.com/fontello/brandico.font) | 45 | | 2016-10-21 | 2019-11-19 |
 | [Bubble icons](#) | 48 |
 | [Bytesize](#) | 84 |
