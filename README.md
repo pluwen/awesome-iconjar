@@ -30,7 +30,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [FontAwesome5](https://fontawesome.com) | 1503 | v5.7.1 |
 | [Fontelico](https://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 |
 | [Heroicons](https://github.com/tailwindlabs/heroicons) | 452 | 0.4.2 | 2020-09-02 | 2020-11-24 | MIT |
-| [Ionicons](https://github.com/driftyco/ionicons) | 696 | v4 |
+| [Ionicons](https://github.com/ionic-team/ionicons) | 1300 | v5.2.3 | 2020-10-08 | 2020-11-24 | MIT |
 | [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2020-11-24 | MIT or Good Boy |
 | [Linea](http://linea.io) | 1814 | v1.0 | 2020-03 | 2020-11-24 |
 | [Material Icons Library](https://icons.pixsellz.io/) | 3129 |
