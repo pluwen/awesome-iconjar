@@ -17,7 +17,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Bytesize](#) | 84 |
 | [Camcons](#) | 236 |
 | [Creative day icons](#) | 20 |
-| [css.gg](https://github.com/astrit/css.gg) | 704 | 2.0 | 2020-04-23 | 2020-05-28 |
+| [css.gg](https://github.com/astrit/css.gg) | 704 | 2.0 | 2020-04-23 | 2020-11-24 | MIT |
 | [Ego icons Free](http://www.ego-icons.com) | 100 |
 | [Eleganticons](https://github.com/josephnle/elegant-icons) | 360 |
 | [Elusive Icons](https://github.com/reduxframework/elusive-icons) | 304 | 2.0 | 2015-02-20 | 2019-11-19 |
