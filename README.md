@@ -31,7 +31,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Fontelico](https://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 |
 | [Heroicons](https://github.com/tailwindlabs/heroicons) | 452 | 0.4.2 | 2020-09-02 | 2021-03-25 | MIT |
 | [Ionicons](https://github.com/ionic-team/ionicons) | 1332 | v5.5.1 | 2021-03-23 | 2021-03-25 | MIT |
-| [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2020-11-24 | MIT or Good Boy |
+| [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2021-03-25 | MIT or Good Boy |
 | [Linea](http://linea.io) | 1814 | v1.0 | 2020-03 | 2020-11-24 |
 | [Material Icons Library](https://icons.pixsellz.io/) | 3129 |
 | [Metrize Icons](http://www.alessioatzeni.com/metrize-icons) | 300 | v1.0 |
@@ -42,8 +42,8 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Open Iconic](https://github.com/iconic/open-iconic) | 223 | v1.1.1 | 2014-07-02 |
 | [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke) | 202 | v1.2.0 | 2014-11-28 |
 | [Picons basic sample](#) | 70 |
-| [Remix Icon](https://github.com/Remix-Design/RemixIcon) | 2271 | v2.5.0 | 2020-05-23 | 2020-11-24 | Apache-2.0 |
-| [Simple Icons](https://github.com/simple-icons/simple-icons) | 1464 | v3.13.0 | 2020-11-22 | 2020-11-24 | CC0-1.0 |
+| [Remix Icon](https://github.com/Remix-Design/RemixIcon) | 2271 | v2.5.0 | 2020-05-23 | 2021-03-25 | Apache-2.0 |
+| [Simple Icons](https://github.com/simple-icons/simple-icons) | 1872 | v4.16.0 | 2021-03-21 | 2021-03-25 | CC0-1.0 |
 | [Streamline free](https://streamlineicons.com) | 300 | v3.0 | 2018-06-07 |
 | [Tabler Icons](https://github.com/tabler/tabler-icons) | 958 | v1.36.0 | 2020-11-14 | 2020-11-24 | MIT |
 | [Those icons social media](https://thoseicons.com/freebies) | 128 |
