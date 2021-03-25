@@ -10,7 +10,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Apple Icons](http://www.webalys.com) | 60 |
 | [Bicon](http://bicon.lab.themebucket.net) | 250 | | 2017-04-25 | 2019-10-24 |
 | [Bigmug](#) | 418 |
-| [Bootstrap Icons](https://github.com/twbs/icons) | 1152 | 1.1.0 | 2020-10-29 | 2020-11-24 | MIT |
+| [Bootstrap Icons](https://github.com/twbs/icons) | 1326 | 1.4.0 | 2021-02-23 | 2021-03-25 | MIT |
 | [BoxIcons](https://github.com/atisawd/boxicons) | 1500 | 2.0.7 | 2020-10-23 | 2020-11-24 | CC 4.0 |
 | [Brandico](https://github.com/fontello/brandico.font) | 45 | | 2016-10-21 | 2020-11-24 | CC BY |
 | [Bubble icons](#) | 48 |
