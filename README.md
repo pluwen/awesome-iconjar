@@ -27,7 +27,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Evericons](http://www.evericons.com) | 521 | 1.1 |
 | [Feather](https://github.com/feathericons/feather) | 286 | v4.28.0 | 2020-04-05 | 2021-03-25 | MIT |
 | [FontAwesome](https://github.com/FortAwesome/Font-Awesome) | 675 | v4.7 |
-| [FontAwesome5](https://fontawesome.com) | 1503 | v5.7.1 |
+| [FontAwesome5](https://fontawesome.com) | 1612 | v5.15.3 | 2021-03-16 | 2021-06-04 |
 | [Fontelico](https://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 |
 | [Heroicons](https://github.com/tailwindlabs/heroicons) | 452 | 0.4.2 | 2020-09-02 | 2021-03-25 | MIT |
 | [Ionicons](https://github.com/ionic-team/ionicons) | 1332 | v5.5.1 | 2021-03-23 | 2021-03-25 | MIT |
