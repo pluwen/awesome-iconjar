@@ -1,5 +1,5 @@
-# awesome-iconjar
-Free IconSet collection for [IconJar](https://geticonjar.com/).
+# AWESOME IconJar IconSet Collection
+Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to create an PR if you find any cool IconSet.
 
 ## IconSet Included
 
