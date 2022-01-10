@@ -51,7 +51,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/).
 | [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 | 2017-05-25 |
 
 ## Download
-* Click [Download](https://github.com/pluwen/awesome-iconjar/archive/master.zip) and unzip
+* Click [Download](https://github.com/pluwen/awesome-iconjar/archive/main.zip) and unzip
 
 ## Contributors
 * Author by [Pluwen](https://twitter.com/pluwen)
