@@ -25,7 +25,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 | [Essential icons](#) | 77 |
 | [Eva Icons](https://github.com/akveo/eva-icons) | 490 | 1.1.3 | 2020-03-02 | 2021-03-25 | MIT |
 | [Evericons](http://www.evericons.com) | 521 | 1.1 |
-| [Feather](https://github.com/feathericons/feather) | 286 | v4.28.0 | 2020-04-05 | 2021-03-25 | MIT |
+| [Feather](https://github.com/feathericons/feather) | 287 | v4.29.0 | 2022-03-29 | 2022-03-30 | MIT |
 | [FontAwesome](https://github.com/FortAwesome/Font-Awesome) | 675 | v4.7 |
 | [FontAwesome5](https://fontawesome.com) | 1612 | v5.15.3 | 2021-03-16 | 2021-06-04 |
 | [Fontelico](https://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 |
