@@ -24,9 +24,9 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 | [Elusive Icons](https://github.com/reduxframework/elusive-icons) | 304 | 2.0 | 2015-02-20 | 2019-11-19 | |
 | [Entypo](http://www.entypo.com) | 411 | v2.0 | | | |
 | [Essential icons](#) | 77 | | | | |
-| [Eva Icons](https://github.com/akveo/eva-icons) | 490 | 1.1.3 | 2020-03-02 | 2021-03-25 | MIT |
+| [Eva Icons](https://github.com/akveo/eva-icons) | 490 | 1.1.3 | 2020-03-02 | 2024-05-13 | MIT |
 | [Evericons](http://www.evericons.com) | 521 | 1.1 | | | |
-| [Feather](https://github.com/feathericons/feather) | 287 | v4.29.0 | 2022-03-29 | 2022-03-30 | MIT |
+| [Feather](https://github.com/feathericons/feather) | 287 | v4.29.2 | 2024-05-01 | 2024-05-13 | MIT |
 | [FontAwesome](https://github.com/FortAwesome/Font-Awesome) | 675 | v4.7 | | | |
 | [FontAwesome5](https://fontawesome.com) | 1612 | v5.15.3 | 2021-03-16 | 2021-06-04 | |
 | [Fontelico](https://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 | |
