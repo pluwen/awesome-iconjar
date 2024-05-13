@@ -11,7 +11,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 | [Apple Icons](http://www.webalys.com) | 60 | | | | |
 | [Bicon](http://bicon.lab.themebucket.net) | 250 | | 2017-04-25 | 2019-10-24 | |
 | [Bigmug](#) | 418 | | | | |
-| [Bootstrap Icons](https://github.com/twbs/icons) | 1326 | 1.4.0 | 2021-02-23 | 2021-03-25 | MIT |
+| [Bootstrap Icons](https://github.com/twbs/icons) | 2051 | 1.11.3 | 2024-01-03 | 2024-05-13 | MIT |
 | [BoxIcons](https://github.com/atisawd/boxicons) | 1578 | 2.1.1 | 2021-12-04 | 2021-12-06 | CC 4.0 |
 | [Brandico](https://github.com/fontello/brandico.font) | 45 | | 2016-10-21 | 2020-11-24 | CC BY |
 | [Bubble icons](#) | 48 | | | | |
