@@ -43,7 +43,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 | [Open Iconic](https://github.com/iconic/open-iconic) | 223 | v1.1.1 | 2014-07-02 |
 | [Pe-icon-7-stroke](http://themes-pixeden.com/font-demos/7-stroke) | 202 | v1.2.0 | 2014-11-28 |
 | [Picons basic sample](#) | 70 |
-| [Remix Icon](https://github.com/Remix-Design/RemixIcon) | 2271 | v2.5.0 | 2020-05-23 | 2021-03-25 | Apache-2.0 |
+| [Remix Icon](https://github.com/Remix-Design/RemixIcon) | 2860 | v4.2.0 | 2024-02-25 | 2024-05-13 | Apache-2.0 |
 | [Simple Icons](https://github.com/simple-icons/simple-icons) | 3116 | v11.12.0 | 2024-04-07 | 2024-04-14 | CC0-1.0 |
 | [Streamline free](https://streamlineicons.com) | 300 | v3.0 | 2018-06-07 |
 | [Tabler Icons](https://github.com/tabler/tabler-icons) | 1262 | v1.39.1 | 2021-01-21 | 2021-03-25 | MIT |
