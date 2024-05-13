@@ -47,7 +47,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 | [Remix Icon](https://github.com/Remix-Design/RemixIcon) | 2860 | v4.2.0 | 2024-02-25 | 2024-05-13 | Apache-2.0 |
 | [Simple Icons](https://github.com/simple-icons/simple-icons) | 3116 | v11.12.0 | 2024-04-07 | 2024-04-14 | CC0-1.0 |
 | [Streamline free](https://streamlineicons.com) | 300 | v3.0 | 2018-06-07 | | |
-| [Tabler Icons](https://github.com/tabler/tabler-icons) | 1262 | v1.39.1 | 2021-01-21 | 2021-03-25 | MIT |
+| [Tabler Icons](https://github.com/tabler/tabler-icons) | 5253 | v3.3.0 | 2024-05-01 | 2024-05-13 | MIT |
 | [Those icons social media](https://thoseicons.com/freebies) | 128 | | | | |
 | [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 | 2017-05-25 | | |
 
