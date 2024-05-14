@@ -35,7 +35,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 | [Ionicons](https://github.com/ionic-team/ionicons) | 1356 | v7.4.0 | 2024-05-02 | 2024-05-13 | MIT |
 | [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2021-03-25 | MIT or Good Boy |
 | [Linea](http://linea.io) | 1814 | v1.0 | 2020-03 | 2020-11-24 | |
-| [Lucide](https://lucide.dev) | 1460 | v0.378.0 | 2024-05-03 | 2024-05-14 | ISC |
+| [Lucide](https://github.com/lucide-icons/lucide) | 1460 | v0.378.0 | 2024-05-03 | 2024-05-14 | ISC |
 | [Material Icons Library](https://icons.pixsellz.io/) | 3129 | | | | |
 | [Metrize Icons](http://www.alessioatzeni.com/metrize-icons) | 300 | v1.0 | | | |
 | [MFGLabs iconset](https://github.com/MfgLabs/mfglabs-iconset) | 190 | | | | |
