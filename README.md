@@ -60,3 +60,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 ## Contributors
 
 * Author by [Pluwen](https://twitter.com/pluwen)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/awesome-iconjar&type=Date)](https://www.star-history.com/#pluwen/awesome-iconjar&Date)
