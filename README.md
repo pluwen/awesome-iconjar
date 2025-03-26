@@ -31,7 +31,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 | [FontAwesome5](https://fontawesome.com) | 1612 | v5.15.3 | 2021-03-16 | 2021-06-04 | |
 | [FontAwesome6](https://fontawesome.com) | 2060 | v6.7.2 | 2024-12 | 2025-03-26 | |
 | [Fontelico](https://github.com/fontello/fontelico.font) | 34 |  | 2014-06-22 | 2019-11-19 | |
-| [Heroicons](https://github.com/tailwindlabs/heroicons) | 1176 | 2.1.3 | 2024-03-23 | 2024-05-13 | MIT |
+| [Heroicons](https://github.com/tailwindlabs/heroicons) | 1288 | 2.2.1 | 2024-11-18 | 2025-03-26 | MIT |
 | [iconoir](https://github.com/iconoir-icons/iconoir) | 1583 | v7.7.0 | 2024-04-25 | 2024-05-13 | MIT |
 | [Ionicons](https://github.com/ionic-team/ionicons) | 1356 | v7.4.0 | 2024-05-02 | 2024-05-13 | MIT |
 | [Line Awesome](https://github.com/icons8/line-awesome) | 1544 | v1.3.0 | 2019-11-21 | 2021-03-25 | MIT or Good Boy |
