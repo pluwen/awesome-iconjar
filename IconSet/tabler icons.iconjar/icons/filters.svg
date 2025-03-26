@@ -3,15 +3,11 @@
   width="24"
   height="24"
   viewBox="0 0 24 24"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
-  class="icon icon-tabler icons-tabler-outline icon-tabler-filters"
+  fill="currentColor"
+  class="icon icon-tabler icons-tabler-filled icon-tabler-filters"
 >
   <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M12 8m-5 0a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
-  <path d="M8 11a5 5 0 1 0 3.998 1.997" />
-  <path d="M12.002 19.003a5 5 0 1 0 3.998 -8.003" />
+  <path d="M19.396 11.056a6 6 0 0 1 -5.647 10.506q .206 -.21 .396 -.44a8 8 0 0 0 1.789 -6.155a8.02 8.02 0 0 0 3.462 -3.911" />
+  <path d="M4.609 11.051a7.99 7.99 0 0 0 9.386 4.698a6 6 0 1 1 -9.534 -4.594z" />
+  <path d="M12 2a6 6 0 1 1 -6 6l.004 -.225a6 6 0 0 1 5.996 -5.775" />
 </svg>

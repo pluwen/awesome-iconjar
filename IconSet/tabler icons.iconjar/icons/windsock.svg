@@ -3,17 +3,9 @@
   width="24"
   height="24"
   viewBox="0 0 24 24"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
-  class="icon icon-tabler icons-tabler-outline icon-tabler-windsock"
+  fill="currentColor"
+  class="icon icon-tabler icons-tabler-filled icon-tabler-windsock"
 >
   <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M6 3v18" />
-  <path d="M6 11l12 -1v-4l-12 -1" />
-  <path d="M10 5.5v5" />
-  <path d="M14 6v4" />
-  <path d="M4 21h4" />
+  <path d="M6 2a1 1 0 0 1 1 1v1.079l11.083 .924a1 1 0 0 1 .917 .997v4a1 1 0 0 1 -.917 .997l-11.083 .923v8.08h1a1 1 0 0 1 0 2h-4a1 1 0 0 1 0 -2h1v-17a1 1 0 0 1 1 -1m1 4.086v3.827l3 -.25v-3.327zm7 .584v2.659l3 -.25v-2.159z" />
 </svg>

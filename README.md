@@ -49,7 +49,7 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 | [Remix Icon](https://github.com/Remix-Design/RemixIcon) | 3058 | v4.6.0 | 2024-12-17 | 2025-03-26 | Apache-2.0 |
 | [Simple Icons](https://github.com/simple-icons/simple-icons) | 3278 | v14.11.1 | 2025-03-23 | 2025-03-26 | CC0-1.0 |
 | [Streamline free](https://streamlineicons.com) | 300 | v3.0 | 2018-06-07 | | |
-| [Tabler Icons](https://github.com/tabler/tabler-icons) | 5253 | v3.3.0 | 2024-05-01 | 2024-05-13 | MIT |
+| [Tabler Icons](https://github.com/tabler/tabler-icons) | 5880 | v3.31.0 | 2025-03-05 | 2025-03-26 | MIT |
 | [Those icons social media](https://thoseicons.com/freebies) | 128 | | | | |
 | [Typicons](https://github.com/stephenhutchings/typicons.font) | 336 | v2.0.8 | 2017-05-25 | | |
 

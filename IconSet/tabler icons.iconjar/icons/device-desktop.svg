@@ -3,16 +3,9 @@
   width="24"
   height="24"
   viewBox="0 0 24 24"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
-  class="icon icon-tabler icons-tabler-outline icon-tabler-device-desktop"
+  fill="currentColor"
+  class="icon icon-tabler icons-tabler-filled icon-tabler-device-desktop"
 >
   <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M3 5a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10z" />
-  <path d="M7 20h10" />
-  <path d="M9 16v4" />
-  <path d="M15 16v4" />
+  <path d="M7 21a1 1 0 0 1 0 -2h1v-2h-4a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-4v2h1a1 1 0 0 1 0 2zm7 -4h-4v2h4z" />
 </svg>
