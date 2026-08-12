@@ -63,4 +63,4 @@ Free IconSet collection for [IconJar](https://geticonjar.com/). Feel free to cre
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/awesome-iconjar&type=Date)](https://www.star-history.com/#pluwen/awesome-iconjar&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=pluwen/awesome-iconjar&type=Date)](https://star-history.dera.page/#pluwen/awesome-iconjar&Date)
